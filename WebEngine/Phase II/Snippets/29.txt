@@ -1,0 +1,636 @@
+Query:number-theoretic algorithms especially involving prime number series sieves and chinese remainder theorem
+
+Document:CACM-2644
+
+because of the large NUMBER of strategies 
+in automated THEOREM proving, there is a need for developing 
+a language ESPECIALLY oriented toward automated 
+THEOREM proving. this paper discusses some of the features 
+*********************************************************************
+Document:CACM-2200
+
+the division algorithm THEOREM is expressed 
+are considered. the binary form of the ALGORITHMS 
+form of the REMAINDER condition for complement 
+AND REMAINDER in complement form. ALGORITHMS 
+*********************************************************************
+Document:CACM-2229
+
+SERIES, poisson SERIES, fourier SERIES 
+SERIES expansion, SERIES inversion, root extraction, 
+SERIES, such as poisson SERIES or chebyshev SERIES. it 
+construction of rational AND negative powers of a formal SERIES 
+*********************************************************************
+Document:CACM-1840
+
+an efficient PRIME NUMBER generator (algorithm 357 [a1]) 
+PRIME numbers, factoring, NUMBER theory 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-1539
+
+PRIME NUMBER generator 1; PRIME NUMBER generator 
+2 (algorithm 35[a1]; algorithm 310[a1]; algorithm 
+311[a1]) 
+*********************************************************************
+Document:CACM-1841
+
+a PRIME NUMBER generator using the 
+PRIME numbers, NUMBER theory, sorting 
+treesort principle (algorithm 356 [a1]) 
+*********************************************************************
+Document:CACM-2927
+
+computational complexity, sieve, PRIME NUMBER generation, 
+some new upper bounds on the generation of PRIME numbers 
+INVOLVING space-time AND additive-multiplicative 
+NUMBER theory, linked list, preprocessing, 
+*********************************************************************
+Document:CACM-1933
+
+pseudo-random NUMBER, random NUMBER, modular arithmetic, 
+coding the lehmer pseudo-random NUMBER generator 
+NUMBER with produces 2**31 - 2 numbers, on a p-bit 
+PRIME factorization for 2**61 - 2 AND a primitive root 
+*********************************************************************
+Document:CACM-2089
+
+PRIME NUMBER (algorithm 310 $a1)) 
+PRIME numbers, generator 
+cacm march, 1970 
+*********************************************************************
+Document:CACM-3131
+
+ALGORITHMS ESPECIALLY useful for microcomputer control AND other 
+focus microcomputer NUMBER system 
+focus is a NUMBER system AND supporting computational 
+speed with hardware arithmetic for many applications. ALGORITHMS 
+*********************************************************************
+Document:CACM-2462
+
+an efficient PRIME NUMBER generator (algorithm r357) 
+cacm august, 1973 
+demorgan, r. m. 
+*********************************************************************
+Document:CACM-1538
+
+PRIME NUMBER generator 2 (algorithm 311 [a1]) 
+cacm september, 1967 
+chartres, b. a. 
+*********************************************************************
+Document:CACM-1537
+
+PRIME NUMBER generator 1 (algorithm 310 [a1]) 
+cacm september, 1967 
+chartres, b. a. 
+*********************************************************************
+Document:CACM-1420
+
+a new uniform pseudorandom NUMBER generator 
+NUMBER generator is discussed, in which the 
+modulus is the largest PRIME within accumulator capacity 
+PRIME. this generator passes the usual statistical 
+*********************************************************************
+Document:CACM-0804
+
+exponentiation of SERIES (ALGORITHMS 134) 
+cacm july, 1963 
+thacher jr., h. c. 
+*********************************************************************
+Document:CACM-1967
+
+NUMBER theory, PRIME numbers, complex numbers 
+an improved algorithm to produce complex primes (algorithm 401 $a1)) 
+cacm november, 1970 
+*********************************************************************
+Document:CACM-2770
+
+the quadratic hash method when the table size is not a PRIME NUMBER 
+is a PRIME NUMBER. here, certain results are derived for 
+previous work on quadratic hash methods is 
+*********************************************************************
+Document:CACM-1697
+
+it is limited to 4000 CHINESE characters AND some mathematical 
+AND output of CHINESE characters are included. 
+CHINESE characters, input/output, orthography, rand 
+graphical input/output of nonstandard characters 
+*********************************************************************
+Document:CACM-3021
+
+PRIME NUMBER, electronic mail, message-passing, 
+encrypted by representing it as a NUMBER m, raising 
+the REMAINDER when the result is divided by the publicly 
+specified product, n, of two large secret PRIME 
+*********************************************************************
+Document:CACM-1725
+
+THEOREM for associative memories 
+reduces considerably the NUMBER of memory accesses necessary 
+to retrieve in order a NUMBER of distinct 
+proves that the NUMBER of necessary memory accesses 
+*********************************************************************
+Document:CACM-0942
+
+fortran subroutines for time SERIES analysis 
+piece of applied statistical research, INVOLVING extensive 
+up almost completely from a small NUMBER of basic operations, 
+*********************************************************************
+Document:CACM-1874
+
+NUMBER, random NUMBER generator, multiplicative 
+two's complement arithmetic used in the ibm 360 SERIES. 
+INVOLVING absolute values is also shown to have twice 
+random NUMBER, uniform distribution, pseudo-random 
+*********************************************************************
+Document:CACM-2507
+
+representation, mixed radix conversion, PRIME NUMBER, 
+exact solution of linear equations using 
+residue arithmetic (algorithm r406) 
+*********************************************************************
+Document:CACM-2206
+
+representation, mixed-radix conversion, PRIME NUMBER, 
+exact solution of linear equations using 
+residue arithmetic [f4] (algorithm 406) 
+*********************************************************************
+Document:CACM-3037
+
+a linear sieve algorithm for finding PRIME numbers 
+it is also easily extended to find the PRIME 
+primes, ALGORITHMS, data structures 
+*********************************************************************
+Document:CACM-2167
+
+ALGORITHMS AND the NUMBER-THEORETIC conjectures on which 
+ALGORITHMS for certain classes of expressions are included. 
+algebraic simplification: a guide for the perplexed 
+*********************************************************************
+Document:CACM-2276
+
+AND speed, with some new ALGORITHMS. a NUMBER of procedures 
+convert taylor SERIES expansions directly 
+shorter ALGORITHMS AND faster but space consuming 
+computer methods for sampling from 
+*********************************************************************
+Document:CACM-2794
+
+state-space, problem-reduction, AND THEOREM proving-some relationships 
+by a resolution-based THEOREM prover determines whether 
+THEOREM proving, AND the terminology used to refer to them, 
+problem-reduction representation, THEOREM 
+*********************************************************************
+Document:CACM-2767
+
+a comparison of simulation event list ALGORITHMS 
+four ALGORITHMS are considered which can be used 
+simulation system. two of the ALGORITHMS are new, one 
+notices, AND another uses an indexed linear list. the ALGORITHMS 
+*********************************************************************
+Document:CACM-1679
+
+a fast fourier transform algorithm for real-valued SERIES 
+time SERIES. this procedure is described for an example 
+can be achieved when the SERIES is real. also discussed 
+fast fourier transform, time SERIES analysis, digital 
+*********************************************************************
+Document:CACM-2031
+
+of storage locations are linear in n. a THEOREM of lame that gives a bound 
+for the NUMBER of iterations of the euclidean algorithm for two integers 
+NUMBER theory, diophantine equations 
+is presented. the NUMBER of arithmetic operations AND the NUMBER 
+*********************************************************************
+Document:CACM-1257
+
+any NUMBER of lines at any point of his previously 
+assembled program in core, with the REMAINDER 
+debug-an extension to current on-line debugging techniques 
+*********************************************************************
+Document:CACM-2138
+
+is designed so as to be ESPECIALLY suitable 
+systems, etc. PRIME design goals of the design are the 
+bliss: a language for systems programming 
+*********************************************************************
+Document:CACM-1717
+
+generating PRIME implicants via ternary encoding AND decimal arithmetic 
+algorithm to obtain the extremals AND PRIME implicants 
+PRIME implicants, extremal, switching function, 
+*********************************************************************
+Document:CACM-0944
+
+properties applicable to problems INVOLVING 
+certain list properties is available. of PRIME interest 
+storage AND search properties of a tree-organized memory system 
+*********************************************************************
+Document:CACM-2109
+
+hence the entire table of size p, where p is that PRIME NUMBER, can be searched. 
+the storage table. it is shown that for some classes of PRIME numbers 
+the use of quadratic residue research 
+*********************************************************************
+Document:CACM-0063
+
+about 4800 years ago, as derived by the CHINESE ancients. 
+octal diagrams of binary conception AND 
+their applicability to computer design logic 
+*********************************************************************
+Document:CACM-1691
+
+of random NUMBER generators for the ibm 360 
+hutchinson states that the "new" (PRIME modulo) 
+tests for random NUMBER generators. it 
+random numbers, pseudorandom NUMBER generators, autocorrelation 
+*********************************************************************
+Document:CACM-2325
+
+of computation, ALGORITHMS, continuous ALGORITHMS 
+of continuous ALGORITHMS. four of the components 
+(finite precision NUMBER systems, computational 
+complexity), synthesis AND analysis of ALGORITHMS, 
+*********************************************************************
+Document:CACM-1924
+
+carefully designed matrix ALGORITHMS can lead to 
+enormous savings in the NUMBER of page faults occurring 
+multiplication, AND inversion ALGORITHMS shows 
+the NUMBER of page-pulls required by these matrix 
+*********************************************************************
+Document:CACM-1094
+
+PRIME twins (algorithm 223) 
+cacm april, 1964 
+shimrat, m. 
+*********************************************************************
+Document:CACM-2606
+
+ALGORITHMS. the new algorithm is a step-by-step procedure 
+SERIES expansions. the new method is compared with 
+gragg-bulirsh-stoer, AND the taylor SERIES method. 
+the taylor SERIES method AND the new method are shown 
+*********************************************************************
+Document:CACM-2544
+
+the cauchy-ostrowski THEOREM on convergence 
+method, cauchy-ostrowski THEOREM, zeros of 
+automatic error bounds for simple zeros of analytic functions 
+*********************************************************************
+Document:CACM-2289
+
+solution of graph problems is the determination of ALGORITHMS 
+ESPECIALLY for problems whose solutions appear to be inherently 
+ALGORITHMS are presented for the solution of certain 
+these ALGORITHMS exhibit a computation time that in 
+*********************************************************************
+Document:CACM-2694
+
+legendre SERIES, chebyshev SERIES 
+computation of legendre SERIES coefficients [c6] (algorithm a473) 
+cacm january, 1974 
+*********************************************************************
+Document:CACM-2355
+
+of reasons, ESPECIALLY the high accuracy obtained from 
+quadrature, error estimates, chebyshev SERIES 
+implementing clenshaw-curtis quadrature, i methodology AND experience 
+*********************************************************************
+Document:CACM-1385
+
+CHINESE news items AND periodical literature 
+to ordinary CHINESE workers AND peasants. communist 
+computer technology in communist china, 1956-1965 
+*********************************************************************
+Document:CACM-2146
+
+various dispersion ALGORITHMS for the polyphase 
+algorithm based on minimizing the total NUMBER of unit 
+new dispersion ALGORITHMS with more straightforward 
+logic are presented. of the simple dispersion ALGORITHMS 
+*********************************************************************
+Document:CACM-2605
+
+the solution to a small NUMBER of standard 
+each computed NUMBER is bounded in an interval with a 
+INVOLVING these numbers are executed according to interval 
+a precise numerical analysis program 
+*********************************************************************
+Document:CACM-2490
+
+efficient ALGORITHMS for graph manipulation [h] (algorithm a447) 
+efficient ALGORITHMS are presented for partitioning 
+be specified dynamically.) if v is the NUMBER of vertices 
+AND e is the NUMBER of edges, each algorithm 
+*********************************************************************
+Document:CACM-1780
+
+harmonic analysis, cosine SERIES, sine SERIES, function 
+SERIES 
+harmonic analysis for symmetrically 
+distributed data (algorithm 320 [c6]) 
+*********************************************************************
+Document:CACM-2555
+
+applied to expressions INVOLVING any variable-precision 
+cos, which have simple SERIES expansions, can be handled similarly. 
+variable-precision exponentiation 
+*********************************************************************
+Document:CACM-2447
+
+cubatures, sard kernels, numerical integration, REMAINDER formulas 
+sard kernels for certain bivariate cubatures 
+an error analysis for some bivariate cubatures 
+*********************************************************************
+Document:CACM-1171
+
+ALGORITHMS for linear programming 
+in determining the difference in the NUMBER of iterations 
+of constraints AND the NUMBER of variables but 
+between the ALGORITHMS is not only the NUMBER 
+*********************************************************************
+Document:CACM-2410
+
+SERIES is combined with a recurrence scheme of clenshaw 
+for summing any finite SERIES whose terms satisfy 
+orthogonal expansions, SERIES interconversion, 
+recurrence, three-term recurrence, five-term recurrence, chebyshev SERIES 
+*********************************************************************
+Document:CACM-3166
+
+four ALGORITHMS for the numerical computation 
+are analyzed. two of the ALGORITHMS are well-known in the statistical 
+AND computational literature; the other two are new ALGORITHMS 
+"accuracy." each of the four ALGORITHMS is analyzed for the conditions 
+*********************************************************************
+Document:CACM-2332
+
+special SERIES summation with arbitrary precision (algorithm r393) 
+function evaluation, SERIES summation, approximation 
+cacm june, 1972 
+*********************************************************************
+Document:CACM-1995
+
+special SERIES summation with arbitrary precision $c6) (algorithm 393) 
+function evaluation, SERIES summation, approximation 
+cacm september, 1970 
+*********************************************************************
+Document:CACM-1109
+
+conversion of a power to a SERIES of chebyshev polynomials* 
+even slowly convergent power SERIES can be 
+rearranged as SERIES in chebyshev polynomials if 
+*********************************************************************
+Document:CACM-2067
+
+multilevel logic design, generalized PRIME implicants, 
+comment on lawler's multilevel boolean minimization 
+cacm april, 1970 
+*********************************************************************
+Document:CACM-2114
+
+derived. two ALGORITHMS which retrieve records from the generalized file 
+lists, PRIME keyword, parallel processing of lists 
+a formal system for information retrieval from files 
+*********************************************************************
+Document:CACM-0116
+
+to as a sumador chino (CHINESE adder). a survey of the more 
+the sumador chino 
+on a recent motor trip through mexico, the writer 
+*********************************************************************
+Document:CACM-2657
+
+program-synthesizing ALGORITHMS, THEOREM proving, 
+an improved program-synthesizing algorithm AND its correctness 
+an improved program-synthesizing algorithm 
+*********************************************************************
+Document:CACM-2521
+
+of chebyshev SERIES [c1] (algorithm a446) 
+chebyshev SERIES, differentiation, integration, 
+ten subroutines for the manipulation 
+*********************************************************************
+Document:CACM-2283
+
+thinning ALGORITHMS on rectangular, hexagonal, AND triangular arrays 
+in this report three thinning ALGORITHMS are 
+results produced by each of the ALGORITHMS are presented 
+AND the relative performances of the ALGORITHMS 
+*********************************************************************
+Document:CACM-2306
+
+ancient babylonian ALGORITHMS 
+science. a NUMBER of old babylonian tablets, many 
+sexagesimal NUMBER system, sorting 
+*********************************************************************
+Document:CACM-1957
+
+the list set generator is defined AND ALGORITHMS 
+results from any expression INVOLVING sets AND set operators. the 
+the list set generator: a construct for evaluating set expressions 
+*********************************************************************
+Document:CACM-3079
+
+THEOREM proving, deduction, program verification, equality 
+an algorithm for reasoning about equality 
+a simple technique for reasoning about equalities 
+*********************************************************************
+Document:CACM-2267
+
+ALGORITHMS to reveal properties of floating-point arithmetic 
+two ALGORITHMS are presented in the form of 
+the radix AND NUMBER of digits of the floating-point 
+*********************************************************************
+Document:CACM-3026
+
+SERIES: a his tory, analysis, AND projection 
+the 1100 SERIES systems are sperry univac's 
+with the 1107 in 1962, the 1100 SERIES has progressed 
+in 1977. the 1100 SERIES hardware architecture 
+*********************************************************************
+Document:CACM-2825
+
+the bmd AND bmdp SERIES of statistical computer programs 
+factor analysis, graphics, outliers, regression, time SERIES, transformations 
+cacm october, 1976 
+*********************************************************************
+Document:CACM-2095
+
+of the measurements is the large NUMBER of small segments-about 60 
+ESPECIALLY with respect to the organization of paging schemes. 
+measurements of segment size 
+*********************************************************************
+Document:CACM-2726
+
+method for finding PRIME implicants. if some of the 
+(4) reducing the NUMBER of decision rules. 
+the quine-mccluskey method, PRIME implicants, minimization, 
+combining decision rules in a decision table 
+*********************************************************************
+Document:CACM-1495
+
+solution of transcendental equations by SERIES reversion 
+SERIES in (x - x0) when f AND g are given as power series,and 
+an algorithm is developed for expressing the 
+*********************************************************************
+Document:CACM-1386
+
+used by kronecker in a proof that the PRIME 
+factoring of any polynomial may be found in a finite NUMBER 
+symbolic factoring of polynomials in several variables 
+*********************************************************************
+Document:CACM-2424
+
+of operating system decisions is used on the PRIME system 
+of california, berkeley. PRIME is an experimental time-sharing 
+if the faults happen to reinforce each other. on PRIME, 
+dynamic verification of operating system decisions 
+*********************************************************************
+Document:CACM-2210
+
+a program satisfying certain specifications a THEOREM 
+principle, problem solving, THEOREM proving 
+toward automatic program synthesis 
+*********************************************************************
+Document:CACM-0738
+
+fourier SERIES approximation (algorithm 157) 
+cacm september, 1963 
+george, r. 
+*********************************************************************
+Document:CACM-0904
+
+fourier SERIES approximation (algorithm 157) 
+cacm march, 1963 
+mifsud, c. j. 
+*********************************************************************
+Document:CACM-0903
+
+exponentiation of SERIES (algorithm 134 ) 
+cacm march, 1963 
+fettis, h. e. 
+*********************************************************************
+Document:CACM-0807
+
+reversion of SERIES (algorithm 193) 
+cacm july, 1963 
+fettis, h. e. 
+*********************************************************************
+Document:CACM-0737
+
+exponentiation of SERIES (algorithm 158) 
+cacm september, 1963 
+lawrence, j. d. 
+*********************************************************************
+Document:CACM-0706
+
+fourier SERIES approximation (algorithm 157) 
+cacm october, 1963 
+schubert, g. r. 
+*********************************************************************
+Document:CACM-0470
+
+summation of fourier SERIES (algorithm 128) 
+cacm october, 1962 
+wells, m. 
+*********************************************************************
+Document:CACM-0455
+
+exponentiation of SERIES (algorithm 134) 
+cacm november, 1962 
+fettis, h. e. 
+*********************************************************************
+Document:CACM-3107
+
+simplicity over previous methods, ESPECIALLY for 
+generating beta variates with nonintegrel shape parameters 
+a new rejection method is described for generating 
+*********************************************************************
+Document:CACM-0659
+
+reversion of SERIES (algorithm 193) 
+cacm december, 1963 
+thacher jr., h. c. 
+*********************************************************************
+Document:CACM-1710
+
+structure package in which an arbitrary NUMBER of 
+data items AND an arbitrary NUMBER of the relationships 
+of a SERIES of macro calls, which are outlined in 
+asp-a ring implemented associative structure package 
+*********************************************************************
+Document:CACM-2561
+
+data base using nonnumerical clustering ALGORITHMS. they 
+a variety of conditions INVOLVING incomplete AND inconsistent data. 
+a heuristic approach to inductive inference in fact retrieval systems 
+*********************************************************************
+Document:CACM-1118
+
+fortran subroutines for time SERIES data reduction* 
+cacm march, 1964 
+macgowan, r. a. 
+*********************************************************************
+Document:CACM-0201
+
+bessel funtion i, SERIES expansion (algorithm 5) 
+cacm april, 1960 
+clarke, d. s. 
+*********************************************************************
+Document:CACM-2806
+
+determinant THEOREM, which have some merits as alternatives 
+two hadamard numbers for matrices 
+a discussion is given of two functions of the entries 
+*********************************************************************
+Document:CACM-1480
+
+computation of chebyshev SERIES coefficients (algorithm 277[c6]) 
+cacm february, 1966 
+smith, l. b. 
+*********************************************************************
+Document:CACM-1039
+
+summation of fourier SERIES (algorithm 128 [c6]) 
+cacm july, 1964 
+thacher jr., h. c. 
+*********************************************************************
+Document:CACM-0826
+
+remarks on fortran subroutines for time SERIES analysis 
+cacm june, 1963 
+bennett, c. m. 
+*********************************************************************
+Document:CACM-0313
+
+an iterative method for inversion of power SERIES 
+cacm july, 1961 
+bramhall, j. n. 
+*********************************************************************
+Document:CACM-0286
+
+an iterative method for inversion of power SERIES 
+cacm september, 1961 
+bramhall, j. n. 
+*********************************************************************
+Document:CACM-2936
+
+recently ALGORITHMS have been presented for the 
+of commonly used simple linked list ALGORITHMS. in this 
+published ALGORITHMS. first, the new algorithm's 
+n), where n is the NUMBER of events in the set. furthermore, 
+*********************************************************************
+Document:CACM-2986
+
+a grammer. the heart of the ALGORITHMS is a general 
+THEOREM giving sufficient conditions under which 
+operations on sparse relations 
+*********************************************************************
+Document:CACM-2896
+
+in this program makes it ESPECIALLY difficult 
+an exercise in proving parallel programs correct 
+a parallel program, dijkstra's on-the-fly garbage 
+*********************************************************************

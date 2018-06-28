@@ -1,0 +1,668 @@
+Query:the use of bayesian decision models to optimize information retrieval system performance  this includes stopping rules to determine when a user should cease scanning the output of a retrieval search
+
+Document:CACM-2278
+
+binary trees, SEARCH trees, INFORMATION storage, INFORMATION RETRIEVAL 
+on foster's INFORMATION storage and RETRIEVAL using avl trees 
+cacm september, 1972 
+*********************************************************************
+Document:CACM-1699
+
+INFORMATION RETRIEVAL testing, INFORMATION SYSTEM 
+OF THE research is that an INFORMATION RETRIEVAL SYSTEM 
+OF mechanized INFORMATION RETRIEVAL systems, 
+experimental evaluation OF INFORMATION 
+*********************************************************************
+Document:CACM-2288
+
+RETRIEVAL, INFORMATION RETRIEVAL, record organization, 
+RETRIEVAL SYSTEM based on THE consecutive 
+RETRIEVAL SYSTEM with A minimal SEARCH time 
+file organization: THE consecutive RETRIEVAL property 
+*********************************************************************
+Document:CACM-0275
+
+dynamic storage allocation for an INFORMATION RETRIEVAL SYSTEM 
+cacm october, 1961 
+sams, b. h. 
+*********************************************************************
+Document:CACM-2976
+
+and measurement, INFORMATION RETRIEVAL, 
+database, inverted file organization, database PERFORMANCE 
+approximating block accesses in database organizations 
+*********************************************************************
+Document:CACM-3012
+
+implementation, SYSTEM USE, INFORMATION storage and RETRIEVAL SYSTEM 
+and RETRIEVAL SYSTEM in medical research 
+and RETRIEVAL SYSTEM. A monitor built into THE computer 
+THE USE OF an interactive INFORMATION storage 
+*********************************************************************
+Document:CACM-2293
+
+comment on average binary SEARCH length 
+searching, binary searching, record RETRIEVAL 
+cacm august, 1972 
+*********************************************************************
+Document:CACM-2157
+
+average binary SEARCH length for dense ordered lists 
+searching, binary searching, record RETRIEVAL 
+cacm september, 1971 
+*********************************************************************
+Document:CACM-2990
+
+THE PERFORMANCE OF INFORMATION RETRIEVAL systems 
+effective INFORMATION RETRIEVAL using term accuracy 
+on measuring THE RETRIEVAL PERFORMANCE OF an average 
+INFORMATION RETRIEVAL, automatic indexing, content 
+*********************************************************************
+Document:CACM-2552
+
+hash code, open hash, chaining, INFORMATION RETRIEVAL, collision 
+A note on WHEN TO chain overflow items within A direct-access table 
+cacm january, 1973 
+*********************************************************************
+Document:CACM-2394
+
+ordering, storage, RETRIEVAL, positive functions, 
+function, binary SYSTEM, chebyshev zeros, square rots, continued fractions 
+ordering +-f(+-f(+-f(...+-f(x)..))) WHEN f(x) is positive monotonic 
+*********************************************************************
+Document:CACM-0891
+
+everyman's INFORMATION RETRIEVAL SYSTEM 
+THE INFORMATION RETRIEVAL problem whose solution 
+TO install an INFORMATION RETRIEVAL program in less than 
+TO many different types OF RETRIEVAL problems. further,the 
+*********************************************************************
+Document:CACM-3134
+
+for THE INFORMATION SYSTEM. algorithms for THE organization an 
+THE appropriateness OF THE above approach TO A given INFORMATION SYSTEM 
+INFORMATION RETRIEVAL, inverted files, multiattribute RETRIEVAL, 
+d RETRIEVAL OF INFORMATION are described. THIS method is particularly 
+*********************************************************************
+Document:CACM-2258
+
+file SEARCH, scatter storage, INFORMATION RETRIEVAL 
+techniques: A fundamental PERFORMANCE study on 
+additional results on key-to-address transform 
+large existing formatted files 
+*********************************************************************
+Document:CACM-2070
+
+A formal SYSTEM for INFORMATION RETRIEVAL from files 
+cacm april, 1970 
+hsiao, d. 
+*********************************************************************
+Document:CACM-1830
+
+INFORMATION RETRIEVAL, direct access memory, data base, inverted list 
+RETRIEVAL times for A packed direct access inverted file 
+bayes, A. j. 
+*********************************************************************
+Document:CACM-2882
+
+list, INFORMATION RETRIEVAL, database organizations, 
+organization in data RETRIEVAL systems 
+scale data RETRIEVAL systems has been scarce due 
+discusses A simulation model OF A data RETRIEVAL 
+*********************************************************************
+Document:CACM-2516
+
+hierarchical storage in INFORMATION RETRIEVAL 
+on INFORMATION RETRIEVAL operations. THE data storage 
+INFORMATION RETRIEVAL, hierarchical storage 
+A probabilistic analysis is employed TO DETERMINE 
+*********************************************************************
+Document:CACM-0292
+
+an INFORMATION RETRIEVAL language for legal studies 
+cacm september, 1961 
+kehl, w. b. 
+*********************************************************************
+Document:CACM-1236
+
+A fully automatic document RETRIEVAL SYSTEM 
+THE smart automatic document RETRIEVAL system-an illustration 
+operating on THE ibm 7094 is described. THE SYSTEM 
+SEARCH strategy TO THE needs OF individual users. 
+*********************************************************************
+Document:CACM-2575
+
+THE best-match problem in document RETRIEVAL 
+document RETRIEVAL, best match, clustering, file 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-1937
+
+data display, INFORMATION RETRIEVAL, graphic display, 
+codas: A data display SYSTEM 
+codas, A customer oriented data SYSTEM, is 
+A user-oriented data RETRIEVAL and display SYSTEM. 
+*********************************************************************
+Document:CACM-1681
+
+remote console communication, INFORMATION RETRIEVAL, 
+mode, INFORMATION RETRIEVAL language, symbolic command language 
+easy english,a language for INFORMATION 
+RETRIEVAL through A remote typewriter console 
+*********************************************************************
+Document:CACM-1032
+
+theoretical considerations in INFORMATION RETRIEVAL systems 
+INFORMATION storage and RETRIEVAL systems are composed 
+OF three major components: (A) identification 
+TO circumvent THE SCANNING OF nonrelevant material, and 
+*********************************************************************
+Document:CACM-0634
+
+manipulation OF trees in INFORMATION retrieval* 
+cacm february, 1962 
+salton, g. 
+*********************************************************************
+Document:CACM-2965
+
+query, boolean expression, INFORMATION RETRIEVAL, file organization 
+an optimal evaluation OF boolean expressions in an online query SYSTEM 
+cacm may, 1977 
+*********************************************************************
+Document:CACM-1935
+
+and offers new potential for INFORMATION RETRIEVAL systems. 
+randomized binary SEARCH technique 
+THE SEARCH method described is binary in nature 
+binary pattern, file examination, graph theory, INFORMATION 
+*********************************************************************
+Document:CACM-3168
+
+query, boolean expression, INFORMATION RETRIEVAL, file organization 
+expressions in an online query SYSTEM." 
+comment on "an optimal evaluation OF boolean 
+*********************************************************************
+Document:CACM-2832
+
+so that data can be cached TO speed up RETRIEVAL. A RETRIEVAL 
+faster RETRIEVAL from context trees (corrigendum) 
+on previous context tree RETRIEVAL algorithms. 
+RETRIEVAL and auxiliary structures are built up TO make 
+*********************************************************************
+Document:CACM-0798
+
+A catalogue entry RETRIEVAL SYSTEM 
+scheff, b. h. 
+cacm july, 1963 
+*********************************************************************
+Document:CACM-0239
+
+for INFORMATION RETRIEVAL systems 
+inefficiency OF THE USE OF boolean functions 
+cacm december, 1961 
+*********************************************************************
+Document:CACM-2532
+
+bookstein, A. 
+string, substring, hashing, INFORMATION storage and RETRIEVAL 
+on harrison's substring testing technique 
+*********************************************************************
+Document:CACM-1831
+
+INFORMATION RETRIEVAL, file searching, tree structures, double chaining 
+A comment on optimal tree structures 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-2947
+
+INFORMATION RETRIEVAL, text editing, minicomputers, 
+SEARCH and RETRIEVAL systems, but has several 
+sitar: an interactive text processing SYSTEM for small computers 
+and text analysis SYSTEM for nontechnical users, 
+*********************************************************************
+Document:CACM-2781
+
+method, randomizing INFORMATION RETRIEVAL 
+sullenberger, A. g. 
+THE algorithm sequential access method: 
+an alternative TO index sequential 
+*********************************************************************
+Document:CACM-2451
+
+A standard INFORMATION RETRIEVAL operation is 
+TO DETERMINE which records in A data collection 
+can be represented by A tree SEARCH model. THIS paper 
+PERFORMANCE and that OF an intuitively attractive 
+*********************************************************************
+Document:CACM-1457
+
+in automatic INFORMATION RETRIEVAL 
+automatic INFORMATION RETRIEVAL programs require 
+facilities TO aid in INFORMATION RETRIEVAL. 
+manipulations TO be performed in automatic INFORMATION 
+*********************************************************************
+Document:CACM-2711
+
+in particular, RETRIEVAL PERFORMANCE may correlate inversely 
+automatic INFORMATION RETRIEVAL, automatic 
+in A document RETRIEVAL, or other pattern matching 
+(SEARCH requests), it appears that THE best indexing 
+*********************************************************************
+Document:CACM-2530
+
+INFORMATION RETRIEVAL, coding, text compression 
+wagner, r. A. 
+an algorithm for extracting phrases in 
+A space-optimal fashion [z] (algorithm a444) 
+*********************************************************************
+Document:CACM-2412
+
+feldman, j. A. 
+hashing, INFORMATION storage and RETRIEVAL, 
+comment on brent's scatter storage algorithm 
+*********************************************************************
+Document:CACM-2140
+
+files, INFORMATION RETRIEVAL, query, multi-attribute 
+permitted decreased RETRIEVAL time at THE cost 
+different fractions OF RETRIEVAL and update. tradeoff 
+RETRIEVAL, file update 
+*********************************************************************
+Document:CACM-1680
+
+INFORMATION RETRIEVAL. it is written in fortran 
+A general-purpose display processing and tutorial SYSTEM 
+adept (A display-expedited processing and tutorial) 
+SYSTEM by terminating and rescheduling itself 
+*********************************************************************
+Document:CACM-1927
+
+science, INFORMATION organization, INFORMATION RETRIEVAL, 
+organization and INFORMATION SYSTEM design in A ph. 
+INFORMATION science in A ph. computer science program 
+curriculum in THE general area OF INFORMATION 
+*********************************************************************
+Document:CACM-2577
+
+an on-site data management SYSTEM application in field archaeology 
+brown, j. A. 
+site data management, RETRIEVAL systems 
+*********************************************************************
+Document:CACM-3169
+
+query, boolean expression, optimal evaluation, INFORMATION RETRIEVAL 
+in an online query SYSTEM." 
+hoffman, A. 
+note on "an optimal evaluation OF boolean expressions 
+*********************************************************************
+Document:CACM-1271
+
+THE secondary key RETRIEVAL method involves 
+primary data records. SEARCH requests are satisfied by 
+lin, A. d. 
+secondary key RETRIEVAL using an ibm 7090-1301 SYSTEM 
+*********************************************************************
+Document:CACM-1194
+
+THE main features OF THE INFORMATION SYSTEM are direct 
+SYSTEM for RETRIEVAL by concept coordination. 
+OF THE ir SYSTEM applied TO its operation 
+paramount in THE provision OF INFORMATION services: 
+*********************************************************************
+Document:CACM-1514
+
+INFORMATION RETRIEVAL SYSTEM. 
+on THE expected gain from adjust ing matched term RETRIEVAL systems 
+term RETRIEVAL systems. THE expected gain and its probability 
+OF: (1) THE prior proportion OF omitted terms, and (2) THE 
+*********************************************************************
+Document:CACM-0651
+
+A survey OF languages and systems for INFORMATION RETRIEVAL 
+cacm january, 1962 
+grems, m. 
+*********************************************************************
+Document:CACM-2114
+
+A formal SYSTEM for INFORMATION RETRIEVAL from files 
+description, file SEARCH, directory SEARCH, serial processing OF 
+file structure, directory decoding, and record RETRIEVAL are defined 
+*********************************************************************
+Document:CACM-1506
+
+SYSTEM USER and A RETRIEVAL application. THE monitor 
+non-numerical applications such as RETRIEVAL from very 
+computer (an ibm SYSTEM 360/30). therefore techniques 
+feature OF THE SYSTEM is that it is event-driven rather 
+*********************************************************************
+Document:CACM-2307
+
+for INFORMATION RETRIEVAL and for THE control 
+automatic indexing, automatic SEARCH and RETRIEVAL, 
+files are searched and INFORMATION is retrieved following 
+an interactive user-controlled SEARCH process. 
+*********************************************************************
+Document:CACM-2561
+
+are implemented in A model fact RETRIEVAL SYSTEM 
+A heuristic approach TO inductive inference in fact RETRIEVAL systems 
+from available INFORMATION. THE procedures make USE 
+THE SYSTEM can infer THE correct response under 
+*********************************************************************
+Document:CACM-1489
+
+files, programs and DECISION RULES in A way that adequately 
+data, documentation and DECISION tables 
+represents both (1) their changing INFORMATION 
+make an unfamiliar SYSTEM manageable, A detailed 
+*********************************************************************
+Document:CACM-2631
+
+direct access, INFORMATION RETRIEVAL, character 
+INFORMATION, an attempt is made TO overcome 
+one OF THE problems often associated with INFORMATION 
+RETRIEVAL, namely, THE maintenance and USE OF large 
+*********************************************************************
+Document:CACM-2722
+
+attribute, INFORMATION RETRIEVAL SYSTEM, nearest 
+associative RETRIEVAL, binary SEARCH trees, key, 
+multidimensional binary SEARCH trees used for associative searching 
+SEARCH tree (or k-d tree, where k is THE dimensionality 
+*********************************************************************
+Document:CACM-1359
+
+data filtering applied TO INFORMATION storage and RETRIEVAL applications 
+processing function in INFORMATION storage 
+and RETRIEVAL applications. data string manipulation 
+declarations associated with its input and OUTPUT ports. 
+*********************************************************************
+Document:CACM-1725
+
+ordered lists, ordered INFORMATION RETRIEVAL, 
+an efficient method OF ordered RETRIEVAL OF binary 
+wolinsky, A. 
+ordered RETRIEVAL theorem, column digit values, digit 
+*********************************************************************
+Document:CACM-2455
+
+trees on THE basis OF mean RETRIEVAL time, OF amount 
+OF RETRIEVAL time. it is shown that, by permitting 
+imbalances OF up TO five units, THE RETRIEVAL time 
+avl trees, balanced trees, INFORMATION storage and RETRIEVAL 
+*********************************************************************
+Document:CACM-1976
+
+multi-attribute RETRIEVAL with combined indexes 
+file organization, secondary index files, inverted files, INFORMATION 
+RETRIEVAL, data management, access method, secondary 
+keys, storage with buckets, rapid RETRIEVAL, balanced filing scheme, elimination 
+*********************************************************************
+Document:CACM-2160
+
+file organization, INFORMATION RETRIEVAL, inverted 
+A new file structure for attribute based RETRIEVAL 
+thus, for example, THE structure for RETRIEVAL 
+be very different from one where only RETRIEVAL 
+*********************************************************************
+Document:CACM-2846
+
+INFORMATION RETRIEVAL systems. it has THE same underlying 
+RETRIEVAL time, measured in terms OF bit inspections 
+improvement in storage requirements and RETRIEVAL time 
+RETRIEVAL time, storage requirement, keys 
+*********************************************************************
+Document:CACM-0440
+
+maximum USE OF items OF identifying INFORMATION 
+RULES that can be applied generally TO name RETRIEVAL 
+these RULES are described, and THE ways in which INFORMATION 
+record linkage 
+*********************************************************************
+Document:CACM-2978
+
+alternatives include A choice OF SEARCH strategy, 
+THE index structure. formulas for THE RETRIEVAL 
+which compare THE RETRIEVAL costs OF THE alternatives. 
+files, RETRIEVAL, main tenance, SEARCH strategy, 
+*********************************************************************
+Document:CACM-0944
+
+trees. such trees have INFORMATION storage and RETRIEVAL 
+word length and distribution OF stored INFORMATION 
+THE storage and SEARCH properties OF A tree-organized 
+storage SYSTEM assuming that A memory possessing 
+*********************************************************************
+Document:CACM-1652
+
+THE SYSTEM USER. THE code has direct application 
+TO problems in area such as INFORMATION RETRIEVAL, document 
+A code for non-numeric INFORMATION processing 
+THE internal INFORMATION processing operations 
+*********************************************************************
+Document:CACM-2765
+
+analysis and PERFORMANCE OF inverted data base structures 
+on PERFORMANCE. THE formulations presented are necessary 
+criteria TO DETERMINE THE optimum set OF index keys. 
+cardenas, A. f. 
+*********************************************************************
+Document:CACM-0892
+
+recol-a RETRIEVAL command language 
+RETRIEVAL and manipulation OF data file records. 
+records, editing printed OUTPUT, and summarizing 
+*********************************************************************
+Document:CACM-0653
+
+translation OF RETRIEVAL requests couched 
+in A "semiformal" english-like language* 
+cacm january, 1962 
+*********************************************************************
+Document:CACM-2598
+
+extending THE INFORMATION theory approach TO converting 
+limited-entry DECISION tables TO computer 
+converting DECISION tables into flowcharts which 
+in THIS paper perform limited SEARCH and, accordingly, 
+*********************************************************************
+Document:CACM-2493
+
+data base, reorganization, files, INFORMATION RETRIEVAL 
+optimum data base reorganization points 
+in certain data base organization schemes THE 
+*********************************************************************
+Document:CACM-2991
+
+clustering, INFORMATION RETRIEVAL, open addressing, open 
+key set. shadow buckets in THE key SEARCH sequence 
+lead TO improved file PERFORMANCE for secondary 
+storage, SEARCH method, collisions, synonyms, 
+*********************************************************************
+Document:CACM-1627
+
+storage SYSTEM is described. THIS technique, 
+storage capacities OF certain data management and INFORMATION 
+RETRIEVAL systems. THE concept OF level 
+physically organizing THE INFORMATION for efficient 
+*********************************************************************
+Document:CACM-3095
+
+A selective traversal algorithm for binary SEARCH trees 
+A binary SEARCH tree according TO A list OF range 
+data RETRIEVAL, range conditions, binary SEARCH 
+*********************************************************************
+Document:CACM-2141
+
+data compression, map storage, INFORMATION RETRIEVAL, 
+algorithmic selection OF THE best 
+method for compressing map data strings 
+*********************************************************************
+Document:CACM-2547
+
+representation OF contours ad regions for efficient computer SEARCH 
+representation TO handling terrain INFORMATION 
+TO DETERMINE whether A point lies within A closed boundary; 
+intersection OF two closed boundaries; and DETERMINE 
+*********************************************************************
+Document:CACM-1515
+
+A SYSTEM called relational data file was developed 
+A computer SYSTEM for inference execution and data RETRIEVAL 
+THIS paper presents A rand project concerned 
+*********************************************************************
+Document:CACM-1415
+
+toward conducting automatic RETRIEVAL OF natural 
+on THE tree structure OUTPUT OF THE analyzer, 
+for improving THE PERFORMANCE OF automatic 
+message RETRIEVAL systems, they may have practical 
+*********************************************************************
+Document:CACM-2046
+
+data is organized in THE machine (THE internal representation). A prompting 
+service which supplies such INFORMATION is not A satisfactory 
+types OF stored INFORMATION. existing noninferential, formatted data systems 
+redundancy, consistency, composition, join, RETRIEVAL 
+*********************************************************************
+Document:CACM-2979
+
+research efforts concerning human DECISION making 
+inferences and form and OPTIMIZE heuristic 
+RULES, and how machines can reach similar results. 
+OF applicability. THE MODELS OF human judgment, choice, 
+*********************************************************************
+Document:CACM-0655
+
+it well suited TO various types OF INFORMATION RETRIEVAL 
+comit as an ir language 
+many OF THE features that make comit A good 
+*********************************************************************
+Document:CACM-0619
+
+recognition and RETRIEVAL OF A given misspelled 
+and operated on THE telefile (A stored-program 
+or at RETRIEVAL time. THE procedure involves 
+RETRIEVAL OF misspelled names in an airlines passenger record SYSTEM 
+*********************************************************************
+Document:CACM-2501
+
+wylbur: an interactive text editing and remote job entry SYSTEM 
+wylbur is A comprehensive SYSTEM for manipulating 
+remote job entry and RETRIEVAL as well as facilities 
+time-sharing SYSTEM which operates in conjunction with wylbur, is also included. 
+*********************************************************************
+Document:CACM-2092
+
+totype language processing SYSTEM are described and exemplified in 
+detail. THE SYSTEM is written in lisp 1.5 and operates on THE q-32 
+time-sharing SYSTEM. THE system's data structures and their semantic 
+system's PERFORMANCE and OF THE limitations OF its question-answering 
+*********************************************************************
+Document:CACM-2970
+
+achieving specific accuracy in simulation OUTPUT analysis 
+OF simulation OUTPUT. in particular, it describes A 
+INCLUDES A test TO check THE normality assumption on 
+STOPPING rule, variance reduction 
+*********************************************************************
+Document:CACM-2139
+
+compression, INFORMATION RETRIEVAL, searching 
+substring, hashing, subset, signature, INFORMATION 
+implementation OF THE substring test by hashing 
+*********************************************************************
+Document:CACM-2848
+
+DECISION RULES, DECISION tables, logical tables, 
+synthesis OF DECISION RULES 
+but rather sets OF DECISION RULES. THE purpose OF THIS 
+THE DECISION RULES and thus provide an aid in developing 
+*********************************************************************
+Document:CACM-1527
+
+THE automatic RETRIEVAL OF certain segments OF 
+stored INFORMATION, either explicitly or implicitly represented, 
+generated by A grammar. based upon THE RULES OF THIS grammar, 
+itself is A procedure for retrieving INFORMATION. 
+*********************************************************************
+Document:CACM-2437
+
+storage, INFORMATION RETRIEVAL, hashing analysis, 
+general PERFORMANCE analysis OF key-to-address 
+OF PERFORMANCE OF THE various key-to-address 
+average PERFORMANCE OF THE transformation methods on 
+*********************************************************************
+Document:CACM-2726
+
+tables by THE combining OF DECISION RULES. THIS method 
+DECISION RULES implied in THE else rule occur with 
+(4) reducing THE number OF DECISION RULES. 
+DECISION RULES are not combined. objective (2) must be 
+*********************************************************************
+Document:CACM-2318
+
+THE role OF computer SYSTEM MODELS in PERFORMANCE evaluation 
+computer SYSTEM PERFORMANCE. THIS paper 
+MODELS constitute A useful means OF investigating 
+examines THE interrelationships between MODELS and other 
+*********************************************************************
+Document:CACM-2860
+
+RULES OF thumb which have been suggested for THE 
+THE applicability OF these RULES TO large commercial 
+OF design parameters on overall SYSTEM costs. A 
+data management, file RETRIEVAL, searching, addressing 
+*********************************************************************
+Document:CACM-0626
+
+A method OF representation, storage and RETRIEVAL 
+OF 13 random codes in A 4-digit number or 16 
+random codes in A 5-digit number 
+*********************************************************************
+Document:CACM-2688
+
+approaches TO multi-key RETRIEVAL. THIS article 
+file organization, paging, RETRIEVAL algorithm, 
+attribute based file organization in A paged memory environment 
+*********************************************************************
+Document:CACM-2519
+
+using A computer based INFORMATION RETRIEVAL SYSTEM 
+complex INFORMATION, INFORMATION, communication, 
+on THE problem OF communicating complex INFORMATION 
+INFORMATION we are communicating, and A sophisticated 
+*********************************************************************
+Document:CACM-1675
+
+INFORMATION RETRIEVAL, relevance, indexing, classification 
+A note on A relevance estimate and its improvement 
+in THIS paper THE effect OF iterating THE improvement 
+*********************************************************************
+Document:CACM-2968
+
+and total restructuring-for building balanced binary SEARCH 
+binary SEARCH trees, avl trees, weight-balanced trees, 
+path length, analysis OF algorithms, INFORMATION 
+storage and RETRIEVAL 
+*********************************************************************
+Document:CACM-2370
+
+THE SYSTEM INCLUDES two flying-spot scanners and 
+an interactive computer-controlled SCANNING 
+and display SYSTEM has been in operation at THE 
+analog input and OUTPUT facilities, and A variety OF 
+*********************************************************************
+Document:CACM-2032
+
+tables, hashing functions, INFORMATION RETRIEVAL 
+file structures using hashing functions 
+A general method OF file structuring is proposed which uses A hashing 
+*********************************************************************
+Document:CACM-2388
+
+THE average RETRIEVAL time by restructuring THE tree TO 
+martin, w. A. 
+retrieving INFORMATION from binary trees, global 
+optimizing binary trees grown with A sorting algorithm 
+*********************************************************************

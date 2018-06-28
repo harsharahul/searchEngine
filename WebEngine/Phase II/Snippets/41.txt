@@ -1,0 +1,661 @@
+Query:theory of distributed systems and databases  subtopics of special interest include reliability and fault-tolerance in distributed systems atomicity distributed transactions synchronization algorithms  resource allocation lower bounds and models for asynchronous parallel systems  also theory of communicating processes and protocols          p box 2158 yale station new haven conn  06520
+
+Document:CACM-2578
+
+multiprocessing, networks, self-stabilization, SYNCHRONIZATION, 
+error recovery, DISTRIBUTED control, harmonious cooperation, self-repair 
+self-stabilizing SYSTEMS IN spite OF DISTRIBUTED control 
+*********************************************************************
+Document:CACM-3082
+
+DISTRIBUTED SYSTEMS, computer networks, 
+clock SYNCHRONIZATION, multiprocess SYSTEMS 
+time, clocks, AND the ordering OF events IN a DISTRIBUTED system 
+another IN a DISTRIBUTED system is examined, AND 
+*********************************************************************
+Document:CACM-3148
+
+high level programming FOR DISTRIBUTED computing 
+is a problem OF growing INTEREST. this paper describes an approach 
+to DISTRIBUTED computing at the level OF general purpose programming 
+DISTRIBUTED computing, modules, messages, assertions 
+*********************************************************************
+Document:CACM-3137
+
+a methodology FOR the design OF DISTRIBUTED information SYSTEMS 
+a macro model OF a DISTRIBUTED information system IN presented. the model 
+DISTRIBUTED processing, system design, cost minimization, DISTRIBUTED 
+*********************************************************************
+Document:CACM-3043
+
+DISTRIBUTED PROCESSES: a concurrent programming concept 
+the paper gives several examples OF DISTRIBUTED PROCESSES 
+concurrent programming, DISTRIBUTED PROCESSES, 
+a language concept FOR concurrent PROCESSES 
+*********************************************************************
+Document:CACM-3128
+
+SYSTEMS, security MODELS, mutual exclusion, semaphores 
+SYNCHRONIZATION with eventcounts AND sequencers 
+SYNCHRONIZATION OF concurrent PROCESSES requires controlling the relative 
+ordering OF events IN the PROCESSES. 
+*********************************************************************
+Document:CACM-2849
+
+DISTRIBUTED control, DISTRIBUTED computing, 
+ethernet: DISTRIBUTED packet switching FOR local computer networks 
+locally DISTRIBUTED computing stations. the packet 
+used to build SYSTEMS which can be viewed as either local 
+*********************************************************************
+Document:CACM-2949
+
+main tenance protocol FOR a DISTRIBUTED computer 
+IN order FOR the nodes OF a DISTRIBUTED computer 
+DISTRIBUTED computer network, correctness proofs, 
+computer networks, DISTRIBUTED control, network 
+*********************************************************************
+Document:CACM-3141
+
+decentralized ALGORITHMS, DISTRIBUTED SYSTEMS, operating SYSTEMS 
+IN circular configurations OF PROCESSES 
+numbered PROCESSES arranged IN a circle, IN which no central 
+controller exists AND the number OF PROCESSES is not known a priori. 
+*********************************************************************
+Document:CACM-0052
+
+an efficient method FOR generating uniformly DISTRIBUTED 
+points on the surface on an n-dimensional 
+sphere (corrigendum) 
+*********************************************************************
+Document:CACM-1780
+
+DISTRIBUTED data (algorithm 320 [c6]) 
+harmonic analysis FOR symmetrically 
+cacm february, 1968 
+*********************************************************************
+Document:CACM-1153
+
+a technique FOR generating normally DISTRIBUTED 
+a fast procedure FOR generating normal random variables* 
+random numbers is described. it is faster 
+*********************************************************************
+Document:CACM-0088
+
+an efficient method FOR generating uniformly DISTRIBUTED 
+points on the surface OF an n-dimensional 
+sphere 
+*********************************************************************
+Document:CACM-2406
+
+as IN advanced data management SYSTEMS AND DISTRIBUTED 
+apparent. such languages will be a key SYSTEMS, as well 
+data translation, data base management SYSTEMS, 
+a data definition AND mapping language 
+*********************************************************************
+Document:CACM-2276
+
+DISTRIBUTED random numbers into exponentially 
+AND normally DISTRIBUTED quantities. the most efficient 
+AND speed, with some NEW ALGORITHMS. a number OF procedures 
+shorter ALGORITHMS AND faster but space consuming 
+*********************************************************************
+Document:CACM-2371
+
+IN a RESOURCE sharing computer network 
+a system OF communication between PROCESSES IN a 
+system is extended so that it may be used between PROCESSES 
+DISTRIBUTED throughout a computer network. 
+*********************************************************************
+Document:CACM-2969
+
+computer networks, DATABASES, DISTRIBUTED 
+an optimization procedure FOR the ALLOCATION 
+DATABASES, optimal file location 
+optimal program AND data locations IN computer networks 
+*********************************************************************
+Document:CACM-2816
+
+optimal reorganization OF DISTRIBUTED space disk files 
+which allows FOR DISTRIBUTED free space is described. 
+IN most database organizations, the cost OF accessing 
+*********************************************************************
+Document:CACM-2596
+
+a weighted buddy method FOR dynamic storage ALLOCATION 
+buddy method, FOR dynamic storage ALLOCATION 
+method when the requests are FOR exponentially DISTRIBUTED block sizes. 
+weighted buddy algorithm, buddy SYSTEMS, 
+*********************************************************************
+Document:CACM-2128
+
+time sharing, RESOURCE ALLOCATION, scheduling ALGORITHMS, 
+application to more general RESOURCE ALLOCATION problems. it is implemented 
+a processor ALLOCATION method FOR time-sharing 
+mullery, a. P. 
+*********************************************************************
+Document:CACM-2900
+
+some theorems to aid IN solving the file ALLOCATION problem 
+the file ALLOCATION problem-i.e. the problem 
+included IN an optimal ALLOCATION. 
+file ALLOCATION, computer networks, DISTRIBUTED data management 
+*********************************************************************
+Document:CACM-2345
+
+education, management SYSTEMS, SYSTEMS analysis, 
+management information SYSTEMS, information SYSTEMS 
+professional programs IN information SYSTEMS 
+SYSTEMS IN organizations is discussed, AND a 
+*********************************************************************
+Document:CACM-2522
+
+SYSTEMS, RESOURCE ALLOCATION, software evaluation, 
+operating SYSTEMS, supervisory SYSTEMS 
+dependent upon the ALGORITHMS employed to allocate 
+the system resources to the PROCESSES competing FOR them. 
+*********************************************************************
+Document:CACM-1948
+
+computers IN group THEORY: a survey 
+diverse range OF problems IN group THEORY. 
+calculus. group THEORY programs range from 
+symbol manipulation SYSTEMS. IN this survey the 
+*********************************************************************
+Document:CACM-2373
+
+size is shown to be normally DISTRIBUTED. 
+denning, P. j. 
+working-set model, paging, paging ALGORITHMS, 
+properties OF the working-set model 
+*********************************************************************
+Document:CACM-1747
+
+a time-of-day clock, the SYNCHRONIZATION OF PARALLEL 
+SYSTEMS, computer SYSTEMS design, input equipment, 
+PARALLEL processing, PARALLEL programming, 
+three criteria FOR designing computing SYSTEMS to facilitate debugging 
+*********************************************************************
+Document:CACM-2926
+
+OF each length are uniformly DISTRIBUTED within the 
+pagination OF b*-trees with variable-length records 
+a strategy is presented FOR pagination OF b*-trees 
+*********************************************************************
+Document:CACM-2323
+
+toward a general THEORY OF SPECIAL functions 
+then the prospects FOR a general THEORY OF functions 
+to differential equations. such a THEORY is 
+manipulation SYSTEMS knowledgeable about the usual 
+*********************************************************************
+Document:CACM-2080
+
+multiprogramming, operating SYSTEMS, PARALLEL PROCESSES, process concept, 
+requirements OF program scheduling AND RESOURCE ALLOCATION. the system 
+that can be extended with a hierarchy OF operating SYSTEMS to suit diverse 
+are handled uniformly as PARALLEL, cooperating process 
+*********************************************************************
+Document:CACM-2995
+
+IN multiprogramming SYSTEMS (corrigendum) 
+courtois, P. j. 
+decomposability, instabilities, AND saturation 
+*********************************************************************
+Document:CACM-2616
+
+IN practice. extensions to the THEORY OF computation 
+semantics, THEORY OF programming, SYSTEMS analysis 
+on the conversion OF programs to decision tables: method AND objectives 
+*********************************************************************
+Document:CACM-2583
+
+SYSTEMS: a report from stanley house 
+SYSTEMS, regulations, social AND behavioral 
+guidelines FOR humanizing computerized information 
+*********************************************************************
+Document:CACM-1959
+
+an interrupt based organization FOR management information SYSTEMS 
+FOR the design AND coding OF large shared data base SYSTEMS. the 
+the NEW organization which is proposed FOR management information SYSTEMS. 
+management information SYSTEMS, integrated data processing, 
+*********************************************************************
+Document:CACM-3072
+
+feedback coupled RESOURCE ALLOCATION policies 
+scheduling SYSTEMS FOR multiprogrammed- multiprocessor 
+computer SYSTEMS are presented. the basic control variables 
+used are the data-flow rates FOR the PROCESSES 
+*********************************************************************
+Document:CACM-2407
+
+programs IN information SYSTEMS 
+SYSTEMS IN organizations is discussed, AND a 
+education, undergraduate curricula, management SYSTEMS, 
+information SYSTEMS, information analysis, 
+*********************************************************************
+Document:CACM-2111
+
+to compilers AND operating SYSTEMS. these INCLUDE the use OF syntax 
+spelling correction IN SYSTEMS programs 
+incorporating spelling correction ALGORITHMS IN 
+is presented. by using SYSTEMS which perform spelling correction, 
+*********************************************************************
+Document:CACM-2069
+
+markovian computer MODELS, scheduling strategies, 
+operating SYSTEMS, memory management 
+comments on a paper by wallace AND mason 
+*********************************************************************
+Document:CACM-1006
+
+a storage ALLOCATION AND reference structure 
+a subscripted-variable capability (IN the fortran 
+sense) to be added to autocoder-type assembly SYSTEMS. 
+*********************************************************************
+Document:CACM-0618
+
+computers- the key to total SYSTEMS control: an industrial viewpoint 
+man-man-machine PROCESSES are characterized IN five 
+main types, AND the markets FOR each type are 
+*********************************************************************
+Document:CACM-3084
+
+assuming that the n keys are uniformly DISTRIBUTED. 
+interpolation search -a log logn search 
+interpolation search is a method OF retrieving 
+*********************************************************************
+Document:CACM-3119
+
+on multiple processor SYSTEMS 
+simple queueing MODELS are used to study the performance tradeoffs OF 
+multiple processor SYSTEMS. issues considered INCLUDE the impact OF cpu 
+performance evaluation, queueing MODELS 
+*********************************************************************
+Document:CACM-2482
+
+deadlocks, RESOURCE ALLOCATION, operating SYSTEMS, 
+OF RESOURCE ALLOCATION AND still operate together to 
+occurring RESOURCE ALLOCATION problems 
+multiprogramming, hierarchical SYSTEMS 
+*********************************************************************
+Document:CACM-1461
+
+discussion summary on operating SYSTEMS 
+cacm march, 1966 
+ca660311 jb march 3, 1978 1:26 pm 
+*********************************************************************
+Document:CACM-2890
+
+on quadratic adaptive routing ALGORITHMS 
+two analytic MODELS OF a store-and-forward communications 
+by an adaptive routing algorithm. these MODELS show that 
+routing ALGORITHMS, adaptive routing, quadratic routing, 
+*********************************************************************
+Document:CACM-1341
+
+programming, AND, eventually, SYSTEMS which learn. 
+levels OF computer SYSTEMS 
+IN building current computer SYSTEMS, we tend 
+on the usefulness OF future SYSTEMS, particularly 
+*********************************************************************
+Document:CACM-0025
+
+general purpose programming SYSTEMS 
+cacm may, 1958 
+holt, a. w. 
+*********************************************************************
+Document:CACM-1935
+
+AND offers NEW potential FOR information retrieval SYSTEMS. 
+binary pattern, file examination, graph THEORY, information 
+randomized binary search technique 
+*********************************************************************
+Document:CACM-0597
+
+modular data processing SYSTEMS written IN cobol 
+cacm may, 1962 
+emery, j. c. 
+*********************************************************************
+Document:CACM-0018
+
+simple automatic coding SYSTEMS 
+cacm july, 1958 
+adams, e. s. 
+*********************************************************************
+Document:CACM-2479
+
+programs IN information SYSTEMS: recommended 
+addendum on information SYSTEMS administration 
+is proposed. the proposed addendum is to INCLUDE IN the curriculum 
+a course on information SYSTEMS administration. 
+*********************************************************************
+Document:CACM-0795
+
+debugging SYSTEMS at the source language level 
+cacm august, 1963 
+ferguson, h. e. 
+*********************************************************************
+Document:CACM-1572
+
+the simulation OF time sharing SYSTEMS 
+SYSTEMS has raised a number OF problems FOR 
+FOR these SYSTEMS, but appropriate software adjustments 
+must be made. unfortunately, these SYSTEMS often 
+*********************************************************************
+Document:CACM-2818
+
+SYSTEMS with interleaved memory (corrigendum) 
+interference IN multiprocessor computer 
+cacm november, 1976 
+*********************************************************************
+Document:CACM-1951
+
+operating SYSTEMS, optimization MODELS 
+FOR certain computer communications traffic MODELS 
+generally are OF INTEREST IN computer communications studies can be 
+from four operational multiaccess SYSTEMS, AND the model is shown to 
+*********************************************************************
+Document:CACM-0987
+
+processing SYSTEMS) 
+fortran vs. basic fortran (a programming language 
+FOR information processing on automatic data 
+*********************************************************************
+Document:CACM-2690
+
+a numbering SYSTEMS FOR combinations 
+cacm january, 1974 
+knott, g. d. 
+*********************************************************************
+Document:CACM-2738
+
+design OF hierarchically structured SYSTEMS 
+structured programming SYSTEMS. it develops 
+siewiorek, d. P. 
+hierarchical SYSTEMS, bottom up design, levels 
+*********************************************************************
+Document:CACM-2329
+
+science curriculum, SYSTEMS design 
+computer science-a vicious circle 
+cacm june, 1972 
+*********************************************************************
+Document:CACM-1489
+
+IN business data processing SYSTEMS, it is 
+SYSTEMS must be analyzed AND programs prepared 
+data, documentation AND decision tables 
+*********************************************************************
+Document:CACM-2317
+
+programming SYSTEMS AND languages 1965-1975 
+is a great deal OF theoretical INTEREST IN algol 68 
+SYSTEMS, AND they all ran into similar 
+INCLUDE the increased INTEREST IN the development OF 
+*********************************************************************
+Document:CACM-2985
+
+the relationship OF IN ternal pricing SYSTEMS 
+FOR computer services (chargeout SYSTEMS) AND 
+information SYSTEMS is investigated. evidence is 
+indicate that the chargeout SYSTEMS characteristic 
+*********************************************************************
+Document:CACM-3150
+
+programming, programming languages, programming SYSTEMS, SYSTEMS development 
+as computer technology matures, our growing ability to create large SYSTEMS is 
+SYSTEMS OF the complexity called FOR by the tasks we attempt. just 
+intricacies OF a machine's order code, higher level programming SYSTEMS 
+*********************************************************************
+Document:CACM-3089
+
+database RELIABILITY, file SYSTEMS, checkpoints, recovery 
+performance OF rollback recovery SYSTEMS under intermittent failures 
+procedures, checking techniques, RELIABILITY 
+*********************************************************************
+Document:CACM-1924
+
+array storage ALLOCATION, storage ALLOCATION 
+organizing matrices AND matrix operations FOR paged memory SYSTEMS 
+carefully designed matrix ALGORITHMS can lead to 
+multiplication, AND inversion ALGORITHMS shows 
+*********************************************************************
+Document:CACM-2689
+
+report generation, automated SYSTEMS design, data processing, management 
+a crt report generating system 
+cacm january, 1974 
+*********************************************************************
+Document:CACM-2852
+
+IN computer science or IN information SYSTEMS 
+adding a course on information SYSTEMS administration 
+professional programs IN information SYSTEMS. this paper 
+IN information SYSTEMS or FOR graduate professional 
+*********************************************************************
+Document:CACM-2151
+
+operating SYSTEMS, multiprogramming SYSTEMS, time-sharing 
+software SYSTEMS is followed by a description OF 
+shown how other time-sharing SYSTEMS may provide similar measuring facilities. 
+rovner, P. d. 
+*********************************************************************
+Document:CACM-1097
+
+conversion between number SYSTEMS is presented 
+an algorithm FOR converting integers from base a to base b 
+a little known, simple algorithm FOR integer 
+*********************************************************************
+Document:CACM-1247
+
+SYSTEMS. the available services INCLUDE dynamic ALLOCATION 
+computer programming SYSTEMS 
+an operating environment FOR dynamic-recursive 
+*********************************************************************
+Document:CACM-2346
+
+information THEORY, coding THEORY, hu-tucker 
+hu-tucker minimum redundancy alphabetic 
+coding method [z] (algorithm a428) 
+*********************************************************************
+Document:CACM-3076
+
+SYSTEMS which automate the transfer AND recording 
+a large scale. these SYSTEMS promise both financial 
+SYSTEMS FOR electronic funds transfer (eft) are not 
+electronic funds transfer SYSTEMS, social impacts 
+*********************************************************************
+Document:CACM-3025
+
+OF implementations to presently INCLUDE SYSTEMS covering 
+contributions to computing technology INCLUDE: 
+sharing computing SYSTEMS; transferring hardware 
+technology within dec (AND elsewhere) to minicomputer 
+*********************************************************************
+Document:CACM-2955
+
+buddy SYSTEMS 
+two ALGORITHMS are presented FOR implementing 
+any OF a class OF buddy SYSTEMS FOR dynamic storage 
+ALLOCATION. each buddy system corresponds to a set OF 
+*********************************************************************
+Document:CACM-2988
+
+IN queueing network MODELS OF computer SYSTEMS. 
+OF IN teractive computer SYSTEMS which use nonpaged memories. 
+network MODELS, IN teractive computer SYSTEMS 
+memory management AND response time 
+*********************************************************************
+Document:CACM-3026
+
+the 1100 series SYSTEMS are sperry univac's 
+large-scale main frame computer SYSTEMS. beginning 
+MODELS to the latest system, the 1100/80, introduced 
+hartley, P. 
+*********************************************************************
+Document:CACM-2262
+
+garbage collection FOR virtual memory computer SYSTEMS 
+memory SYSTEMS, AND compares them with traditional 
+IN list processing there is typically a growing 
+*********************************************************************
+Document:CACM-1880
+
+SYSTEMS, linear equations, exchange algorithm 
+chebyshev solution to an overdetermined 
+linear system (algorithm 328 [f4]) 
+*********************************************************************
+Document:CACM-1484
+
+SYSTEMS are discussed, AND a dialect OF algol which 
+is suitable FOR describing synchronous SYSTEMS is introduced. 
+addition to COMMUNICATING system specifications. 
+a language FOR describing the functions OF synchronous systems* 
+*********************************************************************
+Document:CACM-2577
+
+site data management, retrieval SYSTEMS 
+an on-site data management system application IN field archaeology 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-2198
+
+generalized data base management SYSTEMS" 
+OF generalized data base management SYSTEMS. this introduction 
+the art IN these SYSTEMS AND discusses the differences 
+host language SYSTEMS AND those found IN self-contained 
+*********************************************************************
+Document:CACM-1978
+
+with the advent OF on-line (time-sharing) computer SYSTEMS 
+on-line SYSTEMS FOR general purpose mathematical problem solving 
+have already been implemented as well as some SPECIAL purpose 
+SYSTEMS FOR solving problems IN a particular area such as ordinary 
+*********************************************************************
+Document:CACM-2435
+
+a class OF dynamic memory ALLOCATION ALGORITHMS 
+which includes both OF these SYSTEMS as SPECIAL cases. 
+anew dynamic memory ALLOCATION algorithm, the 
+dynamic storage ALLOCATION, buddy system, 
+*********************************************************************
+Document:CACM-1748
+
+a scheduling philosophy FOR multiprocessing SYSTEMS 
+design AND analysis OF multiprocessing SYSTEMS. 
+AND the nature OF basic operations on PROCESSES 
+is considered. some OF the connections between PROCESSES 
+*********************************************************************
+Document:CACM-3124
+
+trees, data-driven ALGORITHMS, THEORY OF arrays 
+between the definitional SYSTEMS are given AND illustrated through graph 
+construction OF data-driven ALGORITHMS. 
+recursive data structures IN apl 
+*********************************************************************
+Document:CACM-2476
+
+hall, P. a. v. 
+language THEORY, context-free grammars 
+equivalence between and/or graphs AND context-free grammars 
+*********************************************************************
+Document:CACM-1734
+
+SYSTEMS, linear equations, exchange algorithm 
+chebyshev solution to an overdetermined 
+linear system (algorithm 328 [f4]) 
+*********************************************************************
+Document:CACM-1324
+
+SYSTEMS which are programmed AND operating 
+are described AND reviewed. the SYSTEMS range from a conversation 
+about pictures AND SYSTEMS which translate from english 
+into logical calculi. SYSTEMS are classified 
+*********************************************************************
+Document:CACM-2504
+
+MODELS OF cognitive PROCESSES, computer music, 
+computer composition,music THEORY 
+concerning music AND computer composition IN computational linguistics 
+*********************************************************************
+Document:CACM-1967
+
+bratley, P. 
+number THEORY, prime numbers, complex numbers 
+an improved algorithm to produce complex primes (algorithm 401 $a1)) 
+*********************************************************************
+Document:CACM-2255
+
+MODELS OF cognitive PROCESSES, computer music, 
+computer composition, music THEORY 
+comments on moorer's music AND computer composition 
+*********************************************************************
+Document:CACM-3180
+
+OF alternative payment SYSTEMS such as cash, checks, credit cards, 
+AND eft TRANSACTIONS. as a result, eft SYSTEMS AND services are 
+costs OF the current u. payments system 
+*********************************************************************
+Document:CACM-0435
+
+compiler languages, multiprogram executive SYSTEMS, 
+incorporating NEW ideas into existing SYSTEMS. it 
+is presented FOR the handling OF a standard SYSTEMS 
+a decision matrix as the basis FOR a simple data input routine 
+*********************************************************************
+Document:CACM-2320
+
+operating SYSTEMS, concurrent PROCESSES, shared 
+a data structure shared by concurrent PROCESSES 
+competing PROCESSES to any degree desired. these 
+operating SYSTEMS but ALSO within user programs. 
+*********************************************************************
+Document:CACM-2950
+
+OF time-invariant ALGORITHMS, which INCLUDE most 
+scheduling ALGORITHMS, scheduling MODELS, priority, 
+scheduling ALGORITHMS based on an abstract model 
+priority. various classes OF scheduling ALGORITHMS 
+*********************************************************************
+Document:CACM-2730
+
+interactive programming SYSTEMS often contain 
+instruction regarding the use OF the various SYSTEMS 
+interactive programming, time-sharing SYSTEMS, natural 
+interactive consulting via natural language 
+*********************************************************************
+Document:CACM-1846
+
+on simulating networks OF PARALLEL PROCESSES 
+simulation, PARALLEL PROCESSES, simultaneous events, 
+event SYSTEMS, particularly computer SYSTEMS, on 
+SYSTEMS are assumed to be described as a network 
+*********************************************************************
+Document:CACM-1380
+
+programming language designed to provide a SYSTEMS 
+concise description OF discrete event SYSTEMS. a 
+simula-an algol-based simulation language 
+*********************************************************************
+Document:CACM-2672
+
+artificial intelligence, heuristic programming, MODELS 
+OF cognitive PROCESSES, computer music, computer 
+composition, music THEORY 
+emotional content considered dangerous 
+*********************************************************************
+Document:CACM-1928
+
+networks OF large AND active digital SYSTEMS 
+the elimination OF manual PROCESSES IN achieving 
+AND SYSTEMS to be simulated may be combinations OF synchronous 
+AND ASYNCHRONOUS logic. certain aspects 
+*********************************************************************
+Document:CACM-3136
+
+price/performance patterns OF u. computer SYSTEMS 
+econometric MODELS OF the u. computer market have been developed to study 
+be so over simplified as to be meaningless. multiple-regression MODELS 
+purpose computer SYSTEMS. the other market is the developing one 
+*********************************************************************

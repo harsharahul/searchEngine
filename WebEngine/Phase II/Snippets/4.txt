@@ -1,0 +1,638 @@
+Query:im interested in mechanisms for communicating between disjoint processes possibly but not exclusively in a distributed environment  i would rather see descriptions of complete mechanisms with or without implementations as opposed to theoretical work on the abstract problem  remote procedure calls and message-passing are examples of my interests
+
+Document:CACM-2377
+
+TO A call TO A companion user PROCEDURE. THE MECHANISMS 
+hardware processor MECHANISMS FOR implementing these rings 
+OF protection. THE MECHANISMS FOR implementing 
+these rings OF protection. THE MECHANISMS allow cross-ring 
+*********************************************************************
+Document:CACM-2844
+
+heaps applied TO event driven MECHANISMS 
+MECHANISMS, priority queues, heaps 
+cacm july, 1976 
+*********************************************************************
+Document:CACM-2939
+
+abstraction MECHANISMS IN clu 
+WORK IN programming methodology has led TO THE realization 
+languages, through THE PROCEDURE OR subroutine. 
+MECHANISMS that support THE use OF data AND 
+*********************************************************************
+Document:CACM-3128
+
+synchronization OF concurrent PROCESSES requires controlling THE relative 
+ordering OF events IN THE PROCESSES. 
+correctness arguments AND also simplifies implementation IN DISTRIBUTED 
+EXAMPLES OF its use ARE given. THE relationship OF THE mechanism 
+*********************************************************************
+Document:CACM-2905
+
+shown TO be COMPLETE IN THE sense that FOR every 
+DISTRIBUTED sets, this method can give RATHER sparse tables. 
+method, is NOT COMPLETE IN THE above sense, BUT it seems 
+TO give minimal (OR almost minimal) tables FOR 
+*********************************************************************
+Document:CACM-2840
+
+A model OF protection MECHANISMS IN computing 
+is argued. THE "safety" PROBLEM FOR protection systems 
+that this PROBLEM is decidable, i.e. there is an algorithm 
+harrison, m. A. 
+*********************************************************************
+Document:CACM-2558
+
+linguistic MECHANISMS which can be used TO protect 
+protection IN programming languages 
+one subprogram from another's malfunctioning 
+*********************************************************************
+Document:CACM-0483
+
+algol 60 is defined partly by formal MECHANISMS 
+stated restrictions. it is shown that no formal MECHANISMS 
+ON THE nonexistence OF A phrase structure grammar FOR algol 60 
+*********************************************************************
+Document:CACM-3043
+
+THE paper gives several EXAMPLES OF DISTRIBUTED PROCESSES 
+DISTRIBUTED PROCESSES: A concurrent programming concept 
+concurrent programming, DISTRIBUTED PROCESSES, 
+A language concept FOR concurrent PROCESSES 
+*********************************************************************
+Document:CACM-2342
+
+interference BETWEEN COMMUNICATING parallel PROCESSES 
+various kinds OF interference BETWEEN COMMUNICATING 
+parallel PROCESSES have been examined by 
+FOR THE mutual exclusion PROBLEM AND associated 
+*********************************************************************
+Document:CACM-1588
+
+COMPLETE range OF programming language operations 
+discussed. IN addition, several detailed list-processing EXAMPLES ARE provided. 
+pl/i list processing 
+*********************************************************************
+Document:CACM-2742
+
+improved event-scanning MECHANISMS FOR discrete event simulation 
+PROBLEM may be attributed IN part TO difficulties 
+PROBLEM lies IN THE fact that A significant 
+AS THE events-list scan PROBLEM becomes 
+*********************************************************************
+Document:CACM-2767
+
+simulation, time flow MECHANISMS, event list algorithm, 
+simulation, time flow MECHANISMS, event 
+A comparison OF simulation event list algorithms 
+*********************************************************************
+Document:CACM-2684
+
+systems IN providing A readable AND COMPLETE formal definition 
+TO define ABSTRACT syntax AND translations BETWEEN languages, 
+production systems: OR can we do better than bnf? 
+*********************************************************************
+Document:CACM-3188
+
+semiotics AND programming languages 
+I have based MY paper ON semiotics AND its three dimension. I should insert 
+at this point that language has many aspects AND that pragmatics, semantics AND 
+*********************************************************************
+Document:CACM-2060
+
+A variety OF programming EXAMPLES illustrates THE generality OF THE language. 
+quasi-parallel PROCESSES, AND other unorthodox control MECHANISMS. 
+gedanken-a simple typeless language based ON THE 
+principle OF completeness AND THE reference concept 
+*********************************************************************
+Document:CACM-2870
+
+this paper investigates MECHANISMS that guarantee 
+these MECHANISMS ARE examined within A mathematical framework 
+THE construction OF MECHANISMS that enforce security. 
+OF automatic program certification MECHANISMS 
+*********************************************************************
+Document:CACM-1530
+
+pdp-7 AND I. atlas 2 computers AND is intended AS A 
+own notation. this allows A COMPLETE user-oriented 
+THE ml/i macro processor 
+*********************************************************************
+Document:CACM-2895
+
+OF COMMUNICATING parallel PROCESSES is described. 
+A language FOR formal PROBLEM specification 
+PROBLEM AND THE writer priority OF THE second 
+readers/writers PROBLEM. 
+*********************************************************************
+Document:CACM-3105
+
+IN operating systems by access control MECHANISMS. this 
+languages that support THE notion OF ABSTRACT data 
+jones, A. 
+ABSTRACT data types, type checking, capabilities 
+*********************************************************************
+Document:CACM-1727
+
+I. although THE p(ij) ARE, FOR each I, proportional TO 
+object program reduction, supervisor CALLS decreasing, 
+jump frequencies, program segmentation PROBLEM 
+one way OF estimating frequencies OF jumps IN A program 
+*********************************************************************
+Document:CACM-2721
+
+BETWEEN THE ecological MECHANISMS involved, THE 
+AND, specifically, revealed THE importance OF THE annual 
+river ecosystems, ecological MECHANISMS, environmental simulation, 
+THE digital simulation OF river plankton population dynamics 
+*********************************************************************
+Document:CACM-1135
+
+into A compiler THE aspects common TO all PROCESSES 
+THE structural analysis OF THE class OF PROCESSES TO be represented 
+IN THE languages, AS OPPOSED TO emphasizing 
+it relies EXCLUSIVELY ON nonprocedural 
+*********************************************************************
+Document:CACM-1458
+
+IN THE ENVIRONMENT make necessary corresponding 
+changes IN THE PROCESSES related TO producing AND checking 
+paper THE online ENVIRONMENT AND its effect ON 
+schwartz, j. I. 
+*********************************************************************
+Document:CACM-2626
+
+THE design OF MECHANISMS TO control THE sharing 
+key MECHANISMS described include access control lists, 
+protection AND THE control OF information sharing IN multics 
+*********************************************************************
+Document:CACM-2314
+
+data communication MECHANISMS. interactive 
+AND packaging. implementation OF A generalized ENVIRONMENT 
+OF PROCEDURE invocation required include invocation 
+requirements FOR advanced programming systems FOR list processing 
+*********************************************************************
+Document:CACM-2439
+
+dtss, multiple terminals, REMOTE terminals, REMOTE 
+control IN A time-sharing ENVIRONMENT 
+system can communicate WITH many REMOTE 
+multiple terminals under user program 
+*********************************************************************
+Document:CACM-1931
+
+arithmetic (I.) can be used effectively TO bound errors 
+WITH straightforward use OF I. IN determinant 
+I. FOR determinant evaluation. an application using 
+I. determinants IN A program TO test A set OF 
+*********************************************************************
+Document:CACM-1323
+
+then this model is used AS an "ABSTRACT object language" 
+i.e. an "ABSTRACT compiler" into THE "ABSTRACT 
+A correspondence BETWEEN algol 60 AND church's lambda-notation: part i* 
+*********************************************************************
+Document:CACM-2915
+
+lee, j. A. n. 
+formal DESCRIPTIONS, fortran, cobol, pl/i, basic, 
+considerations FOR future programming language standards activities 
+*********************************************************************
+Document:CACM-3059
+
+models FOR parallel processing within programs: 
+application TO cpu:i/o AND i/o:i/o overlap 
+approximate queueing models FOR internal parallel 
+*********************************************************************
+Document:CACM-2916
+
+THE location, "I," OF THE first occurrence OF A 
+inspected (ON THE average) decreases AS A 
+I. furthermore, THE algorithm has been implemented 
+so that (ON THE average) fewer than i+patlen machine 
+*********************************************************************
+Document:CACM-2936
+
+simulation, time flow MECHANISMS, event 
+scanning MECHANISMS, multilinked lists 
+an efficient data structure FOR THE simulation event set 
+*********************************************************************
+Document:CACM-1584
+
+PROCEDURE FOR THE normal distribution functions (algorithm 272 [s15]) 
+hill, I. d. 
+joyce, s. A. 
+*********************************************************************
+Document:CACM-2534
+
+OF diagnostic assistance IN A batch processing ENVIRONMENT. 
+design AND implementation OF A diagnostic compiler FOR pl/i 
+pl/c is A compiler FOR A dialect FOR pl/i. THE 
+*********************************************************************
+Document:CACM-1606
+
+hill, I. d. 
+chi-squared integral (algorithm 299 [s15]) 
+cacm april, 1967 
+*********************************************************************
+Document:CACM-1378
+
+hill, I. d. 
+pseudo-random numbers (algorithm 266 [g5]) 
+cacm september, 1966 
+*********************************************************************
+Document:CACM-1190
+
+hill, I. d. 
+pseudo-random numbers (algorithm 266 [g5]) 
+cacm october, 1965 
+*********************************************************************
+Document:CACM-3072
+
+used ARE THE data-flow rates FOR THE PROCESSES 
+(AS measured by user cpu time) over that given by optimal 
+feedback coupled resource allocation policies 
+IN THE multiprogramming- multiprocessor computer 
+*********************************************************************
+Document:CACM-1575
+
+hill, I. d. 
+incomplete beta ratio (algorithm 179 [s14]) 
+cacm june, 1967 
+*********************************************************************
+Document:CACM-1166
+
+OF macro CALLS ARE required TO supply arguments 
+by generating CALLS TO i/o simulation subroutines. 
+A use OF macros IN translation OF symbolic 
+assembly language OF one computer TO another 
+*********************************************************************
+Document:CACM-2448
+
+reversible execution 
+cacm september, 1973 
+zelkowitz, m. v. 
+*********************************************************************
+Document:CACM-2632
+
+called an "object". MECHANISMS ARE presented 
+type OF object. THE MECHANISMS provide A coherent 
+jones, A. 
+hydra: THE kernel OF A multiprocessor operating system 
+*********************************************************************
+Document:CACM-3056
+
+OR software used FOR THE monitoring OF experiments OR PROCESSES. 
+counting large numbers OF events IN small registers 
+it is possible TO use A small counter TO keep 
+*********************************************************************
+Document:CACM-0526
+
+pyle, I. c. 
+character manipulation IN fortran 
+cacm august, 1962 
+*********************************************************************
+Document:CACM-0880
+
+farkas, I. 
+newton interpolation WITH backward divided differences 
+cacm april, 1963 
+*********************************************************************
+Document:CACM-1519
+
+I. 1900, AND can handle A large number OF online console 
+strauss, j. I. 
+george 3-a general purpose time sharing AND operating system 
+*********************************************************************
+Document:CACM-0171
+
+digital computers IN universities (part I) 
+cacm july, 1960 
+reeves, r. f. 
+*********************************************************************
+Document:CACM-1407
+
+hill, I. d. 
+confidence interval FOR A ratio (algorithm 289 [g1]) 
+cacm july, 1966 
+*********************************************************************
+Document:CACM-0879
+
+farkas, I. 
+newton interpolation WITH forward divided differences (algorithm 169) 
+cacm april, 1963 
+*********************************************************************
+Document:CACM-1943
+
+COMPLETE elliptic integrals (algorithm 165 [s21]) 
+farkas, I. 
+special functions, COMPLETE elliptic integral 
+OF THE first kind, COMPLETE elliptic integral OF 
+*********************************************************************
+Document:CACM-1569
+
+IN A pl/i PROCEDURE whose structure AND statements parallel 
+implementing phrase-structure productions IN pl/i 
+A method is described FOR implementing THE productions 
+*********************************************************************
+Document:CACM-0584
+
+rabinowitz, I. n. 
+report ON THE algorithmic language fortran ii 
+cacm june, 1962 
+*********************************************************************
+Document:CACM-2536
+
+varied REMOTE terminal access TO A large scale 
+vastly simplifies THE PROBLEM. A specific implementation is 
+processor, REMOTE job entry, REMOTE terminals 
+telecommunications using A front-end minicomputer 
+*********************************************************************
+Document:CACM-1824
+
+aparel-a parse-request language 
+aparel is described: this language is an extension 
+TO an algorithmic language (pl/i) that provides 
+*********************************************************************
+Document:CACM-2848
+
+PROCESSES TO be automated. THE result OF such an interview 
+is NOT A structure OF COMPLETE decision tables 
+paper is TO provide A PROCEDURE FOR synthesizing 
+A structure OF COMPLETE decision tables. 
+*********************************************************************
+Document:CACM-1301
+
+zaremba, w. A. 
+ON algol i/o conventions 
+cacm march, 1965 
+*********************************************************************
+Document:CACM-2449
+
+solution TO A PROBLEM which is currently handled 
+poplawski, d. A. 
+A simple technique FOR structured variable lookup 
+*********************************************************************
+Document:CACM-3020
+
+PROCEDURE linkage, PROCEDURE integration 
+AND TO obtain measurements OF THE cost OF PROCEDURE 
+linkage IN pl/i AND THE savings achievable via PROCEDURE 
+systematic recursion removal 
+*********************************************************************
+Document:CACM-2473
+
+macleod, I. d. g. 
+collins, A. m. 
+hidden-line plotting program (algorithm r420) 
+*********************************************************************
+Document:CACM-0069
+
+A collection is given OF brief DESCRIPTIONS 
+statistical programs FOR THE ibm 650-part I 
+OF statistical programs now IN use IN university 
+*********************************************************************
+Document:CACM-1062
+
+strings from (I) input strings which have been analyzed 
+symbol manipulation IN fortran-sasp I subroutines 
+A set OF subroutines FOR use IN fortran ARE 
+*********************************************************************
+Document:CACM-2199
+
+A sparse matrix package (part I) [f4] (algorithm 408) 
+cacm april, 1971 
+mcnamee, j. m. 
+*********************************************************************
+Document:CACM-1485
+
+programming language ARE identified AS: (1) THE 
+elementary program statement, (2) MECHANISMS FOR linking 
+also described, compared AND evaluated. many EXAMPLES, 
+THE structure OF programming languages 
+*********************************************************************
+Document:CACM-3028
+
+ferranti, manchester mark I, atlas, icl 
+THE manchester mark I AND atlas: A his torical perspective 
+IN 30 years OF computer design at manchester university 
+*********************************************************************
+Document:CACM-2705
+
+ABSTRACT constructs. by analogy WITH incidents 
+avenues FOR further WORK OF wide influence ARE 
+programming languages, natural languages, AND mathematics 
+*********************************************************************
+Document:CACM-0648
+
+flores, I. 
+sorting procedures (algorithm 76) 
+cacm january, 1962 
+*********************************************************************
+Document:CACM-0616
+
+first phase OF THE WORK OF THE language structure 
+group. THE goal OF this WORK is TO arrive at A proper 
+will be read (A) WITH avid interest by programming language 
+IN this report. RATHER, they have tried TO present 
+*********************************************************************
+Document:CACM-1012
+
+g = (v,u,t,r) consists OF two finite DISJOINT 
+vocabulary I, input vocabulary t, AND all productions 
+greibach, s. A. 
+formal parsing systems 
+*********************************************************************
+Document:CACM-1343
+
+farkas, I. 
+havie integrator (algorithm 257 [d1]) 
+cacm december, 1966 
+*********************************************************************
+Document:CACM-1665
+
+MECHANISMS based upon an ordered sequence 
+ackley, s. I. 
+automatic generation OF efficient lexical 
+processors using finite state techniques 
+*********************************************************************
+Document:CACM-2969
+
+an optimization PROCEDURE FOR THE allocation 
+model. A search PROCEDURE FOR THE file location 
+PROBLEM is described, along WITH an example 
+computer networks, databases, DISTRIBUTED 
+*********************************************************************
+Document:CACM-0204
+
+proving theorems by pattern recognition I 
+cacm april, 1960 
+wang, h. 
+*********************************************************************
+Document:CACM-1165
+
+benjamin, r. I. 
+THE spectra 70/45 emulator FOR THE rca 301 
+THE rca 301 emulator system is supplied WITH 
+*********************************************************************
+Document:CACM-1463
+
+paper ON THE em concepts, AND TO, finally, trace 
+THE employment OF linkage MECHANISMS through 
+more ON extensible machines 
+*********************************************************************
+Document:CACM-0967
+
+clausen, I. 
+complementary error function (algorithm 181 [s15]) 
+cacm december, 1964 
+*********************************************************************
+Document:CACM-0201
+
+bessel funtion I, series expansion (algorithm 5) 
+cacm april, 1960 
+clarke, d. s. 
+*********************************************************************
+Document:CACM-0200
+
+bessel function I, asymptotic expansion (algorithm 6) 
+cacm april, 1960 
+clarke, d. s. 
+*********************************************************************
+Document:CACM-0018
+
+schlesinger, s. I. 
+simple automatic coding systems 
+cacm july, 1958 
+*********************************************************************
+Document:CACM-3103
+
+maintaining programs. when programs ARE designed WITH ABSTRACT 
+purpose implementation FOR an ABSTRACT type. 
+thus THE programs produced using ABSTRACT types were 
+A system FOR automatically choosing efficient IMPLEMENTATIONS 
+*********************************************************************
+Document:CACM-2100
+
+barrodale, I. 
+ortho (algorithm 127 $f5)) 
+cacm february, 1970 
+*********************************************************************
+Document:CACM-2381
+
+flores, I. 
+average binary search length FOR dense ordered lists (corrigendum) 
+cacm february, 1972 
+*********************************************************************
+Document:CACM-3057
+
+this paper investigates THE PROBLEM OF optimal 
+TO this PROBLEM. A tree search algorithm FOR 
+is dropped, then THE PROBLEM becomes np-complete, 
+packing PROBLEM, tree searching algorithm, 
+*********************************************************************
+Document:CACM-0749
+
+dumey, A. I. 
+note onstochastic matrices 
+cacm september, 1963 
+*********************************************************************
+Document:CACM-3049
+
+sembegs is A COMPLETE batch ENVIRONMENT graphical 
+ENVIRONMENT graphical system (sembegs) 
+growing needs OF A large batch ENVIRONMENT, AND is even 
+system (bagdams) which provides A common means OF COMMUNICATING 
+*********************************************************************
+Document:CACM-0043
+
+greenwald, I. d. 
+A technique FOR handling macro instructions 
+cacm november, 1959 
+*********************************************************************
+Document:CACM-1677
+
+addressing MECHANISMS, paging, segmentation, file 
+storage organization IN programming systems 
+THE system OF program AND data representation 
+*********************************************************************
+Document:CACM-1057
+
+hoffman, I. A. 
+critical path scheduling (algorithm 40) 
+cacm june, 1964 
+*********************************************************************
+Document:CACM-2541
+
+communication MECHANISMS enabling THE construction 
+an overview OF THE ispl computer system design 
+this paper explores THE advantages OF THE concurrent 
+*********************************************************************
+Document:CACM-3064
+
+THE familiar PROBLEM OF event scheduling efficiency 
+THE second part deals WITH THE less apparent PROBLEM 
+event simulation, time-flow MECHANISMS 
+event manipulation FOR discrete simulations 
+*********************************************************************
+Document:CACM-0452
+
+nesting OF FOR statement I (algorithm 137) 
+cacm november, 1962 
+dahm, d. m. 
+*********************************************************************
+Document:CACM-0225
+
+greenwald, I. d. 
+A techniquefor handling macro instructions (corrigendum) 
+cacm february, 1960 
+*********************************************************************
+Document:CACM-1159
+
+machine-independence PROBLEM is being substantially 
+halpern, m. I. 
+machine independence: its technology AND economics 
+*********************************************************************
+Document:CACM-1582
+
+hill, I. d. 
+joyce, s. A. 
+gauss (algorithm 209 [s15]) 
+*********************************************************************
+Document:CACM-2157
+
+flores, I. 
+average binary search length FOR dense ordered lists 
+cacm september, 1971 
+*********************************************************************
+Document:CACM-2406
+
+AS IN advanced data management systems AND DISTRIBUTED 
+data bases. this paper reviews past WORK IN THE data 
+A data definition AND mapping language 
+*********************************************************************
+Document:CACM-1400
+
+blum, r. I. 
+free-text inputs TO utility routines 
+through THE use OF some RATHER simple techniques, 
+*********************************************************************
+Document:CACM-1585
+
+hill, I. d. 
+joyce, s. A. 
+normal curve integral (algorithm 304 [s15]) 
+*********************************************************************
+Document:CACM-1583
+
+hill, I. d. 
+joyce, s. A. 
+normal distribution function (algorithm 226 [s15]) 
+*********************************************************************
+Document:CACM-1580
+
+hill, I. d. 
+joyce, s. A. 
+error function-large x (algorithm 180 [s15]) 
+*********************************************************************

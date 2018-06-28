@@ -1,0 +1,650 @@
+Query:id like to find articles describing graph algorithms that are based on the eigenvalue decomposition or singular value decomposition of the ajacency matrix for the graph  im especially interested in any heuristic algorithms for graph coloring and graph isomorphism using this method
+
+Document:CACM-2177
+
+GRAPH. THE GRAPH may be represented either (i) as an 
+an algorithm FOR THE blocks AND cutnodes OF a GRAPH 
+an efficient METHOD is presented FOR finding 
+MATRIX. if w denotes THE word length OF THE machine 
+*********************************************************************
+Document:CACM-2630
+
+IN a directed GRAPH. these ALGORITHMS generalize THE floyd 
+ON computing sets OF shortest paths IN a GRAPH 
+two ALGORITHMS ARE presented THAT construct 
+THE shortest path between every pair OF vertices IN a directed GRAPH. 
+*********************************************************************
+Document:CACM-3139
+
+upon THE comparison OF THE degrees AND structure OF a GRAPH. a METHOD 
+new methods TO color THE vertices OF a GRAPH 
+THIS paper describes efficient new HEURISTIC 
+methods TO color THE vertices OF a GRAPH which rely 
+*********************************************************************
+Document:CACM-2368
+
+GRAPH ALGORITHMS, GRAPH processing, shannon switching 
+an implemented GRAPH algorithm FOR winning shannon switching games 
+is a good example OF THE implementation OF GRAPH 
+ALGORITHMS. THE two players IN a shannon switching game, 
+*********************************************************************
+Document:CACM-2490
+
+graphs,analysis OF ALGORITHMS, GRAPH manipulation 
+efficient ALGORITHMS FOR GRAPH manipulation [h] (algorithm a447) 
+efficient ALGORITHMS ARE presented FOR partitioning 
+a GRAPH into connected components, biconnected 
+*********************************************************************
+Document:CACM-2290
+
+immediate predominators IN a directed GRAPH [h] (algorithm a430) 
+predominator, immediate predominator, GRAPH theory, 
+directed GRAPH, shortest path, articulation, 
+*********************************************************************
+Document:CACM-2172
+
+GRAPH plotter [j6] (algorithm 412) 
+plot, GRAPH, line printer plot 
+cacm july, 1971 
+*********************************************************************
+Document:CACM-2934
+
+comment ON computing THE k shortest paths IN a GRAPH 
+GRAPH, network, shortest path, algorithm, ranking 
+cacm august, 1977 
+*********************************************************************
+Document:CACM-2289
+
+cellular arrays FOR THE solution OF GRAPH problems 
+(OR cells), where each cell contains a few bits OF 
+OF many GRAPH problems. FOR example, THE adjacency 
+MATRIX OF a GRAPH is easily mapped onto an array; 
+*********************************************************************
+Document:CACM-2430
+
+THE elementary circuits OF a GRAPH [h] (algorithm a459) 
+algorithm, GRAPH theory, circuit search 
+cacm october, 1973 
+*********************************************************************
+Document:CACM-2752
+
+generation OF all THE cycles OF a GRAPH from 
+basic cycle, cycle, GRAPH 
+a set OF basic cycles [h] (algorithm 492) 
+*********************************************************************
+Document:CACM-2484
+
+can be represented by a tree OR GRAPH, it is quite 
+base as THAT OF constructing a tree OR a GRAPH. 
+IN THIS general construction METHOD; namely, a set OF 
+different relations AND ALGORITHMS results IN different 
+*********************************************************************
+Document:CACM-1847
+
+an algorithm FOR finding a fundamental set OF cycles OF a GRAPH 
+a fast METHOD is presented FOR finding a fundamental 
+GRAPH. a spanning tree is grown AND THE vertices examined 
+edges (v,z) OF THE GRAPH FOR which z has not yet 
+*********************************************************************
+Document:CACM-2052
+
+conflicts IN scheduling can be treated as defining an undirected linear GRAPH 
+constraints OF time AND space. each connected component OF such a GRAPH, 
+allocation, conflict MATRIX, connected component, scheduling, spanning 
+tree, undirected linear GRAPH 
+*********************************************************************
+Document:CACM-3156
+
+we present a parallel algorithm which uses n2 processors TO FIND THE connected 
+components OF an undirected GRAPH with n vertices IN time o(log2n). an 
+THE algorithm can be used TO FIND THE transitive closure 
+OF a symmetric boolean MATRIX. we assume THAT THE processors have 
+*********************************************************************
+Document:CACM-1961
+
+which uses an exhaustive search TO FIND all OF THE elementary 
+IN THE GRAPH TO give a relation between speed AND complexity. 
+algorithm, GRAPH theory, circuit search 
+an efficient search algorithm TO FIND THE elementary circuits OF a GRAPH 
+*********************************************************************
+Document:CACM-2461
+
+GRAPH plotter (algorithm r412) 
+cacm august, 1973 
+watkins, r. p. 
+*********************************************************************
+Document:CACM-1481
+
+GRAPH plotter (algorithm 278 [j6]) 
+cacm february, 1966 
+lloyd, p. 
+*********************************************************************
+Document:CACM-2619
+
+GRAPH COLORING conditions FOR THE existence 
+OF a GRAPH. THE preconditions correspond TO THE unavailability 
+OF a coloration OF a GRAPH is THE required necessary 
+OF solutions TO THE timetable problem 
+*********************************************************************
+Document:CACM-2980
+
+OF THE region adjacency GRAPH. THE scheme 
+editing is equivalent TO fast GRAPH operations. a number OF examples ARE shown. 
+is BASED ON definitions OF GRAPH properties which ARE 
+THE editing OF picture segmentations USING local analysis OF graphs 
+*********************************************************************
+Document:CACM-2015
+
+given a precedence grammar. a GRAPH formulation is used FOR THE problem OF 
+inverse-arborescence OF THAT GRAPH. THE validity OF THE technique is 
+merger algorithm, minimum cost inverse-arborescence, GRAPH theory 
+a technique FOR generating almost optimal 
+*********************************************************************
+Document:CACM-2059
+
+a language FOR THE representation OF GRAPH is described, AND THE formulation OF 
+GRAPH operations such as node and/or link deletion OR insertion, union, 
+colored GRAPH, language extended algol, 
+a language FOR treating graphs 
+*********************************************************************
+Document:CACM-2790
+
+THE elementary circuits OF a GRAPH (algorithm r459) 
+cacm february, 1975 
+syslo, m. m. 
+*********************************************************************
+Document:CACM-1983
+
+GRAPH, tree, spanning tree 
+spanning tree $h) (algorithm 399) 
+cacm october, 1970 
+*********************************************************************
+Document:CACM-2763
+
+GRAPH, basic cycles,fundamental cycle, 
+spanning tree, vertex adjacency MATRIX 
+basic cycle generation [h] (algorithm 491) 
+*********************************************************************
+Document:CACM-2883
+
+can be solved USING well-known GRAPH search ALGORITHMS. 
+an application OF HEURISTIC search methods TO edge AND contour detection 
+THIS paper presents a METHOD FOR detecting edges 
+as a shortest path problem ON a GRAPH AND 
+*********************************************************************
+Document:CACM-2877
+
+possibly "reach" each node OF THE control flow GRAPH 
+"live" ON each edge OF THE GRAPH. THE procedure uses 
+flow graphs, ALGORITHMS, compilers 
+a program data flow analysis procedure 
+*********************************************************************
+Document:CACM-2161
+
+an algorithm FOR THE blocks AND cutnodes OF a GRAPH (corrigendum) 
+cacm september, 1971 
+paton, k. 
+*********************************************************************
+Document:CACM-1822
+
+shortest path, tree, network, directed GRAPH 
+shortest-path forest with topological ordering (algorithm [h]) 
+cacm november, 1969 
+*********************************************************************
+Document:CACM-1504
+
+ALGORITHMS FOR finding a fundamental set 
+OF cycles FOR an undirected linear GRAPH 
+given THE adjacency MATRIX OF THE GRAPH, THE algorithm 
+*********************************************************************
+Document:CACM-2178
+
+a language extension FOR GRAPH processing AND its formal semantics 
+graspe consists OF a type OF directed GRAPH data structure 
+is placed both ON graspe itself AND ON its METHOD OF 
+OF THE meaning TO be assigned them (THE 
+*********************************************************************
+Document:CACM-1563
+
+a METHOD FOR finding hamilton paths AND knight's tours 
+problem OF finding a hamilton path IN a GRAPH. a graph-theoretic 
+justification FOR THE METHOD is given. 
+*********************************************************************
+Document:CACM-3018
+
+between THIS edge-clique-cover problem AND THE GRAPH COLORING 
+kellerman has presented a METHOD FOR determining 
+keyword conflicts AND described a HEURISTIC 
+problem IN connection with THIS METHOD. 
+*********************************************************************
+Document:CACM-2444
+
+finding all cliques OF an undirected GRAPH (algorithm a457) 
+cacm september, 1973 
+bron, c. 
+*********************************************************************
+Document:CACM-2695
+
+tridiagonalizing a MATRIX by similarity transformations 
+a GRAPH theoretic algorithm which examines an arbitrary 
+n x n MATRIX AND determines whether OR not it 
+if THE MATRIX is permutable into tridiagonal form, 
+*********************************************************************
+Document:CACM-3040
+
+networks, constraint satisfaction, GRAPH COLORING, 
+backtrack, combinatorial ALGORITHMS, constraint 
+synthesizing constraint expressions 
+*********************************************************************
+Document:CACM-2568
+
+a GRAPH formulation OF a school scheduling algorithm 
+THE problem classically titled "THE examination 
+nondirected network, GRAPH, subgraph, strongly 
+*********************************************************************
+Document:CACM-2701
+
+FOR a GRAPH OF e edges, THE algorithm has a 
+analysis, information propagation, flow GRAPH, reducibility, 
+a fast AND usually linear algorithm FOR global 
+flow analysis (abstract only--complete paper jacm 
+*********************************************************************
+Document:CACM-2769
+
+MATRIX, directed GRAPH, digraph, boolean 
+by a boolean MATRIX. THE algorithm is similar TO warshall's 
+MATRIX, binary relation 
+a modification OF warshall's algorithm FOR 
+*********************************************************************
+Document:CACM-1432
+
+OR unit number. THIS METHOD was used TO control output 
+OF alphanumeric information ON a digital GRAPH 
+incorporation OF nonstandard input/output devices into fortran systems 
+*********************************************************************
+Document:CACM-2155
+
+FOR DESCRIBING THE semantics OF data structures. 
+THIS is BASED ON directed graphs with named edges AND 
+data structures, GRAPH, implementation, 
+toward an understanding OF data structures 
+*********************************************************************
+Document:CACM-3124
+
+between THE definitional systems ARE given AND illustrated through GRAPH 
+construction OF data-driven ALGORITHMS. 
+trees, data-driven ALGORITHMS, theory OF arrays 
+recursive data structures IN apl 
+*********************************************************************
+Document:CACM-1935
+
+THE search METHOD described is binary IN nature 
+binary pattern, file examination, GRAPH theory, information 
+probabilistic METHOD, random sequencing, search techniques, tree structures 
+randomized binary search technique 
+*********************************************************************
+Document:CACM-2189
+
+is described. IN a nonoriented complete GRAPH with 
+THE permutation is determined by {e[k]}. two ALGORITHMS 
+permutation, GRAPH theory, scheduling, combinatorial algebra 
+generation OF rosary permutations expressed IN hamiltonian circuits 
+*********************************************************************
+Document:CACM-3164
+
+maintains a GRAPH IN an acyclic state. when a request creates a cycle, 
+nodes ARE, "detached" until THE new ARE can be entered acyclically 
+OF actions. two pad ALGORITHMS ARE presented; one uses a simple 
+path MATRIX representation AND THE other uses a list with an 
+*********************************************************************
+Document:CACM-1934
+
+arithmetic expression, compiler design, GRAPH theory, 
+ON arithmetic expressions AND trees 
+a description is given OF how a tree representing THE 
+*********************************************************************
+Document:CACM-1839
+
+SINGULAR values, MATRIX DECOMPOSITION, 
+SINGULAR VALUE DECOMPOSITION OF a complex 
+MATRIX (algorithm 358 [f1, 4,5]) 
+*********************************************************************
+Document:CACM-3100
+
+a METHOD FOR inducing knowledge by abstraction 
+THE proposed METHOD, interference matching, induces abstractions 
+matching, interference, GRAPH matching, learning, 
+an interference matching technique FOR inducing abstractions 
+*********************************************************************
+Document:CACM-2986
+
+MATRIX, directed GRAPH, wirth-weber precedence 
+functions IN O(N) steps, where n is THE size OF 
+a grammer. THE heart OF THE ALGORITHMS is a general 
+operations ON sparse relations 
+*********************************************************************
+Document:CACM-1947
+
+fortran, GRAPH theory, loop structure, machine 
+object code optimization 
+methods OF analyzing THE control flow AND data 
+*********************************************************************
+Document:CACM-3125
+
+information OR restrictions ON THE shape OF THE program GRAPH. 
+global optimization by suppression OF partial redundancies 
+THE elimination OF redundant computations AND THE moving OF invariant 
+*********************************************************************
+Document:CACM-3172
+
+polyhedral obstacles, GRAPH searching, growing objects 
+an algorithm FOR planning collision-free 
+paths among polyhedral obstacles 
+*********************************************************************
+Document:CACM-1828
+
+can be represented as a GRAPH. an example OF such 
+synchronization IN a parallel-accessed data base 
+THE following problem is considered: given 
+*********************************************************************
+Document:CACM-2125
+
+a METHOD FOR extracting a smooth polygonal 
+THE ordered sequence OF contour points AND THE connection GRAPH OF 
+a note ON minimal length polygonal approximation TO a digitized contour 
+*********************************************************************
+Document:CACM-1456
+
+storage AND retrieval OF aspects OF meaning IN directed GRAPH structures 
+important conclusion is THAT, although lisp AND 
+an experimental system THAT uses lisp TO make 
+*********************************************************************
+Document:CACM-1529
+
+TO compare THE primal AND primal-dual DECOMPOSITION 
+ALGORITHMS. IN THE course OF THE analysis, a substructure 
+relative performance OF THE two ALGORITHMS AND TO their 
+primal-simplex solution without DECOMPOSITION. 
+*********************************************************************
+Document:CACM-1925
+
+geometrical properties, GRAPH OF contour 
+concepts OF use IN contour map processing 
+generalized techniques whose use can simplify 
+*********************************************************************
+Document:CACM-1727
+
+i. although THE p(ij) ARE, FOR each i, proportional TO 
+program correspondence, program GRAPH, one-entry 
+one way OF estimating frequencies OF jumps IN a program 
+*********************************************************************
+Document:CACM-3008
+
+arrays, GRAPH embedding, linear lists, 
+preserving average proximity IN arrays 
+programmers AND data structure designers ARE often 
+*********************************************************************
+Document:CACM-2195
+
+is presented. IN THIS technique THE HEURISTIC 
+THE METHOD described is suitable FOR parallel 
+OF stages is equal TO THE length n OF THE curves (OR 
+TO log2 n if THE approximate METHOD is used). 
+*********************************************************************
+Document:CACM-2923
+
+THIS paper proposes a simple general METHOD 
+flow GRAPH, structured programming, escapes, exits, 
+high-level data flow analysis 
+*********************************************************************
+Document:CACM-2920
+
+THE bipartite GRAPH representation OF THIS game may 
+game interpretation OF THE deadlock avoidance problem 
+THE deadlock avoidance problem may be defined 
+*********************************************************************
+Document:CACM-2925
+
+toroidal GRAPH. a new fast algorithm FOR finding such 
+DESCRIBING a human head is included. 
+optimal surface reconstruction from planar contours 
+*********************************************************************
+Document:CACM-1905
+
+upon forming THE inverse OF THE basic MATRIX AND updating 
+THE inverse after every step OF THE METHOD. 
+basic MATRIX. THE implementation is slow, but has good 
+FOR an implementation which is BASED upon THE lu DECOMPOSITION, 
+*********************************************************************
+Document:CACM-1899
+
+simplex METHOD procedure employing lu DECOMPOSITION (algorithm 350 [h]) 
+simplex METHOD, linear programming, lu DECOMPOSITION, 
+cacm may, 1969 
+*********************************************************************
+Document:CACM-1791
+
+MATRIX DECOMPOSITION, MATRIX factors, 
+MATRIX modifier, MATRIX perturbation 
+triangular factors OF modified matrices (algorithm 319 [f1]) 
+*********************************************************************
+Document:CACM-3059
+
+is developed by network DECOMPOSITION. THE 
+models FOR parallel processing within programs: 
+application TO cpu:i/o AND i/o:i/o overlap 
+*********************************************************************
+Document:CACM-2408
+
+a direct versus a semidirect METHOD 
+ARE compared. one METHOD is direct, USING 
+eigenvalue-eigenvector DECOMPOSITION. THE other METHOD 
+biharmonic, direct METHOD, block iterative, 
+*********************************************************************
+Document:CACM-2520
+
+proof OF ALGORITHMS, greatest common divisor, 
+euclidean algorithm, inductive assertion METHOD 
+greatest common divisor OF n integers AND multipliers (algorithm c386) 
+*********************************************************************
+Document:CACM-1373
+
+gamma function; logarithm OF gamma function (ALGORITHMS 
+gamma function; gamma function FOR range 1 TO 
+2; reciprocal gamma function TO real argument; 
+34[s14]; 54[s14]; 80[s14]; 221[s14]; 291[s14]) 
+*********************************************************************
+Document:CACM-2697
+
+a fast METHOD FOR solving a class OF tridiagonal linear systems 
+proved THAT THE diagonals OF THE lu DECOMPOSITION 
+proved THAT THE computed lu DECOMPOSITION converges 
+k is much less than n, THE order OF THE MATRIX. if THE 
+*********************************************************************
+Document:CACM-2819
+
+THE METHOD is general, AND applies equally well TO 
+two ALGORITHMS FOR encoding a string differ 
+TO FIND an optimal set OF codes FOR representing 
+substrings OF THE file. four new ALGORITHMS FOR THIS 
+*********************************************************************
+Document:CACM-1924
+
+carefully designed MATRIX ALGORITHMS can lead TO 
+MATRIX ALGORITHMS, array processing, paging ALGORITHMS, 
+organizing matrices AND MATRIX operations FOR paged memory systems 
+MATRIX representations AND operations ARE examined 
+*********************************************************************
+Document:CACM-1551
+
+ON compiling ALGORITHMS FOR arithmetic expressions 
+THIS paper deals with ALGORITHMS concerning arithmetic 
+ALGORITHMS generate an object code which minimizes 
+*********************************************************************
+Document:CACM-2771
+
+added together OR subtracted. two ALGORITHMS TO 
+THE synthesis OF solids bounded by many faces 
+a technique is presented which allows a class 
+*********************************************************************
+Document:CACM-3153
+
+THE context OF a paged computer system. two parameterized ALGORITHMS 
+OF processor time devoted TO each class. applying a DECOMPOSITION 
+alocation parameters ON THE expected response times under THE two ALGORITHMS. 
+THE control OF response times IN multi-class 
+*********************************************************************
+Document:CACM-2275
+
+by USING SINGULAR VALUE DECOMPOSITION; (3) constrain 
+constraints, SINGULAR VALUE analysis 
+integral equations OF immunology 
+*********************************************************************
+Document:CACM-1172
+
+two such ALGORITHMS, BASED ON work done by m. s. 
+decision tables ARE useful FOR DESCRIBING a 
+set OF complex decision rules BASED ON given sets 
+OF conditions. ALGORITHMS THAT can efficiently convert 
+*********************************************************************
+Document:CACM-2646
+
+THIS paper presents THE background AND ALGORITHMS 
+these ALGORITHMS ARE restricted TO classes 
+MATRIX AND partial differential equation methods ARE 
+a model FOR masking rotational latency by dynamic disk allocation 
+*********************************************************************
+Document:CACM-2199
+
+MATRIX, sparse MATRIX, MATRIX manipulation 
+a sparse MATRIX package (part i) [f4] (algorithm 408) 
+cacm april, 1971 
+*********************************************************************
+Document:CACM-2337
+
+ALGORITHMS is given. one new algorithm FOR 
+a sorting problem AND its complexity 
+a technique FOR proving min-max norms OF sorting 
+*********************************************************************
+Document:CACM-1145
+
+git-a HEURISTIC program FOR testing pairs 
+FOR. THE situation is similar TO THAT prevailing 
+practical ALGORITHMS ARE unknown (FOR THE interesting 
+ISOMORPHISM tester-incorporates a variety OF processes 
+*********************************************************************
+Document:CACM-2856
+
+programs have been BASED ON DECOMPOSITION. at ANY 
+THE synthetic approach TO decision table conversion 
+previous approaches TO THE problem OF automatically 
+*********************************************************************
+Document:CACM-2606
+
+equations BASED ON continued fraction approximations 
+ALGORITHMS. THE new algorithm is a step-by-step procedure 
+series expansions. THE new METHOD is compared with 
+gragg-bulirsh-stoer, AND THE taylor series METHOD. 
+*********************************************************************
+Document:CACM-1931
+
+IN MATRIX computations. IN THE present paper 
+a METHOD proposed by hasen AND r. r. smith is compared 
+interval arithmetic determinant evaluation 
+AND its use IN testing FOR a chebyshev system 
+*********************************************************************
+Document:CACM-2392
+
+in-situ transposition OF a rectangular MATRIX [f1] (algorithm c380) 
+rectangular MATRIX, transpose 
+cacm january, 1972 
+*********************************************************************
+Document:CACM-2968
+
+a comparison OF tree-balancing ALGORITHMS 
+path length, analysis OF ALGORITHMS, information 
+several algorithms-height-balance (i.e. avl 
+*********************************************************************
+Document:CACM-1881
+
+MATRIX transposition, array transposition, vector stored array 
+transpose vector stored array (algorithm 302 [k2]) 
+cacm june, 1969 
+*********************************************************************
+Document:CACM-0452
+
+nesting OF FOR statement i (algorithm 137) 
+cacm november, 1962 
+dahm, d. m. 
+*********************************************************************
+Document:CACM-1407
+
+confidence interval FOR a ratio (algorithm 289 [g1]) 
+cacm july, 1966 
+hill, i. d. 
+*********************************************************************
+Document:CACM-1821
+
+permanent function OF a square MATRIX i AND ii (algorithm 361 [g6]) 
+MATRIX, permanent, determinant 
+cacm november, 1969 
+*********************************************************************
+Document:CACM-2273
+
+entry tables. THE ALGORITHMS ARE BASED ON THE 
+conversion OF decision tables by rule mask METHOD without rule mask 
+two ALGORITHMS FOR generating computer programs 
+from decision tables ARE described. THE ALGORITHMS 
+*********************************************************************
+Document:CACM-2902
+
+ALGORITHMS. simple ALGORITHMS operating ON memory ordered 
+35 dynamic memory allocation ALGORITHMS when used 
+fragmentation. ALGORITHMS main taining separate 
+well. ALGORITHMS employing power-of-two block sizes 
+*********************************************************************
+Document:CACM-2039
+
+permanent function OF a square MATRIX i AND ii (algorithm 361 $g6)) 
+MATRIX, permanent, determinant 
+cacm june, 1970 
+*********************************************************************
+Document:CACM-1886
+
+computationally feasible, HEURISTIC procedures ARE 
+necessarily generated. THE factorization ALGORITHMS 
+factorization ALGORITHMS, code optimization, sequencing 
+generation OF optimal code FOR expressions via factorization 
+*********************************************************************
+Document:CACM-1721
+
+MATRIX iteration, SINGULAR points, nonlinear differential 
+a new METHOD is proposed TO calculate THE intersection 
+OF SINGULAR points off a system OF two differential equations 
+is used IN developing THE METHOD. THE intersection 
+*********************************************************************
+Document:CACM-1606
+
+chi-squared integral (algorithm 299 [s15]) 
+cacm april, 1967 
+hill, i. d. 
+*********************************************************************
+Document:CACM-1378
+
+pseudo-random numbers (algorithm 266 [g5]) 
+cacm september, 1966 
+hill, i. d. 
+*********************************************************************
+Document:CACM-1190
+
+pseudo-random numbers (algorithm 266 [g5]) 
+cacm october, 1965 
+pike, m. c. 
+*********************************************************************
+Document:CACM-2767
+
+a comparison OF simulation event list ALGORITHMS 
+four ALGORITHMS ARE considered which can be used 
+simulation system. two OF THE ALGORITHMS ARE new, one 
+is BASED ON an end-order tree structure FOR event 
+*********************************************************************

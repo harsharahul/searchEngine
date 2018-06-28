@@ -1,0 +1,645 @@
+Query:distributed computing structures and algorithms
+
+Document:CACM-3148
+
+high level programming for DISTRIBUTED COMPUTING 
+to DISTRIBUTED COMPUTING at the level of general purpose programming 
+DISTRIBUTED COMPUTING, modules, messages, assertions 
+programming for DISTRIBUTED AND other loosely coupled systems 
+*********************************************************************
+Document:CACM-2849
+
+DISTRIBUTED control, DISTRIBUTED COMPUTING, 
+locally DISTRIBUTED COMPUTING stations. the packet 
+ethernet: DISTRIBUTED packet switching for local computer networks 
+broadcasts is DISTRIBUTED among the contending 
+*********************************************************************
+Document:CACM-3137
+
+a methodology for the design of DISTRIBUTED information systems 
+a macro model of a DISTRIBUTED information system in presented. the model 
+database, interactive COMPUTING, economic modeling, transaction processing 
+DISTRIBUTED processing, system design, cost minimization, DISTRIBUTED 
+*********************************************************************
+Document:CACM-2276
+
+DISTRIBUTED random numbers into exponentially 
+AND normally DISTRIBUTED quantities. the most efficient 
+AND speed, with some new ALGORITHMS. a number of procedures 
+shorter ALGORITHMS AND faster but space consuming 
+*********************************************************************
+Document:CACM-2578
+
+self-stabilizing systems in spite of DISTRIBUTED control 
+error recovery, DISTRIBUTED control, harmonious cooperation, self-repair 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-1873
+
+accelerating lp ALGORITHMS 
+it is shown how a novel method for COMPUTING 
+phase of lp ALGORITHMS. other lp applications are indicated. 
+*********************************************************************
+Document:CACM-3043
+
+DISTRIBUTED processes: a concurrent programming concept 
+microcomputer networks with DISTRIBUTED storage. 
+the paper gives several examples of DISTRIBUTED processes 
+concurrent programming, DISTRIBUTED processes, 
+*********************************************************************
+Document:CACM-2406
+
+computer language for specifying data STRUCTURES. 
+of logical data STRUCTURES with little 
+concern for how these STRUCTURES are physically realized 
+as in advanced data management systems AND DISTRIBUTED 
+*********************************************************************
+Document:CACM-3082
+
+time, clocks, AND the ordering of events in a DISTRIBUTED system 
+another in a DISTRIBUTED system is examined, AND 
+a DISTRIBUTED algorithm is given for synchronizing 
+DISTRIBUTED systems, computer networks, 
+*********************************************************************
+Document:CACM-2081
+
+a matrix calculus is introduced with the intention of developing data STRUCTURES 
+AND utilized for efficient COMPUTING by saving memory space AND 
+superfluous operations. sequences of matrices (AND sequences of sequences 
+ended to sequence operators AND cumulative operators. ALGORITHMS 
+*********************************************************************
+Document:CACM-2949
+
+main tenance protocol for a DISTRIBUTED computer 
+in order for the nodes of a DISTRIBUTED computer 
+DISTRIBUTED computer network, correctness proofs, 
+computer networks, DISTRIBUTED control, network 
+*********************************************************************
+Document:CACM-1411
+
+comparison of several ALGORITHMS for computation 
+several ALGORITHMS for computation of basic 
+included the usual COMPUTING formulas, correction 
+the usual COMPUTING formulas were also evaluated in 
+*********************************************************************
+Document:CACM-2630
+
+on COMPUTING sets of shortest paths in a graph 
+two ALGORITHMS are presented that construct 
+in a directed graph. these ALGORITHMS generalize the floyd 
+*********************************************************************
+Document:CACM-3166
+
+COMPUTING standard deviations: accuracy 
+four ALGORITHMS for the numerical computation 
+are analyzed. two of the ALGORITHMS are well-known in the statistical 
+AND computational literature; the other two are new ALGORITHMS 
+*********************************************************************
+Document:CACM-2832
+
+on previous context tree retrieval ALGORITHMS. 
+retrieval AND auxiliary STRUCTURES are built up to make 
+the search rapid. ALGORITHMS for addition AND 
+context trees, frame problem, variable bindings, data STRUCTURES 
+*********************************************************************
+Document:CACM-3124
+
+recursive data STRUCTURES in apl 
+construction of data-driven ALGORITHMS. 
+nested arrays, apl arrays, recursive data STRUCTURES, 
+trees, data-driven ALGORITHMS, theory of arrays 
+*********************************************************************
+Document:CACM-2454
+
+computational ALGORITHMS for closed queueing 
+methods are presented for COMPUTING the equilibrium 
+the computational ALGORITHMS are based on two-dimensional 
+networks with exponential servers 
+*********************************************************************
+Document:CACM-0052
+
+an efficient method for generating uniformly DISTRIBUTED 
+points on the surface on an n-dimensional 
+sphere (corrigendum) 
+*********************************************************************
+Document:CACM-2433
+
+control STRUCTURES in illiac iv fortran 
+STRUCTURES suitable for exploiting illiac iv parallelism. 
+which could be expected to influence language (AND 
+then presented. language STRUCTURES to utilize 
+*********************************************************************
+Document:CACM-3141
+
+decentralized ALGORITHMS, DISTRIBUTED systems, operating systems 
+an improved algorithm for decentralized extrema-finding 
+in circular configurations of processes 
+*********************************************************************
+Document:CACM-0088
+
+an efficient method for generating uniformly DISTRIBUTED 
+points on the surface of an n-dimensional 
+sphere 
+*********************************************************************
+Document:CACM-2834
+
+ALGORITHMS are presented to generate the n-bit 
+fixed weight in that code. both ALGORITHMS are efficient 
+gray code, combinations, subsets, compositions, combinatorial COMPUTING 
+efficient generation of the binary 
+*********************************************************************
+Document:CACM-1780
+
+DISTRIBUTED data (algorithm 320 [c6]) 
+harmonic analysis for symmetrically 
+cacm february, 1968 
+*********************************************************************
+Document:CACM-2766
+
+copying cyclic list STRUCTURES in linear time using bounded workspace 
+list STRUCTURES is given. this algorithm 
+the best previous bounded workspace copying ALGORITHMS 
+*********************************************************************
+Document:CACM-3025
+
+contributions to COMPUTING technology include: 
+sharing COMPUTING systems; transferring hardware 
+technology within dec (AND elsewhere) to minicomputer 
+computer STRUCTURES, architecture, operating system, timesharing 
+*********************************************************************
+Document:CACM-2130
+
+automatic segmentation of cyclic program STRUCTURES 
+imposed by the available COMPUTING equipment. a generalization of 
+automatic segmentation, cyclic program STRUCTURES, loops, paging, 
+based on connectivity AND processor timing 
+*********************************************************************
+Document:CACM-3086
+
+on the complexity of COMPUTING the measure of u[ai, bi] 
+the decision tree complexity of COMPUTING the 
+analysis of ALGORITHMS, combinatorial problems, 
+*********************************************************************
+Document:CACM-2890
+
+on quadratic adaptive routing ALGORITHMS 
+routing ALGORITHMS, adaptive routing, quadratic routing, 
+DISTRIBUTED network, computer network, message switching 
+*********************************************************************
+Document:CACM-1862
+
+COMPUTING capabilities at argentine AND chilean universities 
+university conditions AND COMPUTING activities. as elsewhere, 
+COMPUTING service AND academic activities are limited. 
+exception, COMPUTING science academic programs are 
+*********************************************************************
+Document:CACM-2838
+
+parallel processing, real time, data STRUCTURES, analysis of ALGORITHMS 
+ALGORITHMS for recovering discarded list STRUCTURES in 
+analysis of an algorithm for real time garbage collection 
+*********************************************************************
+Document:CACM-2197
+
+network COMPUTING, regional COMPUTING networks, 
+remote COMPUTING, shared COMPUTING 
+the merit of regional COMPUTING networks 
+spread of COMPUTING capabilities in institutions 
+*********************************************************************
+Document:CACM-2373
+
+size is shown to be normally DISTRIBUTED. 
+working-set model, paging, paging ALGORITHMS, 
+properties of the working-set model 
+*********************************************************************
+Document:CACM-3011
+
+COMPUTING, involving the use of relatively unsophisticated 
+nature of these systems, management use of COMPUTING is 
+among local governments. management COMPUTING is most 
+COMPUTING clearly has impacts for top managers, mostly 
+*********************************************************************
+Document:CACM-2216
+
+uniformly DISTRIBUTED branching ratios, AND 
+therefore is applicable to a family of sorting ALGORITHMS 
+using more advanced ALGORITHMS in the family makes 
+on the probability distribution of the values of binary trees 
+*********************************************************************
+Document:CACM-2709
+
+a genealogy of control STRUCTURES 
+the issue of program control STRUCTURES has 
+results on control STRUCTURES AND explores 
+ideas on control STRUCTURES are then explored. 
+*********************************************************************
+Document:CACM-1153
+
+a technique for generating normally DISTRIBUTED 
+a fast procedure for generating normal random variables* 
+random numbers is described. it is faster 
+*********************************************************************
+Document:CACM-2665
+
+copying list STRUCTURES using bounded workspace 
+two new ALGORITHMS are presented for list structure 
+cyclic STRUCTURES are copied in average time 
+*********************************************************************
+Document:CACM-1946
+
+ALGORITHMS for COMPUTING the resultant of two 
+COMPUTING polynomial resultants: bezout's determinant 
+AND COMPUTING speed. preliminary considerations narrow 
+vs. collins' reduced p. algorithm 
+*********************************************************************
+Document:CACM-2816
+
+optimal reorganization of DISTRIBUTED space disk files 
+which allows for DISTRIBUTED free space is described. 
+in most database organizations, the cost of accessing 
+*********************************************************************
+Document:CACM-2169
+
+quickly AND easily on a variety of COMPUTING 
+run time data STRUCTURES, AND implementation 
+the altran system for rational function manipulation-a survey 
+*********************************************************************
+Document:CACM-2963
+
+a fast algorithm for COMPUTING longest common subsequences 
+previously published ALGORITHMS for finding 
+longest common subsequence, efficient ALGORITHMS 
+*********************************************************************
+Document:CACM-1525
+
+on COMPUTING the fast fourier transform 
+for COMPUTING complex fourier transform AND 
+a power of two, COMPUTING time for this algorithm is 
+other methods with COMPUTING time proportional to n^2. 
+*********************************************************************
+Document:CACM-2032
+
+data STRUCTURES, tree STRUCTURES, file STRUCTURES, scatter 
+file STRUCTURES using hashing functions 
+a general method of file structuring is proposed which uses a hashing 
+*********************************************************************
+Document:CACM-2975
+
+remark on uniform insertion in structured data STRUCTURES 
+data STRUCTURES, directed graphs, uniform insertion 
+cacm april, 1977 
+*********************************************************************
+Document:CACM-3035
+
+a strategic planning methodology for the COMPUTING 
+planning of the COMPUTING effort in higher education 
+of COMPUTING services to the major institutional roles 
+enhanced the delivery of COMPUTING services. 
+*********************************************************************
+Document:CACM-2594
+
+structured data STRUCTURES 
+linked list STRUCTURES enable the user to create 
+complicated STRUCTURES without sufficient protection. 
+of a restricted class of data STRUCTURES but ensures 
+*********************************************************************
+Document:CACM-1831
+
+a comment on optimal tree STRUCTURES 
+information retrieval, file searching, tree STRUCTURES, double chaining 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-3128
+
+correctness arguments AND also simplifies implementation in DISTRIBUTED 
+process synchronization, interprocess communication, DISTRIBUTED 
+synchronization with eventcounts AND sequencers 
+*********************************************************************
+Document:CACM-2155
+
+toward an understanding of data STRUCTURES 
+for describing the semantics of data STRUCTURES. 
+implementation of some of his data STRUCTURES in order to gain efficiency. 
+data STRUCTURES, graph, implementation, 
+*********************************************************************
+Document:CACM-1224
+
+determining a COMPUTING center environment 
+of a COMPUTING center environment are obtained. the 
+an investigation is described in which several 
+*********************************************************************
+Document:CACM-3158
+
+secure personal COMPUTING in an insecure network 
+a method for implementing secure personal COMPUTING in a network 
+personal COMPUTING, security, privacy, networks, public-key encryption 
+*********************************************************************
+Document:CACM-3090
+
+integration: the political economy of COMPUTING 
+social impacts of COMPUTING, organizational impacts 
+of COMPUTING, management information systems, 
+sociology of COMPUTING, information systems AND 
+*********************************************************************
+Document:CACM-3037
+
+primes, ALGORITHMS, data STRUCTURES 
+a linear sieve algorithm for finding prime numbers 
+a new algorithm is presented for finding all 
+*********************************************************************
+Document:CACM-1810
+
+the important troubles which beset COMPUTING today 
+will probably become a normal part of most COMPUTING systems. 
+hierarchies, replacement ALGORITHMS, performance, measurement 
+is automatic "folding" of programs efficient enough to displace manual? 
+*********************************************************************
+Document:CACM-1105
+
+on introducing digital COMPUTING 
+cacm april, 1964 
+arden, b. w. 
+*********************************************************************
+Document:CACM-0072
+
+an educational program in COMPUTING 
+cacm august, 1959 
+hollingsworth, j. 
+*********************************************************************
+Document:CACM-2311
+
+described COMPUTING system generations. for each generation, 
+COMPUTING milieu, management data processing, hardware 
+a generational perspective of information system development 
+*********************************************************************
+Document:CACM-2855
+
+arbitrary list STRUCTURES, using no storage 
+ALGORITHMS for the same problem. some variations 
+an efficient list-moving algorithm using constant workspace 
+*********************************************************************
+Document:CACM-1431
+
+on a storage mapping function for data STRUCTURES 
+some basic facts about certain data STRUCTURES 
+are reviewed AND an efficient algorithm is presented 
+*********************************************************************
+Document:CACM-3156
+
+COMPUTING connected components on parallel computers 
+graph theory, parallel processing, ALGORITHMS, 
+we present a parallel algorithm which uses n2 processors to find the connected 
+*********************************************************************
+Document:CACM-3032
+
+nodes of a network. ALGORITHMS for accomplishing 
+this list of ALGORITHMS we add (6) reverse path 
+routing procedures AND data STRUCTURES already 
+reverse path forwarding of broadcast packets 
+*********************************************************************
+Document:CACM-0147
+
+report on a conference of university COMPUTING center directors 
+cacm october, 1960 
+ca601001 jb march 20, 1978 8:38 pm 
+*********************************************************************
+Document:CACM-2114
+
+AND from which some of the frequently used file STRUCTURES such 
+derived. two ALGORITHMS which retrieve records from the generalized file 
+a formal system for information retrieval from files 
+*********************************************************************
+Document:CACM-2371
+
+DISTRIBUTED throughout a computer network. 
+a system for interprocess communication 
+in a resource sharing computer network 
+*********************************************************************
+Document:CACM-2828
+
+hierarchical geometric models for visible surface ALGORITHMS 
+visible surface ALGORITHMS, hidden surface ALGORITHMS, 
+hierarchical data STRUCTURES, geometric 
+*********************************************************************
+Document:CACM-0830
+
+corc-the cornell COMPUTING language 
+cacm june, 1963 
+conway, r. w. 
+*********************************************************************
+Document:CACM-2810
+
+professionalism in the COMPUTING field 
+definition specified, the COMPUTING practitioner is, 
+to the "nonprofessional" status of the COMPUTING 
+improvements to help the COMPUTING practitioner 
+*********************************************************************
+Document:CACM-0627
+
+knotted list STRUCTURES 
+cacm march, 1962 
+weizenbaum, j. 
+*********************************************************************
+Document:CACM-2883
+
+can be solved using well-known graph search ALGORITHMS. 
+method can lead to substantial improvements in COMPUTING 
+are used, the COMPUTING time will depend on the amount 
+an application of heuristic search methods to edge AND contour detection 
+*********************************************************************
+Document:CACM-2884
+
+permutation enumeration: four new permutation ALGORITHMS 
+classical permutation enumeration ALGORITHMS encounter 
+on n marks. four new ALGORITHMS have the attribute 
+two of the ALGORITHMS produce the next permutation 
+*********************************************************************
+Document:CACM-2314
+
+STRUCTURES, data STRUCTURES, programming primitives, 
+features, since ALGORITHMS must be not only 
+facilities, programmable control STRUCTURES, AND sophisticated 
+requirements for advanced programming systems for list processing 
+*********************************************************************
+Document:CACM-2808
+
+of the methods used for actually COMPUTING them, 
+the lemniscate constants 
+the lemniscate constants, AND indeed some 
+*********************************************************************
+Document:CACM-0793
+
+mapped list STRUCTURES 
+cacm august, 1963 
+baecker, h. d. 
+*********************************************************************
+Document:CACM-2325
+
+of computation, ALGORITHMS, continuous ALGORITHMS 
+of continuous ALGORITHMS. four of the components 
+complexity), synthesis AND analysis of ALGORITHMS, 
+numerical mathematics AND computer science 
+*********************************************************************
+Document:CACM-0371
+
+remarks on ALGORITHMS 2 AND 3, algorithm 15 AND ALGORITHMS 25 AND 26 
+cacm march, 1961 
+wilkinson, j. h. 
+*********************************************************************
+Document:CACM-2954
+
+a bounded storage algorithm for copying cyclic STRUCTURES 
+list STRUCTURES using bounded workspace AND 
+copying, shared subtrees, cyclic STRUCTURES 
+*********************************************************************
+Document:CACM-2524
+
+three file STRUCTURES are presented together with their 
+corresponding search ALGORITHMS, which are intended 
+some approaches to best-match file searching 
+*********************************************************************
+Document:CACM-2060
+
+STRUCTURES are treated as functions. (4) type declarations are 
+not permitted. the functional approach to data STRUCTURES AND the 
+algorithm for COMPUTING or accessing its components. the existence of 
+gedanken-a simple typeless language based on the 
+*********************************************************************
+Document:CACM-1349
+
+COMPUTING capabilities at western european universities 
+brief descriptions of COMPUTING activities at each institution 
+(c) the subordinated organization of the COMPUTING 
+*********************************************************************
+Document:CACM-1134
+
+some effects of the 6600 computer on language structures* 
+the problem of compiling efficient 6600 codes 
+prompted the development of an intermediate language 
+*********************************************************************
+Document:CACM-1889
+
+introducing COMPUTING to smaller colleges 
+COMPUTING at such institutions must also be 
+regional network, introducing COMPUTING, under-graduate 
+regional center, consortium, remote COMPUTING 
+*********************************************************************
+Document:CACM-2092
+
+time-sharing system. the system's data STRUCTURES AND their semantic 
+STRUCTURES AND the ALGORITHMS used for question answering. 
+a deductive question-answer for natural language inference 
+*********************************************************************
+Document:CACM-0481
+
+a one-day look at COMPUTING 
+cacm september, 1962 
+armerding, g. w. 
+*********************************************************************
+Document:CACM-0080
+
+a technique for COMPUTING critical rotational 
+speeds of flexible shafts on an automatic computer 
+cacm june, 1959 
+*********************************************************************
+Document:CACM-0657
+
+information STRUCTURES for processing AND retrieving 
+cacm january, 1962 
+colilla, r. a. 
+*********************************************************************
+Document:CACM-2357
+
+mux, a simple approach to on-line COMPUTING 
+time-sharing, remote COMPUTING, on-line access, 
+on-line COMPUTING, remote file manager, real time, 
+*********************************************************************
+Document:CACM-2950
+
+scheduling ALGORITHMS based on an abstract model 
+priority. various classes of scheduling ALGORITHMS 
+are defined AND related to existing ALGORITHMS. a 
+of time-invariant ALGORITHMS, which include most 
+*********************************************************************
+Document:CACM-1745
+
+a position paper on COMPUTING AND communications 
+so that a clear division of costs is made among COMPUTING, 
+information networks, information systems, COMPUTING 
+AND free enterprise, COMPUTING economics, 
+*********************************************************************
+Document:CACM-2926
+
+of each length are uniformly DISTRIBUTED within the 
+pagination of b*-trees with variable-length records 
+a strategy is presented for pagination of b*-trees 
+*********************************************************************
+Document:CACM-2484
+
+different relations AND ALGORITHMS results in different 
+information STRUCTURES, as list, tree, ring, 
+AND formulating ALGORITHMS under a given set of constraints. 
+a note on information organization AND storage 
+*********************************************************************
+Document:CACM-2226
+
+further evidence for the analysis of ALGORITHMS 
+summarized by gue et al, with two ALGORITHMS for the 
+the ALGORITHMS as a suboptimizer is indicated. 
+operations research, integer programming, zero-one variables, ALGORITHMS 
+*********************************************************************
+Document:CACM-1275
+
+code STRUCTURES for protection AND manipulation 
+of variable length items (corrigendum) 
+cacm april, 1965 
+*********************************************************************
+Document:CACM-2822
+
+copyright 1976, association for COMPUTING 
+the association for COMPUTING machinery. 
+homilies for humble standards 
+*********************************************************************
+Document:CACM-2934
+
+comment on COMPUTING the k shortest paths in a graph 
+cacm august, 1977 
+lawler, e. l. 
+*********************************************************************
+Document:CACM-2780
+
+on COMPUTING certain elements of the inverse of a sparse matrix 
+a recursive algorithm for COMPUTING the inverse 
+of a matrix from the lu factors based on relationships 
+*********************************************************************
+Document:CACM-3006
+
+anomalies with variable partition paging ALGORITHMS 
+AND paging ALGORITHMS, an increase in mean memory allocation 
+two paging ALGORITHMS, are examined in terms of their 
+ALGORITHMS, virtual memory, working set, page 
+*********************************************************************
+Document:CACM-1551
+
+on compiling ALGORITHMS for arithmetic expressions 
+this paper deals with ALGORITHMS concerning arithmetic 
+ALGORITHMS generate an object code which minimizes 
+*********************************************************************
+Document:CACM-1604
+
+further analysis of a COMPUTING center environment 
+times of over 10,000 jobs serviced in a university COMPUTING 
+empirical distributions of program lengths, 
+*********************************************************************
+Document:CACM-2615
+
+procedures for COMPUTING smoothing AND interpolating 
+natural splines [e1] (algorithm a480) 
+cacm august, 1974 
+*********************************************************************
+Document:CACM-1878
+
+recovery of reentrant list STRUCTURES in slip 
+reentrant list STRUCTURES are not recovered even when 
+collector that recovers abandoned reentrant list STRUCTURES 
+*********************************************************************

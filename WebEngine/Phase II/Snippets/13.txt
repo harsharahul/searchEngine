@@ -1,0 +1,641 @@
+Query:code optimization for space efficiency
+
+Document:CACM-1947
+
+object CODE OPTIMIZATION 
+instructions, object CODE, OPTIMIZATION, redundancy 
+to transforming the program to improve object time EFFICIENCY. 
+compilers, data flow analysis, dominance, EFFICIENCY, 
+*********************************************************************
+Document:CACM-1795
+
+CODE OPTIMIZATION, sequencing of operations, 
+optimal CODE FOR serial and parallel computation 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-2748
+
+indirect threaded CODE 
+an efficient arrangement FOR interpretive CODE 
+threaded CODE, snobol4, interpretors, CODE generation 
+of threaded CODE but requires less SPACE and is more 
+*********************************************************************
+Document:CACM-2495
+
+adapting optimal CODE generation FOR arithmetic 
+arithmetic expressions, CODE generation, compilers, 
+object-code OPTIMIZATION, register assignment, 
+expressions to the instruction sets available 
+*********************************************************************
+Document:CACM-2491
+
+threaded CODE 
+the concept of "threaded CODE" is presented as 
+an alternative to machine language CODE. hardware 
+it is realized as interpretive CODE not needing 
+*********************************************************************
+Document:CACM-2559
+
+when the SPACE allocation FOR a hash-coded table 
+over the new SPACE. a technique FOR accomplishing 
+from one hashing method to another. the EFFICIENCY 
+reallocation, dynamic storage, hash CODE, scatter storage, deletions 
+*********************************************************************
+Document:CACM-3080
+
+compilers, correctness, CODE OPTIMIZATION, 
+proving the correctness of heuristically optimized CODE 
+the system is as a post OPTIMIZATION step in CODE 
+that OPTIMIZATION of the genre of this paper can result 
+*********************************************************************
+Document:CACM-2680
+
+optimal SPACE allocation on disk storage devices 
+when the amount of SPACE required FOR file storage 
+turnaround time. an OPTIMIZATION model FOR 
+disk analysis, disk OPTIMIZATION, disk files,file 
+*********************************************************************
+Document:CACM-1886
+
+factorization algorithms, CODE OPTIMIZATION, sequencing 
+generation of optimal CODE FOR expressions via factorization 
+EFFICIENCY of the object CODE produced by first factoring 
+*********************************************************************
+Document:CACM-2904
+
+integrated package of local OPTIMIZATION algorithms. 
+compilers, OPTIMIZATION of compiled CODE, program analysis, 
+an algorithm FOR reduction of operator strength 
+*********************************************************************
+Document:CACM-3054
+
+various CODE OPTIMIZATION techniques. a detailed 
+quicksort, analysis of algorithms, CODE OPTIMIZATION, sorting 
+implementing quicksort programs 
+*********************************************************************
+Document:CACM-2944
+
+used to find actions that cancel when the CODE is executed 
+EFFICIENCY. 
+OPTIMIZATION, reference counts, storage 
+shifting garbage collection overhead to compile time 
+*********************************************************************
+Document:CACM-2537
+
+a method FOR saving storage SPACE FOR text 
+OPTIMIZATION problem: determine how each message should 
+minimum SPACE, text storage, OPTIMIZATION, 
+common phrases and minimum-space text storage 
+*********************************************************************
+Document:CACM-2253
+
+in a previous paper. this scheme attempts program OPTIMIZATION 
+rather than the machine CODE. the goal is to automatically 
+generate CODE FOR handling the tedious address 
+languages, program OPTIMIZATION, range operations, symbolic 
+*********************************************************************
+Document:CACM-1195
+
+national aeronautics and SPACE administration linear file 
+the output FOR OPTIMIZATION of processing on the 
+aeronautics and SPACE administration. 
+uplifts-university of pittsburgh linear file tandem system 
+*********************************************************************
+Document:CACM-3171
+
+in either time or SPACE, during execution of the program. 
+line number administration, diagnostic messages, abstract machine CODE 
+line numbers made cheap 
+*********************************************************************
+Document:CACM-2929
+
+an OPTIMIZATION technique known as inline substitution 
+is analyzed. the OPTIMIZATION consists 
+with little increase in the size of compiled CODE and a 
+program OPTIMIZATION, compilers, structured 
+*********************************************************************
+Document:CACM-1564
+
+tables into cobol CODE is contained in the 
+indexing and also by outputting the CODE as it is generated, 
+a line at a time. the only OPTIMIZATION 
+description of basic algorithm in detab/65 preprocessor 
+*********************************************************************
+Document:CACM-2033
+
+layout, retrieval trade-offs, retrieval EFFICIENCY, storage EFFICIENCY 
+(SPACE), the time required to identify a message as a nonmember of the 
+are intended to reduce the amount of SPACE required to contain the hash-coded 
+SPACE is accomplished by exploiting the possibility that a small fraction of 
+*********************************************************************
+Document:CACM-2464
+
+OPTIMIZATION, constrained OPTIMIZATION, box's algorithm 
+the complex method FOR constrained OPTIMIZATION [e4] (algorithm a454) 
+cacm august, 1973 
+*********************************************************************
+Document:CACM-1651
+
+in this descriptive article an input CODE 
+the input CODE described. from a user's standpoint, 
+in the CODE itself, but from an EFFICIENCY evaluation: 
+an interpretive input routine FOR linear programming 
+*********************************************************************
+Document:CACM-2374
+
+and operating EFFICIENCY over fixed partitioning. 
+storage allocation, SPACE sharing, multiprogrammed 
+a study of storage partitioning using a mathematical model of locality 
+*********************************************************************
+Document:CACM-3083
+
+EFFICIENCY of the method is derived and a tradeoff analysis is given. 
+hash CODE, scatter storage, open addressing, chaining, 
+pseudochaining in hash tables 
+*********************************************************************
+Document:CACM-2423
+
+syntactic rule corresponds to a (possibly empty) "CODE 
+table entries and 82 words are links to CODE 
+automata, translation grammars, translator OPTIMIZATION, compression algorithm 
+a parser-generating system FOR constructing compressed compilers 
+*********************************************************************
+Document:CACM-2835
+
+recursion analysis FOR compiler OPTIMIZATION 
+use in compiler OPTIMIZATION. implementation considerations 
+algorithm is given to further improve OPTIMIZATION. 
+recursion, compiler OPTIMIZATION 
+*********************************************************************
+Document:CACM-2716
+
+response time and SPACE utilization by: (1) performing 
+global query OPTIMIZATION, (2) exploiting disjoint 
+relational database, database OPTIMIZATION, inverted 
+optimizing the performance of a relational algebra database interface 
+*********************************************************************
+Document:CACM-1362
+
+CODE extension in ascii* (an asa tutorial) 
+the american standard CODE FOR information 
+characters associated with the principle of CODE extension, 
+in the CODE. the manner of use of these 
+*********************************************************************
+Document:CACM-1223
+
+high speed compilation of efficient object CODE 
+OPTIMIZATION such as the effective use of index 
+the object CODE which would be most efficient 
+*********************************************************************
+Document:CACM-1655
+
+standard CODE, CODE, information interchange, characters, 
+CODE extension, CODE table, bit pattern 
+CODE extension procedures FOR information 
+interchange* (proposed usa standard) 
+*********************************************************************
+Document:CACM-0048
+
+shift-register CODE FOR indexing applications 
+CODE with n = 10 is described FOR calling 
+a single-error correcting CODE ("minimum-distance-three" 
+as the station identification CODE. embedding this in 
+*********************************************************************
+Document:CACM-1807
+
+OPTIMIZATION of expressions in fortran 
+CODE without significantly reducing the compilation 
+fortran, OPTIMIZATION, expressions, compilers, 
+*********************************************************************
+Document:CACM-3005
+
+size by a factor of 3. unlike a huffman CODE, 
+only fixed length (1-byte) op CODE and address 
+efficient with respect to both SPACE and time. 
+implications of structured programming FOR machine architecture 
+*********************************************************************
+Document:CACM-2701
+
+global flow analysis, data flow, CODE OPTIMIZATION, 
+the time bound. examples are given of CODE 
+a fast and usually linear algorithm FOR global 
+flow analysis (abstract only--complete paper jacm 
+*********************************************************************
+Document:CACM-1231
+
+peephole OPTIMIZATION 
+optimizing technique called peephole OPTIMIZATION. 
+redundant instructions may be discarded during 
+*********************************************************************
+Document:CACM-1901
+
+program behavior, and processor EFFICIENCY 
+cost of SPACE allocation per task are defined 
+dynamic space-sharing in computer systems 
+*********************************************************************
+Document:CACM-2711
+
+a vector SPACE model FOR automatic indexing 
+(property) SPACE is one where each entity lies as far away 
+as a function of the density of the object SPACE; 
+with SPACE density. an approach based on 
+*********************************************************************
+Document:CACM-1756
+
+usa standard, card CODE, punched card, punched card 
+CODE, hole-patterns, hole-patterns assignment, 
+hollerith punched card code* (proposed usa standard) 
+*********************************************************************
+Document:CACM-2745
+
+a linear SPACE algorithm FOR computing maximal common subsequences 
+time and SPACE. an algorithm is presented which will 
+SPACE. 
+*********************************************************************
+Document:CACM-2524
+
+a metric on the the key SPACE, is suitably defined, 
+are presented which compare the EFFICIENCY of the methods. 
+some approaches to best-match file searching 
+*********************************************************************
+Document:CACM-2858
+
+in which case the total CODE length is minimized, or 
+program structure and a choice of OPTIMIZATION 
+a process FOR the determination of 
+addresses in variable length addressing 
+*********************************************************************
+Document:CACM-3129
+
+direct-access storage device in which storage SPACE is limited. records are 
+designates the SPACE required in each file FOR record addition. whenever one 
+file runs out of SPACE, the system must be reorganized. this paper considers 
+several criteria FOR best allocating storage SPACE to the files. 
+*********************************************************************
+Document:CACM-2611
+
+the complex method FOR constrained OPTIMIZATION (algorithm r454) 
+cacm august, 1974 
+shere, k. d. 
+*********************************************************************
+Document:CACM-1652
+
+a CODE FOR non-numeric information processing 
+a CODE has been specifically designed to simplify 
+the system user. the CODE has direct application 
+text editing. this CODE, called ipc (information processing 
+*********************************************************************
+Document:CACM-1992
+
+comment on bell's quadratic quotient method FOR hash CODE searching 
+hashing, hash CODE, scatter storage, calculated address, 
+cacm september, 1970 
+*********************************************************************
+Document:CACM-0267
+
+some proposals FOR improving the EFFICIENCY of algol 60 
+cacm november, 1961 
+wilkes, m. v. 
+*********************************************************************
+Document:CACM-2645
+
+two languages FOR estimating program EFFICIENCY 
+the EFFICIENCY of computer programs are presented. 
+the program whose EFFICIENCY one wishes to estimate is written 
+language and to output results estimating its EFFICIENCY. 
+*********************************************************************
+Document:CACM-2533
+
+gray CODE and the +- sign sequence when 
+gray CODE, sign sequences, ordering, positive 
++-f (+-f(+-f(...+-f(x)...))) is ordered 
+*********************************************************************
+Document:CACM-0164
+
+a short study of notation EFFICIENCY 
+cacm august, 1960 
+smith jr., h. j. 
+*********************************************************************
+Document:CACM-1234
+
+enables the generation of CODE FOR expressions 
+and array identifiers with particular EFFICIENCY. 
+the structure of yet another algol compiler 
+*********************************************************************
+Document:CACM-2834
+
+reflected gray CODE and its applications 
+binary reflected gray CODE and codewords of 
+fixed weight in that CODE. both algorithms are efficient 
+gray CODE, combinations, subsets, compositions, combinatorial computing 
+*********************************************************************
+Document:CACM-2078
+
+representations FOR SPACE planning 
+are called SPACE planning problems. the representational 
+that allow automated SPACE planning are described and compared. 
+*********************************************************************
+Document:CACM-2107
+
+CODE eliminating secondary clustering 
+secondary clustering as a cause of hash CODE inefficiency is discussed, and a 
+hashing, hash CODE, scatter storage, calculated address, clustering, 
+the quadratic quotient method: a hash 
+*********************************************************************
+Document:CACM-1369
+
+half rotations in n-dimensional euclidean SPACE 
+SPACE. the method is a variant of the cyclic jacobi 
+an iterative procedure is described FOR determining 
+*********************************************************************
+Document:CACM-2897
+
+OPTIMIZATION, OPTIMIZATION techniques, data flow analysis 
+a case study of a new CODE generation technique FOR compilers 
+such a compiler translates the parsed source CODE into 
+lower level CODE by a sequence of steps. each 
+*********************************************************************
+Document:CACM-2616
+
+conversions are mainly program debugging and OPTIMIZATION 
+decision tables, program OPTIMIZATION, debugging, 
+on the conversion of programs to decision tables: method and objectives 
+*********************************************************************
+Document:CACM-0117
+
+an estimation of the relative EFFICIENCY of two internal sorting methods 
+cacm november, 1960 
+nagler, h. 
+*********************************************************************
+Document:CACM-2892
+
+of each level are summarized. then the line EFFICIENCY 
+some measurements of line EFFICIENCY FOR the arpanet are 
+performance evaluation and EFFICIENCY, resource sharing 
+a study of line overhead in the arpanet 
+*********************************************************************
+Document:CACM-0797
+
+american standard CODE FOR information interchange 
+cacm august, 1963 
+ca630801 jb march 13, 1978 8:55 pm 
+*********************************************************************
+Document:CACM-2508
+
+increasing the EFFICIENCY of quicksort (algorithm r402) 
+cacm may, 1973 
+wheeler, r. e. 
+*********************************************************************
+Document:CACM-2856
+
+respect to average execution time or storage SPACE, FOR 
+be created. using this approach, the EFFICIENCY of creating 
+the synthetic approach to decision table conversion 
+*********************************************************************
+Document:CACM-1757
+
+data CODE FOR calendar date FOR machine-to-machine 
+usa standard, data CODE, calendar date, machine-to-machine 
+data interchange* (proposed usa standard) 
+*********************************************************************
+Document:CACM-0149
+
+a decision rule FOR improved EFFICIENCY in solving 
+linear programming problems with the simplex 
+algorithm 
+*********************************************************************
+Document:CACM-2433
+
+CODE structuring is the crucial illiac OPTIMIZATION 
+control structures in illiac iv fortran 
+as part of an effort to design and implement 
+*********************************************************************
+Document:CACM-1289
+
+proposed revised american standard CODE FOR information interchange 
+cacm april, 1965 
+ca650402 jb march 7, 1978 4:03 pm 
+*********************************************************************
+Document:CACM-2836
+
+OPTIMIZATION. 
+structural ambiguity, combinatorial OPTIMIZATION 
+weighted derivation trees 
+*********************************************************************
+Document:CACM-2389
+
+preliminary report on a system FOR general SPACE planning 
+formulating and solving of a class of SPACE planning 
+automated design, architecture, heuristic programs, SPACE planning 
+*********************************************************************
+Document:CACM-1969
+
+increasing the EFFICIENCY of quicksort (algorithm 402 $m1)) 
+cacm november, 1970 
+van emden, m. h. 
+*********************************************************************
+Document:CACM-1542
+
+and main storage SPACE required and compiler and interpreter 
+of interpretive CODE. the structure and content 
+a microprogrammed implementation of euler on ibm system/360 model 30 
+*********************************************************************
+Document:CACM-1414
+
+twelve-row punched-card CODE FOR information 
+interchange* (proposed american standard) 
+cacm june, 1966 
+*********************************************************************
+Document:CACM-1064
+
+perforated tape CODE FOR information 
+interchange (proposed american standard) 
+cacm june, 1964 
+*********************************************************************
+Document:CACM-0230
+
+a proposal FOR character CODE compatibility 
+cacm february, 1960 
+bemer, r. w. 
+*********************************************************************
+Document:CACM-2133
+
+operations research, OPTIMIZATION theory, 
+algorithm FOR the assignment problem 
+(rectangular matrices) [h] (algorithm 415) 
+*********************************************************************
+Document:CACM-1708
+
+a note on the EFFICIENCY of a lisp computation in a paged machine 
+EFFICIENCY of paged computation 
+the problem of the use of two levels of storage 
+*********************************************************************
+Document:CACM-1676
+
+machine-independent OPTIMIZATION occurs in pass ii 
+and do-loop and machine-dependent OPTIMIZATION in 
+common subsegments, tree representation, OPTIMIZATION 
+the lrltran compiler 
+*********************************************************************
+Document:CACM-2964
+
+OPTIMIZATION, resident, overflow storage 
+an approach to optimal design of storage parameters in databases 
+cacm may, 1977 
+*********************************************************************
+Document:CACM-2344
+
+on the OPTIMIZATION of performance of time-sharing systems by simulation 
+algorithm, including the scheduling itself, require OPTIMIZATION, 
+features would benefit from OPTIMIZATION whereas 
+manner and would not benefit from OPTIMIZATION. features 
+*********************************************************************
+Document:CACM-3066
+
+testing, CODE walkthroughs, CODE inspections, 
+and CODE walkthroughs/inspections 
+popular CODE walk through/inspection method was as effective 
+a controlled experiment in program testing 
+*********************************************************************
+Document:CACM-1670
+
+usa standard, card CODE, punched card, punched card 
+CODE, hole-patterns, hole-patterns assignment, 
+correspondences of 8-bit and hollerith codes FOR 
+computer environments (a usasi tutorial standard) 
+*********************************************************************
+Document:CACM-0195
+
+what is a CODE? 
+cacm may, 1960 
+patterson, g. w. 
+*********************************************************************
+Document:CACM-0066
+
+a proposal FOR a generalized card CODE FOR 256 characters 
+cacm september, 1959 
+bemer, r. w. 
+*********************************************************************
+Document:CACM-1465
+
+EFFICIENCY dictates that the overall effectiveness 
+be based on fixed conventions to preserve EFFICIENCY 
+program translation viewed as a general data processing problem 
+*********************************************************************
+Document:CACM-1275
+
+CODE structures FOR protection and manipulation 
+of variable length items (corrigendum) 
+cacm april, 1965 
+*********************************************************************
+Document:CACM-1187
+
+note on an ascii-octal CODE table (standards) 
+cacm october, 1965 
+crosby, w. s. 
+*********************************************************************
+Document:CACM-1232
+
+CODE in punched cards (ecma standard) 
+representation of the standard ecma 7-bit 
+cacm july, 1965 
+*********************************************************************
+Document:CACM-2816
+
+optimal reorganization of distributed SPACE disk files 
+which allows FOR distributed free SPACE is described. 
+in most database organizations, the cost of accessing 
+*********************************************************************
+Document:CACM-1065
+
+bit sequencing of the american standard CODE FOR 
+information interchange (ascii) in serial-by-bit 
+data transmission (proposed american standard) 
+*********************************************************************
+Document:CACM-1066
+
+FOR organizing a computer CODE has undergone a radical 
+a computer CODE. an advanced CODE must cope with 
+the simplex algorithm, an efficient and reliable CODE 
+growing applications of linear programming 
+*********************************************************************
+Document:CACM-2586
+
+adapting optimal CODE generation FOR arithmetic 
+expressions to the instruction sets available 
+on present-day computers (errata) 
+*********************************************************************
+Document:CACM-2736
+
+hash search, address SPACE extension, 
+a note on hash linking 
+cacm july, 1975 
+*********************************************************************
+Document:CACM-1204
+
+standard CODE FOR information interchange (proposed american standard) 
+character structure and character parity sense FOR 
+serial-by-bit data communication in the american 
+*********************************************************************
+Document:CACM-2290
+
+connectivity, program OPTIMIZATION, optimizing compiler 
+immediate predominators in a directed graph [h] (algorithm a430) 
+cacm august, 1972 
+*********************************************************************
+Document:CACM-1973
+
+the linear quotient hash CODE 
+hashing, hash CODE, scatter storage, calculated 
+a new method of hash coding is presented and 
+*********************************************************************
+Document:CACM-2569
+
+the EFFICIENCY of the rejection method is shown to 
+be better than the EFFICIENCY of johnk's method. 
+of accuracy and EFFICIENCY: (1) when a is less than 
+computer generation of gamma random variates 
+*********************************************************************
+Document:CACM-1235
+
+high speed in only a limited storage SPACE. 
+to CODE additional words. finally, the remaining words 
+a stochastic approach to the grammatical coding of english 
+*********************************************************************
+Document:CACM-1641
+
+increase in memory SPACE utilized to store 
+and slow (disk or drum) memories. the SPACE available 
+with 32k of core memory and disks. gains in memory SPACE 
+applications the price of the additional SPACE is computer 
+*********************************************************************
+Document:CACM-0333
+
+design of an improved* transmission/data processing CODE 
+cacm may, 1961 
+bemer, r. w. 
+*********************************************************************
+Document:CACM-2411
+
+inductive assertion, least fix points, OPTIMIZATION 
+tree-structured programs 
+cacm november, 1973 
+*********************************************************************
+Document:CACM-1786
+
+an improved hash CODE FOR scatter storage 
+hash CODE, hash table, scatter storage, searching 
+introduced is a hash coding method based on 
+*********************************************************************
+Document:CACM-2931
+
+in the EFFICIENCY of decision methods have become available 
+logic and programming languages 
+logic has been long in terested in whether answers 
+*********************************************************************
+Document:CACM-2863
+
+a criterion FOR comparing variable SPACE page 
+realizable variable SPACE algorithms. 
+vmin-an optimal variable-space page replacement algorithm 
+*********************************************************************

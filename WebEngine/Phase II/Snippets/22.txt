@@ -1,0 +1,648 @@
+Query:i am interested in hidden-line and hidden-surface algorithms for cylinders toroids spheres and cones  this is a rather specialized topic in computer graphics
+
+Document:CACM-2913
+
+to HIDDEN-SURFACE ALGORITHMS IS discussed, AND an implementation 
+aliasing, COMPUTER GRAPHICS, convolutional 
+filtering, HIDDEN-SURFACE removal, sampling 
+the aliasing problem IN computer-generated shaded images 
+*********************************************************************
+Document:CACM-2473
+
+HIDDEN-LINE plotting program (algorithm r420) 
+macleod, I. d. g. 
+collins, A. m. 
+HIDDEN-LINE plot, surface plot 
+*********************************************************************
+Document:CACM-2674
+
+raster scan COMPUTER GRAPHICS with "real time" 
+scan conversion ALGORITHMS FOR A cell organized raster display 
+to include general GRAPHICS. two fundamentally different 
+scan conversion ALGORITHMS which have been 
+*********************************************************************
+Document:CACM-2845
+
+with physical storage blocks, such as tracks AND CYLINDERS. 
+A buddy system variation FOR disk storage allocation 
+A generalization of the buddy system FOR storage 
+*********************************************************************
+Document:CACM-2924
+
+an interactive COMPUTER GRAPHICS approach to surface representation 
+an IN teractive COMPUTER GRAPHICS method has been 
+COMPUTER GRAPHICS, three-dimensional surface representation, 
+of spline theory AND ALGORITHMS, an IN teractive 
+*********************************************************************
+Document:CACM-1978
+
+interactive GRAPHICS, COMPUTER GRAPHICS, GRAPHICS, least squares, 
+the use of interactive GRAPHICS to solve numerical problems 
+with the advent of on-line (time-sharing) COMPUTER systems 
+*********************************************************************
+Document:CACM-2692
+
+COMPUTER GRAPHICS, HIDDEN-SURFACE, clipping 
+A new family of clipping ALGORITHMS IS described. 
+these ALGORITHMS are able to clip polygons 
+lie outside the volume. IN two dimensions the ALGORITHMS 
+*********************************************************************
+Document:CACM-2367
+
+formats FOR such A course are discussed, A TOPIC by TOPIC 
+computers AND society: A proposed course FOR COMPUTER scientists 
+on society AND the responsibilities of COMPUTER scientists 
+shaw, A. c. 
+*********************************************************************
+Document:CACM-1551
+
+on compiling ALGORITHMS FOR arithmetic expressions 
+THIS paper deals with ALGORITHMS concerning arithmetic 
+FOR A hitac-5020 COMPUTER having n accumulators. the 
+ALGORITHMS generate an object code which minimizes 
+*********************************************************************
+Document:CACM-2384
+
+HIDDEN-LINE plotting program [j6] (algorithm a420) 
+HIDDEN-LINE plot, surface plot 
+cacm february, 1972 
+*********************************************************************
+Document:CACM-2441
+
+HIDDEN-LINE plotting program (algorithm r420) 
+cacm september, 1973 
+williamson, h. 
+*********************************************************************
+Document:CACM-1742
+
+channel FOR A COMPUTER display are considered. 
+simple design plus one new general purpose COMPUTER FOR 
+between display AND parent COMPUTER IS A key factor IN display processor design. 
+display processor design, display system, COMPUTER 
+*********************************************************************
+Document:CACM-1181
+
+direct to A central COMPUTER. the method requires almost 
+no SPECIALIZED equipment AND uses any ordinary 
+neilsen, I. r. 
+A simple data transmission system using the office telephone 
+*********************************************************************
+Document:CACM-0266
+
+fitting SPHERES by the method of least squares 
+cacm november, 1961 
+robinson, s. m. 
+*********************************************************************
+Document:CACM-2146
+
+various dispersion ALGORITHMS FOR the polyphase 
+new dispersion ALGORITHMS with more straightforward 
+logic are presented. of the simple dispersion ALGORITHMS 
+less reading AND writing than most ALGORITHMS IN 
+*********************************************************************
+Document:CACM-1159
+
+one COMPUTER to another. of the methods examined, the 
+diminished by current trends IN COMPUTER design, AND 
+halpern, m. I. 
+machine independence: its technology AND economics 
+*********************************************************************
+Document:CACM-2188
+
+an approach to the optimum design of COMPUTER GRAPHICS systems 
+processing between the GRAPHICS processor AND its supporting 
+means of A mathematical model of A COMPUTER driven 
+GRAPHICS system. the parameters of the model are functions 
+*********************************************************************
+Document:CACM-3049
+
+of COMPUTER GRAPHICS IS to describe graphical entities, 
+COMPUTER GRAPHICS, data structures, graphic display, 
+paper presents the conceptual view of GRAPHICS leading 
+GRAPHICS packages, AND graphical devices. 
+*********************************************************************
+Document:CACM-1014
+
+though the experimenter may not be INTERESTED IN 
+to the COMPUTER to handle the bulk of work involved 
+to get the COMPUTER to do THIS IS described. 
+machine controls FOR analysis of variance 
+*********************************************************************
+Document:CACM-2809
+
+following some lines of joint work with A. 
+CONES, vector lattice,absolute, monotonic 
+positivity AND norms 
+*********************************************************************
+Document:CACM-0087
+
+uniformly on n-dimensional SPHERES 
+A note on A method FOR generating points 
+cacm april, 1959 
+*********************************************************************
+Document:CACM-2638
+
+HIDDEN-LINE plotting program (algorithm r420) 
+cacm june, 1974 
+gaither, b. 
+*********************************************************************
+Document:CACM-2771
+
+using A COMPUTER. synthesis begins with primitive solids 
+added together or subtracted. two ALGORITHMS to 
+braid, I. c. 
+GRAPHICS, machined components, polyhedra, shape 
+*********************************************************************
+Document:CACM-2708
+
+FOR further research on THIS TOPIC conclude 
+practical syntactic error recovery 
+THIS paper describes A recovery scheme FOR syntax 
+*********************************************************************
+Document:CACM-2111
+
+several SPECIALIZED techniques are shown FOR efficiently 
+incorporating spelling correction ALGORITHMS IN 
+spelling correction IN systems programs 
+*********************************************************************
+Document:CACM-2637
+
+HIDDEN-LINE plotting program (algorithm r420) 
+cacm june, 1974 
+ellis, t. m. r. 
+*********************************************************************
+Document:CACM-2564
+
+HIDDEN-LINE plotting program (algorithm r420) 
+cacm december, 1974 
+ellis, t. m. r. 
+*********************************************************************
+Document:CACM-3116
+
+representation, polyhedral representation, GRAPHICS, polygons, surfaces 
+presents A COMPUTER representation FOR solids AND surfaces AND ALGORITHMS 
+interference detection among solids AND surfaces 
+*********************************************************************
+Document:CACM-2341
+
+to these somewhat SPECIALIZED applications, 
+language independenthat IS, blocks require 
+little IN the way of SPECIALIZED syntax AND could readily 
+processing, GRAPHICS, nonnumerical programming, 
+*********************************************************************
+Document:CACM-0435
+
+INTERESTED. A method employing A decision matrix 
+A decision matrix as the basis FOR A simple data input routine 
+currently A great deal of time AND effort IS 
+*********************************************************************
+Document:CACM-0616
+
+will be read (A) with avid interest by programming language 
+INTERESTED IN developing A theoretical approach to data 
+IN THIS report. RATHER, they have tried to present 
+an information algebra - phase I report-language 
+*********************************************************************
+Document:CACM-2905
+
+perfect hashing functions: A single 
+probe retrieving method FOR static sets 
+A refinement of hashing which allows retrieval 
+*********************************************************************
+Document:CACM-2919
+
+main tenance function onto A SPECIALIZED COMPUTER 
+COMPUTER configurations, COMPUTER networks, software 
+which IS dedicated to that purpose. such A COMPUTER 
+the programmer's workbench-a machine FOR software development 
+*********************************************************************
+Document:CACM-2678
+
+hidden line problem, COMPUTER GRAPHICS, contour surface 
+visible surface plotting program [j6] (algorithm a475) 
+cacm march, 1974 
+*********************************************************************
+Document:CACM-2152
+
+IS widespread IN interactive COMPUTER GRAPHICS, 
+COMPUTER GRAPHICS, programming languages, display files 
+display procedures 
+*********************************************************************
+Document:CACM-2004
+
+half-toned COMPUTER GRAPHICS presentations 
+half-tone COMPUTER GRAPHICS, line-scan image processing, 
+A description IS given of an algorithm FOR producing COMPUTER generated 
+also on the coordinated science laboratory cdc 1604 COMPUTER 
+*********************************************************************
+Document:CACM-3028
+
+IN 30 years of COMPUTER design at manchester university 
+THIS paper places each COMPUTER IN its his torical 
+ferranti, manchester mark I, atlas, icl 
+the manchester mark I AND atlas: A his torical perspective 
+*********************************************************************
+Document:CACM-2211
+
+scanned-display COMPUTER GRAPHICS 
+COMPUTER GRAPHICS, scanned-display, scan conversion, raster displays 
+COMPUTER installation. the scanned image IS stored 
+IN the core memory of the COMPUTER, AND software 
+*********************************************************************
+Document:CACM-3141
+
+decentralized ALGORITHMS, distributed systems, operating systems 
+an improved algorithm FOR decentralized extrema-finding 
+IN circular configurations of processes 
+*********************************************************************
+Document:CACM-2751
+
+COMPUTER GRAPHICS, graphic display, hidden surface removal. 
+illumination FOR COMPUTER generated pictures 
+the quality of COMPUTER generated images of 
+surface ALGORITHMS are presented here. human visual 
+*********************************************************************
+Document:CACM-2486
+
+COMPUTER photocomposition of technical text 
+IN COMPUTER assisted typesetting by means of 
+photocomposition, typesetting, printing, GRAPHICS, text processing 
+*********************************************************************
+Document:CACM-2273
+
+two ALGORITHMS FOR generating COMPUTER programs 
+from decision tables are described. the ALGORITHMS 
+entry tables. the ALGORITHMS are based on the 
+by instantly marking rules which are not applicable (ALGORITHMS 
+*********************************************************************
+Document:CACM-1397
+
+people INTERESTED IN programming languages designed 
+strings, IN their applications, AND IN ALGORITHMS FOR 
+proceedings of the acm symposium on symbolic AND algebraic manipulation 
+*********************************************************************
+Document:CACM-2973
+
+sorting on A mesh-connected parallel COMPUTER 
+two ALGORITHMS are presented FOR sorting n^2 
+n). the ALGORITHMS of THIS paper are shown to be optimal 
+parallel COMPUTER, parallel sorting, parallel merge, 
+*********************************************************************
+Document:CACM-2819
+
+two ALGORITHMS FOR encoding A string differ 
+substrings of the file. four new ALGORITHMS FOR THIS 
+parameters IN the ALGORITHMS are optimized to obtain 
+codes, n-gram encoding, comparison of ALGORITHMS 
+*********************************************************************
+Document:CACM-2369
+
+GRAPHICS, displays, GRAPHICS, COMPUTER drawn 
+hidden line problem, display programming, COMPUTER 
+hidden lines elimination FOR A rotating object 
+*********************************************************************
+Document:CACM-2402
+
+COMPUTER GRAPHICS systems coupled to powerful 
+digital computers encourages the development of ALGORITHMS 
+pattern recognition ALGORITHMS IS hindered by the fact 
+use of an interactive GRAPHICS system. model building 
+*********************************************************************
+Document:CACM-2520
+
+good, d. I. 
+proof of ALGORITHMS, greatest common divisor, 
+greatest common divisor of n integers AND multipliers (algorithm c386) 
+*********************************************************************
+Document:CACM-1710
+
+lang, c. A. 
+list structure, set languages, modeling, GRAPHICS 
+asp-a ring implemented associative structure package 
+*********************************************************************
+Document:CACM-1741
+
+COMPUTER display, COMPUTER GRAPHICS, COMPUTER raster 
+A multiconsole COMPUTER display system has 
+COMPUTER. the image IS written on A rotating drum 
+the technique has two drawbacks. A COMPUTER 
+*********************************************************************
+Document:CACM-3059
+
+models FOR parallel processing within programs: 
+application to cpu:i/o AND i/o:i/o overlap 
+approximate queueing models FOR internal parallel 
+*********************************************************************
+Document:CACM-2902
+
+ALGORITHMS. simple ALGORITHMS operating on memory ordered 
+dynamic memory allocation IN COMPUTER simulation 
+35 dynamic memory allocation ALGORITHMS when used 
+fragmentation. ALGORITHMS main taining separate 
+*********************************************************************
+Document:CACM-2078
+
+automated design, data structures, COMPUTER GRAPHICS, computer-aided 
+COMPUTER graphic languages. four alternative data structures 
+representations FOR space planning 
+*********************************************************************
+Document:CACM-3111
+
+on THIS TOPIC will be highly rewarding, both 
+security, wiretap, COMPUTER network security, 
+secure communications over insecure channels 
+*********************************************************************
+Document:CACM-1237
+
+conversion of decision tables to COMPUTER programs 
+are valuable as hand-coding guides or as ALGORITHMS FOR 
+press, l. I. 
+*********************************************************************
+Document:CACM-2918
+
+COMPUTER system IS examined with particular 
+IS shown to be particularly suited to certain SPECIALIZED 
+smith, A. j. 
+multiprocessor memory organization AND memory interference 
+*********************************************************************
+Document:CACM-1735
+
+A futures market IN COMPUTER time 
+periodic fluctuation IN COMPUTER use often associated 
+sutherland, I. e. 
+COMPUTER scheduling, auction, time allocation, operating efficiency 
+*********************************************************************
+Document:CACM-1924
+
+carefully designed matrix ALGORITHMS can lead to 
+multiplication, AND inversion ALGORITHMS shows 
+manipulation ALGORITHMS IS also studied as A function 
+mckellar, A. c. 
+*********************************************************************
+Document:CACM-2687
+
+raster scan COMPUTER GRAPHICS displays with 
+organization to include general GRAPHICS. the feasibility 
+GRAPHICS, raster display, line drawing, discrete 
+A cell organized raster display FOR line drawings 
+*********************************************************************
+Document:CACM-2631
+
+using direct access COMPUTER files of bibliographic 
+barton, I. j. 
+an information-theoretic approach to 
+text searching IN direct access systems 
+*********************************************************************
+Document:CACM-1400
+
+blum, r. I. 
+free-text inputs to utility routines 
+through the use of some RATHER simple techniques, 
+*********************************************************************
+Document:CACM-2433
+
+which could be expected to influence language (AND 
+THIS storage method AND express parallel ALGORITHMS are described. 
+control structures IN illiac iv fortran 
+*********************************************************************
+Document:CACM-2226
+
+further evidence FOR the analysis of ALGORITHMS 
+summarized by gue et al, with two ALGORITHMS FOR the 
+the ALGORITHMS as A suboptimizer IS indicated. 
+operations research, integer programming, zero-one variables, ALGORITHMS 
+*********************************************************************
+Document:CACM-3056
+
+counting large numbers of events IN small registers 
+it IS possible to use A small counter to keep 
+approximate counts of large numbers. the resulting 
+*********************************************************************
+Document:CACM-3152
+
+RATHER than to use the best known ALGORITHMS which leave the 
+storage reorganization techniques FOR 
+matrix computation IN A paging environment 
+*********************************************************************
+Document:CACM-2016
+
+COMPUTER utility IS discussed. these tools include special hardware 
+AND recording tools, AND SPECIALIZED measurement facilities. some 
+the instrumentation of multics 
+*********************************************************************
+Document:CACM-2368
+
+IN THIS tutorial paper A COMPUTER program 
+ALGORITHMS. the two players IN A shannon switching game, 
+to know whether the COMPUTER IS connect or cut. 
+graph ALGORITHMS, graph processing, shannon switching 
+*********************************************************************
+Document:CACM-1764
+
+panel discussion on COMPUTER appreciation 
+design experiments, AND COMPUTER appreciation. its second 
+half consisted of A panel discussion on COMPUTER 
+appreciation, organized AND chaired by elliot I. organick. 
+*********************************************************************
+Document:CACM-2337
+
+ALGORITHMS IS given. one new algorithm FOR 
+pohl, I. 
+A sorting problem AND its complexity 
+*********************************************************************
+Document:CACM-1867
+
+one IS INTERESTED IN the ratio l(j) of the 
+on the expected lengths of sequences generated 
+IN sorting by replacement selecting 
+*********************************************************************
+Document:CACM-2786
+
+AND to use by people (FOR example, secretaries AND 
+GRAPHICS, printing, text processing. 
+A system FOR typesetting mathematics 
+*********************************************************************
+Document:CACM-3071
+
+THIS algorithm, although more SPECIALIZED than that 
+an algorithm using symbolic techniques FOR the 
+bel-petrov classification of gravitational fields 
+*********************************************************************
+Document:CACM-1931
+
+arithmetic (I.) can be used effectively to bound errors 
+with straightforward use of I. IN determinant 
+I. FOR determinant evaluation. an application using 
+I. determinants IN A program to test A set of 
+*********************************************************************
+Document:CACM-2817
+
+traiger, I. l. 
+the notions of consistency AND predicate locks IN A database system 
+IN database systems, users access shared data 
+*********************************************************************
+Document:CACM-2967
+
+memories IN the context of COMPUTER GRAPHICS 
+were duplicated on the tx-2 COMPUTER at m.'s 
+memory, GRAPHICS, information retrieval, 
+A comparison of hardware AND software associative 
+*********************************************************************
+Document:CACM-2325
+
+of computation, ALGORITHMS, continuous ALGORITHMS 
+numerical mathematics AND COMPUTER science 
+of continuous ALGORITHMS. four of the components 
+complexity), synthesis AND analysis of ALGORITHMS, 
+*********************************************************************
+Document:CACM-3032
+
+nodes of A network. ALGORITHMS FOR accomplishing 
+COMPUTER network include (1) transmission 
+THIS list of ALGORITHMS we add (6) reverse path 
+IN store-and-forward packet switching COMPUTER networks. 
+*********************************************************************
+Document:CACM-2968
+
+A comparison of tree-balancing ALGORITHMS 
+path length, analysis of ALGORITHMS, information 
+several algorithms-height-balance (i.e. avl 
+*********************************************************************
+Document:CACM-2829
+
+COMPUTER GRAPHICS, graphic display, shading, hidden surface removal 
+texture AND reflection IN COMPUTER generated images 
+IN 1974 catmull developed A new algorithm 
+*********************************************************************
+Document:CACM-2400
+
+use of the hough transformation todetect lines AND curves IN pictures 
+hough has proposed an interesting AND computationally 
+efficient procedure FOR detecting lines 
+*********************************************************************
+Document:CACM-1281
+
+A data input scheme FOR A time-sharing COMPUTER 
+format statements to determine the input, the COMPUTER 
+time. the COMPUTER converses with the user during the 
+pyle, I. c. 
+*********************************************************************
+Document:CACM-2598
+
+limited-entry decision tables to COMPUTER 
+A COMPUTER program. the ALGORITHMS considered 
+IN THIS paper perform limited search AND, accordingly, 
+explore the limitations of ALGORITHMS used to solve 
+*********************************************************************
+Document:CACM-3082
+
+problems. the algorithm IS then SPECIALIZED 
+distributed systems, COMPUTER networks, 
+time, clocks, AND the ordering of events IN A distributed system 
+*********************************************************************
+Document:CACM-2825
+
+the bmd AND bmdp series of statistical COMPUTER programs 
+factor analysis, GRAPHICS, outliers, regression, time series, transformations 
+cacm october, 1976 
+*********************************************************************
+Document:CACM-2959
+
+describe AND execute their applications on A COMPUTER. 
+programming language, GRAPHICS, user IN terface, 
+the system FOR business automation (sba): programming language 
+*********************************************************************
+Document:CACM-1506
+
+the laconiq (laboratory COMPUTER online inquiry) 
+COMPUTER (an ibm system 360/30). therefore techniques 
+the laconiq monitor: time sharing FOR online dialogues 
+*********************************************************************
+Document:CACM-0144
+
+present methods are inefficient when COMPUTER systems 
+representations of entire words or common phrases (RATHER 
+do it by the numbers-digital shorthand 
+*********************************************************************
+Document:CACM-2426
+
+ALGORITHMS scale1, scale2, AND scale3 FOR determination 
+of scales on COMPUTER generated plots 
+[j6] (algorithm a463) 
+*********************************************************************
+Document:CACM-2657
+
+program-synthesizing ALGORITHMS, theorem proving, 
+an improved program-synthesizing algorithm AND its correctness 
+an improved program-synthesizing algorithm 
+*********************************************************************
+Document:CACM-3149
+
+, picture processing, COMPUTER GRAPHICS, pattern recognition. 
+the cyclic order property of vertices as an aid IN scene analysis 
+A cyclic-order property IS defined FOR bodies bounded by smooth-curved faces. 
+*********************************************************************
+Document:CACM-3038
+
+communication IN COMPUTER networks IS discussed. 
+AND public-key encryption ALGORITHMS are considered as the basis FOR protocols. 
+using encryption FOR authentication IN large networks of computers 
+*********************************************************************
+Document:CACM-1588
+
+pl/i list processing 
+the concepts of list processing have been introduced 
+into the pl/i language. with these new 
+*********************************************************************
+Document:CACM-1623
+
+may be INTERESTED IN the problem because it IS stated 
+an application of formac 
+A nonlinear circuit analysis problem IS stated 
+*********************************************************************
+Document:CACM-1658
+
+analysis of ALGORITHMS FOR the zero-one programming problem 
+of several existing ALGORITHMS FOR the 
+requirements of several of the ALGORITHMS are compared 
+size. COMPUTER experiments still provide little hope 
+*********************************************************************
+Document:CACM-2421
+
+most GRAPHICS systems using A raster scan output 
+format. published scan conversion ALGORITHMS 
+GRAPHICS, scan conversion, raster plotter, 
+A scan conversion algorithm with reduced storage requirements 
+*********************************************************************
+Document:CACM-0492
+
+basis of A markov chain model. FOR the reader not INTERESTED 
+analysis of A file addressing method 
+THIS paper presents A new file addressing method 
+*********************************************************************
+Document:CACM-1569
+
+implementing phrase-structure productions IN pl/i 
+A method IS described FOR implementing the productions 
+of A context-free phrase structure grammar 
+*********************************************************************
+Document:CACM-1473
+
+karim, A. I. A. 
+electronic digital COMPUTER z22. 
+the stability of the fourth order runge-kutta 
+method FOR the solution of systems of differential 
+*********************************************************************
+Document:CACM-1908
+
+using time-sharing AND batch-processing COMPUTER 
+who, as nonprogrammers, are using the COMPUTER as an 
+cost FOR usage of the two COMPUTER systems; however, 
+time-sharing AND batch-processing: an experimental 
+*********************************************************************
+Document:CACM-2534
+
+design AND implementation of A diagnostic compiler FOR pl/i 
+pl/c IS A compiler FOR A dialect FOR pl/i. the 
+design objective was to provide A maximum degree 
+*********************************************************************

@@ -1,0 +1,661 @@
+Query:information retrieval articles by gerard salton or others about clustering bibliographic coupling use of citations or co-citations the vector space model boolean search methods using inverted files feedback etc  salton g
+
+Document:CACM-2711
+
+a VECTOR SPACE MODEL for automatic indexing 
+SALTON, G. 
+automatic INFORMATION RETRIEVAL, automatic 
+in a document RETRIEVAL, OR other pattern matching 
+*********************************************************************
+Document:CACM-0634
+
+SALTON, G. 
+manipulation OF trees in INFORMATION retrieval* 
+cacm february, 1962 
+*********************************************************************
+Document:CACM-2307
+
+for INFORMATION RETRIEVAL and for THE control 
+SALTON, G. 
+collection growth, collection retirement, FEEDBACK SEARCH 
+automatic indexing, automatic SEARCH and RETRIEVAL, 
+*********************************************************************
+Document:CACM-1457
+
+in automatic INFORMATION RETRIEVAL 
+automatic INFORMATION RETRIEVAL programs require 
+facilities to aid in INFORMATION RETRIEVAL. 
+SALTON, G. 
+*********************************************************************
+Document:CACM-1927
+
+science, INFORMATION organization, INFORMATION RETRIEVAL, 
+SALTON, G. 
+INFORMATION science in a ph. computer science program 
+curriculum in THE general area OF INFORMATION 
+*********************************************************************
+Document:CACM-1236
+
+SALTON, G. 
+THE smart automatic document RETRIEVAL system-an illustration 
+a fully automatic document RETRIEVAL system 
+METHODS are available to analyze documents 
+*********************************************************************
+Document:CACM-1287
+
+VECTOR COUPLING OR clebsch-gordan coefficients (algorithm 252 [z]) 
+cacm april, 1965 
+gunn, j. h. 
+*********************************************************************
+Document:CACM-3129
+
+a computer system uses several serial FILES. THE FILES reside on a 
+direct-access storage device in which storage SPACE is limited. records are 
+designates THE SPACE required in each file for record addition. whenever one 
+file runs out OF SPACE, THE system must be reorganized. this paper considers 
+*********************************************************************
+Document:CACM-2451
+
+a standard INFORMATION RETRIEVAL operation is 
+can be represented BY a tree SEARCH MODEL. this paper 
+tree file, INFORMATION storage and RETRIEVAL, CLUSTERING, 
+ideal SEARCH procedure. as a practical application 
+*********************************************************************
+Document:CACM-2990
+
+effective INFORMATION RETRIEVAL USING term accuracy 
+THE performance OF INFORMATION RETRIEVAL systems 
+SALTON, G. 
+INFORMATION RETRIEVAL, automatic indexing, content 
+*********************************************************************
+Document:CACM-2114
+
+as INVERTED FILES, index-sequential FILES, and multilist FILES are 
+a formal system for INFORMATION RETRIEVAL from FILES 
+description, file SEARCH, directory SEARCH, serial processing OF 
+file structure, directory decoding, and record RETRIEVAL are defined 
+*********************************************************************
+Document:CACM-3134
+
+INFORMATION RETRIEVAL, INVERTED FILES, multiattribute RETRIEVAL, 
+rapid RETRIEVAL, SPACE economy 
+d RETRIEVAL OF INFORMATION are described. this method is particularly 
+for INFORMATION storage and RETRIEVAL 
+*********************************************************************
+Document:CACM-2140
+
+FILES, INFORMATION RETRIEVAL, query, multi-attribute 
+file organization, combined index FILES, INVERTED 
+permitted decreased RETRIEVAL time at THE cost 
+OF increased storage SPACE. this paper examines combined 
+*********************************************************************
+Document:CACM-1976
+
+file organization, secondary index FILES, INVERTED FILES, INFORMATION 
+(OR INVERTED FILES on secondary key fields) is described. 
+multi-attribute RETRIEVAL with combined indexes 
+keys (OR access numbers OF THE records) that satisfy different combinations 
+*********************************************************************
+Document:CACM-0944
+
+storage and SEARCH properties OF a tree-organized memory system 
+trees. such trees have INFORMATION storage and RETRIEVAL 
+word length and distribution OF stored INFORMATION 
+THE storage and SEARCH properties OF a tree-organized 
+*********************************************************************
+Document:CACM-1700
+
+RETRIEVAL METHODS has been mated with THE 
+THE "peekaboo" idea from punched card INFORMATION 
+words USING THE inclusive OR operation. if, at SEARCH 
+time, THE logical product (USING THE and operation) 
+*********************************************************************
+Document:CACM-1935
+
+and offers new potential for INFORMATION RETRIEVAL systems. 
+RETRIEVAL, mathematical MODEL, partitioning, 
+randomized binary SEARCH technique 
+a mathematical MODEL is developed for THE mean 
+*********************************************************************
+Document:CACM-2631
+
+direct access, INFORMATION RETRIEVAL, character 
+USING direct access computer FILES OF BIBLIOGRAPHIC 
+INFORMATION, an attempt is made to overcome 
+one OF THE problems often associated with INFORMATION 
+*********************************************************************
+Document:CACM-2484
+
+data base, data-base management, INFORMATION RETRIEVAL, 
+a note on INFORMATION organization and storage 
+INFORMATION structures, as list, tree, ring, 
+INFORMATION structure, file organization, 
+*********************************************************************
+Document:CACM-2978
+
+FILES, RETRIEVAL, main tenance, SEARCH strategy, 
+alternatives include a choice OF SEARCH strategy, 
+THE index structure. formulas for THE RETRIEVAL 
+which compare THE RETRIEVAL costs OF THE alternatives. 
+*********************************************************************
+Document:CACM-3072
+
+FEEDBACK coupled resource allocation policies 
+MODEL studies OF some integrated, feedback-driven 
+executing on THE cpu. THE MODEL systems feature simulated 
+processing OF THE i/o activity (buffer SPACE assignment). 
+*********************************************************************
+Document:CACM-2561
+
+are implemented in a MODEL fact RETRIEVAL system 
+inference, inductive inference, CLUSTERING, fact RETRIEVAL, heuristics 
+a heuristic approach to inductive inference in fact RETRIEVAL systems 
+from available INFORMATION. THE procedures make USE 
+*********************************************************************
+Document:CACM-2991
+
+CLUSTERING, INFORMATION RETRIEVAL, open addressing, open 
+CLUSTERING in THE key set is decreased BY 
+key set. shadow buckets in THE key SEARCH sequence 
+hashing, hashing techniques, hashing METHODS, hash 
+*********************************************************************
+Document:CACM-1413
+
+oettinger, a. G. 
+a vision OF technology and education 
+educational technology is currently quite 
+*********************************************************************
+Document:CACM-2437
+
+storage, INFORMATION RETRIEVAL, hashing analysis, 
+transformation METHODS USING an abstract file 
+transformation METHODS. in this approach THE keys in 
+key SPACE according to a certain probabilistic selection 
+*********************************************************************
+Document:CACM-2746
+
+SEARCH, INFORMATION RETRIEVAL, text-editing, 
+efficient string matching: an aid to BIBLIOGRAPHIC SEARCH 
+improve THE speed OF a library BIBLIOGRAPHIC 
+SEARCH program BY a factor OF 5 to 10. 
+*********************************************************************
+Document:CACM-2969
+
+MODEL. a SEARCH procedure for THE file location 
+and a possible application OF THE MODEL. 
+optimal program and data locations in computer networks 
+*********************************************************************
+Document:CACM-1830
+
+INFORMATION RETRIEVAL, direct access memory, data base, INVERTED list 
+RETRIEVAL times for a packed direct access INVERTED file 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-2680
+
+optimal SPACE allocation on disk storage devices 
+when THE amount OF SPACE required for file storage 
+turnaround time. an optimization MODEL for 
+systems, file scheduling, SPACE allocation, 
+*********************************************************************
+Document:CACM-2278
+
+binary trees, SEARCH trees, INFORMATION storage, INFORMATION RETRIEVAL 
+on foster's INFORMATION storage and RETRIEVAL USING avl trees 
+cacm september, 1972 
+*********************************************************************
+Document:CACM-2258
+
+file SEARCH, scatter storage, INFORMATION RETRIEVAL 
+hashing, hashing techniques, hashing METHODS, hash 
+additional results on key-to-address transform 
+techniques: a fundamental performance study on 
+*********************************************************************
+Document:CACM-1916
+
+analysis OF BOOLEAN program models for time-shared, paged environments 
+represented in a nondirected MODEL. THE complete structural 
+BY a combined MODEL. a transformation OF THE combined 
+INFORMATION is also contained. analysis OF these models 
+*********************************************************************
+Document:CACM-1699
+
+INFORMATION RETRIEVAL testing, INFORMATION system 
+OF mechanized INFORMATION RETRIEVAL systems, 
+OF THE research is that an INFORMATION RETRIEVAL system 
+experimental evaluation OF INFORMATION 
+*********************************************************************
+Document:CACM-2494
+
+BY computer printed symbols (OF character 
+THE plots, applied to a data matrix before CLUSTERING 
+and to THE rearranged matrix after CLUSTERING, 
+show at a glance whether CLUSTERING brought forth any 
+*********************************************************************
+Document:CACM-0028
+
+request for METHODS OR programs 
+cacm april, 1958 
+corley, h. p. t. 
+*********************************************************************
+Document:CACM-2486
+
+devised in THE INFORMATION system OF THE american institute 
+symbols, ETC.) not available on input keyboards 
+computer photocomposition OF technical text 
+*********************************************************************
+Document:CACM-2882
+
+list, INFORMATION RETRIEVAL, database organizations, 
+a stochastic evaluation MODEL for database 
+organization in data RETRIEVAL systems 
+scale data RETRIEVAL systems has been scarce due 
+*********************************************************************
+Document:CACM-2160
+
+file organization, INFORMATION RETRIEVAL, INVERTED 
+attributes, BOOLEAN functions, BOOLEAN queries, 
+a new file structure for attribute based RETRIEVAL 
+involving arbitrary BOOLEAN functions OF THE attribute-value 
+*********************************************************************
+Document:CACM-2517
+
+work on decision table translation USING METHODS 
+OF these METHODS under various possible conventions 
+and THE single-rule (OR action set) convention in decision tale usage. 
+johnson, r. G. 
+*********************************************************************
+Document:CACM-0144
+
+present METHODS are inefficient when computer systems 
+do it BY THE numbers-digital shorthand 
+present communications systems transmit single 
+*********************************************************************
+Document:CACM-2986
+
+various computations on relations, BOOLEAN matrices, 
+faster than those in common USE. for example, how to compute 
+szymanski, t. G. 
+computational complexity, sparse relation, BOOLEAN 
+*********************************************************************
+Document:CACM-2753
+
+and natural resource management. these SPACE planning 
+for selectivity in controlling SEARCH and THE 
+design synthesis, diagnostic SEARCH, heuristics, 
+planning, problem solving, representations, SEARCH strategies, 
+*********************************************************************
+Document:CACM-2688
+
+memory than is typical OF most INVERTED file and similar 
+approaches to multi-key RETRIEVAL. this article 
+file organization, paging, RETRIEVAL algorithm, 
+INVERTED file, multiple key hashing 
+*********************************************************************
+Document:CACM-0239
+
+for INFORMATION RETRIEVAL systems 
+inefficiency OF THE USE OF BOOLEAN functions 
+cacm december, 1961 
+*********************************************************************
+Document:CACM-2998
+
+cdrs (OR cars) are placed in consecutive memory 
+INFORMATION content OF a car-cdr pair in THE programs 
+an empirical study OF list structure in lisp 
+*********************************************************************
+Document:CACM-3158
+
+secure personal computing in an insecure network 
+a method for implementing secure personal computing in a network 
+with one OR more central facilities is proposed. THE method employs a 
+*********************************************************************
+Document:CACM-1725
+
+ordered lists, ordered INFORMATION RETRIEVAL, 
+an efficient method OF ordered RETRIEVAL OF binary 
+OF his method, unlike those OF other METHODS, is independent 
+ordered RETRIEVAL theorem, column digit values, digit 
+*********************************************************************
+Document:CACM-3113
+
+minimum time and/or SPACE cost criteria, common action 
+optimal conversion OF extended-entry 
+decision tables with general cost criteria 
+*********************************************************************
+Document:CACM-1402
+
+OF additional INFORMATION as in interpolation METHODS. 
+partial step integration 
+a partial step integration equation is derived 
+*********************************************************************
+Document:CACM-2846
+
+INFORMATION RETRIEVAL systems. it has THE same underlying 
+RETRIEVAL time, measured in terms OF bit inspections 
+improvement in storage requirements and RETRIEVAL time 
+structure, and then several METHODS OF its USE 
+*********************************************************************
+Document:CACM-2078
+
+representations for SPACE planning 
+are called SPACE planning problems. THE representational 
+that allow automated SPACE planning are described and compared. 
+*********************************************************************
+Document:CACM-3033
+
+optimizing decision trees through heuristically guided SEARCH 
+SPACE requirements are independent OF how "easy" THE 
+SPACE, since THE number OF solutions increases 
+guided top-down SEARCH algorithm which, like dynamic 
+*********************************************************************
+Document:CACM-2722
+
+OF THE SEARCH SPACE) as a data structure for storage OF 
+attribute, INFORMATION RETRIEVAL system, nearest 
+SEARCH tree (OR k-d tree, where k is THE dimensionality 
+associative RETRIEVAL, binary SEARCH trees, key, 
+*********************************************************************
+Document:CACM-1046
+
+in a number OF ARTICLES published during THE 
+lightly some topics to which they devote considerable SPACE. 
+a compiler-building system developed BY brooker and morris 
+*********************************************************************
+Document:CACM-1886
+
+compiled, METHODS are presented for increasing THE 
+INFORMATION is computed in THE correct sequence and factors 
+BOOLEAN switching expressions and OF factoring polynomials 
+factorization OF BOOLEAN expressions 
+*********************************************************************
+Document:CACM-2109
+
+occur and linear SEARCH METHODS are used. THE SEARCH size, because 
+a quadratic residue SEARCH method has previously been suggested 
+to avoid THE CLUSTERING usually encountered when hash address collisions 
+quadratic residue, SEARCH method, hash addressing, address 
+*********************************************************************
+Document:CACM-2976
+
+and measurement, INFORMATION RETRIEVAL, 
+database, INVERTED file organization, database performance 
+approximating block accesses in database organizations 
+*********************************************************************
+Document:CACM-2107
+
+code eliminating secondary CLUSTERING 
+secondary CLUSTERING as a cause OF hash code inefficiency is discussed, and a 
+previous METHODS are made both analytically and empirically. 
+hashing, hash code, scatter storage, calculated address, CLUSTERING, 
+*********************************************************************
+Document:CACM-2059
+
+operation research, network problems, control theory, traffic problems, ETC. 
+a language for treating graphs 
+a language for THE representation OF graph is described, and THE formulation OF 
+*********************************************************************
+Document:CACM-2251
+
+weighted increment linear SEARCH for scatter tables 
+a new linear SEARCH for hash tables whose increment 
+is presented. comparisons with known METHODS are given, 
+practically eliminates primary CLUSTERING at a very low cost. 
+*********************************************************************
+Document:CACM-2516
+
+hierarchical storage in INFORMATION RETRIEVAL 
+on INFORMATION RETRIEVAL operations. THE data storage 
+INFORMATION RETRIEVAL, hierarchical storage 
+data access times USING sequential FILES, random access FILES, 
+*********************************************************************
+Document:CACM-1486
+
+in this paper a description is given OF a MODEL 
+a reprogramming machine 
+programming system which is directed BY a programming 
+*********************************************************************
+Document:CACM-1235
+
+high speed in only a limited storage SPACE. 
+a stochastic approach to THE grammatical coding OF english 
+a computer program is described which will 
+*********************************************************************
+Document:CACM-1455
+
+strings, integers and BOOLEAN VECTOR variables. 
+trac, a procedure-describing language for THE reactive typewriter 
+a description OF THE trac (text reckoning 
+*********************************************************************
+Document:CACM-2033
+
+layout, RETRIEVAL trade-offs, RETRIEVAL efficiency, storage efficiency 
+a given set OF messages. two new hash-coding METHODS are examined 
+(SPACE), THE time required to identify a message as a nonmember OF THE 
+given set (reject time), and an allowable error frequency. THE new METHODS 
+*********************************************************************
+Document:CACM-2547
+
+representation OF contours ad regions for efficient computer SEARCH 
+representation to handling terrain INFORMATION 
+data RETRIEVAL, graphic language, two-dimensional 
+*********************************************************************
+Document:CACM-2947
+
+INFORMATION RETRIEVAL, text editing, minicomputers, 
+crts,time sharing, BIBLIOGRAPHIC SEARCH and 
+SEARCH and RETRIEVAL systems, but has several 
+a function, a file, and a SEARCH template 
+*********************************************************************
+Document:CACM-2288
+
+RETRIEVAL, INFORMATION RETRIEVAL, record organization, 
+file organization: THE consecutive RETRIEVAL property 
+THE consecutive RETRIEVAL property is an important 
+set. its existence enables THE design OF an INFORMATION 
+*********************************************************************
+Document:CACM-2646
+
+a MODEL for masking rotational latency BY dynamic disk allocation 
+OF programs with predictable behavior. while THE METHODS 
+matrix and partial differential equation METHODS are 
+typical examples OF their USE. it is shown that 
+*********************************************************************
+Document:CACM-1527
+
+THE automatic RETRIEVAL OF certain segments OF 
+stored INFORMATION, either explicitly OR implicitly represented, 
+OR, more correctly, is grammatical in terms OF 
+itself is a procedure for retrieving INFORMATION. 
+*********************************************************************
+Document:CACM-0626
+
+a method OF representation, storage and RETRIEVAL 
+OF 13 random codes in a 4-digit number OR 16 
+random codes in a 5-digit number 
+*********************************************************************
+Document:CACM-2476
+
+equivalence between and/or graphs and context-free grammars 
+cacm july, 1973 
+hall, p. a. v. 
+*********************************************************************
+Document:CACM-2070
+
+a formal system for INFORMATION RETRIEVAL from FILES 
+cacm april, 1970 
+hsiao, d. 
+*********************************************************************
+Document:CACM-2965
+
+query, BOOLEAN expression, INFORMATION RETRIEVAL, file organization 
+an optimal evaluation OF BOOLEAN expressions in an online query system 
+cacm may, 1977 
+*********************************************************************
+Document:CACM-1677
+
+a program, a data VECTOR, OR codewords which in 
+jodeit, j. G. 
+storage organization in programming systems 
+*********************************************************************
+Document:CACM-1641
+
+increase in memory SPACE utilized to store 
+and slow (disk OR drum) memories. THE SPACE available 
+with 32k OF core memory and disks. gains in memory SPACE 
+applications THE price OF THE additional SPACE is computer 
+*********************************************************************
+Document:CACM-3168
+
+query, BOOLEAN expression, INFORMATION RETRIEVAL, file organization 
+comment on "an optimal evaluation OF BOOLEAN 
+expressions in an online query system." 
+*********************************************************************
+Document:CACM-2771
+
+THE synthesis OF solids bounded BY many faces 
+a technique is presented which allows a class 
+OF solid objects to be synthesized and stored 
+*********************************************************************
+Document:CACM-1674
+
+aim is to provide METHODS for incorporating random number 
+marsaglia, G. 
+one-line random number generators and their USE in combinations 
+*********************************************************************
+Document:CACM-1488
+
+veinott, c. G. 
+programming decision tables in fortran, cobol OR algol 
+a simple broad-based approach for programming 
+*********************************************************************
+Document:CACM-3002
+
+a record and file partitioning MODEL 
+transfer costs. this paper presents a MODEL in which 
+request requires INFORMATION from one OR more variable 
+only if THE pertinent INFORMATION is not stored in THE 
+*********************************************************************
+Document:CACM-3169
+
+query, BOOLEAN expression, optimal evaluation, INFORMATION RETRIEVAL 
+note on "an optimal evaluation OF BOOLEAN expressions 
+in an online query system." 
+*********************************************************************
+Document:CACM-1359
+
+data filtering applied to INFORMATION storage and RETRIEVAL applications 
+processing function in INFORMATION storage 
+and RETRIEVAL applications. data string manipulation 
+*********************************************************************
+Document:CACM-1861
+
+as if they were predefined. INFORMATION is given on 
+THE mad definition facility 
+one OF THE first definition facilities for 
+*********************************************************************
+Document:CACM-1888
+
+spline function METHODS for nonlinear boundary-value problems 
+tridiagonal and so are easily solved BY relaxation OR other standard METHODS. 
+iterative METHODS, nonlinear equations, spline functions 
+*********************************************************************
+Document:CACM-1259
+
+changed to an equivalent expression to save SPACE OR gain power. 
+applications OF binary numbers in computer routines 
+a binary number can be thought OF as an alternate 
+*********************************************************************
+Document:CACM-2374
+
+a study OF storage partitioning USING a mathematical MODEL OF locality 
+justifying this MODEL are described. BY means OF this 
+MODEL dynamic storage partitioning is shown to 
+coffman jr., e. G. 
+*********************************************************************
+Document:CACM-1711
+
+INFORMATION is given on patents, copyrights and 
+OF USING copyrighted material in INFORMATION storage 
+and RETRIEVAL systems, including THE pending 
+when your computer needs a lawyer 
+*********************************************************************
+Document:CACM-1194
+
+paramount in THE provision OF INFORMATION services: 
+(1) easy accessibility to THE INFORMATION FILES BY users 
+THE main features OF THE INFORMATION system are direct 
+unrestricted and expandable SEARCH vocabulary, 
+*********************************************************************
+Document:CACM-1489
+
+FILES, programs and decision rules in a way that adequately 
+represents both (1) their changing INFORMATION 
+data, documentation and decision tables 
+*********************************************************************
+Document:CACM-3138
+
+updating an orthogonal decomposition OF a matrix OF column (OR row) vectors. 
+THE fundamental idea is to add a column (OR row) analogous 
+a column (OR row) is dropped BY a formal scaling with THE 
+(OR row). THE elimination process for THE procedure is successive 
+*********************************************************************
+Document:CACM-2977
+
+MODEL OF computer development in an organization. research 
+OF budgets as a basis for a stage MODEL. however, 
+MODEL. THE analysis suggests an alternative MODEL 
+THE stage hypothesis and THE s-curve: some contradictory evidence 
+*********************************************************************
+Document:CACM-0615
+
+its values at selected points in n-dimensional SPACE. 
+conventional storage as a linear array OR VECTOR. 
+VECTOR is THE subject OF this paper. it is noted 
+addressing multidimensional arrays 
+*********************************************************************
+Document:CACM-2852
+
+in computer science OR in INFORMATION systems 
+adding a course on INFORMATION systems administration 
+professional programs in INFORMATION systems. this paper 
+is a report on a course entitled, "THE technology 
+*********************************************************************
+Document:CACM-1554
+
+rotating in four-dimensional SPACE. THE observed projections 
+a computer technique for displaying n-dimensional hyperobjects 
+a digital computer and automatic plotter have 
+*********************************************************************
+Document:CACM-1519
+
+george 3-a general purpose time sharing and operating system 
+an operating system is described which will 
+run on a wide variety OF configurations OF THE 
+*********************************************************************
+Document:CACM-3087
+
+dialogue, query generation, INFORMATION RETRIEVAL, natural language programming 
+METHODS are discussed for handling vague OR 
+and THE relationship OF this system to OTHERS. 
+an english language question answering system 
+*********************************************************************
+Document:CACM-2902
+
+free SPACE lists for each size OF memory block used 
+poorly compared with OTHERS. 
+SPACE allocation, storage allocation 
+dynamic memory allocation in computer simulation 
+*********************************************************************
+Document:CACM-1999
+
+optimal starting approximations for generating 
+square root for slow OR no divide 
+on machine with slow OR no division, it is preferable to 
+*********************************************************************
+Document:CACM-2523
+
+a region coloring technique for scene analysis 
+a method OF converting a picture into a "cartoon" 
+OR "map" whose regions correspond to differently 
+*********************************************************************

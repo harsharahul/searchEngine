@@ -1,0 +1,610 @@
+Query:anything dealing with star height of regular languages or regular expressions or regular events
+
+Document:CACM-1896
+
+REGULAR coulomb wave functions (algorithm 292 s22]) 
+coulomb wave functions, wave functions, REGULAR coulomb wave functions 
+cacm may, 1969 
+*********************************************************************
+Document:CACM-1898
+
+REGULAR coulomb wave functions (algorithm 292 [s22]) 
+coulomb wave functions, wave functions, REGULAR coulomb wave functions 
+cacm may, 1969 
+*********************************************************************
+Document:CACM-1993
+
+REGULAR coulomb wave functions (algorithm 292 $s22)) 
+coulomb wave functions, wave functions, REGULAR coulomb wave functions 
+cacm september, 1970 
+*********************************************************************
+Document:CACM-2650
+
+error correction, REGULAR LANGUAGES, REGULAR EVENTS, 
+order-n correction for REGULAR LANGUAGES 
+b, belonging to a given REGULAR language l, 
+*********************************************************************
+Document:CACM-1739
+
+REGULAR expression search algorithm 
+is discussed. the compiler accepts a REGULAR 
+the text matches the given REGULAR expression. examples, 
+search, match, REGULAR expression 
+*********************************************************************
+Document:CACM-1355
+
+REGULAR coulomb wave functions (algorithm 292 ) 
+cacm november, 1966 
+gautschi, w. 
+*********************************************************************
+Document:CACM-2921
+
+and, as a special case, REGULAR EXPRESSIONS, 
+finite state machines (automata), REGULAR EXPRESSIONS, 
+REGULAR right part grammars and their parsers 
+grammars called REGULAR right part (rrp) 
+*********************************************************************
+Document:CACM-2112
+
+input limited transduction EXPRESSIONS, OR translation equations, 
+context-free LANGUAGES. a formal procedure is given for deriving from 
+automata, turing machines, REGULAR expression, transduction 
+expression, context-free LANGUAGES, translation, recognizers, 
+*********************************************************************
+Document:CACM-1665
+
+OF a subset OF REGULAR EXPRESSIONS. the output 
+as defined by the REGULAR EXPRESSIONS. each output 
+word "EVENTS" is substituted for character string, 
+OF EVENTS. this allows the system to be used in a 
+*********************************************************************
+Document:CACM-2051
+
+correspondence, REGULAR correspondence, list processing 
+the REGULAR sound correspondences between genetically related LANGUAGES. 
+a pl/i program to assist the comparative linguist 
+*********************************************************************
+Document:CACM-2838
+
+power as REGULAR garbage collectors, if they are 
+analysis OF an algorithm for real time garbage collection 
+a real time garbage collection system avoids 
+*********************************************************************
+Document:CACM-1453
+
+the use OF the kleene REGULAR expression notation 
+LANGUAGES, including some sublanguage OF algol. 
+a nonrecursive method OF syntax specification 
+*********************************************************************
+Document:CACM-1906
+
+REGULAR pattern OF lines, pins (terminals), and vias 
+automated printed circuit routing WITH a stepping aperture 
+a computer program for routing interconnections 
+*********************************************************************
+Document:CACM-1846
+
+in which simultaneous EVENTS may occur 
+a conventional digital computer are dealt WITH. the 
+simulations when simultaneous EVENTS do not occur, can 
+rules. following this, the problem OF DEALING WITH simultaneous 
+*********************************************************************
+Document:CACM-3056
+
+counting large numbers OF EVENTS in small registers 
+are used to keep track OF as many as 130,000 EVENTS WITH 
+OF the number n OF EVENTS. this relative error can 
+*********************************************************************
+Document:CACM-3034
+
+linear EXPRESSIONS. it is also assumed that actions 
+in the condition stub OF the decision table (OR 
+detection OF logical errors in decision table programs 
+*********************************************************************
+Document:CACM-1488
+
+programming decision tables in fortran, cobol OR algol 
+a simple broad-based approach for programming 
+decision tables in fortran OR cobol is developed 
+*********************************************************************
+Document:CACM-1152
+
+floating-point arithmetic WITH 84-bit numbers 
+a classic and straightforward technique is 
+presented which is not limited to the size OR type 
+*********************************************************************
+Document:CACM-1259
+
+EXPRESSIONS, easily translatable to one another, 
+applications OF binary numbers in computer routines 
+a binary number can be thought OF as an alternate 
+*********************************************************************
+Document:CACM-2476
+
+equivalence between and/or graphs and context-free grammars 
+cacm july, 1973 
+hall, p. a. v. 
+*********************************************************************
+Document:CACM-1084
+
+the inability OF existing programming LANGUAGES 
+on declaring arbitrarily coded alphabets 
+to handle character strings from more than 
+*********************************************************************
+Document:CACM-2078
+
+computer graphic LANGUAGES. four alternative data structures 
+representations for space planning 
+problems involving the arrangement OF objects in two- 
+*********************************************************************
+Document:CACM-1470
+
+the structure OF programming LANGUAGES 
+list processing LANGUAGES, illustrate the forms 
+OF programming LANGUAGES toward one which 
+*********************************************************************
+Document:CACM-1264
+
+blnsys-a 1401 operating system WITH braille capabilities 
+blnsys is an operating system designed for 
+a 4k 1401 WITH common optional features and two 
+*********************************************************************
+Document:CACM-1379
+
+a final solution to the dangling else OF algol 60 and related LANGUAGES 
+s1 else s2" where b1 and b2 are boolean EXPRESSIONS 
+the dangling else problem consists OF a class 
+*********************************************************************
+Document:CACM-1886
+
+generation OF optimal code for EXPRESSIONS via factorization 
+given a set OF EXPRESSIONS which are to be 
+the EXPRESSIONS, i.e. finding a set OF subexpressions 
+each OF which occurs in two OR more other EXPRESSIONS 
+*********************************************************************
+Document:CACM-3158
+
+secure personal computing in an insecure network 
+a method for implementing secure personal computing in a network 
+WITH one OR more central facilities is proposed. the method employs a 
+*********************************************************************
+Document:CACM-3113
+
+optimal conversion OF extended-entry 
+decision tables WITH general cost criteria 
+a general dynamic programming algorithm for converting 
+*********************************************************************
+Document:CACM-1818
+
+associated legendre functions OF the first kind 
+for real OR imaginary arguments (algorithm 47 
+[s16]) 
+*********************************************************************
+Document:CACM-3044
+
+a note on conditional EXPRESSIONS 
+and the alternatives are records (OR nodes) whose fields have different content. 
+evaluation OF a conditional expression may succeed 
+*********************************************************************
+Document:CACM-0944
+
+storage and search properties OF a tree-organized memory system 
+a memory WITH list properties [1] may be used 
+to construct numeric, alphabetic OR alphanumeric 
+*********************************************************************
+Document:CACM-1216
+
+no use is made OF list-processing LANGUAGES. 
+symbolic derivatives without list processing, subroutines, OR recursion 
+a routine has been developed which computes and 
+*********************************************************************
+Document:CACM-3096
+
+HEIGHT which is equal to OR exactly one greater than the 
+HEIGHT OF its left subtree. it has an advantage 
+an optimal method for deletion in one-sided height-balanced trees 
+*********************************************************************
+Document:CACM-1962
+
+groove-a program to compose, store, and edit functions OF time 
+a program which makes possible creating, storing, reproducing, 
+and editing functions OF time is described. the functions are typical 
+*********************************************************************
+Document:CACM-1988
+
+such as compiler-compilers OR extendible LANGUAGES. 
+a formalism for translator interactions 
+a formalism is presented for describing the actions 
+*********************************************************************
+Document:CACM-1999
+
+optimal starting approximations for generating 
+square root for slow OR no divide 
+on machine WITH slow OR no division, it is preferable to 
+*********************************************************************
+Document:CACM-0544
+
+ber OR bei function (algorithm 57) 
+cacm july, 1962 
+relph, a. p. 
+*********************************************************************
+Document:CACM-0344
+
+ber OR bei function (algorithm 57) 
+cacm april, 1961 
+herndon, j. r. 
+*********************************************************************
+Document:CACM-0028
+
+request for methods OR programs 
+cacm april, 1958 
+corley, h. p. t. 
+*********************************************************************
+Document:CACM-2398
+
+in education, extended LANGUAGES, interactive 
+teacher/student authored cai using the newbasic system 
+the pedagogical advantages OF a general purpose 
+*********************************************************************
+Document:CACM-0510
+
+ber OR bei function (algorithm 57) 
+cacm august, 1962 
+thacher jr., h. c. 
+*********************************************************************
+Document:CACM-3138
+
+updating an orthogonal decomposition OF a matrix OF column (OR row) vectors. 
+the fundamental idea is to add a column (OR row) analogous 
+a column (OR row) is dropped by a formal scaling WITH the 
+(OR row). the elimination process for the procedure is successive 
+*********************************************************************
+Document:CACM-1287
+
+vector coupling OR clebsch-gordan coefficients (algorithm 252 [z]) 
+cacm april, 1965 
+gunn, j. h. 
+*********************************************************************
+Document:CACM-1462
+
+operate under (OR, more precisely, on top OF) the standard 
+multilevel operating systems 
+the basic software for all newer computers 
+*********************************************************************
+Document:CACM-3198
+
+microprogramming, emulators and programming LANGUAGES 
+the problem we have been concerned WITH is that OF converting language to 
+action - OR intellectual energy to mechanical energy. the medium that we use 
+*********************************************************************
+Document:CACM-1035
+
+the fortran cep LANGUAGES differs from fortran 
+characteristics OF the fortran cep language 
+ii mainly because: (1) it extends the variety 
+*********************************************************************
+Document:CACM-1519
+
+george 3-a general purpose time sharing and operating system 
+an operating system is described which will 
+run on a wide variety OF configurations OF the 
+*********************************************************************
+Document:CACM-3196
+
+the reactive typewriter program 
+84-character keyboard including alphabetical upper and lower case for good 
+readability. if the machine is restricted to only a single case, the lower case 
+*********************************************************************
+Document:CACM-2771
+
+the synthesis OF solids bounded by many faces 
+a technique is presented which allows a class 
+OF solid objects to be synthesized and stored 
+*********************************************************************
+Document:CACM-1469
+
+the next 700 programming LANGUAGES 
+a family OF unimplemented computing LANGUAGES 
+OF programs (OR more generally, their physical representation). 
+towards "EXPRESSIONS" rather than "statements." 
+*********************************************************************
+Document:CACM-1309
+
+use OF two special LANGUAGES, extract and matran, 
+a computer user-oriented system 
+a computer language system has been developed 
+*********************************************************************
+Document:CACM-2002
+
+in most conventional higher LANGUAGES. the functions OF positioning, 
+amesplot-a higher level data plotting software system 
+amesplot is an extensible software system designed to make the display OF 
+*********************************************************************
+Document:CACM-1523
+
+sharer, a time sharing system for the cdc 6600 
+a time sharing system embedded within the 
+standard batch processing system for the cdc 6600 
+*********************************************************************
+Document:CACM-2194
+
+how to keep the addresses short 
+an algorithm is presented for minimizing the 
+sum OF the lengths OF the blocks OF coding produced 
+*********************************************************************
+Document:CACM-3171
+
+to be used for implementations OF high level LANGUAGES. under suitable 
+line numbers made cheap 
+a technique is described for run-time line number administration 
+*********************************************************************
+Document:CACM-0617
+
+poseidon 
+any computer that forms part OF a control system-whether 
+completely automatic OR partly human-must 
+*********************************************************************
+Document:CACM-2439
+
+multiple terminals under user program 
+control in a time-sharing environment 
+user-written programs on the dartmouth time-sharing 
+*********************************************************************
+Document:CACM-1975
+
+a multiple-precision division algorithm 
+a generalized division algorithm for use WITH positive integral operands is 
+presented. depending upon the algebraic relationship OF the first 
+*********************************************************************
+Document:CACM-1413
+
+a vision OF technology and education 
+educational technology is currently quite 
+fashionable. here, as in many other branches OR 
+*********************************************************************
+Document:CACM-0719
+
+variable width stacks 
+character addressable, variable field computers 
+permit ready establishment and manipulation 
+*********************************************************************
+Document:CACM-2500
+
+a practical approach to managing resources and avoiding deadlocks 
+resource scheduling and allocation can be expensive 
+WITH regard to time and space in multiprogramming 
+*********************************************************************
+Document:CACM-0778
+
+associated legendre functions OF the first kind 
+for real OR imaginary arguments (algorithm 47) 
+cacm august, 1963 
+*********************************************************************
+Document:CACM-2998
+
+which governs word frequencies in natural LANGUAGES; poin ters 
+cdrs (OR cars) are placed in consecutive memory 
+an empirical study OF list structure in lisp 
+*********************************************************************
+Document:CACM-0354
+
+associated legendre functions OF the first kind 
+for real OR imaginary arguments (algorithm 47) 
+cacm april, 1961 
+*********************************************************************
+Document:CACM-0144
+
+do it by the numbers-digital shorthand 
+present communications systems transmit single 
+characters in groups OF coded pulses between 
+*********************************************************************
+Document:CACM-2994
+
+a linear algorithm for incremental digital display OF circular arcs 
+circular arcs can be drawn on an incremental 
+display device such as a cathode ray tube, digital 
+*********************************************************************
+Document:CACM-1162
+
+LANGUAGES generally provide a one-for-one translation 
+an assembly language for reprogramming 
+complete reprogramming OF compiler language programs 
+*********************************************************************
+Document:CACM-1650
+
+a unifying computational method for the 
+analysis OF complete factorial experiments 
+a computational method which may be used for 
+*********************************************************************
+Document:CACM-1001
+
+copyright aspects OF computer usage 
+this paper is concerned WITH the question OF 
+what constitutes infringement OF a copyright on 
+*********************************************************************
+Document:CACM-2786
+
+and fewer exceptions. for typical EXPRESSIONS, 
+a system for typesetting mathematics 
+this paper describes the design and implementation 
+*********************************************************************
+Document:CACM-1554
+
+a computer technique for displaying n-dimensional hyperobjects 
+a digital computer and automatic plotter have 
+been used to generate three-dimensional stereoscopic 
+*********************************************************************
+Document:CACM-1957
+
+the list set generator: a construct for evaluating set EXPRESSIONS 
+the list set generator is defined and algorithms 
+for its use are given. the list set generator is 
+*********************************************************************
+Document:CACM-2717
+
+utility program, programming LANGUAGES, nonprocedural LANGUAGES 
+convert: a high level translation 
+definition language for data conversion 
+*********************************************************************
+Document:CACM-1237
+
+the nature OF table-oriented programming LANGUAGES 
+conversion OF decision tables to computer programs 
+several translation procedures for the conversion 
+*********************************************************************
+Document:CACM-1888
+
+spline function methods for nonlinear boundary-value problems 
+the solution OF the nonlinear differential equation 
+y"=f(x,y,y') WITH two-point boundary conditions 
+*********************************************************************
+Document:CACM-2267
+
+LANGUAGES, philosophy OF language design 
+algorithms to reveal properties OF floating-point arithmetic 
+two algorithms are presented in the form OF 
+*********************************************************************
+Document:CACM-1977
+
+an interactive display for approximation by linear programming 
+an interactive program 
+WITH a graphical display has been developed for the approximation OF 
+*********************************************************************
+Document:CACM-1612
+
+essential weakness OF the method is in DEALING WITH complicated 
+only sparsely occupied, e.g., arithmetic EXPRESSIONS. 
+top-to-bottom parsing rehabilitated? 
+*********************************************************************
+Document:CACM-1112
+
+a technique for computer detection and correction OF spelling errors* 
+the method described assumes that a word 
+which cannot be found in a dictionary has at most 
+*********************************************************************
+Document:CACM-0626
+
+a method OF representation, storage and retrieval 
+OF 13 random codes in a 4-digit number OR 16 
+random codes in a 5-digit number 
+*********************************************************************
+Document:CACM-2711
+
+a vector space model for automatic indexing 
+in a document retrieval, OR other pattern matching 
+environment where stored entities (documents) 
+*********************************************************************
+Document:CACM-2815
+
+high-level binding WITH low-level linkers 
+an easy to implement scheme is described by 
+which a compiler can enforce agreement between 
+*********************************************************************
+Document:CACM-3129
+
+transactions. each transaction (OR job) generates a demand vector which 
+optimal storage allocation for serial files 
+a computer system uses several serial files. the files reside on a 
+*********************************************************************
+Document:CACM-2900
+
+that certain sites should (OR should not) be 
+some theorems to aid in solving the file allocation problem 
+the file allocation problem-i.e. the problem 
+*********************************************************************
+Document:CACM-2644
+
+paramodulation, programming LANGUAGES 
+a theorem-proving language for experimentation 
+because OF the large number OF strategies 
+*********************************************************************
+Document:CACM-3110
+
+be more general assembly-time EXPRESSIONS, then 
+assembling code for machines WITH span-dependent instructions 
+many modern computers contain instructions 
+*********************************************************************
+Document:CACM-2175
+
+subexpression ordering in the execution OF arithmetic EXPRESSIONS 
+parallel processing, cache, arithmetic EXPRESSIONS, 
+an arithmetic expression can often be broken 
+*********************************************************************
+Document:CACM-1589
+
+dialog: a conversational programming system WITH a graphical orientation 
+dialog is an algebraic language for online 
+use WITH a graphical input-output console device. 
+*********************************************************************
+Document:CACM-2704
+
+features for DEALING WITH exceptions in an orderly 
+LANGUAGES 
+exception handling: issues and a proposed notation 
+*********************************************************************
+Document:CACM-0078
+
+remarks on the practical solution OF characteristic value problems 
+this paper is concerned WITH the practical 
+solution OF characteristic value problem for an 
+*********************************************************************
+Document:CACM-1272
+
+expanding the editing function in language data processing 
+in automatic abstracting, citation indexing, 
+mechanical translation and other such procedures, 
+*********************************************************************
+Document:CACM-1315
+
+automation OF the radioisotope accountability system 
+the radioisotope service OF the veterans administration 
+hospital, omaha, nebraska, used a manual 
+*********************************************************************
+Document:CACM-2514
+
+parallel). examples are given involving array LANGUAGES 
+an array grammar programming system 
+a package OF fortran programs has been developed 
+*********************************************************************
+Document:CACM-1197
+
+finding zeros OF a polynomial by the q-d algorithm 
+a method which finds simultaneously all the zeros 
+OF a polynomial, developed by h. rutishauser, 
+*********************************************************************
+Document:CACM-1588
+
+most list-processing LANGUAGES have suffered from their 
+pl/i list processing 
+the concepts OF list processing have been introduced 
+*********************************************************************
+Document:CACM-0282
+
+optimum tape-writing procedures 
+consider a magnetic tape system WITH a read 
+check after writing. where an error occurs in 
+*********************************************************************
+Document:CACM-2265
+
+most current programming LANGUAGES treat computation 
+programming LANGUAGES, syntax, semantics, compiler 
+a model for type checking 
+*********************************************************************
+Document:CACM-1200
+
+on reversible subroutines and computers that run backwards 
+a computer design is describe which permits 
+subroutines to be executed backward as well as 
+*********************************************************************
+Document:CACM-1630
+
+computer representation OF planar regions by their skeletons 
+any region can be regarded as a union OF maximal 
+neighborhoods OF its points, and can be specified 
+*********************************************************************
+Document:CACM-2059
+
+a language for treating graphs 
+a language for the representation OF graph is described, and the formulation OF 
+graph operations such as node and/or link deletion OR insertion, union, 
+*********************************************************************

@@ -1,0 +1,639 @@
+Query:optimization of intermediate and machine code
+
+Document:CACM-1223
+
+high speed compilation OF efficient object CODE 
+scan an INTERMEDIATE language produced by the preceding 
+OPTIMIZATION such as the effective use OF index 
+the object CODE which would be most efficient 
+*********************************************************************
+Document:CACM-1947
+
+object CODE OPTIMIZATION 
+instructions, object CODE, OPTIMIZATION, redundancy 
+fortran, graph theory, loop structure, MACHINE 
+*********************************************************************
+Document:CACM-1658
+
+is summarized. the MACHINE time AND storage 
+over several test problems OF small AND INTERMEDIATE 
+a reasonable amount OF MACHINE time. 
+operations research, OPTIMIZATION theory, integer 
+*********************************************************************
+Document:CACM-2495
+
+adapting optimal CODE generation for arithmetic 
+arithmetic expressions, CODE generation, compilers, 
+object-code OPTIMIZATION, register assignment, 
+expressions to the instruction sets available 
+*********************************************************************
+Document:CACM-2491
+
+interpreter, MACHINE CODE, time tradeoff, space 
+an alternative to MACHINE language CODE. hardware 
+threaded CODE 
+the concept OF "threaded CODE" is presented as 
+*********************************************************************
+Document:CACM-1795
+
+CODE OPTIMIZATION, sequencing OF operations, 
+optimal CODE for serial AND parallel computation 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-2253
+
+rather than the MACHINE CODE. the goal is to automatically 
+in a previous paper. this scheme attempts program OPTIMIZATION 
+generate CODE for handling the tedious address 
+languages, program OPTIMIZATION, range operations, symbolic 
+*********************************************************************
+Document:CACM-2748
+
+indirect threaded CODE 
+an efficient arrangement for interpretive CODE 
+OF threaded CODE but requires less space AND is more 
+amenable to MACHINE independent implementations. 
+*********************************************************************
+Document:CACM-3080
+
+compilers, correctness, CODE OPTIMIZATION, 
+proving the correctness OF heuristically optimized CODE 
+the system is as a post OPTIMIZATION step in CODE 
+that OPTIMIZATION OF the genre OF this paper can result 
+*********************************************************************
+Document:CACM-1676
+
+written in a high level language, which minimizes MACHINE 
+machine-independent OPTIMIZATION occurs in pass ii 
+AND do-loop AND machine-dependent OPTIMIZATION in 
+compiler, compiler-compiler, MACHINE independence, 
+*********************************************************************
+Document:CACM-3054
+
+various CODE OPTIMIZATION techniques. a detailed 
+quicksort, analysis OF algorithms, CODE OPTIMIZATION, sorting 
+implementing quicksort programs 
+*********************************************************************
+Document:CACM-2904
+
+integrated package OF local OPTIMIZATION algorithms. 
+compilers, OPTIMIZATION OF compiled CODE, program analysis, 
+an algorithm for reduction OF operator strength 
+*********************************************************************
+Document:CACM-3005
+
+implications OF structured programming for MACHINE architecture 
+language, a MACHINE architecture specifically designed for 
+size by a factor OF 3. unlike a huffman CODE, 
+only fixed length (1-byte) op CODE AND address 
+*********************************************************************
+Document:CACM-2464
+
+OPTIMIZATION, constrained OPTIMIZATION, box's algorithm 
+the complex method for constrained OPTIMIZATION [e4] (algorithm a454) 
+cacm august, 1973 
+*********************************************************************
+Document:CACM-2929
+
+an OPTIMIZATION technique known as inline substitution 
+is analyzed. the OPTIMIZATION consists 
+with little increase in the size OF compiled CODE AND a 
+program OPTIMIZATION, compilers, structured 
+*********************************************************************
+Document:CACM-1523
+
+a MACHINE with only one relocation AND memory bound register. 
+no attempt was made to use reentrant CODE, 
+majority OF the CODE being written in fortran. 
+sharer, a time sharing system for the cdc 6600 
+*********************************************************************
+Document:CACM-1564
+
+tables into cobol CODE is contained in the 
+indexing AND also by outputting the CODE as it is generated, 
+a line at a time. the only OPTIMIZATION 
+description OF basic algorithm in detab/65 preprocessor 
+*********************************************************************
+Document:CACM-1655
+
+standard CODE, CODE, information interchange, characters, 
+CODE extension, CODE table, bit pattern 
+CODE extension procedures for information 
+interchange* (proposed usa standard) 
+*********************************************************************
+Document:CACM-3171
+
+line number administration, diagnostic messages, abstract MACHINE CODE 
+line numbers made cheap 
+a technique is described for run-time line number administration 
+*********************************************************************
+Document:CACM-1756
+
+usa standard, card CODE, punched card, punched card 
+CODE, hole-patterns, hole-patterns assignment, 
+hollerith punched card code* (proposed usa standard) 
+*********************************************************************
+Document:CACM-2533
+
+gray CODE AND the +- sign sequence when 
+gray CODE, sign sequences, ordering, positive 
++-f (+-f(+-f(...+-f(x)...))) is ordered 
+*********************************************************************
+Document:CACM-2423
+
+syntactic rule corresponds to a (possibly empty) "CODE 
+table entries AND 82 words are links to CODE 
+automata, translation grammars, translator OPTIMIZATION, compression algorithm 
+a parser-generating system for constructing compressed compilers 
+*********************************************************************
+Document:CACM-2611
+
+the complex method for constrained OPTIMIZATION (algorithm r454) 
+cacm august, 1974 
+shere, k. d. 
+*********************************************************************
+Document:CACM-1992
+
+comment on bell's quadratic quotient method for hash CODE searching 
+hashing, hash CODE, scatter storage, calculated address, 
+cacm september, 1970 
+*********************************************************************
+Document:CACM-0123
+
+as a countess program, generated MACHINE CODE 
+compilation for two computers with neliac 
+neliac, a compiler based on algol, was developed 
+*********************************************************************
+Document:CACM-1231
+
+peephole OPTIMIZATION 
+optimizing technique called peephole OPTIMIZATION. 
+redundant instructions may be discarded during 
+*********************************************************************
+Document:CACM-1886
+
+factorization algorithms, CODE OPTIMIZATION, sequencing 
+generation OF optimal CODE for expressions via factorization 
+efficiency OF the object CODE produced by first factoring 
+*********************************************************************
+Document:CACM-1807
+
+OPTIMIZATION OF expressions in fortran 
+CODE without significantly reducing the compilation 
+fortran, OPTIMIZATION, expressions, compilers, 
+*********************************************************************
+Document:CACM-0048
+
+shift-register CODE for indexing applications 
+CODE with n = 10 is described for calling 
+a single-error correcting CODE ("minimum-distance-three" 
+as the station identification CODE. embedding this in 
+*********************************************************************
+Document:CACM-1389
+
+the user to get much closer to MACHINE CODE in 
+a programmer's description OF l^6 
+bell telephone laboratories' low-linked list language 
+*********************************************************************
+Document:CACM-1362
+
+CODE extension in ascii* (an asa tutorial) 
+the american standard CODE for information 
+characters associated with the principle OF CODE extension, 
+in the CODE. the manner OF use OF these 
+*********************************************************************
+Document:CACM-2835
+
+recursion analysis for compiler OPTIMIZATION 
+use in compiler OPTIMIZATION. implementation considerations 
+algorithm is given to further improve OPTIMIZATION. 
+recursion, compiler OPTIMIZATION 
+*********************************************************************
+Document:CACM-0797
+
+american standard CODE for information interchange 
+cacm august, 1963 
+ca630801 jb march 13, 1978 8:55 pm 
+*********************************************************************
+Document:CACM-1154
+
+unrestricted turing machines. INTERMEDIATE machines 
+to a finite-state MACHINE AND then performing any 
+multi-tape AND infinite-state automata -- a survey 
+*********************************************************************
+Document:CACM-1757
+
+data CODE for calendar date for machine-to-machine 
+usa standard, data CODE, calendar date, machine-to-machine 
+data interchange* (proposed usa standard) 
+*********************************************************************
+Document:CACM-0195
+
+what is a CODE? 
+cacm may, 1960 
+patterson, g. w. 
+*********************************************************************
+Document:CACM-2701
+
+global flow analysis, data flow, CODE OPTIMIZATION, 
+the time bound. examples are given OF CODE 
+a fast AND usually linear algorithm for global 
+flow analysis (abstract only--complete paper jacm 
+*********************************************************************
+Document:CACM-1289
+
+proposed revised american standard CODE for information interchange 
+cacm april, 1965 
+ca650402 jb march 7, 1978 4:03 pm 
+*********************************************************************
+Document:CACM-2133
+
+operations research, OPTIMIZATION theory, 
+algorithm for the assignment problem 
+(rectangular matrices) [h] (algorithm 415) 
+*********************************************************************
+Document:CACM-1414
+
+twelve-row punched-card CODE for information 
+interchange* (proposed american standard) 
+cacm june, 1966 
+*********************************************************************
+Document:CACM-1064
+
+perforated tape CODE for information 
+interchange (proposed american standard) 
+cacm june, 1964 
+*********************************************************************
+Document:CACM-0230
+
+a proposal for character CODE compatibility 
+cacm february, 1960 
+bemer, r. w. 
+*********************************************************************
+Document:CACM-1187
+
+note on an ascii-octal CODE table (standards) 
+cacm october, 1965 
+crosby, w. s. 
+*********************************************************************
+Document:CACM-2107
+
+CODE eliminating secondary clustering 
+secondary clustering as a cause OF hash CODE inefficiency is discussed, AND a 
+hashing, hash CODE, scatter storage, calculated address, clustering, 
+the quadratic quotient method: a hash 
+*********************************************************************
+Document:CACM-2944
+
+used to find actions that cancel when the CODE is executed 
+OPTIMIZATION, reference counts, storage 
+shifting garbage collection overhead to compile time 
+*********************************************************************
+Document:CACM-0066
+
+a proposal for a generalized card CODE for 256 characters 
+cacm september, 1959 
+bemer, r. w. 
+*********************************************************************
+Document:CACM-2138
+
+specific MACHINE (the pdp-10): compilers, operating 
+ability to produce highly efficient object CODE, 
+the host MACHINE, AND to provide a rational means 
+bliss: a language for systems programming 
+*********************************************************************
+Document:CACM-1652
+
+a CODE for non-numeric information processing 
+a CODE has been specifically designed to simplify 
+the system user. the CODE has direct application 
+text editing. this CODE, called ipc (information processing 
+*********************************************************************
+Document:CACM-2290
+
+connectivity, program OPTIMIZATION, optimizing compiler 
+immediate predominators in a directed graph [h] (algorithm a430) 
+cacm august, 1972 
+*********************************************************************
+Document:CACM-1402
+
+OF obtaining functional values at points INTERMEDIATE 
+partial step integration 
+a partial step integration equation is derived 
+*********************************************************************
+Document:CACM-1204
+
+standard CODE for information interchange (proposed american standard) 
+character structure AND character parity sense for 
+serial-by-bit data communication in the american 
+*********************************************************************
+Document:CACM-2586
+
+adapting optimal CODE generation for arithmetic 
+expressions to the instruction sets available 
+on present-day computers (errata) 
+*********************************************************************
+Document:CACM-2079
+
+on multiprogramming, MACHINE coding, AND computer organization 
+cacm april, 1970 
+wirth, n. 
+*********************************************************************
+Document:CACM-2858
+
+in which case the total CODE length is minimized, or 
+program structure AND a choice OF OPTIMIZATION 
+a process for the determination OF 
+addresses in variable length addressing 
+*********************************************************************
+Document:CACM-0091
+
+a mathematical procedure for MACHINE division 
+cacm april, 1959 
+gilman, r. e. 
+*********************************************************************
+Document:CACM-0035
+
+a MACHINE method for square-root computation 
+cacm january, 1958 
+bemer, r. w. 
+*********************************************************************
+Document:CACM-2834
+
+reflected gray CODE AND its applications 
+binary reflected gray CODE AND codewords OF 
+fixed weight in that CODE. both algorithms are efficient 
+gray CODE, combinations, subsets, compositions, combinatorial computing 
+*********************************************************************
+Document:CACM-0252
+
+INTERMEDIATE AND final results. 
+programming a duplex computer system 
+this paper describes a method OF duplex-computer 
+*********************************************************************
+Document:CACM-2552
+
+hash CODE, open hash, chaining, information retrieval, collision 
+a note on when to chain overflow items within a direct-access table 
+cacm january, 1973 
+*********************************************************************
+Document:CACM-2616
+
+conversions are mainly program debugging AND OPTIMIZATION 
+decision tables, program OPTIMIZATION, debugging, 
+on the conversion OF programs to decision tables: method AND objectives 
+*********************************************************************
+Document:CACM-0079
+
+programming for a MACHINE with an extended 
+address calculational mechanism 
+cacm june, 1959 
+*********************************************************************
+Document:CACM-2527
+
+implementation OF high level language MACHINE 
+implementation OF such a MACHINE: it is a computer 
+the MACHINE automatically allocates memory, executes 
+computer architecture, high level language MACHINE, 
+*********************************************************************
+Document:CACM-3115
+
+to two INTERMEDIATE vectors. these vectors are mapped into 
+INTERMEDIATE vectors to the matrices. the mapping 
+orderly enumeration OF nonsingular binary 
+matrices applied to text encryption 
+*********************************************************************
+Document:CACM-1670
+
+usa standard, card CODE, punched card, punched card 
+CODE, hole-patterns, hole-patterns assignment, 
+correspondences OF 8-bit AND hollerith codes for 
+computer environments (a usasi tutorial standard) 
+*********************************************************************
+Document:CACM-0093
+
+three address computer CODE. 
+from formulas to computer oriented language 
+a technique is shown for enabling a computer 
+*********************************************************************
+Document:CACM-2897
+
+OPTIMIZATION, OPTIMIZATION techniques, data flow analysis 
+a case study OF a new CODE generation technique for compilers 
+such a compiler translates the parsed source CODE into 
+lower level CODE by a sequence OF steps. each 
+*********************************************************************
+Document:CACM-2964
+
+OPTIMIZATION, resident, overflow storage 
+an approach to optimal design OF storage parameters in databases 
+cacm may, 1977 
+*********************************************************************
+Document:CACM-3066
+
+testing, CODE walkthroughs, CODE inspections, 
+AND CODE walkthroughs/inspections 
+popular CODE walk through/inspection method was as effective 
+a controlled experiment in program testing 
+*********************************************************************
+Document:CACM-2433
+
+which could be expected to influence language (AND 
+CODE structuring is the crucial illiac OPTIMIZATION 
+control structures in illiac iv fortran 
+*********************************************************************
+Document:CACM-2836
+
+OPTIMIZATION. 
+structural ambiguity, combinatorial OPTIMIZATION 
+weighted derivation trees 
+*********************************************************************
+Document:CACM-1973
+
+the linear quotient hash CODE 
+hashing, hash CODE, scatter storage, calculated 
+a new method OF hash coding is presented AND 
+*********************************************************************
+Document:CACM-1783
+
+many significant digits are needed in the INTERMEDIATE 
+in-and-out conversions 
+byan in-and-out conversion we mean that a floating-point 
+*********************************************************************
+Document:CACM-1016
+
+controlled MACHINE tools (proposed american 
+interchangcable perforated tape variable block 
+formats for positioning AND straight cut (rs-273) 
+AND contouring AND contouring/positioning (rs-274) numerically 
+*********************************************************************
+Document:CACM-2624
+
+virtual MACHINE systems have been implemented 
+support a virtual MACHINE system. in this paper, 
+model, proof, virtual MACHINE, virtual memory, 
+hypervisor, virtual MACHINE monitor 
+*********************************************************************
+Document:CACM-1275
+
+CODE structures for protection AND manipulation 
+OF variable length items (corrigendum) 
+cacm april, 1965 
+*********************************************************************
+Document:CACM-1232
+
+CODE in punched cards (ecma standard) 
+representation OF the standard ecma 7-bit 
+cacm july, 1965 
+*********************************************************************
+Document:CACM-2344
+
+on the OPTIMIZATION OF performance OF time-sharing systems by simulation 
+algorithm, including the scheduling itself, require OPTIMIZATION, 
+features would benefit from OPTIMIZATION whereas 
+manner AND would not benefit from OPTIMIZATION. features 
+*********************************************************************
+Document:CACM-1786
+
+an improved hash CODE for scatter storage 
+hash CODE, hash table, scatter storage, searching 
+introduced is a hash coding method based on 
+*********************************************************************
+Document:CACM-1065
+
+bit sequencing OF the american standard CODE for 
+information interchange (ascii) in serial-by-bit 
+data transmission (proposed american standard) 
+*********************************************************************
+Document:CACM-0333
+
+design OF an improved* transmission/data processing CODE 
+cacm may, 1961 
+bemer, r. w. 
+*********************************************************************
+Document:CACM-1852
+
+be transferred to a new MACHINE in less than one 
+man-week without using the old MACHINE. 
+bootstrapping, macro processing, MACHINE independence, 
+a base for a mobile programming system 
+*********************************************************************
+Document:CACM-1542
+
+program written in 360 MACHINE language. the system is described 
+OF interpretive CODE. the structure AND content 
+a microprogrammed implementation OF euler on ibm system/360 model 30 
+*********************************************************************
+Document:CACM-1066
+
+for organizing a computer CODE has undergone a radical 
+a computer CODE. an advanced CODE must cope with 
+the simplex algorithm, an efficient AND reliable CODE 
+growing applications OF linear programming 
+*********************************************************************
+Document:CACM-2919
+
+the programmer's workbench-a MACHINE for software development 
+function will be done on the same MACHINE on which the 
+production MACHINE is unavailable or when its programming 
+*********************************************************************
+Document:CACM-1665
+
+item is identified by a CODE number together with 
+each state OF a "MACHINE" corresponds to 
+AND the MACHINE changes to a new state. at each transition 
+MACHINE, lexical processor, nondeterministic 
+*********************************************************************
+Document:CACM-2411
+
+inductive assertion, least fix points, OPTIMIZATION 
+tree-structured programs 
+cacm november, 1973 
+*********************************************************************
+Document:CACM-1162
+
+is, from assembly language to MACHINE language. 
+this bit stream may be treated as a MACHINE 
+or from the assembly language for one MACHINE 
+into the MACHINE language OF another. 
+*********************************************************************
+Document:CACM-0210
+
+AND their computation by MACHINE, part i 
+recursive functions OF symbolic expressions 
+cacm april, 1960 
+*********************************************************************
+Document:CACM-1392
+
+INTERMEDIATE expression swell in order to minimize 
+experience with formac algorithm design 
+various facets OF the design AND implementation 
+*********************************************************************
+Document:CACM-1062
+
+for INTERMEDIATE manipulations, which are performed 
+symbol manipulation in fortran-sasp i subroutines 
+a set OF subroutines for use in fortran are 
+*********************************************************************
+Document:CACM-1619
+
+usually less costly in MACHINE time than those mentioned by neely. 
+error-free methods for statistical computations 
+neely has discussed computational error generated 
+*********************************************************************
+Document:CACM-2537
+
+OPTIMIZATION problem: determine how each message should 
+minimum space, text storage, OPTIMIZATION, 
+common phrases AND minimum-space text storage 
+*********************************************************************
+Document:CACM-2680
+
+turnaround time. an OPTIMIZATION model for 
+disk analysis, disk OPTIMIZATION, disk files,file 
+optimal space allocation on disk storage devices 
+*********************************************************************
+Document:CACM-3150
+
+intricacies OF a machine's order CODE, higher level programming systems 
+beyond programming languages 
+as computer technology matures, our growing ability to create large systems is 
+*********************************************************************
+Document:CACM-2888
+
+be reflected in the reference CODE framework is shown 
+data, file, reference CODE, systems 
+information reference coding 
+*********************************************************************
+Document:CACM-3173
+
+to a line OF CODE, (3) chunks are frequently occurring 
+configurations OF prestatements corresponding to several lines OF CODE. 
+a psychology OF learning basic 
+*********************************************************************
+Document:CACM-1167
+
+on the translation OF MACHINE language programs 
+automatic translation OF MACHINE language 
+programs is becoming a highly desirable goal with 
+*********************************************************************
+Document:CACM-1387
+
+growth in the INTERMEDIATE equations AND the hazards 
+solution OF systems OF polynomial equations by elimination 
+the elimination procedure as described by williams 
+*********************************************************************
+Document:CACM-1651
+
+in this descriptive article an input CODE 
+in the CODE itself, but from an efficiency evaluation: 
+the input CODE described. from a user's standpoint, 
+an interpretive input routine for linear programming 
+*********************************************************************
+Document:CACM-2746
+
+matching MACHINE from the keywords AND then using the 
+pattern matching MACHINE to process the text string 
+MACHINE takes time proportional to the sum OF 
+made by the pattern matching MACHINE in 
+*********************************************************************

@@ -1,0 +1,681 @@
+Query:hardware and software relating to database management systems database packages back end computers special associative hardware with microcomputers attached to disk heads or things like rap  relational or network codasyl or hierarchical models systems like system r ims adabas total etc
+
+Document:CACM-3087
+
+for a large RELATIONAL DATABASE 
+large RELATIONAL DATABASE of aircraft flight AND maintenance 
+question answering, RELATIONAL DATABASE, natural language, 
+DATABASE front END, artificial intelligence, 
+*********************************************************************
+Document:CACM-2967
+
+a comparison of HARDWARE AND SOFTWARE ASSOCIATIVE 
+of the HARDWARE ASSOCIATIVE memory in three areas: 
+parallel processing, DATABASE MANAGEMENT 
+SYSTEM utilizes a HARDWARE ASSOCIATIVE memory 
+*********************************************************************
+Document:CACM-2424
+
+HARDWARE AND SOFTWARE. the dynamic verification 
+of a single HARDWARE OR SOFTWARE fault. furthermore, 
+single HARDWARE OR SOFTWARE fault.the amount of additional 
+HARDWARE AND SOFTWARE required for dynamic 
+*********************************************************************
+Document:CACM-3026
+
+languages, data MANAGEMENT SYSTEMS, 
+the 1100 series SYSTEMS are sperry univac's 
+large-scale main frame computer SYSTEMS. beginning 
+in 1977. the 1100 series HARDWARE architecture 
+*********************************************************************
+Document:CACM-3158
+
+secure personal computing in an insecure NETWORK 
+a method for implementing secure personal computing in a NETWORK 
+public-key encryption device AND HARDWARE keys. each user is responsible 
+data TO other users on the NETWORK. 
+*********************************************************************
+Document:CACM-1462
+
+multilevel operating SYSTEMS 
+operating SYSTEMS. this implies that all applications-no 
+operate under (OR, more precisely, on top of) the standard 
+SYSTEM. large applications require supervisory 
+*********************************************************************
+Document:CACM-3142
+
+them? what can be learned by designers of large MANAGEMENT PACKAGES 
+MANAGEMENT SYSTEMS may be adequate, results of the survey raise 
+errors, SYSTEMS errors, billing errors, MANAGEMENT SYSTEMS, consumers 
+END targets of a computerized process is assessed. how many AND 
+*********************************************************************
+Document:CACM-2882
+
+DATABASE architecture, DATABASE performance AND 
+a stochastic evaluation model for DATABASE 
+organization in data retrieval SYSTEMS 
+scale data retrieval SYSTEMS has been scarce due 
+*********************************************************************
+Document:CACM-3056
+
+TO advantage in multichannel counting HARDWARE 
+OR SOFTWARE used for the monitoring of experiments OR processes. 
+morris, R. 
+counting large numbers of events in small registers 
+*********************************************************************
+Document:CACM-2771
+
+the synthesis of solids bounded by many faces 
+a technique is presented which allows a class 
+of solid objects TO be synthesized AND stored 
+*********************************************************************
+Document:CACM-0698
+
+from ordinary dial telephones. no SPECIAL HARDWARE OR 
+COMPUTERS from ordinary dial telephones 
+an operating SYSTEM is described which allows 
+data-dial: two-way communication WITH 
+*********************************************************************
+Document:CACM-0695
+
+limitations of the DISK SYSTEM. several possible 
+use of the DISK file on stretch 
+stretch (ibm 7030) computer WITH SPECIAL emphasis 
+two-disk SYSTEM (4,194,304 72-bit words, 8 usec-per-word 
+*********************************************************************
+Document:CACM-2311
+
+SYSTEMS, SOFTWARE SYSTEMS, SYSTEMS development 
+process, functional SYSTEMS, MANAGEMENT SYSTEMS 
+a generational perspective of information SYSTEM development 
+SYSTEM development is categorized from a generational 
+*********************************************************************
+Document:CACM-2002
+
+amesplot-a higher level data plotting SOFTWARE SYSTEM 
+amesplot is an extensible SOFTWARE SYSTEM designed TO make the display of 
+by the SOFTWARE SYSTEM unless the user specifies otherwise. the structuring 
+syntax, HARDWARE independent SOFTWARE, 
+*********************************************************************
+Document:CACM-2016
+
+computer utility is discussed. these tools include SPECIAL HARDWARE 
+particular measurements of interest in a SYSTEM which combines demand 
+insight into effectiveness (OR lack there of) of individual tools is provided. 
+multiprogramming SYSTEMS, measuring tools, SYSTEM analysis, multics, 
+*********************************************************************
+Document:CACM-2852
+
+center MANAGEMENT, computer SYSTEM performance 
+the technology of computer center MANAGEMENT: a 
+in computer science OR in information SYSTEMS 
+adding a course on information SYSTEMS administration 
+*********************************************************************
+Document:CACM-2876
+
+intentional resolution of privacy protection in DATABASE SYSTEMS 
+traditionally, privacy protection in DATABASE 
+SYSTEMS is understood TO be the control over 
+what information a given user can get from a DATABASE. 
+*********************************************************************
+Document:CACM-3025
+
+evolution of the HARDWARE, operating SYSTEM, AND languages 
+sharing computing SYSTEMS; transferring HARDWARE 
+HARDWARE AND SOFTWARE development; AND serving as a 
+the evolution of the dec SYSTEM 10 
+*********************************************************************
+Document:CACM-2817
+
+the notions of consistency AND predicate locks in a DATABASE SYSTEM 
+in DATABASE SYSTEMS, users access shared data 
+rather than a physical subset of the DATABASE. 
+lorie, R.. 
+*********************************************************************
+Document:CACM-1589
+
+dialog: a conversational programming SYSTEM WITH a graphical orientation 
+results. use of the SYSTEM requires a minimum of experience 
+SYSTEM control language has been prevented, AND there 
+*********************************************************************
+Document:CACM-2738
+
+HIERARCHICAL SYSTEMS, bottom up design, levels 
+a number of examples from HARDWARE AND SOFTWARE 
+design of hierarchically structured SYSTEMS 
+structured programming SYSTEMS. it develops 
+*********************************************************************
+Document:CACM-3136
+
+price/performance patterns of u. computer SYSTEMS 
+econometric MODELS of the u. computer market have been developed TO study 
+the relationships between SYSTEM price AND HARDWARE performance. single 
+be so over simplified as TO be meaningless. multiple-regression MODELS 
+*********************************************************************
+Document:CACM-2888
+
+items in business SYSTEMS have TO be identified 
+SYSTEM. in business SYSTEMS associated 
+WITH large collections of integrated files (DATABASE) 
+data, file, reference code, SYSTEMS 
+*********************************************************************
+Document:CACM-1518
+
+modern computer SYSTEMS is formidable. one general 
+an experimental model of system/360-its HARDWARE, 
+SOFTWARE utilization, AND queueing processes. 
+RELATING TO turnaround time, throughput, HARDWARE utilization, 
+*********************************************************************
+Document:CACM-1264
+
+blnsys-a 1401 operating SYSTEM WITH braille capabilities 
+blnsys is an operating SYSTEM designed for 
+OR braille. even though this SYSTEM was written for 
+processing time is at a minimum. this SYSTEM will 
+*********************************************************************
+Document:CACM-0144
+
+present communications SYSTEMS transmit single 
+present methods are inefficient when computer SYSTEMS 
+bemer, R. w. 
+do it by the numbers-digital shorthand 
+*********************************************************************
+Document:CACM-2816
+
+TO reorganize a DATABASE. a DISK file organization 
+optimal reorganization of distributed space DISK files 
+in most DATABASE organizations, the cost of accessing 
+the DATABASE will increase due TO structural 
+*********************************************************************
+Document:CACM-2421
+
+HARDWARE OR SOFTWARE, must be provided TO translate 
+most graphics SYSTEMS using a raster scan output 
+barrett, R. c. 
+a scan conversion algorithm WITH reduced storage requirements 
+*********************************************************************
+Document:CACM-1844
+
+a modular computer sharing SYSTEM 
+of a bank of interchangeable COMPUTERS, each of which 
+process terminal jobs as they arrive. one of the COMPUTERS 
+simplest form there is a DISK drive for each connected 
+*********************************************************************
+Document:CACM-2147
+
+using COMPUTERS in higher education: 
+that, WITH regard TO COMPUTERS in higher education, 
+HARDWARE OR courses in nearly half of the associate 
+computer science, ETC., offered in 1966-67. a plea 
+*********************************************************************
+Document:CACM-2151
+
+SOFTWARE SYSTEMS is followed by a description of 
+SYSTEMS, SOFTWARE measurement, user program 
+a HARDWARE AND SOFTWARE scheme for measuring user programs 
+operating SYSTEMS, multiprogramming SYSTEMS, time-sharing 
+*********************************************************************
+Document:CACM-1747
+
+SYSTEMS, multiprogrammed SYSTEM design, virtual COMPUTERS, 
+SYSTEMS, computer SYSTEMS design, input equipment, 
+three criteria for designing computing SYSTEMS TO facilitate debugging 
+the designer of a computing SYSTEM should adopt 
+*********************************************************************
+Document:CACM-2486
+
+photocomposition, SPECIAL problems arise in highly 
+devised in the information SYSTEM of the american institute 
+of SPECIAL characters (foreign alphabets, mathematical 
+symbols, ETC.) not available on input keyboards 
+*********************************************************************
+Document:CACM-2846
+
+information retrieval SYSTEMS. it has the same underlying 
+data structure, DATABASE, m-ary tree, trie, 
+compressed tries 
+*********************************************************************
+Document:CACM-2398
+
+teacher/student authored cai using the newbasic SYSTEM 
+interactive SYSTEM called newbasic/catalyst 
+at the SYSTEM level shows how students can mix the advantages 
+experience WITH the SYSTEM in an urban 
+*********************************************************************
+Document:CACM-1930
+
+(LIKE random number generation AND in core sorting) 
+n-tuples provided by our generator (WITH n less than 
+extremely portable random number generator 
+*********************************************************************
+Document:CACM-2828
+
+HIERARCHICAL geometric MODELS for visible surface algorithms 
+solving many other problems of SYSTEMS for producing 
+"working set," OR fraction of the TOTAL structure 
+HIERARCHICAL data structures, geometric 
+*********************************************************************
+Document:CACM-2188
+
+an approach TO the optimum design of computer graphics SYSTEMS 
+display SYSTEM designers are faced WITH the 
+on considerations such as SYSTEM response time, SYSTEM 
+data processing SYSTEM. the work reported 
+*********************************************************************
+Document:CACM-2957
+
+data abstraction, RELATIONAL DATABASE, data type, 
+DATABASE abstractions: aggregation 
+aggregation abstractions. RELATIONAL databases defined 
+important in DATABASE design. a top-down 
+*********************************************************************
+Document:CACM-2786
+
+a SYSTEM for typesetting mathematics 
+of a SYSTEM for typesetting mathematics. 
+AND reverse half-line motions. the SYSTEM 
+simply. this paper was typeset by the authors using the SYSTEM described 
+*********************************************************************
+Document:CACM-1754
+
+in many recent computer SYSTEM designs, HARDWARE 
+dynamic storage allocation SYSTEMS 
+which the utility of various HARDWARE facilities 
+SYSTEMS is included as an appendix. 
+*********************************************************************
+Document:CACM-2976
+
+approximating block accesses in DATABASE organizations 
+DATABASE, inverted file organization, DATABASE performance 
+cacm april, 1977 
+*********************************************************************
+Document:CACM-2516
+
+HIERARCHICAL storage in information retrieval 
+the effect of HIERARCHICAL storage organizations 
+HARDWARE is assumed TO consist on n-levels of 
+linearly connected memory HARDWARE WITH increasing data 
+*********************************************************************
+Document:CACM-1152
+
+gregory, R. t. 
+floating-point arithmetic WITH 84-bit numbers 
+a classic AND straightforward technique is 
+*********************************************************************
+Document:CACM-2625
+
+these SYSTEMS. the direct use of a capability as 
+identify capabilities will dominate. a HARDWARE address 
+recently accessed segments by means of a set of ASSOCIATIVE 
+SYSTEMS on the basis of protection, simplicity of 
+*********************************************************************
+Document:CACM-2989
+
+in troduced, AND used TO answer questions LIKE: how many 
+programs running on the dec SYSTEM 10 isp. 
+empirical evaluation of some features 
+of instruction set processor architectures 
+*********************************************************************
+Document:CACM-1846
+
+event SYSTEMS, particularly computer SYSTEMS, on 
+a conventional digital computer are dealt WITH. the 
+picture processing, computer SYSTEM simulation 
+SYSTEMS are assumed TO be described as a NETWORK 
+*********************************************************************
+Document:CACM-2342
+
+these solutions. in this paper a SYSTEM of parallel 
+transition rules are both applicable TO HARDWARE 
+processes as well as TO SOFTWARE processes, AND 
+operating SYSTEMS, parallel processes 
+*********************************************************************
+Document:CACM-2059
+
+morpurgo, R. 
+operation research, NETWORK, traffic 
+operation research, NETWORK problems, control theory, traffic problems, ETC. 
+a language for treating graphs 
+*********************************************************************
+Document:CACM-3089
+
+performance of rollback recovery SYSTEMS under intermittent failures 
+SYSTEM under intermittent failures is proposed. 
+the SYSTEM is assumed TO operate WITH a checkpointing 
+response time, AND the SYSTEM saturation point. 
+*********************************************************************
+Document:CACM-2716
+
+RELATIONAL DATABASE, DATABASE optimization, inverted 
+optimizing the performance of a RELATIONAL algebra DATABASE interface 
+TO support a RELATIONAL view of data is proposed. 
+the user. a RELATIONAL algebra interface, called 
+*********************************************************************
+Document:CACM-0944
+
+storage AND search properties of a tree-organized memory SYSTEM 
+storage SYSTEM assuming that a memory possessing 
+a memory WITH list properties [1] may be used 
+*********************************************************************
+Document:CACM-1988
+
+interpreters, assemblers-and their interactions in complex SYSTEMS 
+is presented for deciding whether OR not a given SYSTEM can 
+a formalism for translator interactions 
+*********************************************************************
+Document:CACM-2138
+
+for use in writing production SOFTWARE SYSTEMS for a 
+SYSTEMS, ETC. prime design goals of the design are the 
+bliss: a language for SYSTEMS programming 
+TO allow access TO all relevant HARDWARE features of 
+*********************************************************************
+Document:CACM-1572
+
+the simulation of time sharing SYSTEMS 
+SYSTEMS has raised a number of problems for 
+computation center MANAGEMENT. not only is it necessary 
+TO develop an appropriate HARDWARE configuration 
+*********************************************************************
+Document:CACM-2379
+
+operating SYSTEMS, SYSTEM design, levels of abstraction, 
+on complexity of SOFTWARE. the SYSTEM is defined by 
+the design of the venus operating SYSTEM 
+the venus operating SYSTEM is an experimental 
+*********************************************************************
+Document:CACM-1962
+
+functions, interactive SOFTWARE, hybrid SYSTEMS, conductor program 
+DISK file. functions may be created by real-time human inputs TO 
+controlled is an important link in the SYSTEM. the environment for 
+moore, f. R. 
+*********************************************************************
+Document:CACM-2812
+
+integrated financial MANAGEMENT SYSTEM by the navy material 
+accurately defined SYSTEMS, SYSTEMS optimization 
+computer-aided analysis AND design of information SYSTEMS 
+of applications SOFTWARE design, computer selection 
+*********************************************************************
+Document:CACM-1750
+
+computer SYSTEM WITH extended core storage 
+heighten the multiprogramming performance of a multicomputer SYSTEM 
+AND functions of such a SYSTEM are based on a 
+generalization of such a design, SPECIAL emphasis is 
+*********************************************************************
+Document:CACM-2358
+
+SYSTEMS has grown, the need TO share information 
+among SYSTEM users has become increasingly apparent. 
+many contemporary SYSTEMS permit some degree of 
+multics provides direct HARDWARE addressing by user AND 
+*********************************************************************
+Document:CACM-3112
+
+virtual memory, file OR DATABASE MANAGEMENT, 
+a real-time list processing SYSTEM is one 
+classical implementations of list processing SYSTEMS 
+TO finish. a real-time list processing SYSTEM is presented 
+*********************************************************************
+Document:CACM-1698
+
+a statistical model for console behavior in multiuser COMPUTERS 
+the ability of a computer SYSTEM TO communicate 
+virtual consoles MODELS the collection of actual 
+consoles. using the model we answer questions LIKE: 
+*********************************************************************
+Document:CACM-1519
+
+george 3-a general purpose time sharing AND operating SYSTEM 
+an operating SYSTEM is described which will 
+off line (background) jobs. the SYSTEM is not oriented 
+processing SYSTEM (such as the atlas supervisor, ibsys, 
+*********************************************************************
+Document:CACM-2500
+
+MANAGEMENT program is described which uses linked 
+operating SYSTEM, keeps resources relatively 
+been incorporated in the running SYSTEM due 
+MANAGEMENT, multiprogramming, time-sharing, 
+*********************************************************************
+Document:CACM-2900
+
+of finding the optimal set of NETWORK sites at 
+that certain sites should (OR should not) be 
+file allocation, computer networks, distributed data MANAGEMENT 
+some theorems TO aid in solving the file allocation problem 
+*********************************************************************
+Document:CACM-1711
+
+of COMPUTERS may be alerted TO potential legal 
+statutes AND regulation RELATING TO record keeping. 
+AND retrieval SYSTEMS, including the pending 
+when your computer needs a lawyer 
+*********************************************************************
+Document:CACM-2718
+
+a preliminary SYSTEM for the design of dbtg data structures 
+the functional approach TO DATABASE design is 
+a structure which "MODELS the business" in some other 
+gerritsen, R. 
+*********************************************************************
+Document:CACM-1805
+
+monitor, operating SYSTEM, SYSTEM SOFTWARE, supervisors, 
+equipment evaluation, HARDWARE, evaluation, 
+productivity of multiprogrammed computers-progress 
+in developing an analytic prediction method 
+*********************************************************************
+Document:CACM-3034
+
+are assumed TO be inequalities OR equalities RELATING 
+in the condition stub of the decision table (OR 
+detection of logical errors in decision table programs 
+*********************************************************************
+Document:CACM-1602
+
+(AND actually contains fortran vi as a subset). 
+solve difficult computational problems (LIKE the 
+pose: a language for posing problems TO a computer 
+*********************************************************************
+Document:CACM-1774
+
+the general features of program overlay SYSTEMS 
+of machine HARDWARE AND other SYSTEM features. the 
+in a multiprogrammed SYSTEM on the cdc 6600 is described 
+in detail, WITH SPECIAL reference TO real time 
+*********************************************************************
+Document:CACM-0617
+
+work at the same speed as the control SYSTEM. it must 
+instants in the action of the control SYSTEM. 
+wheeling, R. f. 
+poseidon 
+*********************************************************************
+Document:CACM-3131
+
+focus microcomputer number SYSTEM 
+focus is a number SYSTEM AND supporting computational 
+over an equal word length floating-point SYSTEM. focus computations 
+speed WITH HARDWARE arithmetic for many applications. algorithms 
+*********************************************************************
+Document:CACM-1488
+
+programming decision tables in fortran, cobol OR algol 
+a simple broad-based approach for programming 
+decision tables in fortran OR cobol is developed 
+*********************************************************************
+Document:CACM-2951
+
+the five diverse arpa NETWORK SYSTEMS studied in detail, 
+NETWORK time-sharing SYSTEMS as it depends on some 
+if the ultimate aim of a computing NETWORK 
+on a NETWORK. analytical, simulation, AND statistical performance 
+*********************************************************************
+Document:CACM-2476
+
+equivalence between and/or graphs AND context-free grammars 
+cacm july, 1973 
+hall, p. a. v. 
+*********************************************************************
+Document:CACM-2717
+
+DATABASE reorganization, translation definition, 
+convert: a high level translation 
+definition language for data conversion 
+*********************************************************************
+Document:CACM-1309
+
+a computer user-oriented SYSTEM 
+a computer language SYSTEM has been developed 
+which makes possible fast preparation of MANAGEMENT 
+manager. the SYSTEM requires initial preparation 
+*********************************************************************
+Document:CACM-2194
+
+some COMPUTERS permit either 8-bit addressing 
+how TO keep the addresses short 
+an algorithm is presented for minimizing the 
+*********************************************************************
+Document:CACM-1677
+
+storage organization in programming SYSTEMS 
+the SYSTEM of program AND data representation 
+OR programming SYSTEMS: simplicity of programmed addressing, 
+of memory utilization, variability of SYSTEM composition 
+*********************************************************************
+Document:CACM-3113
+
+optimal conversion of extended-entry 
+decision tables WITH general cost criteria 
+a general dynamic programming algorithm for converting 
+*********************************************************************
+Document:CACM-1818
+
+associated legendre functions of the first kind 
+for real OR imaginary arguments (algorithm 47 
+[s16]) 
+*********************************************************************
+Document:CACM-1892
+
+strategies, operating SYSTEMS, memory MANAGEMENT 
+degree of multiprogramming in page-on-demand SYSTEMS 
+SYSTEMS. the model preserves, as a key feature, the 
+SYSTEM design AND programming are discussed, 
+*********************************************************************
+Document:CACM-3138
+
+updating an orthogonal decomposition of a matrix of column (OR row) vectors. 
+the fundamental idea is TO add a column (OR row) analogous 
+a column (OR row) is dropped by a formal scaling WITH the 
+(OR row). the elimination process for the procedure is successive 
+*********************************************************************
+Document:CACM-0092
+
+a checklist of intelligence for programming SYSTEMS 
+of sophistication of various programming SYSTEMS. 
+bemer, R. w. 
+*********************************************************************
+Document:CACM-2859
+
+interference in multiprocessor computer SYSTEMS WITH interleaved memory 
+a simple model of such a SYSTEM. the limiting 
+as the SYSTEM size increases. the model 
+of the limiting behavior of the SYSTEM yields approximate 
+*********************************************************************
+Document:CACM-1247
+
+computer programming SYSTEMS 
+SYSTEM which can serve as an operating environment for 
+SYSTEMS. the available services include dynamic allocation 
+an operating environment for dynamic-recursive 
+*********************************************************************
+Document:CACM-1489
+
+in business data processing SYSTEMS, it is 
+SYSTEMS must be analyzed AND programs prepared 
+make an unfamiliar SYSTEM manageable, a detailed 
+data, documentation AND decision tables 
+*********************************************************************
+Document:CACM-0417
+
+SYSTEMS used in business AND industry can 
+of computer SYSTEMS involved in legal situations. 
+freed, R. n. 
+legal implications of computer use 
+*********************************************************************
+Document:CACM-2928
+
+HARDWARE estimation of a process' primary memory requirements 
+a minor HARDWARE extension TO the honeywell 
+the additional HARDWARE required for 
+ASSOCIATIVE memory used for page table words. this 
+*********************************************************************
+Document:CACM-3030
+
+SOFTWARE modules, HIERARCHICAL structures 
+an example of HIERARCHICAL design AND proof 
+HIERARCHICAL programming is being increasingly 
+large programs. users of HIERARCHICAL techniques claim 
+*********************************************************************
+Document:CACM-0344
+
+herndon, j. R. 
+ber OR bei function (algorithm 57) 
+cacm april, 1961 
+*********************************************************************
+Document:CACM-3144
+
+a model for AND discussion of multi-interpreter SYSTEMS 
+a multi-interpreter SYSTEM is a SYSTEM in which programs execute 
+by virtue of being interpreted by other programs, which themselves may 
+*********************************************************************
+Document:CACM-1315
+
+automation of the radioisotope accountability SYSTEM 
+SYSTEM of radioisotope accountability for three years. the 
+SYSTEM in january, 1963. the program for purchased 
+regulations specify that records be kept. this SYSTEM 
+*********************************************************************
+Document:CACM-1432
+
+incorporation of nonstandard input/output devices into fortran SYSTEMS 
+a fortran SYSTEM may readily be modified TO 
+handle input/output WITH nonstandard media on the 
+*********************************************************************
+Document:CACM-3049
+
+environment graphical SYSTEM (sembegs) 
+SYSTEM containing components for handling 
+these files on a variety of graphical HARDWARE, 
+extendable TO a fully interactive SYSTEM. the 
+*********************************************************************
+Document:CACM-2680
+
+DISK analysis, DISK optimization, DISK files,file 
+optimal space allocation on DISK storage devices 
+the assignment of files TO DISK packs, AND packs TO either 
+SYSTEMS, file scheduling, space allocation, 
+*********************************************************************
+Document:CACM-3072
+
+multiprogramming SYSTEMS, i/o SYSTEM scheduling 
+SYSTEM 
+scheduling SYSTEMS for multiprogrammed- multiprocessor 
+computer SYSTEMS are presented. the basic control variables 
+*********************************************************************
+Document:CACM-3164
+
+acyclic digraph, DATABASE integrity, NETWORK, deadlock 
+progressive acyclic digraphs-a tool for DATABASE integrity 
+this process is important in certain areas of DATABASE implementation 
+*********************************************************************
+Document:CACM-1409
+
+in a SPECIAL seminar were: (1) TO be a research project 
+machine;and (3) TO have easily modifiable HARDWARE for 
+basic research in computer SYSTEMS design. an 
+time AND provides possibilities for an ASSOCIATIVE 
+*********************************************************************

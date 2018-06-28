@@ -1,0 +1,686 @@
+Query:the use of operations research models to optimize information system performance  this includes fine tuning decisions such as secondary index selection file reorganization and distributed databases
+
+Document:CACM-2452
+
+model, FILE structure design, SECONDARY INDEX organization, 
+affect FILE (data base) organization PERFORMANCE, 
+model AND a programmed SYSTEM TO estimate primarily 
+THE SYSTEM is a convenient tool TO study FILE 
+*********************************************************************
+Document:CACM-2765
+
+TO be used in conjunction with any INDEX SELECTION 
+INDEX organization, INFORMATION storage AND retrieval, query answering 
+analysis AND PERFORMANCE OF inverted data base structures 
+is stressed. THE inverted data base (FILE) organization 
+*********************************************************************
+Document:CACM-1976
+
+replace THE USE OF THE popular SECONDARY INDEX filing scheme 
+OF SECONDARY INDEX values in "buckets," it is possible TO retrieve 
+fields by a single access TO an INDEX FILE, although each bucket may 
+degenerate case, becomes THE conventional SECONDARY INDEX filing 
+*********************************************************************
+Document:CACM-2816
+
+optimal REORGANIZATION OF DISTRIBUTED space disk files 
+which allows for DISTRIBUTED free space is described. 
+is minimized TO obtain THE optimum REORGANIZATION 
+PERFORMANCE, storage costs, AND REORGANIZATION 
+*********************************************************************
+Document:CACM-2969
+
+computer networks, DATABASES, DISTRIBUTED 
+DATABASES, optimal FILE location 
+optimal program AND data locations in computer networks 
+*********************************************************************
+Document:CACM-2988
+
+memory management, SYSTEM PERFORMANCE, queueing 
+in queueing network MODELS OF computer systems. 
+in teractive SYSTEM are reported. relations between workload 
+AND job swap time, AND PERFORMANCE measures SUCH AS response 
+*********************************************************************
+Document:CACM-2114
+
+a formal SYSTEM for INFORMATION retrieval from files 
+by which THE concepts OF keyword, INDEX, record, FILE, directory, 
+attribute-value pair, INDEX, keyword, record, record address, 
+k-pointer, k-list, FILE, directory, generalized FILE 
+*********************************************************************
+Document:CACM-2318
+
+THE role OF computer SYSTEM MODELS in PERFORMANCE evaluation 
+computer SYSTEM PERFORMANCE. THIS paper 
+MODELS constitute a useful means OF investigating 
+examines THE interrelationships between MODELS AND other 
+*********************************************************************
+Document:CACM-2926
+
+OF each length are uniformly DISTRIBUTED within THE 
+FILE, AND if a wide distribution OF record lengths 
+exists within THE FILE, then THIS strategy results in shallow 
+trees with fast access times. THE PERFORMANCE 
+*********************************************************************
+Document:CACM-2957
+
+aggregation abstractions. relational DATABASES defined 
+update OPERATIONS on SUCH DATABASES must 
+DECISIONS concerning aggregate structure 
+from DECISIONS concerning key identification. it is 
+*********************************************************************
+Document:CACM-2359
+
+an improved INDEX sequential access method using hashed overflow 
+THE INDEX sequential access method (isam) is 
+size; AND significant USE OF THE FILE in THE INDEX AS opposed 
+isam, INDEX sequential, hashing, scatter 
+*********************************************************************
+Document:CACM-1412
+
+THE banking INFORMATION SYSTEM concept 
+SYSTEM. THE banking INFORMATION SYSTEM now serves THE 
+data processing equipment is being sought. THIS, 
+OF data base approach toward a banking INFORMATION 
+*********************************************************************
+Document:CACM-3136
+
+econometric MODELS OF THE u. computer market have been developed TO study 
+be so over simplified AS TO be meaningless. multiple-regression MODELS 
+predicting SYSTEM cost AS a function OF several hardware 
+THE relationships between SYSTEM price AND hardware PERFORMANCE. single 
+*********************************************************************
+Document:CACM-2949
+
+a correctness proof OF a topology INFORMATION 
+main tenance protocol for a DISTRIBUTED computer 
+in order for THE nodes OF a DISTRIBUTED computer 
+INFORMATION about THE network's topology. since nodes 
+*********************************************************************
+Document:CACM-2631
+
+INFORMATION, an attempt is made TO overcome 
+one OF THE problems often associated with INFORMATION 
+OF THIS subset are then used AS INDEX keys for retrieval. 
+text searching, INFORMATION theory, FILE organization, 
+*********************************************************************
+Document:CACM-2437
+
+general PERFORMANCE analysis OF key-to-address 
+OF PERFORMANCE OF THE various key-to-address 
+key space according TO a certain probabilistic SELECTION 
+average PERFORMANCE OF THE transformation methods on 
+*********************************************************************
+Document:CACM-2375
+
+PERFORMANCE including SYSTEM oriented AND individual 
+head disks are compared using THE PERFORMANCE 
+criteria OF expected seek time (SYSTEM oriented)and expected 
+another meaningful measure OF PERFORMANCE, showing possible 
+*********************************************************************
+Document:CACM-1267
+
+PERFORMANCE OF systems used for data transmission 
+transfer rate OF INFORMATION bits -an asa tutorial 
+INFORMATION thruput AS a characteristic OF 
+systems PERFORMANCE is discussed. THIS discussion 
+*********************************************************************
+Document:CACM-3002
+
+a FILE SYSTEM is THE reduction OF storage AND data 
+several requests access THE FILE SYSTEM, AND each 
+request requires INFORMATION from one or more variable 
+THE FILE SYSTEM uses one or more storage devices, AND 
+*********************************************************************
+Document:CACM-2319
+
+computer SYSTEM, operating SYSTEM, PERFORMANCE 
+operating SYSTEM PERFORMANCE 
+with respect TO operating SYSTEM PERFORMANCE 
+is given. while a great deal OF INFORMATION AND a large 
+*********************************************************************
+Document:CACM-3181
+
+RESEARCH has revealed THE existence OF widespread 
+TO stimulate meaningful public participation in DECISIONS on 
+effort OF considerable scale. in addition, RESEARCH has revealed 
+shortcomings in THE present SYSTEM for defining responsibilities, 
+*********************************************************************
+Document:CACM-1194
+
+THE main features OF THE INFORMATION SYSTEM are direct 
+OF THE ir SYSTEM applied TO its operation 
+paramount in THE provision OF INFORMATION services: 
+(1) easy accessibility TO THE INFORMATION files by users 
+*********************************************************************
+Document:CACM-2493
+
+data base, REORGANIZATION, files, INFORMATION retrieval 
+optimum data base REORGANIZATION points 
+however, THE high cost OF a REORGANIZATION prohibits 
+strategies for selecting THE optimum REORGANIZATION points. 
+*********************************************************************
+Document:CACM-0397
+
+a card format for reference files in INFORMATION processing 
+a variety OF reference files in INFORMATION 
+material INCLUDES basically an INDEX, title, source, 
+THE identification INCLUDES basically codes for a 
+*********************************************************************
+Document:CACM-2978
+
+INDEX, INDEX structure, pages, virtual memory, 
+a class OF INDEX structures for USE in a virtual 
+within THIS class OF INDEX structures are analyzed. these 
+whether or not pages in THE INDEX are structured, AND 
+*********************************************************************
+Document:CACM-2669
+
+paging, demand paging, memory MODELS, program MODELS, 
+a simple linear model OF demand paging PERFORMANCE 
+predicting THE PERFORMANCE OF a proposed automatically 
+managed multilevel memory SYSTEM requires 
+*********************************************************************
+Document:CACM-2991
+
+lead TO improved FILE PERFORMANCE for SECONDARY 
+by adding shadow buckets TO an open chaining FILE. THE 
+clustering, INFORMATION retrieval, open addressing, open 
+improving THE access time for random access files 
+*********************************************************************
+Document:CACM-3137
+
+a macro model OF a DISTRIBUTED INFORMATION SYSTEM in presented. THE model 
+a methodology for THE design OF DISTRIBUTED INFORMATION systems 
+DISTRIBUTED processing, SYSTEM design, cost minimization, DISTRIBUTED 
+describes THE major costs OF using an INFORMATION 
+*********************************************************************
+Document:CACM-2526
+
+a study is presented OF some OF THE SYSTEM 
+backing or SECONDARY store has a very small read time, 
+devices. several analytic MODELS are introduced, 
+asymmetric memory hierarchies 
+*********************************************************************
+Document:CACM-1226
+
+THIS paper provides THE systems designer with an INFORMATION 
+OF FILE organizations he must consider for his SYSTEM. 
+SYSTEM. in many systems, THE SELECTION 
+THE organization OF structured files 
+*********************************************************************
+Document:CACM-3070
+
+hybrid simulation MODELS OF computer systems 
+combined TO produce efficient yet accurate SYSTEM 
+MODELS. in an example based on a simple hypothetical 
+computer SYSTEM, discrete-event simulation is used 
+*********************************************************************
+Document:CACM-1652
+
+THE internal INFORMATION processing OPERATIONS 
+a code for non-numeric INFORMATION processing 
+within an online computer SYSTEM with respect TO non-numeric 
+THE SYSTEM user. THE code has direct application 
+*********************************************************************
+Document:CACM-3089
+
+AND SYSTEM PERFORMANCE evaluation 
+PERFORMANCE OF rollback recovery systems under intermittent failures 
+SYSTEM under intermittent failures is proposed. 
+THE SYSTEM is assumed TO operate with a checkpointing 
+*********************************************************************
+Document:CACM-3012
+
+implementation, SYSTEM USE, INFORMATION storage AND retrieval SYSTEM 
+THE USE OF an interactive INFORMATION storage 
+AND retrieval SYSTEM in medical RESEARCH 
+AND retrieval SYSTEM. a monitor built into THE computer 
+*********************************************************************
+Document:CACM-1271
+
+THE SECONDARY key retrieval method involves 
+THE preparation OF SECONDARY storage lists from 
+logical OPERATIONS on appropriate lists, producing 
+SECONDARY key retrieval using an ibm 7090-1301 SYSTEM 
+*********************************************************************
+Document:CACM-1519
+
+processing SYSTEM (SUCH AS THE atlas supervisor, ibsys, 
+a common command language. THE SYSTEM INCLUDES 
+george 3-a general purpose time sharing AND operating SYSTEM 
+an operating SYSTEM is described which will 
+*********************************************************************
+Document:CACM-2984
+
+cost/utilization: a measure OF SYSTEM PERFORMANCE 
+SYSTEM PERFORMANCE in terms OF a cost/utilization 
+computer SYSTEM, PERFORMANCE evaluation, cost/utilization, SYSTEM balance 
+indicate THE extent TO which THE total SYSTEM 
+*********************************************************************
+Document:CACM-2812
+
+computer-aided analysis AND design OF INFORMATION systems 
+integrated financial management SYSTEM by THE navy material 
+OF applications software design, computer SELECTION 
+AND PERFORMANCE evaluation. there are four major 
+*********************************************************************
+Document:CACM-2140
+
+FILE organization, combined INDEX files, inverted 
+files, INFORMATION retrieval, query, multi-attribute 
+retrieval-update speed tradeoffs using combined indices 
+*********************************************************************
+Document:CACM-3134
+
+for THE INFORMATION SYSTEM. algorithms for THE organization an 
+THE appropriateness OF THE above approach TO a given INFORMATION SYSTEM 
+for INFORMATION storage AND retrieval 
+based INFORMATION systems, using THE normal multiplication table AS a directory 
+*********************************************************************
+Document:CACM-2976
+
+database, inverted FILE organization, database PERFORMANCE 
+AND measurement, INFORMATION retrieval, 
+approximating block accesses in database organizations 
+*********************************************************************
+Document:CACM-3128
+
+correctness arguments AND also simplifies implementation in DISTRIBUTED 
+TO protection mechanisms in THE SYSTEM is explained; in particular, 
+OF INFORMATION matters. an implementation OF eventcount 
+s AND sequencers in a SYSTEM with shared memory is described. 
+*********************************************************************
+Document:CACM-2680
+
+DECISIONS must be made AS TO which files are TO be permanently 
+resident AND which mountable. these DECISIONS 
+optimal space allocation on disk storage devices 
+*********************************************************************
+Document:CACM-2860
+
+DATABASES. guidelines for selecting identifier transformations, 
+OF common heuristics for determining primary or SECONDARY 
+OF design parameters on overall SYSTEM costs. a 
+a practitioner's guide TO addressing algorithms 
+*********************************************************************
+Document:CACM-3058
+
+are discussed AND PERFORMANCE is evaluated. 
+search strategies, database structures, INDEX 
+jump searching: a fast sequential search technique 
+*********************************************************************
+Document:CACM-3129
+
+a computer SYSTEM uses several serial files. THE files reside on a 
+FILE runs out OF space, THE SYSTEM must be reorganized. THIS paper considers 
+serial files, storage allocation, REORGANIZATION, partitioned dataset 
+optimal storage allocation for serial files 
+*********************************************************************
+Document:CACM-2862
+
+THE PERFORMANCE OF THE page fault frequency (pff) 
+model. using these MODELS, SUCH parameters 
+MODELS TO evaluate these parameter values permits study 
+OF THE PERFORMANCE OF THE replacement algorithm 
+*********************************************************************
+Document:CACM-2951
+
+RESEARCH is a first step toward assisting THE user in participating 
+on a network. analytical, simulation, AND statistical PERFORMANCE 
+time INFORMATION for users wishing TO process various 
+node. THE RESEARCH clearly reveals that sufficient 
+*********************************************************************
+Document:CACM-1680
+
+a general-purpose display processing AND tutorial SYSTEM 
+computer OPERATIONS SUCH AS simulation, programming, AND 
+INFORMATION retrieval. it is written in fortran 
+SYSTEM by terminating AND rescheduling itself 
+*********************************************************************
+Document:CACM-1032
+
+theoretical considerations in INFORMATION retrieval systems 
+INFORMATION storage AND retrieval systems are composed 
+OF INFORMATION AND tagging it for effective retrieval, 
+(c) FILE organization TO make access TO INFORMATION 
+*********************************************************************
+Document:CACM-3017
+
+one problem is a possible PERFORMANCE penalty. 
+directory, INDEX sequential access method 
+b-trees re-examined 
+*********************************************************************
+Document:CACM-1908
+
+on-line vs off-line PERFORMANCE, decision-making PERFORMANCE, 
+a much higher level OF PERFORMANCE is attained by 
+a PERFORMANCE level equal TO that OF THE batch 
+SYSTEM. 
+*********************************************************************
+Document:CACM-2542
+
+a software design AND evaluation SYSTEM 
+a critical failure OF current software SYSTEM 
+THE PERFORMANCE OF a proposed design is not evaluated 
+is proposed. a SYSTEM which integrates PERFORMANCE evaluation 
+*********************************************************************
+Document:CACM-3152
+
+storage REORGANIZATION techniques for 
+method for accomplishing THIS REORGANIZATION is given. THIS also 
+data REORGANIZATION, pagination, transpose. 
+matrix computation in a paging environment 
+*********************************************************************
+Document:CACM-2849
+
+DISTRIBUTED control, DISTRIBUTED computing, 
+ethernet: DISTRIBUTED packet switching for local computer networks 
+SYSTEM for carrying digital data packets among 
+locally DISTRIBUTED computing stations. THE packet 
+*********************************************************************
+Document:CACM-1515
+
+a computer SYSTEM for inference execution AND data retrieval 
+a SYSTEM called relational data FILE was developed 
+THIS paper presents a rand project concerned 
+*********************************************************************
+Document:CACM-2059
+
+graph OPERATIONS SUCH AS node and/or link deletion or insertion, union, 
+operation RESEARCH, network problems, control theory, traffic problems, etc. 
+operation RESEARCH, network, traffic 
+a language for treating graphs 
+*********************************************************************
+Document:CACM-1653
+
+SYSTEM PERFORMANCE evaluation: survey AND appraisal 
+THE state OF THE art OF SYSTEM PERFORMANCE 
+OF PERFORMANCE; overhead AND cpu speed are placed in 
+requiring successively greater amounts OF INFORMATION. 
+*********************************************************************
+Document:CACM-1534
+
+made OF THE validity OF various design DECISIONS. PERFORMANCE 
+dad, THE c. operating SYSTEM 
+operating SYSTEM, dad, is described in detail. 
+THIS SYSTEM is designed for THE control data 3600 using 
+*********************************************************************
+Document:CACM-2258
+
+techniques: a fundamental PERFORMANCE study on 
+FILE search, scatter storage, INFORMATION retrieval 
+additional results on key-to-address transform 
+large existing formatted files 
+*********************************************************************
+Document:CACM-1456
+
+an experimental SYSTEM that uses lisp TO make 
+associates with each english word THE syntactic INFORMATION, 
+powerful vehicle for RESEARCH on THE logic OF question answering. 
+examples OF methods OF inputting INFORMATION 
+*********************************************************************
+Document:CACM-0696
+
+california. THE SYSTEM INCLUDES over 200 remote input 
+an automatic data acquisition AND inquiry SYSTEM using disk files 
+(ada) SYSTEM which ties together THE company's manufacturing 
+TO store INFORMATION required TO provide up-to-date 
+*********************************************************************
+Document:CACM-2358
+
+systems has grown, THE need TO share INFORMATION 
+among SYSTEM users has become increasingly apparent. 
+OF its physical storage location. INFORMATION is stored 
+INFORMATION resides in large, segmented main memory. 
+*********************************************************************
+Document:CACM-2593
+
+data base on SECONDARY storage, AND returns results. 
+data management SYSTEM, xdms, is described AND certain 
+data base management, INFORMATION retrieval, computer 
+a back-end computer for data base management 
+*********************************************************************
+Document:CACM-3082
+
+time, clocks, AND THE ordering OF events in a DISTRIBUTED SYSTEM 
+another in a DISTRIBUTED SYSTEM is examined, AND 
+a DISTRIBUTED algorithm is given for synchronizing 
+a SYSTEM OF logical clocks which can be used TO totally 
+*********************************************************************
+Document:CACM-2253
+
+indexing by position, INDEX domain, INDEX map, INDEX 
+INDEX ranges for matrix calculi 
+manipulation OF INDEX expressions which arise AS 
+languages, program optimization, range OPERATIONS, symbolic 
+*********************************************************************
+Document:CACM-3063
+
+INDEX, b-tree, pages, FILE organization, 
+a note on virtual memory indexes 
+none 
+*********************************************************************
+Document:CACM-0409
+
+a flexible, large-scale programming SYSTEM TO 
+facilitate THE solution OF INFORMATION processing 
+realized on THE ibm 709/7090 computer. THE SYSTEM is 
+cl-1, an environment for a compiler 
+*********************************************************************
+Document:CACM-2451
+
+tree FILE, INFORMATION storage AND retrieval, clustering, 
+a standard INFORMATION retrieval operation is 
+PERFORMANCE AND that OF an intuitively attractive 
+design OF tree structures for efficient querying 
+*********************************************************************
+Document:CACM-3103
+
+automatic data structure SELECTION: an example AND overview 
+a SYSTEM for automatically choosing efficient implementations 
+SELECTION are also reviewed. 
+*********************************************************************
+Document:CACM-3090
+
+SYSTEM on THE clients, caseworkers, administrators, 
+AND OPERATIONS OF THE welfare agencies that USE it are 
+reported. THE major impact OF THIS SYSTEM was 
+features OF THE computer-based SYSTEM AND OF THE organizational 
+*********************************************************************
+Document:CACM-2064
+
+OPERATIONS on generalized arrays with THE genie compiler 
+OPERATIONS on vectors, matrices, AND higher dimensional storage arrays are 
+an efficient SYSTEM has been devised AND implemented which allows 
+arrays. THIS SYSTEM was developed from a storage structure 
+*********************************************************************
+Document:CACM-3028
+
+context AND then describes THE architecture AND SYSTEM 
+THE contemporary PERFORMANCE OF THE mark i AND atlas is evaluated. 
+architecture, INDEX registers, paging, virtual 
+THE manchester mark i AND atlas: a his torical perspective 
+*********************************************************************
+Document:CACM-2977
+
+model OF computer development in an organization. RESEARCH 
+OF budget growth AND a separation between MODELS OF budgeting 
+THE stage hypothesis AND THE s-curve: some contradictory evidence 
+*********************************************************************
+Document:CACM-1066
+
+USE OF linear programming MODELS has grown so 
+SYSTEM. emphasis in THIS paper is devoted TO THE underlying 
+OF THE components OF SUCH a SYSTEM are: translation 
+growing applications OF linear programming 
+*********************************************************************
+Document:CACM-2896
+
+method developed by owicki. THE FINE degree OF in terleaving 
+an exercise in proving parallel programs correct 
+a parallel program, dijkstra's on-the-fly garbage 
+*********************************************************************
+Document:CACM-1765
+
+OF digital computers for RESEARCH AND instruction 
+OF computers used for RESEARCH AND instruction 
+computing centers, RESEARCH, instruction, utilization, 
+higher education, post SECONDARY education, colleges, universities 
+*********************************************************************
+Document:CACM-1828
+
+FILE SYSTEM. methods for synchronization OF 
+discussed AND their PERFORMANCE compared. 
+synchronization in a parallel-accessed data base 
+*********************************************************************
+Document:CACM-3011
+
+computer utilization, management INFORMATION SYSTEM, 
+traditional concepts OF management INFORMATION 
+systems (mis) bear little relation TO THE INFORMATION 
+OF computing AND tends TO control computing DECISIONS 
+*********************************************************************
+Document:CACM-2406
+
+on a computer SYSTEM. however, THE need for 
+AS in advanced data management systems AND DISTRIBUTED 
+a data definition AND mapping language 
+*********************************************************************
+Document:CACM-1699
+
+INFORMATION retrieval testing, INFORMATION SYSTEM 
+OF THE RESEARCH is that an INFORMATION retrieval SYSTEM 
+experimental evaluation OF INFORMATION 
+OF mechanized INFORMATION retrieval systems, 
+*********************************************************************
+Document:CACM-1796
+
+INDEX by subject TO algorithms, 1969 
+THIS 1969 INDEX is THE first supplement TO THE 
+INDEX by subject TO algorithms, 1960 1968 (comm. 
+*********************************************************************
+Document:CACM-2634
+
+packages for general USE. among those most widely available 
+in order TO provide users with a basis for SELECTION 
+AND USE, tests were made for each OF these systems, 
+AND THE results are summarized AS TO cost AND PERFORMANCE. 
+*********************************************************************
+Document:CACM-2716
+
+optimizing THE PERFORMANCE OF a relational algebra database interface 
+a methodology for composing them TO OPTIMIZE THE 
+PERFORMANCE OF a particular user query is described. 
+FILE, automatic programming, query language, 
+*********************************************************************
+Document:CACM-3059
+
+MODELS for parallel processing within programs: 
+approximate queueing MODELS for internal parallel 
+SYSTEM are developed in THIS paper. THE solution technique 
+MODELS are formulated in terms OF cpu:i/o AND i/o:i/o overlap 
+*********************************************************************
+Document:CACM-2484
+
+a note on INFORMATION organization AND storage 
+INFORMATION structures, AS list, tree, ring, 
+etc. thus THE problem OF INFORMATION organization AND 
+data base, data-base management, INFORMATION retrieval, 
+*********************************************************************
+Document:CACM-2888
+
+INFORMATION reference coding 
+SYSTEM. in business systems associated 
+through a set-theoretic INFORMATION model. 
+data, FILE, reference code, systems 
+*********************************************************************
+Document:CACM-2859
+
+a simple model OF SUCH a SYSTEM. THE limiting 
+AS THE SYSTEM size increases. THE model 
+OF THE limiting behavior OF THE SYSTEM yields approximate 
+that THE results are valid for a much larger class OF MODELS, 
+*********************************************************************
+Document:CACM-1938
+
+some criteria for time-sharing SYSTEM PERFORMANCE 
+quantitative time-sharing SYSTEM PERFORMANCE 
+OF THE SYSTEM while sharing its time with other 
+TO utilize THE full resources OF THE SYSTEM that 
+*********************************************************************
+Document:CACM-2718
+
+a preliminary SYSTEM for THE design OF dbtg data structures 
+a structure which "MODELS THE business" in some other 
+network model OF DATABASES, data base task group, database 
+*********************************************************************
+Document:CACM-2203
+
+PERFORMANCE study on large existing formatted 
+is applied TO a particular FILE, load factor AND 
+method take on different values. THE PERFORMANCE OF 
+search, collisions, clusters, INFORMATION retrieval 
+*********************************************************************
+Document:CACM-3119
+
+PERFORMANCE evaluation, queueing MODELS 
+simple queueing MODELS are used TO study THE PERFORMANCE tradeoffs OF 
+THE impact OF distributions AND disciplines 
+on multiple processor systems 
+*********************************************************************
+Document:CACM-1916
+
+analysis OF boolean program MODELS for time-shared, paged environments 
+are used AND, in addition, data references are 
+prior TO execution yields INFORMATION valuable 
+INFORMATION is also contained. analysis OF these MODELS 
+*********************************************************************
+Document:CACM-2900
+
+FILE allocation, computer networks, DISTRIBUTED data management 
+some theorems TO aid in solving THE FILE allocation problem 
+THE FILE allocation problem-i.e. THE problem 
+*********************************************************************
+Document:CACM-1719
+
+optimizing real-time SYSTEM PERFORMANCE 
+real-time SYSTEM PERFORMANCE criteria, real-time 
+SYSTEM cost PERFORMANCE ratio 
+calculating AND optimizing data processing SYSTEM cost 
+*********************************************************************
+Document:CACM-2288
+
+set. its existence enables THE design OF an INFORMATION 
+retrieval SYSTEM with a minimal search time 
+been established. an outline for designing an INFORMATION 
+retrieval SYSTEM based on THE consecutive 
+*********************************************************************
+Document:CACM-2750
+
+ad hoc DECISIONS. while it would be desirable TO obtain 
+significant detailed costs OF SYSTEM utilization, 
+AS SUCH, it can aid in quantifying THE problems 
+OF data set allocation, storage SYSTEM configuration, AND new device designs. 
+*********************************************************************
+Document:CACM-2307
+
+files are searched AND INFORMATION is retrieved following 
+for INFORMATION retrieval AND for THE control 
+REORGANIZATION OF THE stored INFORMATION AS a function OF 
+dynamic document processing 
+*********************************************************************
+Document:CACM-2435
+
+fibonacci SYSTEM, is introduced. THIS algorithm 
+is similar TO, but seems TO have certain advantages over, 
+THE "buddy" SYSTEM. a generalization is mentioned 
+which INCLUDES both OF these systems AS special cases. 
+*********************************************************************
+Document:CACM-2741
+
+behavior AND evaluate THE PERFORMANCE OF computing 
+SYSTEM, both borrowed from econometrics. THIS approach 
+paging systems (i) unstable regimes OF OPERATIONS AND (ii) 
+critical computing loads which bring THE SYSTEM 
+*********************************************************************

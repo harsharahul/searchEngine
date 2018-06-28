@@ -1,0 +1,667 @@
+Query:performance evaluation and modelling of computer systems
+
+Document:CACM-2318
+
+modeling, EVALUATION, PERFORMANCE, analytic-models, 
+the role OF COMPUTER system models in PERFORMANCE EVALUATION 
+COMPUTER system PERFORMANCE. this paper 
+methods for evaluating the PERFORMANCE OF COMPUTER 
+*********************************************************************
+Document:CACM-1938
+
+some criteria for time-sharing system PERFORMANCE 
+time-sharing SYSTEMS, as defined in this article, 
+are those multiaccess SYSTEMS which permit 
+makes quantitative EVALUATION OF time-sharing SYSTEMS 
+*********************************************************************
+Document:CACM-1653
+
+system PERFORMANCE EVALUATION: survey AND appraisal 
+the state OF the art OF system PERFORMANCE 
+OF PERFORMANCE; overhead AND cpu speed are placed in 
+presented as three levels OF approach to EVALUATION, 
+*********************************************************************
+Document:CACM-3119
+
+PERFORMANCE EVALUATION, queueing models 
+on multiple processor SYSTEMS 
+simple queueing models are used to study the PERFORMANCE tradeoffs OF 
+multiple processor SYSTEMS. issues considered include the impact OF cpu 
+*********************************************************************
+Document:CACM-3089
+
+AND system PERFORMANCE EVALUATION 
+principal PERFORMANCE measures, including availability, 
+database reliability, file SYSTEMS, checkpoints, recovery 
+PERFORMANCE OF rollback recovery SYSTEMS under intermittent failures 
+*********************************************************************
+Document:CACM-2984
+
+COMPUTER system, PERFORMANCE EVALUATION, cost/utilization, system balance 
+cost/utilization: a measure OF system PERFORMANCE 
+a method is presented for evaluating COMPUTER 
+system PERFORMANCE in terms OF a cost/utilization 
+*********************************************************************
+Document:CACM-2542
+
+is proposed. a system which integrates PERFORMANCE EVALUATION 
+a software design AND EVALUATION system 
+the PERFORMANCE OF a proposed design is not evaluated 
+description is used as direct input to PERFORMANCE 
+*********************************************************************
+Document:CACM-3136
+
+price/performance patterns OF u. COMPUTER SYSTEMS 
+purpose COMPUTER SYSTEMS. the other market is the developing one 
+for small business COMPUTER SYSTEMS, a market which is relatively 
+econometric models OF the u. COMPUTER market have been developed to study 
+*********************************************************************
+Document:CACM-2319
+
+AND COMPUTER SYSTEMS. 
+EVALUATION, PERFORMANCE measurement, measurement, 
+operating system PERFORMANCE 
+with respect to operating system PERFORMANCE 
+*********************************************************************
+Document:CACM-2268
+
+a comparative study OF COMPUTER programs 
+a study comparing the PERFORMANCE OF several COMPUTER 
+programs for integrating SYSTEMS OF ordinary 
+procedure is described together with the EVALUATION 
+*********************************************************************
+Document:CACM-2812
+
+AND PERFORMANCE EVALUATION. there are four major 
+accurately defined SYSTEMS, SYSTEMS optimization 
+computer-aided analysis AND design OF information SYSTEMS 
+analysis consists OF a set OF procedures AND COMPUTER 
+*********************************************************************
+Document:CACM-2741
+
+multiprogramming, paging, PERFORMANCE EVALUATION, 
+saturation in multiprogramming SYSTEMS 
+behavior AND evaluate the PERFORMANCE OF computing 
+SYSTEMS is proposed. it is based on a technique OF variable 
+*********************************************************************
+Document:CACM-2894
+
+OF COMPUTER PERFORMANCE, instead OF the more 
+a methodology for interactive COMPUTER service measurement 
+COMPUTER service is described. its primary 
+EVALUATION OF results, is included. 
+*********************************************************************
+Document:CACM-2990
+
+ways. much OF the published EVALUATION work is based 
+on measuring the retrieval PERFORMANCE OF an average 
+study, retrieval EVALUATION is based on optimizing the 
+PERFORMANCE OF a specific user query. the concept 
+*********************************************************************
+Document:CACM-1908
+
+cost for usage OF the two COMPUTER SYSTEMS; however, 
+on-line vs off-line PERFORMANCE, decision-making PERFORMANCE, 
+using time-sharing AND batch-processing COMPUTER 
+SYSTEMS conducted at mit is described in this paper. 
+*********************************************************************
+Document:CACM-2634
+
+an EVALUATION OF statistical software in the social sciences 
+several hundred college AND university COMPUTER 
+AND use, tests were made for each OF these SYSTEMS, 
+AND the results are summarized as to cost AND PERFORMANCE. 
+*********************************************************************
+Document:CACM-3048
+
+PERFORMANCE EVALUATION OF highly concurrent 
+for PERFORMANCE EVALUATION OF alternative 
+statistics needed for PERFORMANCE EVALUATION, without 
+PERFORMANCE EVALUATION, deterministic simulation, 
+*********************************************************************
+Document:CACM-2882
+
+a stochastic EVALUATION model for database 
+organization in data retrieval SYSTEMS 
+scale data retrieval SYSTEMS has been scarce due 
+SYSTEMS. effectiveness OF the methodology is demonstrated 
+*********************************************************************
+Document:CACM-2988
+
+in queueing network models OF COMPUTER SYSTEMS. 
+OF in teractive COMPUTER SYSTEMS which use nonpaged memories. 
+network models, in teractive COMPUTER SYSTEMS 
+AND job swap time, AND PERFORMANCE measures such as response 
+*********************************************************************
+Document:CACM-2852
+
+education, information SYSTEMS administration, COMPUTER 
+center management, COMPUTER system PERFORMANCE 
+the technology OF COMPUTER center management: a 
+adding a course on information SYSTEMS administration 
+*********************************************************************
+Document:CACM-3070
+
+hybrid simulation models OF COMPUTER SYSTEMS 
+PERFORMANCE EVALUATION, simulation, queueing 
+COMPUTER system, discrete-event simulation is used 
+*********************************************************************
+Document:CACM-2017
+
+PERFORMANCE EVALUATION, memory management 
+the experimental sort programs AND analysis OF the PERFORMANCE 
+sorting, merging, virtual machines, paging SYSTEMS, dynamic 
+storage allocation, measurement OF SYSTEMS program behavior, 
+*********************************************************************
+Document:CACM-2522
+
+operating SYSTEMS, supervisory SYSTEMS 
+the design, implementation, AND EVALUATION OF a working set dispatcher 
+the behavior OF a COMPUTER system is largely 
+recent research in time-sharing paging SYSTEMS 
+*********************************************************************
+Document:CACM-2951
+
+dynamic response time prediction for COMPUTER networks 
+on a network. analytical, simulation, AND statistical PERFORMANCE 
+EVALUATION tools are employed to investigate 
+the five diverse arpa network SYSTEMS studied in detail, 
+*********************************************************************
+Document:CACM-1719
+
+optimizing real-time system PERFORMANCE 
+number OF types, AND cost OF data processing SYSTEMS 
+PERFORMANCE are described; a methodology for calculating 
+illustrated by carrying out a portion OF the PERFORMANCE 
+*********************************************************************
+Document:CACM-2151
+
+operating SYSTEMS, multiprogramming SYSTEMS, time-sharing 
+software SYSTEMS is followed by a description OF 
+in a time-shared environment. the tx-2 COMPUTER 
+shown how other time-sharing SYSTEMS may provide similar measuring facilities. 
+*********************************************************************
+Document:CACM-2452
+
+EVALUATION AND selection OF file organization-a model AND system 
+affect file (data base) organization PERFORMANCE, 
+OF data base structure design AND EVALUATION. 
+file organization PERFORMANCE, file organization 
+*********************************************************************
+Document:CACM-1728
+
+behavior in those multiprogramming SYSTEMS in which 
+these data are used also for the EVALUATION 
+effects on PERFORMANCE OF changes in the amount 
+paging SYSTEMS, paging, dynamic program behavior, program 
+*********************************************************************
+Document:CACM-2798
+
+analysis OF interleaved memory SYSTEMS using blockage buffers 
+a model OF interleaved memory SYSTEMS is presented, 
+the PERFORMANCE OF various system structures, 
+to the memory system. PERFORMANCE is measured 
+*********************************************************************
+Document:CACM-2535
+
+nature OF the arrival process from a user to the COMPUTER 
+PERFORMANCE OF the COMPUTER (model), in the sense 
+PERFORMANCE. analytical AND simulation results are 
+with a single exponential server (the COMPUTER). 
+*********************************************************************
+Document:CACM-0436
+
+EVALUATION OF polynomials by COMPUTER 
+cacm december, 1962 
+knuth, d. e. 
+*********************************************************************
+Document:CACM-2375
+
+head disks are compared using the PERFORMANCE 
+another meaningful measure OF PERFORMANCE, showing possible 
+PERFORMANCE including system oriented AND individual 
+PERFORMANCE two-policy algorithm are discussed. 
+*********************************************************************
+Document:CACM-1792
+
+online AND off line programming PERFORMANCE 
+PERFORMANCE OF programmers working under conditions 
+OF on-line AND off line access to a COMPUTER. these 
+PERFORMANCE under controlled conditions for standard 
+*********************************************************************
+Document:CACM-1827
+
+PERFORMANCE monitoring, PERFORMANCE measurement, 
+PERFORMANCE monitoring in a time-sharing system 
+AND PERFORMANCE. the overall structure OF mts is outlined 
+program behavior, PERFORMANCE data, multiprogramming 
+*********************************************************************
+Document:CACM-1267
+
+SYSTEMS PERFORMANCE is discussed. this discussion 
+PERFORMANCE OF SYSTEMS used for data transmission 
+trib. it concludes that a PERFORMANCE characteristic 
+transfer rate OF information bits -an asa tutorial 
+*********************************************************************
+Document:CACM-3072
+
+COMPUTER SYSTEMS are presented. the basic control variables 
+in the multiprogramming- multiprocessor COMPUTER 
+scheduling SYSTEMS for multiprogrammed- multiprocessor 
+executing on the cpu. the model SYSTEMS feature simulated 
+*********************************************************************
+Document:CACM-1030
+
+SYSTEMS. the EVALUATION OF the boolean functions which 
+techniques for the simulation OF COMPUTER logic 
+the simulation OF a digital COMPUTER is an 
+integral part OF most COMPUTER design automation 
+*********************************************************************
+Document:CACM-1347
+
+general time-varying SYSTEMS error sensitivities program 
+the EVALUATION, by the propagation OF variance 
+SYSTEMS to initial condition AND parameter errors, involves 
+further development OF extremely general COMPUTER 
+*********************************************************************
+Document:CACM-2344
+
+effect on system PERFORMANCE. system PERFORMANCE 
+on the optimization OF PERFORMANCE OF time-sharing SYSTEMS by simulation 
+a measure OF system PERFORMANCE is used to ascertain which 
+in the measure OF system PERFORMANCE can be obtained by 
+*********************************************************************
+Document:CACM-3028
+
+in 30 years OF COMPUTER design at manchester university 
+two SYSTEMS stand out: the mark i (developed 
+this paper places each COMPUTER in its his torical 
+the contemporary PERFORMANCE OF the mark i AND atlas is evaluated. 
+*********************************************************************
+Document:CACM-2106
+
+COMPUTER education in a graduate school OF management 
+a thorough understanding OF the related COMPUTER technology. concepts 
+such as paging AND priority interrupt SYSTEMS can best be explained at the 
+management information SYSTEMS, interpreters 
+*********************************************************************
+Document:CACM-1518
+
+modern COMPUTER SYSTEMS is formidable. one general 
+the problem OF predicting the PERFORMANCE OF 
+software, AND its environment. the measures OF system PERFORMANCE 
+an experimental model OF system/360 
+*********************************************************************
+Document:CACM-1699
+
+experimental EVALUATION OF information 
+OF mechanized information retrieval SYSTEMS, 
+SYSTEMS laboratory. the basic assumption 
+OF documents. factors involved in EVALUATION 
+*********************************************************************
+Document:CACM-2571
+
+hasp, os/360, dispatching, scheduling, modeling, PERFORMANCE EVALUATION 
+OF the monitor in improving system PERFORMANCE. a 
+an analytic model OF the hasp execution task monitor 
+*********************************************************************
+Document:CACM-1931
+
+interval arithmetic determinant EVALUATION 
+EVALUATION. computational results show the accuracy 
+i. for determinant EVALUATION. an application using 
+determinant EVALUATION, chebyshev system, 
+*********************************************************************
+Document:CACM-2329
+
+education, COMPUTER engineering, COMPUTER 
+COMPUTER science-a vicious circle 
+science curriculum, SYSTEMS design 
+*********************************************************************
+Document:CACM-1032
+
+theoretical considerations in information retrieval SYSTEMS 
+information storage AND retrieval SYSTEMS are composed 
+strategy, a linear model for an EVALUATION function 
+PERFORMANCE, AND the second is a self-generating subset 
+*********************************************************************
+Document:CACM-1750
+
+multiple COMPUTER SYSTEMS, extended core storage, 
+COMPUTER system with extended core storage 
+heighten the multiprogramming PERFORMANCE OF a multicomputer system 
+multiprogrammed operating SYSTEMS, multiprocessor 
+*********************************************************************
+Document:CACM-2892
+
+PERFORMANCE EVALUATION AND efficiency, resource sharing 
+arpanet, COMPUTER communication networks, interprocess 
+a study OF line overhead in the arpanet 
+*********************************************************************
+Document:CACM-0819
+
+polynomial EVALUATION revised 
+cacm july, 1963 
+eisman, s. h. 
+*********************************************************************
+Document:CACM-1374
+
+EVALUATION OF determinant; determinant 
+EVALUATION (algorithms 41[f3]; 269[f3]) 
+cacm september, 1966 
+*********************************************************************
+Document:CACM-1177
+
+determinant EVALUATION (algorithm 269 [f3]) 
+cacm november, 1965 
+pfann, j. 
+*********************************************************************
+Document:CACM-2048
+
+this report compares the PERFORMANCE OF five different adaptive quadrature 
+definite integral EVALUATION, adaptive numerical in tegration, newton-cotes 
+comparison OF several adaptive newton-cotes quadrature routines 
+in evaluating definite integrals with peaked integrands 
+*********************************************************************
+Document:CACM-1572
+
+the simulation OF time sharing SYSTEMS 
+SYSTEMS has raised a number OF problems for 
+for these SYSTEMS, but appropriate software adjustments 
+must be made. unfortunately, these SYSTEMS often 
+*********************************************************************
+Document:CACM-2317
+
+programming SYSTEMS AND languages 1965-1975 
+in the operating system area all major COMPUTER 
+SYSTEMS, AND they all ran into similar 
+system measurement AND EVALUATION techniques,and 
+*********************************************************************
+Document:CACM-0893
+
+significance arithmetic on a digital COMPUTER 
+examples include power series EVALUATION, linear equations 
+solution, determinant EVALUATION AND matrix 
+*********************************************************************
+Document:CACM-2765
+
+analysis AND PERFORMANCE OF inverted data base structures 
+SYSTEMS in a hierarchical level by level framework 
+on PERFORMANCE. the formulations presented are necessary 
+data base PERFORMANCE AND measurement, secondary 
+*********************************************************************
+Document:CACM-2818
+
+interference in multiprocessor COMPUTER 
+SYSTEMS with interleaved memory (corrigendum) 
+cacm november, 1976 
+*********************************************************************
+Document:CACM-1805
+
+equipment EVALUATION, hardware, EVALUATION, 
+a mode OF COMPUTER operation in which two or more 
+PERFORMANCE, time sharing, time slicing 
+productivity OF multiprogrammed computers-progress 
+*********************************************************************
+Document:CACM-1689
+
+function EVALUATION, polynomial EVALUATION, 
+calculation OF a polynomial AND its derivative 
+values by horner scheme (algorithm 337 [c1]) 
+*********************************************************************
+Document:CACM-2859
+
+interference in multiprocessor COMPUTER SYSTEMS with interleaved memory 
+including those more nearly like real SYSTEMS 
+OF program behavior AND simulations OF SYSTEMS 
+results provide a good indication OF the PERFORMANCE 
+*********************************************************************
+Document:CACM-1940
+
+function, EVALUATION, polynomial EVALUATION, 
+calculation OF a polynomial AND its derivative 
+values by horner scheme (algorithm 337 [c1]) 
+*********************************************************************
+Document:CACM-3169
+
+note on "an optimal EVALUATION OF boolean expressions 
+query, boolean expression, optimal EVALUATION, information retrieval 
+in an online query system." 
+*********************************************************************
+Document:CACM-2016
+
+COMPUTER utility is discussed. these tools include special hardware 
+insight into effectiveness (or lack there OF) OF individual tools is provided. 
+instrumentation, PERFORMANCE measurement, 
+multiprogramming SYSTEMS, measuring tools, system analysis, multics, 
+*********************************************************************
+Document:CACM-2512
+
+special functions, function EVALUATION 
+coulomb wave functions (algorithm r300) 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-2332
+
+function EVALUATION, series summation, approximation 
+special series summation with arbitrary precision (algorithm r393) 
+cacm june, 1972 
+*********************************************************************
+Document:CACM-1995
+
+function EVALUATION, series summation, approximation 
+special series summation with arbitrary precision $c6) (algorithm 393) 
+cacm september, 1970 
+*********************************************************************
+Document:CACM-1798
+
+special functions, function EVALUATION 
+coulomb wave functions (algorithm 300 [s22]) 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-3088
+
+COMPUTER SYSTEMS. the equations are directly applicable 
+blocking, buffering, input/output, overlap, PERFORMANCE, 
+general equations for idealized cpu-i/o overlap configurations 
+*********************************************************************
+Document:CACM-2336
+
+special functions, function EVALUATION 
+complex error function (algorithm c363) 
+cacm june, 1972 
+*********************************************************************
+Document:CACM-2553
+
+education, COMPUTER engineering, COMPUTER 
+the practical aspect OF COMPUTER science education-discussion 
+science curriculum, SYSTEMS design 
+*********************************************************************
+Document:CACM-2902
+
+dynamic memory allocation in COMPUTER simulation 
+this paper investigates the PERFORMANCE OF 
+test cases. algorithm PERFORMANCE was measured in 
+*********************************************************************
+Document:CACM-1071
+
+computer-usage accounting for generalized time-sharing SYSTEMS 
+SYSTEMS requires a revision OF accounting procedures 
+for COMPUTER usage. since time-sharing system users 
+precise as to the amount OF COMPUTER time AND storage 
+*********************************************************************
+Document:CACM-1620
+
+in function EVALUATION routines 
+used in function EVALUATION routines to evaluate 
+approximation polynomials. new polynomial EVALUATION 
+EVALUATION routines. although some OF these methods 
+*********************************************************************
+Document:CACM-2502
+
+education, COMPUTER engineering, COMPUTER 
+a comment on the practical aspects OF COMPUTER science education 
+sciences curriculum, SYSTEMS design 
+*********************************************************************
+Document:CACM-2669
+
+a simple linear model OF demand paging PERFORMANCE 
+predicting the PERFORMANCE OF a proposed automatically 
+PERFORMANCE measurement, multilevel memory 
+SYSTEMS, virtual memory, associative memory, memory usage accounting, multics 
+*********************************************************************
+Document:CACM-2976
+
+database, inverted file organization, database PERFORMANCE 
+approximating block accesses in database organizations 
+cacm april, 1977 
+*********************************************************************
+Document:CACM-2479
+
+programs in information SYSTEMS: recommended 
+addendum on information SYSTEMS administration 
+committee on COMPUTER education for management 
+a course on information SYSTEMS administration. 
+*********************************************************************
+Document:CACM-3044
+
+EVALUATION OF a conditional expression may succeed 
+parallel EVALUATION, suspending cons, lisp, conditional 
+a note on conditional expressions 
+*********************************************************************
+Document:CACM-2069
+
+markovian COMPUTER models, scheduling strategies, 
+operating SYSTEMS, memory management 
+comments on a paper by wallace AND mason 
+*********************************************************************
+Document:CACM-2849
+
+ethernet: distributed packet switching for local COMPUTER networks 
+used to build SYSTEMS which can be viewed as either local 
+COMPUTER networks or loosely coupled multiprocessors. 
+kilometer OF coaxial cable. a model for estimating PERFORMANCE 
+*********************************************************************
+Document:CACM-1747
+
+SYSTEMS, COMPUTER SYSTEMS design, input equipment, 
+COMPUTER design, COMPUTER design criteria, COMPUTER 
+three criteria for designing computing SYSTEMS to facilitate debugging 
+OF a virtual COMPUTER are explained. examples OF applications 
+*********************************************************************
+Document:CACM-2936
+
+for general purpose discrete event simulation SYSTEMS. 
+several exhibited a PERFORMANCE superior to that 
+PERFORMANCE is quite insensitive to skewed distributions, 
+an efficient data structure for the simulation event set 
+*********************************************************************
+Document:CACM-0096
+
+are desk machine EVALUATION OF a finite series, 
+by a reeves electronic analog COMPUTER AND by a 
+litton 40 ibm 704 COMPUTER. results are generally applicable 
+on computing radiation integrals 
+*********************************************************************
+Document:CACM-2262
+
+garbage collection for virtual memory COMPUTER SYSTEMS 
+growth within a virtual memory COMPUTER system, 
+memory SYSTEMS, AND compares them with traditional 
+*********************************************************************
+Document:CACM-2863
+
+demand paging, PERFORMANCE measurement, multilevel 
+memory SYSTEMS, virtual memory, working set, 
+vmin-an optimal variable-space page replacement algorithm 
+*********************************************************************
+Document:CACM-2967
+
+data structures, software EVALUATION, hardware EVALUATION, 
+memories in the context OF COMPUTER graphics 
+were duplicated on the tx-2 COMPUTER at m.'s 
+a comparison OF hardware AND software associative 
+*********************************************************************
+Document:CACM-3026
+
+large-scale main frame COMPUTER SYSTEMS. beginning 
+1100 COMPUTER series, COMPUTER architecture, multiprocessing 
+the 1100 series SYSTEMS are sperry univac's 
+through a succession OF eight compatible COMPUTER 
+*********************************************************************
+Document:CACM-1270
+
+the COMPUTER EVALUATION OF student algol programs. 
+properties OF a COMPUTER system, in order that 
+on algol education: automatic grading programs 
+*********************************************************************
+Document:CACM-1341
+
+levels OF COMPUTER SYSTEMS 
+in building current COMPUTER SYSTEMS, we tend 
+programming, AND, eventually, SYSTEMS which learn. 
+on the usefulness OF future SYSTEMS, particularly 
+*********************************************************************
+Document:CACM-2624
+
+generation COMPUTER SYSTEMS, e.g. the dec pdp-10, cannot 
+virtual machine SYSTEMS have been implemented 
+on a limited number OF third generation COMPUTER 
+SYSTEMS, e.g. cp-67 on the ibm 360/67. from previous 
+*********************************************************************
+Document:CACM-0417
+
+OF COMPUTER SYSTEMS involved in legal situations. 
+legal implications OF COMPUTER use 
+this paper points out a variety OF ways COMPUTER 
+SYSTEMS used in business AND industry can 
+*********************************************************************
+Document:CACM-1128
+
+EVALUATION OF determinant (algorithm 41) 
+cacm march, 1964 
+rotenberg, l. j. 
+*********************************************************************
+Document:CACM-1093
+
+EVALUATION OF determinant (algorithm 224) 
+cacm april, 1964 
+rotenberg, l. j. 
+*********************************************************************
+Document:CACM-0742
+
+EVALUATION OF determinant (algorithm 41) 
+cacm september, 1963 
+freed, b. h. 
+*********************************************************************
+Document:CACM-0741
+
+EVALUATION OF determinant (algorithm 41) 
+cacm september, 1963 
+freed, b. h. 
+*********************************************************************
+Document:CACM-0360
+
+EVALUATION OF determinant (algorithm 41) 
+cacm april, 1961 
+solomon, j. g. 
+*********************************************************************
+Document:CACM-0444
+
+EVALUATION OF jacobi symbol (algorithm 99) 
+cacm november, 1962 
+may, r. w. 
+*********************************************************************
+Document:CACM-1844
+
+COMPUTER, problem COMPUTER, roll-in, roll-out 
+a modular COMPUTER sharing system 
+serves as the master or control COMPUTER 
+any such disk drive to be connected to any COMPUTER. 
+*********************************************************************
+Document:CACM-0966
+
+EVALUATION OF determinant (algorithm 224 [f3]) 
+cacm december, 1964 
+hasselblad, v. 
+*********************************************************************

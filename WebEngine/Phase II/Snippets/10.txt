@@ -1,0 +1,639 @@
+Query:parallel languages languages for parallel computation
+
+Document:CACM-2785
+
+PARALLEL COMPUTATION, PARALLEL architecture 
+glypnir is one of the earliest existing LANGUAGES 
+of the problems associated with PARALLEL computer 
+glypnir-a programming language FOR illiac iv 
+*********************************************************************
+Document:CACM-2700
+
+reduction: a method of proving properties of PARALLEL programs 
+when proving that a PARALLEL program has a 
+halting. thus correctness proofs of a PARALLEL 
+PARALLEL program, semaphore, verification 
+*********************************************************************
+Document:CACM-2266
+
+is conceptually suitable FOR PARALLEL COMPUTATION, 
+a highly PARALLEL algorithm FOR approximating 
+PARALLEL numerical algorithms, real polynomials, 
+all zeros of a polynomial with only real zeros 
+*********************************************************************
+Document:CACM-2685
+
+the PARALLEL execution of do loops 
+methods are developed FOR the PARALLEL execution 
+PARALLEL computing, multiprocessor computers, 
+*********************************************************************
+Document:CACM-2714
+
+PARALLEL processing, PARALLEL merging, PARALLEL binary insertion 
+merging with PARALLEL processors 
+|b|=n, m<=n, and p, p<=m, PARALLEL processors 
+FOR merging a and b with the p PARALLEL processors, 
+*********************************************************************
+Document:CACM-1262
+
+procedure-oriented language statements to facilitate PARALLEL processing 
+in PARALLEL. the statements are do together 
+a range of PARALLEL operation and partly to 
+define each PARALLEL path within this range. do togethers 
+*********************************************************************
+Document:CACM-1795
+
+optimal code FOR serial and PARALLEL COMPUTATION 
+cacm december, 1969 
+fateman, r. j. 
+*********************************************************************
+Document:CACM-2973
+
+PARALLEL computer, PARALLEL sorting, PARALLEL merge, 
+sorting on a mesh-connected PARALLEL computer 
+two algorithms are presented FOR sorting n^2 
+*********************************************************************
+Document:CACM-2514
+
+PARALLEL). examples are given involving array LANGUAGES 
+an array grammar programming system 
+a package of fortran programs has been developed 
+*********************************************************************
+Document:CACM-3075
+
+fast PARALLEL sorting algorithms 
+a PARALLEL bucket-sort algorithm is presented 
+integer. the model of COMPUTATION FOR this procedure 
+PARALLEL processing, sorting, algorithms, bucket sort 
+*********************************************************************
+Document:CACM-2896
+
+an exercise in proving PARALLEL programs correct 
+a PARALLEL program, dijkstra's on-the-fly garbage 
+with proving such PARALLEL programs correct 
+*********************************************************************
+Document:CACM-1158
+
+program structures FOR PARALLEL processing 
+constructs FOR organizing and explicating PARALLEL 
+program segments are discussed as extensions 
+*********************************************************************
+Document:CACM-2895
+
+of communicating PARALLEL processes is described. 
+events of a COMPUTATION can occur. the language 
+formal specifications,program correctness, PARALLEL 
+a language FOR formal problem specification 
+*********************************************************************
+Document:CACM-0141
+
+some thoughts on PARALLEL processing 
+cacm october, 1960 
+yarbrough, l. d. 
+*********************************************************************
+Document:CACM-1302
+
+PARALLEL signaling speeds FOR data transmission 
+(proposed american stand ard) 
+cacm march, 1965 
+*********************************************************************
+Document:CACM-0392
+
+comment on a paper on PARALLEL processing 
+cacm february, 1961 
+nekora, m. r. 
+*********************************************************************
+Document:CACM-3059
+
+models FOR PARALLEL processing within programs: 
+approximate queueing models FOR internal PARALLEL 
+multiprogramming, PARALLEL processing, queueing 
+network models, multiprocessing of COMPUTATION 
+*********************************************************************
+Document:CACM-1828
+
+PARALLEL accessing, PARALLEL search, file search, 
+which will maximize the amount of PARALLEL 
+synchronization in a parallel-accessed data base 
+*********************************************************************
+Document:CACM-3156
+
+computing connected components on PARALLEL computers 
+we present a PARALLEL algorithm which uses n2 processors to find the connected 
+graph theory, PARALLEL processing, algorithms, 
+*********************************************************************
+Document:CACM-2316
+
+programming LANGUAGES: history and future 
+showing the chronological development of LANGUAGES and their 
+of 1972. key concepts other than specific LANGUAGES are discussed. 
+programming LANGUAGES, higher level LANGUAGES, 
+*********************************************************************
+Document:CACM-0950
+
+PARALLEL methods FOR integrating ordinary differential equations 
+computations of highly PARALLEL computers as can be 
+"PARALLEL" form. by this is meant that serial 
+*********************************************************************
+Document:CACM-2603
+
+LANGUAGES and deterministic LANGUAGES 
+the class of reducing transition LANGUAGES 
+simple precedence LANGUAGES. in this paper this 
+context free LANGUAGES. 
+*********************************************************************
+Document:CACM-2182
+
+interrupts, supervisors, monitors, debugging, PARALLEL 
+interrupt driven programming 
+cacm july, 1971 
+*********************************************************************
+Document:CACM-2342
+
+interference between communicating PARALLEL processes 
+PARALLEL processes have been examined by 
+subproblems, in the form of PARALLEL programs, and informal 
+these solutions. in this paper a system of PARALLEL 
+*********************************************************************
+Document:CACM-1468
+
+on labeling techniques using PARALLEL processing 
+this to bubble chamber pictures. the PARALLEL processing 
+and the PARALLEL processing simulator mentioned 
+syntax-directed interpretation of classes of pictures 
+*********************************************************************
+Document:CACM-2557
+
+as well as PARALLEL computers is discussed. algorithms 
+minimization, PARALLEL machine, time minimization 
+on the time required FOR a sequence of matrix products 
+*********************************************************************
+Document:CACM-2865
+
+verifying properties of PARALLEL programs: an axiomatic approach 
+of properties of PARALLEL programs is presented. 
+which are added to a PARALLEL program as 
+*********************************************************************
+Document:CACM-0249
+
+specification LANGUAGES FOR mechanical LANGUAGES 
+and their processors*-a baker's dozen 
+cacm december, 1961 
+*********************************************************************
+Document:CACM-2851
+
+two formal models FOR PARALLEL COMPUTATION 
+formal verification of PARALLEL programs 
+is called PARALLEL place assertions, is shown to be 
+PARALLEL program, correctness, verification, 
+*********************************************************************
+Document:CACM-3073
+
+basic primitives of programming and that PARALLEL 
+programming, programming LANGUAGES, programming primitives, 
+program structures, PARALLEL programming, 
+communicating sequential processes 
+*********************************************************************
+Document:CACM-2401
+
+a PARALLEL processing algorithm FOR shrinking 
+window employed (two-by-two elements), the PARALLEL 
+counting binary patterns, shrinking, PARALLEL 
+on shrinking binary picture patterns 
+*********************************************************************
+Document:CACM-1459
+
+requirements FOR real-time LANGUAGES 
+real-time LANGUAGES have different requirements 
+from other programming LANGUAGES because of 
+*********************************************************************
+Document:CACM-1601
+
+PARALLEL numerical methods FOR the solution of equations 
+in a PARALLEL processing environment. convergence is 
+a PARALLEL processing environment are developed and measurements 
+measurements are interpreted in a PARALLEL processing 
+*********************************************************************
+Document:CACM-1098
+
+a comparison of list-processing computer LANGUAGES 
+programming LANGUAGES which, among them, exhibit all the 
+LANGUAGES. important common features of list-processing 
+LANGUAGES are reviewed: forms of data structures 
+*********************************************************************
+Document:CACM-1703
+
+accommodating standards and identification of programming LANGUAGES 
+reliable identification of programming LANGUAGES 
+interactive language, and its related family of LANGUAGES. 
+to other programming LANGUAGES and computer services. 
+*********************************************************************
+Document:CACM-1366
+
+technique and comparison of LANGUAGES 
+of some computer simulation LANGUAGES 
+must choose from available LANGUAGES or write their 
+LANGUAGES are being developed: comparisons and 
+*********************************************************************
+Document:CACM-2175
+
+in serials, in PARALLEL, or in a combination of these 
+PARALLEL exceeds the number of available processors, 
+PARALLEL processing, cache, arithmetic expressions, 
+subexpression ordering in the execution of arithmetic expressions 
+*********************************************************************
+Document:CACM-2705
+
+programming LANGUAGES, natural LANGUAGES, and mathematics 
+mathematics and natural LANGUAGES. the split between 
+in programming. the development of natural LANGUAGES toward 
+of the history of artificial, auxiliary LANGUAGES it 
+*********************************************************************
+Document:CACM-2195
+
+the method described is suitable FOR PARALLEL 
+state can be computed in PARALLEL, and the number 
+global recognition, PARALLEL processing, dynamic 
+on the optimal detection of curves in noisy pictures 
+*********************************************************************
+Document:CACM-2080
+
+are handled uniformly as PARALLEL, cooperating process 
+multiprogramming, operating systems, PARALLEL processes, process concept, 
+the nucleus of a multiprogramming system 
+*********************************************************************
+Document:CACM-1846
+
+on simulating networks of PARALLEL processes 
+simulating the PARALLEL events or report that none 
+simulation, PARALLEL processes, simultaneous events, 
+in which simultaneous events may occur 
+*********************************************************************
+Document:CACM-1569
+
+in a pl/i procedure whose structure and statements PARALLEL 
+implementing phrase-structure productions in pl/i 
+a method is described FOR implementing the productions 
+*********************************************************************
+Document:CACM-2295
+
+programming primitives, programming LANGUAGES, 
+of programming LANGUAGES, data structures 
+comment on the composition of semantics in algol 68 
+*********************************************************************
+Document:CACM-2570
+
+a comparison of list schedules FOR PARALLEL processing systems 
+PARALLEL processing, precedence graphs, scheduling, 
+the problem of scheduling two or more processors 
+*********************************************************************
+Document:CACM-1536
+
+dynamic COMPUTATION of derivatives 
+it is shown how wengert's procedure FOR COMPUTATION 
+PARALLEL, as in wengert's procedure, but with the 
+*********************************************************************
+Document:CACM-1466
+
+discussion summary on graphical LANGUAGES 
+cacm march, 1966 
+ca660306 jb march 3, 1978 1:46 pm 
+*********************************************************************
+Document:CACM-1678
+
+automata, formal LANGUAGES, abstract switching, 
+describe as automata, formal LANGUAGES, abstract 
+science program, automata, formal LANGUAGES, 
+and computability in a ph. computer science 
+*********************************************************************
+Document:CACM-2317
+
+programming systems and LANGUAGES 1965-1975 
+and cobol remain the LANGUAGES in which most 
+and in extensible LANGUAGES, but so far at least 
+LANGUAGES may very well become the most important 
+*********************************************************************
+Document:CACM-1852
+
+bootstrapping, of processors FOR programming LANGUAGES is 
+programming LANGUAGES whose implementation is based 
+programming LANGUAGES, implementation techniques 
+a base FOR a mobile programming system 
+*********************************************************************
+Document:CACM-1138
+
+formalism in programming languages* 
+cacm february, 1964 
+iverson, k. e. 
+*********************************************************************
+Document:CACM-1102
+
+mechanical LANGUAGES: a course specification 
+cacm april, 1964 
+gorn, s. 
+*********************************************************************
+Document:CACM-2814
+
+roster of programming LANGUAGES FOR 1974-75 
+cacm december, 1976 
+sammet, j. e. 
+*********************************************************************
+Document:CACM-2406
+
+most data definition LANGUAGES concentrate on the declaration 
+data definition LANGUAGES which describe both the logical 
+apparent. such LANGUAGES will be a key systems, as well 
+"generalized" data definition LANGUAGES are also 
+*********************************************************************
+Document:CACM-1142
+
+an extension of algol-like LANGUAGES 
+cacm february, 1964 
+rose, g. f. 
+*********************************************************************
+Document:CACM-3044
+
+PARALLEL evaluation, suspending cons, lisp, conditional 
+a note on conditional expressions 
+evaluation of a conditional expression may succeed 
+*********************************************************************
+Document:CACM-1306
+
+a class of unambiguous computer LANGUAGES 
+means of designing computer LANGUAGES which would be completely 
+discussed in this paper is the concept of 
+*********************************************************************
+Document:CACM-0463
+
+on ambiguity in phrase structure LANGUAGES 
+cacm october, 1962 
+floyd, r. w. 
+*********************************************************************
+Document:CACM-0651
+
+a survey of LANGUAGES and systems FOR information retrieval 
+cacm january, 1962 
+grems, m. 
+*********************************************************************
+Document:CACM-3148
+
+LANGUAGES. based on primitive notions of module, message, 
+of particular LANGUAGES and machines. it appears to be useful FOR 
+program of development in advanced programming LANGUAGES, and relations 
+high level programming FOR distributed computing 
+*********************************************************************
+Document:CACM-1923
+
+level LANGUAGES using basic input/output support 
+high level LANGUAGES, command language 
+pseudofiles 
+*********************************************************************
+Document:CACM-3150
+
+beyond programming LANGUAGES 
+as high level LANGUAGES enabled the programmer to escape from the 
+shortcomings of programming LANGUAGES as they now exist, 
+programming, programming LANGUAGES, programming systems, systems development 
+*********************************************************************
+Document:CACM-2433
+
+this storage method and express PARALLEL algorithms are described. 
+parallelism, array allocation, PARALLEL control 
+control structures in illiac iv fortran 
+*********************************************************************
+Document:CACM-0628
+
+FOR use with algorithmic LANGUAGES 
+on a floating-point number representation 
+cacm march, 1962 
+*********************************************************************
+Document:CACM-2645
+
+two LANGUAGES FOR estimating program efficiency 
+two LANGUAGES enabling their users to estimate 
+processors FOR the two LANGUAGES are also 
+of the two LANGUAGES are included. the limitations of 
+*********************************************************************
+Document:CACM-0920
+
+toward better documentation of programming LANGUAGES 
+cacm march, 1963 
+yngve, v. h. 
+*********************************************************************
+Document:CACM-0762
+
+some remarks on the syntax of symbolic programming LANGUAGES 
+cacm august, 1963 
+diforino, a. c. 
+*********************************************************************
+Document:CACM-1485
+
+the structure of programming LANGUAGES 
+frequently from list processing LANGUAGES, illustrate 
+with the suggestion that programming LANGUAGES 
+*********************************************************************
+Document:CACM-1496
+
+a formal semantics FOR computer LANGUAGES 
+a large class of computer LANGUAGES. this meta-language 
+and its application in a compiler-compiler 
+*********************************************************************
+Document:CACM-2740
+
+semaphores). the number of PARALLEL processes is carefully 
+structuring, buffering, PARALLEL processes, synchronizing 
+a large semaphore based operating system 
+*********************************************************************
+Document:CACM-1467
+
+future through the use of interactive graphical LANGUAGES. 
+well as the use of new graphical LANGUAGES. 
+a graphical servicesystem with variable syntax 
+*********************************************************************
+Document:CACM-2782
+
+high-level LANGUAGES, philosophy of language design 
+a reply to gentleman and marovich 
+cacm march, 1975 
+*********************************************************************
+Document:CACM-2727
+
+a method is described which allows PARALLEL 
+multiple byte processing with full-word instructions 
+processing of packed data items using only ordinary 
+*********************************************************************
+Document:CACM-1008
+
+any meeting with PARALLEL sessions. 
+scheduling meetings with a computer 
+computer scheduling of papers as it was developed 
+*********************************************************************
+Document:CACM-2838
+
+processor in PARALLEL with list processing operations, 
+PARALLEL processing, real time, data structures, analysis of algorithms 
+analysis of an algorithm FOR real time garbage collection 
+*********************************************************************
+Document:CACM-2710
+
+LANGUAGES based on the relational calculus. facilities 
+database, data sublanguages, relations, query LANGUAGES, 
+LANGUAGES, relational completeness 
+specifying queries as relational expressions: 
+*********************************************************************
+Document:CACM-2305
+
+of today's programming LANGUAGES 
+in today's programming LANGUAGES. the investigation 
+higher programming LANGUAGES, programming, 
+the "plankalkul" of konrad zuse: a forerunner 
+*********************************************************************
+Document:CACM-2661
+
+education, programming LANGUAGES, simulators 
+ideal teaching machines-a solution to the pedagogic language problem 
+cacm april, 1974 
+*********************************************************************
+Document:CACM-3105
+
+paper shows how to extend programming LANGUAGES 
+LANGUAGES that support the notion of abstract data 
+programming LANGUAGES, access control, data types, 
+a language extension FOR expressing constraints on data access 
+*********************************************************************
+Document:CACM-1835
+
+LANGUAGES programming LANGUAGES, student programming 
+the iitran programming language 
+the iitran language, developed to be used 
+*********************************************************************
+Document:CACM-1200
+
+operations, a PARALLEL nomenclature is suggested 
+on reversible subroutines and computers that run backwards 
+a computer design is describe which permits 
+*********************************************************************
+Document:CACM-2647
+
+LANGUAGES, philosophy of language design 
+more on algorithms that reveal properties 
+of floating point arithmetic units 
+*********************************************************************
+Document:CACM-2941
+
+FOR mesa and similar programming LANGUAGES are suggested. 
+programming LANGUAGES, types, modules, 
+early experience with mesa 
+*********************************************************************
+Document:CACM-2254
+
+dynamic partitioning FOR array LANGUAGES 
+the value of partitioning FOR array LANGUAGES. 
+detail to be of value in the design of other array LANGUAGES. 
+*********************************************************************
+Document:CACM-1471
+
+systems. these meta-instructions relate to PARALLEL 
+programming semantics FOR multiprogrammed computations 
+the semantics are defined FOR a number of meta-instructions 
+*********************************************************************
+Document:CACM-0689
+
+LANGUAGES in czechoslovakia and poland, 1963 
+report of a visit to discuss common programming 
+cacm november, 1963 
+*********************************************************************
+Document:CACM-1554
+
+movies of the three-dimensional PARALLEL and perspective 
+a computer technique FOR displaying n-dimensional hyperobjects 
+a digital computer and automatic plotter have 
+*********************************************************************
+Document:CACM-3077
+
+conventional programming LANGUAGES are growing 
+ones in a style not possible in conventional LANGUAGES. 
+rules. unlike von neumann LANGUAGES, these systems 
+state transition occurs per major COMPUTATION. 
+*********************************************************************
+Document:CACM-2112
+
+context-free LANGUAGES. a formal procedure is given FOR deriving from 
+expression, context-free LANGUAGES, translation, recognizers, 
+translation equations 
+*********************************************************************
+Document:CACM-2084
+
+a note on the complement of inherently ambiguous context-free LANGUAGES 
+cacm march, 1970 
+maurer, h. a. 
+*********************************************************************
+Document:CACM-1457
+
+the characteristics of various processing LANGUAGES are 
+implementation. advantages of these programming LANGUAGES 
+data manipulation and programming problems 
+in automatic information retrieval 
+*********************************************************************
+Document:CACM-2148
+
+programming primitives, programming LANGUAGES, 
+of programming LANGUAGES, data structures 
+the composition of semantics in algol 68 
+*********************************************************************
+Document:CACM-2931
+
+logic and programming LANGUAGES 
+computability theory. programming LANGUAGES offer 
+of COMPUTATION (in a way, the statics of the problem) 
+logic, programming LANGUAGES, automata, denotational 
+*********************************************************************
+Document:CACM-2411
+
+semantics of programming LANGUAGES, structured programming. 
+tree-structured programs 
+cacm november, 1973 
+*********************************************************************
+Document:CACM-1603
+
+PARALLEL processing capability. user programs communicate 
+a multiprogramming monitor FOR small machines 
+int, a combination hardware/software monitor 
+*********************************************************************
+Document:CACM-1341
+
+with regard to such trends as time sharing, PARALLEL 
+levels of computer systems 
+in building current computer systems, we tend 
+*********************************************************************
+Document:CACM-2326
+
+fix point approach to the theory of COMPUTATION 
+LANGUAGES, least fix points, recursive programs, 
+following the fix point theory of scott, the 
+*********************************************************************
+Document:CACM-1216
+
+no use is made of list-processing LANGUAGES. 
+obtained by hand COMPUTATION. a subset may be imbeded 
+symbolic derivatives without list processing, subroutines, or recursion 
+*********************************************************************
+Document:CACM-2717
+
+utility program, programming LANGUAGES, nonprocedural LANGUAGES 
+convert: a high level translation 
+definition language FOR data conversion 
+*********************************************************************
+Document:CACM-2289
+
+achieved by virtue of the possibilities FOR PARALLEL 
+these algorithms exhibit a COMPUTATION time that in 
+PARALLEL processing, special purpose computers, 
+cellular arrays FOR the solution of graph problems 
+*********************************************************************
+Document:CACM-2873
+
+user oriented LANGUAGES. lg has been specifically designed 
+interactive programming, problem oriented LANGUAGES, 
+lg: a language FOR analytic geometry 
+*********************************************************************

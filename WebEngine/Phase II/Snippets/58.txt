@@ -1,0 +1,665 @@
+Query:algorithms or statistical packages for anova regression using least squares or generalized linear models  system design capabilities statistical formula are of interest  students t test wilcoxon and sign tests multivariate and univariate components can be included
+
+Document:CACM-1344
+
+method OF performing calculations FOR STATISTICAL MODELS 
+based upon a machine-readable STATISTICAL model 
+fixes, mixed, AND random analysis OF variance MODELS 
+STATISTICAL computations based upon algebraically specified MODELS 
+*********************************************************************
+Document:CACM-2634
+
+STATISTICAL computation, STATISTICAL software, 
+an evaluation OF STATISTICAL software in the social sciences 
+installations now offer various types OF STATISTICAL 
+PACKAGES FOR general use. among those most widely available 
+*********************************************************************
+Document:CACM-1709
+
+multiple LINEAR REGRESSION, STATISTICAL recurrence 
+formulas, correlation, LINEAR STATISTICAL MODELS, 
+FOR stepwise multiple LINEAR REGRESSION requires 
+a modification OF efroymson's technique FOR stepwise REGRESSION analysis 
+*********************************************************************
+Document:CACM-1691
+
+STATISTICAL TESTS FOR randomness, ibm 360, 32-bit 
+attributed to d. h. lehmer, has passed the usual STATISTICAL 
+TESTS FOR random number generators. it 
+since computer word size CAN affect a generator's STATISTICAL 
+*********************************************************************
+Document:CACM-2849
+
+SYSTEM FOR carrying digital data packets among 
+transmitting stations USING controlled STATISTICAL arbitration. 
+USING packet address recognition. DESIGN principles 
+FOR error controlled communication ARE INCLUDED FOR completeness. 
+*********************************************************************
+Document:CACM-1474
+
+TESTS OF probabilistic MODELS FOR propagation OF roundoff errors 
+errors is in some sense STATISTICAL. the purpose OF this 
+probabilistic MODELS FOR roundoff error, AND then to 
+both rare AND mild. the TEST techniques CAN also BE 
+*********************************************************************
+Document:CACM-3138
+
+to adding an additional row OF data in a LINEAR LEAST SQUARES problem. 
+LINEAR programming TEST cases 
+updating an orthogonal decomposition OF a matrix OF column (OR row) vectors. 
+the fundamental idea is to add a column (OR row) analogous 
+*********************************************************************
+Document:CACM-1698
+
+SYSTEM DESIGN, input-output DESIGN 
+STATISTICAL MODELS FOR input-output, operating 
+a STATISTICAL model FOR console behavior in multiuser computers 
+the ability OF a computer SYSTEM to communicate 
+*********************************************************************
+Document:CACM-1816
+
+GENERALIZED LEAST SQUARES fit by orthogonal 
+watson, w. T. 
+LEAST SQUARES, curve fitting, orthogonal polynomials, 
+three-term recurrence, polynomial REGRESSION, 
+*********************************************************************
+Document:CACM-1637
+
+problems in the STATISTICAL analysis OF simulation 
+research is continued into STATISTICAL analysis 
+described. a way to TEST the difference OF the mean 
+the quantities OF INTEREST is described. the results 
+*********************************************************************
+Document:CACM-1629
+
+a package OF fortran STATISTICAL programs FOR use 
+the major DESIGN criteria OF ease OF use, ease OF modification, 
+stat-pack: a biostatistical programming package 
+*********************************************************************
+Document:CACM-1631
+
+TESTS. the TESTS ARE described AND the results 
+systems simulator (gpss) were subjected to STATISTICAL 
+recommended that suitable TESTS BE applied to all 
+OF the TESTS ARE presented. these particular TESTS indicate 
+*********************************************************************
+Document:CACM-0069
+
+STATISTICAL programs FOR the ibm 650-part i 
+OF STATISTICAL programs now in use in university 
+a collection is given OF brief descriptions 
+*********************************************************************
+Document:CACM-1252
+
+AND an approach towards automatic SYSTEM DESIGN 
+AND time-consuming part OF SYSTEM DESIGN AND programming 
+symbolic notations FOR STATISTICAL tables 
+the preparation OF STATISTICAL tables is an 
+*********************************************************************
+Document:CACM-2225
+
+partitions, combinatorics, STATISTICAL DESIGN OF experiments 
+circular integer partitioning [a1] (algorithm 403) 
+cacm january, 1971 
+*********************************************************************
+Document:CACM-2525
+
+a STATISTICAL study OF the accuracy OF floating point number systems 
+this paper presents the STATISTICAL results 
+OF TESTS OF the accuracy OF certain arithmetic 
+*********************************************************************
+Document:CACM-3166
+
+four ALGORITHMS FOR the numerical computation 
+AND computational literature; the other two ARE new ALGORITHMS 
+"accuracy." each OF the four ALGORITHMS is analyzed FOR the conditions 
+ALGORITHMS will provide accurate answers FOR many problems, but two 
+*********************************************************************
+Document:CACM-2062
+
+sampling, MODELS, experimental DESIGN 
+STATISTICAL precision is calculated. also the cost OF computer time 
+naylor, T. h. 
+simulation, inventory MODELS, sequential 
+*********************************************************************
+Document:CACM-2825
+
+the bmd AND bmdp series OF STATISTICAL computer programs 
+factor analysis, graphics, outliers, REGRESSION, time series, transformations 
+cacm october, 1976 
+*********************************************************************
+Document:CACM-1398
+
+robot data screening: a solution to MULTIVARIATE 
+OF the type OF MULTIVARIATE problem that is 
+rather than a "STATISTICAL" criterion by which variables 
+sterling, T. 
+*********************************************************************
+Document:CACM-1420
+
+prime. this generator passes the usual STATISTICAL 
+TESTS AND in addition the LEAST significant bits 
+a new uniform pseudorandom number generator 
+*********************************************************************
+Document:CACM-2373
+
+AND from ensemble-average (STATISTICAL) 
+quantities is given. the relation to lru (LEAST 
+working-set model, paging, paging ALGORITHMS, 
+properties OF the working-set model 
+*********************************************************************
+Document:CACM-2771
+
+added together OR subtracted. two ALGORITHMS to 
+computational geometry, computer-aided DESIGN, 
+graphics, machined COMPONENTS, polyhedra, shape 
+the synthesis OF solids bounded by many faces 
+*********************************************************************
+Document:CACM-2216
+
+effort. STATISTICAL TESTS OF the values OF several 
+therefore is applicable to a family OF sorting ALGORITHMS 
+USING more advanced ALGORITHMS in the family makes 
+empirical TESTS, as well as the analytical results, 
+*********************************************************************
+Document:CACM-0050
+
+STATISTICAL programs FOR the ibm 650-part ii 
+cacm october, 1959 
+hamblen, j. w. 
+*********************************************************************
+Document:CACM-2994
+
+a LINEAR algorithm FOR incremental digital display OF circular arcs 
+plotter, OR matrix prin ter USING only SIGN testing AND 
+circular arcs CAN BE drawn on an incremental 
+*********************************************************************
+Document:CACM-1874
+
+period OF the latter without loss OF desirable STATISTICAL 
+the period but with less attractive STATISTICAL 
+properties. the STATISTICAL properties OF these sequences 
+generating pseudorandom numbers on a two's 
+*********************************************************************
+Document:CACM-1171
+
+ALGORITHMS FOR LINEAR programming 
+a STATISTICAL comparison OF the primal-dual 
+FOR solving LINEAR programming problems has been made under 
+a REGRESSION analysis, that the relevant parameters 
+*********************************************************************
+Document:CACM-1410
+
+the optimization OF time-shared SYSTEM performance 
+this paper provides a STATISTICAL description 
+time-sharing SYSTEM (tss). the input process 
+interarrival statistics FOR time sharing systems 
+*********************************************************************
+Document:CACM-0382
+
+STATISTICAL programs at the university OF north carolina 
+cacm february, 1961 
+bush, n. 
+*********************************************************************
+Document:CACM-1674
+
+STATISTICAL properties than the library generators 
+bray, T. a. 
+one-line random number generators AND their use in combinations 
+*********************************************************************
+Document:CACM-1619
+
+error-free methods FOR STATISTICAL computations 
+by some ALGORITHMS used to compute various 
+neely has discussed computational error generated 
+*********************************************************************
+Document:CACM-1264
+
+blnsys-a 1401 operating SYSTEM with braille CAPABILITIES 
+blnsys is an operating SYSTEM designed FOR 
+attached tape drives. printed output OF this SYSTEM 
+OR braille. even though this SYSTEM was written FOR 
+*********************************************************************
+Document:CACM-2999
+
+computer-based STATISTICAL AND data 
+processing CAPABILITIES FOR handling multidimensional 
+CAPABILITIES at the world bank, in particular, 
+the SYSTEM identified as wraps(world bank 
+*********************************************************************
+Document:CACM-2993
+
+arising in a class OF LINEAR programming MODELS 
+to solve these LINEAR programming MODELS, USING ibm's 
+kotiah, T. c. T. 
+the formulation OF LINEAR programming problems which 
+*********************************************************************
+Document:CACM-1823
+
+factorial variance analysis, variance, STATISTICAL analysis 
+factorial analysis OF variance (algorithm [g1]) 
+cacm november, 1969 
+*********************************************************************
+Document:CACM-1732
+
+factorial variance analysis, variance, STATISTICAL analysis 
+factorial analysis OF variance (algorithm 330 [g1]) 
+cacm june, 1968 
+*********************************************************************
+Document:CACM-2951
+
+on a network. analytical, simulation, AND STATISTICAL performance 
+SYSTEM data ARE currently obtainable, at LEAST FOR 
+measure OF SYSTEM activity OR load level. 
+network, anlytic modeling, simulation, benchmark jobs, SYSTEM measurement 
+*********************************************************************
+Document:CACM-1206
+
+OF the irf. data compatibility TESTS with any 
+AND the DESIGN OF many experiments is greatly simplified. 
+in the STATISTICAL AND graphical methods 
+the self-judgment method OF curve fitting 
+*********************************************************************
+Document:CACM-2395
+
+nonlinear REGRESSION with LINEAR constraints. the 
+quadratic programming FOR nonlinear REGRESSION 
+REGRESSION method is published in jacm, july 1970. 
+nonlinear equations, nonlinear REGRESSION, nonlinear 
+*********************************************************************
+Document:CACM-2665
+
+two new ALGORITHMS ARE presented FOR list structure 
+OF primarily theoretical INTEREST, shows that without 
+any noncyclic structure is copied in LINEAR speed, while 
+is necessary to achieve LINEAR speed. a variation 
+*********************************************************************
+Document:CACM-2398
+
+teacher/student authored cai USING the newbasic SYSTEM 
+interactive SYSTEM called newbasic/catalyst 
+experience with the SYSTEM in an urban 
+dwyer, T. a. 
+*********************************************************************
+Document:CACM-2439
+
+SYSTEM CAN communicate with many remote 
+in any language available on the SYSTEM. this 
+the SYSTEM executive OR in any OF the system's compilers OR interpreters. 
+multiple terminals under user program 
+*********************************************************************
+Document:CACM-0942
+
+piece OF applied STATISTICAL research, involving extensive 
+the question OF general STATISTICAL programs is 
+fortran subroutines FOR time series analysis 
+*********************************************************************
+Document:CACM-2670
+
+algorithm FOR nonlinear LEAST SQUARES problems 
+nonlinear LEAST SQUARES frequently arise FOR which 
+into a LINEAR AND a nonlinear part. a variable projection 
+krogh, f. T. 
+*********************************************************************
+Document:CACM-2986
+
+compute LINEAR precedence functions in o(n^2) steps 
+is shown, as well as how to compute LINEAR precedence 
+a grammer. the heart OF the ALGORITHMS is a general 
+szymanski, T. g. 
+*********************************************************************
+Document:CACM-1650
+
+the calculation OF sums OF SQUARES in the analysis 
+without rearrangement. the total sum OF SQUARES, 
+excluding a replication sum OF SQUARES, is partitioned 
+a unifying computational method FOR the 
+*********************************************************************
+Document:CACM-3142
+
+them? what CAN BE learned by designers OF large management PACKAGES 
+art, approximately 40 percent OF individuals (OR households) having 
+agement PACKAGES including poor software is indicated. while most 
+large linked program PACKAGES (as eft FOR instance). 
+*********************************************************************
+Document:CACM-2970
+
+with specified STATISTICAL accuracy. this method 
+includes a TEST to check the normality assumption on 
+achieving specific accuracy in simulation output analysis 
+*********************************************************************
+Document:CACM-1977
+
+an interactive display FOR approximation by LINEAR programming 
+data by means OF a LINEAR combination OF functions (including 
+ARE determined by LINEAR programming so as to minimize the error 
+interactive SYSTEM is described AND several examples OF its use ARE given. 
+*********************************************************************
+Document:CACM-1604
+
+distributions OF those time properties as well as STATISTICAL 
+the results ARE interpreted in terms OF the properties OF the SYSTEM studied. 
+further analysis OF a computing center environment 
+*********************************************************************
+Document:CACM-2514
+
+an array grammar programming SYSTEM 
+that permits a user to interactively DESIGN 
+AND TEST array grammars. the user CAN control the rule 
+*********************************************************************
+Document:CACM-0944
+
+storage AND search properties OF a tree-organized memory SYSTEM 
+storage SYSTEM assuming that a memory possessing 
+certain list properties is available. OF prime INTEREST 
+*********************************************************************
+Document:CACM-1519
+
+george 3-a general purpose time sharing AND operating SYSTEM 
+an operating SYSTEM is described which will 
+off line (background) jobs. the SYSTEM is not oriented 
+processing SYSTEM (such as the atlas supervisor, ibsys, 
+*********************************************************************
+Document:CACM-3113
+
+constraints on condition TESTS, excludable combinations 
+optimal conversion OF extended-entry 
+decision tables with general cost criteria 
+*********************************************************************
+Document:CACM-2786
+
+a SYSTEM FOR typesetting mathematics 
+this paper describes the DESIGN AND implementation 
+OF a SYSTEM FOR typesetting mathematics. 
+AND to use by people (FOR example, secretaries AND 
+*********************************************************************
+Document:CACM-1578
+
+GENERALIZED LEAST SQUARES fit by orthogonal 
+polynomials (algorithm 296 [e2]) 
+cacm june, 1967 
+*********************************************************************
+Document:CACM-3087
+
+ellipsis AND pronoun reference problems. other SYSTEM COMPONENTS 
+OF SYSTEM COMPONENTS AND examples OF overall SYSTEM 
+an english language question answering SYSTEM 
+data USING a SYSTEM called planes. the 
+*********************************************************************
+Document:CACM-1433
+
+as LINEAR programming MODELS grow bigger AND 
+a note on LINEAR programming algorithm DESIGN: a combinatorial problem 
+to DESIGN more efficient ALGORITHMS. this paper is 
+*********************************************************************
+Document:CACM-2604
+
+partitioning by LINEAR programming 
+USING LINEAR programming, an interactive graphic 
+display SYSTEM has been implemented to solve 
+the region DESIGN problem OF partitioning a region into 
+*********************************************************************
+Document:CACM-1988
+
+question as "CAN one do bootstrapping USING a meta-compiler 
+is presented FOR deciding whether OR not a given SYSTEM CAN 
+a formalism FOR translator interactions 
+*********************************************************************
+Document:CACM-1975
+
+a GENERALIZED division algorithm FOR use with positive integral operands is 
+a multiple-precision division algorithm 
+presented. depending upon the algebraic relationship OF the first 
+*********************************************************************
+Document:CACM-1554
+
+was obtained. the technique CAN BE GENERALIZED to n-dimensions 
+a computer technique FOR displaying n-dimensional hyperobjects 
+a digital computer AND automatic plotter have 
+*********************************************************************
+Document:CACM-3092
+
+cycle cost OF a SYSTEM. rough estimates OF the total 
+STATISTICAL package. the results OF the analysis indicate 
+characteristics OF application software maintenance 
+*********************************************************************
+Document:CACM-1946
+
+ALGORITHMS FOR computing the resultant OF two 
+(p.r.s.) algorithm. detailed TESTS performed 
+UNIVARIATE polynomials, in which case collins' reduced 
+with regard to round-off errors. results OF TESTS ARE reported in detail. 
+*********************************************************************
+Document:CACM-1366
+
+AND OF some OF the involved in comparing software PACKAGES 
+change MODELS. part iii presents a detailed comparison 
+OF six simulation languages AND PACKAGES: simscript, 
+the conclusion OF the paper is that the PACKAGES now 
+*********************************************************************
+Document:CACM-2900
+
+which to locate copies OF a file-is known to BE, in general, 
+that certain sites should (OR should not) BE 
+INCLUDED in an optimal allocation. 
+some theorems to aid in solving the file allocation problem 
+*********************************************************************
+Document:CACM-2188
+
+model, optimum SYSTEM DESIGN, queueing 
+an approach to the optimum DESIGN OF computer graphics systems 
+display SYSTEM designers ARE faced with the 
+on considerations such as SYSTEM response time, SYSTEM 
+*********************************************************************
+Document:CACM-1747
+
+systems, multiprogrammed SYSTEM DESIGN, virtual computers, 
+computer DESIGN, computer DESIGN criteria, computer 
+the designer OF a computing SYSTEM should adopt 
+proposed SYSTEM features. three possible criteria OF this 
+*********************************************************************
+Document:CACM-3131
+
+focus microcomputer number SYSTEM 
+focus is a number SYSTEM AND supporting computational 
+ALGORITHMS especially useful FOR microcomputer control AND other 
+over an equal word length floating-point SYSTEM. focus computations 
+*********************************************************************
+Document:CACM-2215
+
+does not TEST all the features OF a pattern 
+receiving the result OF that TEST, the procedure 
+lee, r. c. T. 
+application OF game tree searching techniques 
+*********************************************************************
+Document:CACM-3099
+
+based on primal-dual complementarity in LINEAR 
+problems may then BE used to TEST and/or "benchmark" 
+integer programming, optimality conditions, TEST 
+new sufficient optimality conditions FOR 
+*********************************************************************
+Document:CACM-2766
+
+copying cyclic list structures in LINEAR time USING bounded workspace 
+operates in LINEAR time AND does not require tag bits. 
+the best previous bounded workspace copying ALGORITHMS 
+list processing, copying, LINEAR time, space complexity 
+*********************************************************************
+Document:CACM-1200
+
+a computer DESIGN is describe which permits 
+on reversible subroutines AND computers that run backwards 
+subroutines to BE executed backward as well as 
+*********************************************************************
+Document:CACM-3034
+
+LINEAR expressions. it is also assumed that actions 
+in a decision table ARE LINEAR in variables which occur 
+in the condition stub OF the decision table (OR 
+a set OF LINEAR inequalities has OR does not have a 
+*********************************************************************
+Document:CACM-2096
+
+procedure. the STATISTICAL significance OF important conclusions is given. 
+since information on STATISTICAL significance has often been lacking in papers 
+experiments with the m & n tree-searching program 
+*********************************************************************
+Document:CACM-1488
+
+programming decision tables in fortran, cobol OR algol 
+a simple broad-based approach FOR programming 
+decision tables in fortran OR cobol is developed 
+*********************************************************************
+Document:CACM-2753
+
+a heuristic problem solving DESIGN SYSTEM 
+that the computer CAN perform simple DESIGN 
+simple, well defined, AND characteristic OF many DESIGN 
+extensive TESTS performed on the program. dps is 
+*********************************************************************
+Document:CACM-1877
+
+prevention OF SYSTEM deadlocks 
+a well-known problem in the DESIGN OF operating 
+which could have been safely granted. ALGORITHMS 
+the ALGORITHMS ARE both necessary AND sufficient 
+*********************************************************************
+Document:CACM-1957
+
+the list set generator is defined AND ALGORITHMS 
+a construct which may BE added to a list processing SYSTEM OR any 
+SYSTEM that handles sets. it efficiently generates the set which 
+the list set generator: a construct FOR evaluating set expressions 
+*********************************************************************
+Document:CACM-0028
+
+corley, h. p. T. 
+request FOR methods OR programs 
+cacm april, 1958 
+*********************************************************************
+Document:CACM-2978
+
+analysis OF DESIGN alternatives FOR virtual memory indexes 
+memory environment is described. DESIGN alternatives 
+costs FOR possible combinations OF DESIGN alternatives 
+DESIGN alternatives ARE also INCLUDED. 
+*********************************************************************
+Document:CACM-1978
+
+in numerical problem solving CAPABILITIES. rather than simply use 
+insight AND visual CAPABILITIES OF the human problem solver. several 
+systems AND DESIGN considerations FOR interactive routines. furthermore, 
+an implementation OF an on-line LEAST SQUARES data-fitting 
+*********************************************************************
+Document:CACM-3084
+
+USING the value OF the key AND the STATISTICAL distribution 
+interpolation search -a log logn search 
+interpolation search is a method OF retrieving 
+*********************************************************************
+Document:CACM-1609
+
+each course is INCLUDED at LEAST once, ARE selected. 
+schedule CAN BE obtained. known ALGORITHMS FOR carrying 
+scheduling university course examinations by computer 
+*********************************************************************
+Document:CACM-1391
+
+a medium-scale programming SYSTEM is written 
+in a time-sharing environment, the SYSTEM CAN 
+computer experiments in finite algebra 
+*********************************************************************
+Document:CACM-2145
+
+wiring DESIGN OF printed circuit boards. help 
+helps automate a DESIGN stage one step closer to production 
+ics in dual-in-line PACKAGES as well as discrete 
+COMPONENTS such as transistors AND resistors have been 
+*********************************************************************
+Document:CACM-1697
+
+a SYSTEM developed at harvard FOR graphically 
+on a computer is printed. in principle, the SYSTEM 
+to the repertoire OF the SYSTEM by graphical input on 
+AND operation OF the current SYSTEM ARE described, 
+*********************************************************************
+Document:CACM-2484
+
+different relations AND ALGORITHMS results in different 
+AND formulating ALGORITHMS under a given set OF constraints. 
+designers as useful DESIGN concepts, AND may serve as 
+a note on information organization AND storage 
+*********************************************************************
+Document:CACM-0698
+
+an operating SYSTEM is described which allows 
+OF a TEST with telephones in the boston area ARE reported. 
+marill, T. 
+data-dial: two-way communication with 
+*********************************************************************
+Document:CACM-0840
+
+LEAST SQUARES surface fit (algorithm 176) 
+arthurs, T. d. 
+cacm june, 1963 
+*********************************************************************
+Document:CACM-1152
+
+gregory, r. T. 
+floating-point arithmetic with 84-bit numbers 
+a classic AND straightforward technique is 
+*********************************************************************
+Document:CACM-2820
+
+the DESIGN AND implementation OF a table driven, 
+interactive diagnostic programming SYSTEM 
+him find the cause OF his error. most COMPONENTS 
+OF the multilingual SYSTEM. over 500 STUDENTS have used 
+*********************************************************************
+Document:CACM-0202
+
+a control SYSTEM FOR logical block diagnosis with data loading 
+diagnostic monitor SYSTEM which facilitates 
+to a computer program makes the SYSTEM convenient 
+features which CAN BE INCLUDED in the SYSTEM. 
+*********************************************************************
+Document:CACM-2078
+
+DESIGN, engineering DESIGN, architectural DESIGN, robots 
+automated DESIGN, data structures, computer graphics, computer-aided 
+representations FOR space planning 
+*********************************************************************
+Document:CACM-1875
+
+OF its derivations OF specified SIGN over the 
+constant SIGN derivatives, bernstein polynomials, 
+LINEAR concavity constraints, quadratic programming 
+polynomial AND spline approximation by quadratic programming 
+*********************************************************************
+Document:CACM-2828
+
+visible surface ALGORITHMS, hidden surface ALGORITHMS, 
+MODELS 
+hierarchical geometric MODELS FOR visible surface ALGORITHMS 
+*********************************************************************
+Document:CACM-3047
+
+USING synthetic images to register real images with surface MODELS 
+OF such images with digital terrain MODELS. in addition, 
+we illustrate the technique USING landsat images AND digital terrain MODELS. 
+image registration, synthetic images, surface MODELS, 
+*********************************************************************
+Document:CACM-1464
+
+in relation to an elaborate operating SYSTEM 
+into the ibsys operating SYSTEM. assembly 
+in map may BE INCLUDED in any algol program. 
+an algol compiler: construction AND use 
+*********************************************************************
+Document:CACM-1216
+
+in a FORMULA translator to introduce a differentiation 
+symbolic derivatives without list processing, subroutines, OR recursion 
+a routine has been developed which computes AND 
+*********************************************************************

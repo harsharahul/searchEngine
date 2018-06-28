@@ -1,0 +1,643 @@
+Query:the use of computer science principles eg data structures  numerical methods in generating optimization eg linear programming algorithms  this includes issues of the khachian russian ellipsoidal algorithm and complexity of such algorithms
+
+Document:CACM-1104
+
+an undergraduate curriculum IN NUMERICAL analysis 
+cacm april, 1964 
+forsythe, g. e. 
+*********************************************************************
+Document:CACM-1342
+
+transportation problem (ALGORITHMS 293 [h]) 
+cacm december, 1966 
+bayer, g. 
+*********************************************************************
+Document:CACM-2417
+
+four combinatorial ALGORITHMS [g6] (ALGORITHM a466) 
+cacm november, 1973 
+ehrlich, g. 
+*********************************************************************
+Document:CACM-0270
+
+techniques for storage allocation ALGORITHMS 
+cacm october, 1961 
+kelley jr., j. e. 
+*********************************************************************
+Document:CACM-0129
+
+rootfinder ii (ALGORITHM 15) 
+cacm november, 1960 
+forsythe, g. e. 
+*********************************************************************
+Document:CACM-0409
+
+DATA AND ALGORITHMS may be expressed IN a family 
+a flexible, large-scale PROGRAMMING system to 
+realized on THE ibm 709/7090 COMPUTER. THE system is 
+AND instances OF large AND complex DATA sets, 
+*********************************************************************
+Document:CACM-2830
+
+a practitioner's guide to addressing ALGORITHMS (corrigendum) 
+cacm september, 1976 
+severance, d. g. 
+*********************************************************************
+Document:CACM-2142
+
+encoding, image processing, LINEAR PROGRAMMING, 
+AND medicine (E.G. IN electron microscopy AND 
+picture. three ALGORITHMS are described (all using 
+monte carlo METHODS) which were designed to solve 
+*********************************************************************
+Document:CACM-2968
+
+a comparison OF tree-balancing ALGORITHMS 
+encompass theoretical aspects (E.G. path lengths) AND implementation 
+measures (E.G. run time). a detailed analysis OF code is 
+USE OF THE METHODS. if insertion AND subsequent 
+*********************************************************************
+Document:CACM-0152
+
+crout with pivoting (ALGORITHM 16) 
+cacm september, 1960 
+forsythe, g. e. 
+*********************************************************************
+Document:CACM-0140
+
+crout with pivoting (ALGORITHM 16) 
+cacm october, 1960 
+forsythe, g. e. 
+*********************************************************************
+Document:CACM-1619
+
+error-free METHODS for statistical computations 
+by some ALGORITHMS used to compute various 
+statistics. IN THE present paper METHODS are described 
+*********************************************************************
+Document:CACM-0612
+
+permute (ALGORITHM 86) 
+cacm april, 1962 
+peck, j. e. l. 
+*********************************************************************
+Document:CACM-0608
+
+permutation (ALGORITHM 71) 
+cacm april, 1962 
+peck, j. e. l. 
+*********************************************************************
+Document:CACM-2325
+
+NUMERICAL mathematics, COMPUTER SCIENCE, mathematics 
+NUMERICAL mathematics AND COMPUTER SCIENCE 
+OF computation, ALGORITHMS, continuous ALGORITHMS 
+NUMERICAL mathematics is viewed as THE analysis 
+*********************************************************************
+Document:CACM-0265
+
+coded programs, to deal with "special arithmetic" (E.G. 
+low level language subroutines for USE within fortran 
+THIS paper describes some subroutines, coded 
+*********************************************************************
+Document:CACM-0047
+
+RUSSIAN visit to u. computers 
+cacm november, 1959 
+zaitzeff, e. m. 
+*********************************************************************
+Document:CACM-2226
+
+zero-one LINEAR PROGRAMMING problem. an error IN 
+further evidence for THE analysis OF ALGORITHMS 
+for THE zero-one PROGRAMMING problem 
+summarized by gue et al, with two ALGORITHMS for THE 
+*********************************************************************
+Document:CACM-2627
+
+which extend AND generalize THE ALGORITHMS known for 
+presenting AND analyzing new ALGORITHMS it is shown 
+time, sequencing ALGORITHMS, optimal scheduling 
+ALGORITHMS, deterministic scheduling models 
+*********************************************************************
+Document:CACM-2589
+
+PROGRAMMING problems (ALGORITHM r431) 
+a COMPUTER routine for quadratic AND LINEAR 
+cacm october, 1974 
+*********************************************************************
+Document:CACM-2743
+
+merge sorting, computational COMPLEXITY, DATA 
+sorting x + y 
+cacm june, 1975 
+*********************************************************************
+Document:CACM-2273
+
+two ALGORITHMS for GENERATING COMPUTER programs 
+from decision tables are described. THE ALGORITHMS 
+entry tables. THE ALGORITHMS are based on THE 
+by instantly marking rules which are not applicable (ALGORITHMS 
+*********************************************************************
+Document:CACM-1924
+
+carefully designed matrix ALGORITHMS can lead to 
+multiplication, AND inversion ALGORITHMS shows 
+manipulation ALGORITHMS is also studied as a function 
+to THE ALGORITHM. 
+*********************************************************************
+Document:CACM-2362
+
+matrix ALGORITHMS, LINEAR equations, fortran, 
+LINEAR equation solver [f4] (ALGORITHM a423) 
+cacm april, 1972 
+*********************************************************************
+Document:CACM-1759
+
+transportation problem, LINEAR PROGRAMMING 
+transportation problem (ALGORITHM 293 [h]) 
+cacm april, 1968 
+*********************************************************************
+Document:CACM-2863
+
+vmin-an optimal variable-space page replacement ALGORITHM 
+replacement ALGORITHMS is presented. an optimum 
+page replacement ALGORITHM, called vmin, is described AND 
+AND THE page partitioning replacement ALGORITHMS 
+*********************************************************************
+Document:CACM-3132
+
+experiments with some ALGORITHMS that find 
+technique to have an ALGORITHM finding hyperplanes 
+set. THE traditional METHODS find a hyperplane which separates all 
+than a noncentral hyperplane. six ALGORITHMS for finding central 
+*********************************************************************
+Document:CACM-2056
+
+LINEAR PROGRAMMING, integer variables, dual method 
+gomory (ALGORITHM 263a $h)) 
+cacm may, 1970 
+*********************************************************************
+Document:CACM-0371
+
+remarks on ALGORITHMS 2 AND 3, ALGORITHM 15 AND ALGORITHMS 25 AND 26 
+cacm march, 1961 
+wilkinson, j. h. 
+*********************************************************************
+Document:CACM-1073
+
+a fast procedure for GENERATING exponential random variables 
+a very fast method for GENERATING exponential 
+random variables IN a digital COMPUTER is outlined. 
+*********************************************************************
+Document:CACM-2624
+
+generation COMPUTER systems, E.G. THE dec pdp-10, cannot 
+on a limited number OF third generation COMPUTER 
+systems, E.G. cp-67 on THE ibm 360/67. from previous 
+model OF a third-generation-like COMPUTER system is 
+*********************************************************************
+Document:CACM-2767
+
+a comparison OF simulation event list ALGORITHMS 
+four ALGORITHMS are considered which can be used 
+simulation system. two OF THE ALGORITHMS are new, one 
+notices, AND another uses an indexed LINEAR list. THE ALGORITHMS 
+*********************************************************************
+Document:CACM-1153
+
+a fast procedure for GENERATING normal random variables* 
+a technique for GENERATING normally distributed 
+random numbers is described. it is faster 
+*********************************************************************
+Document:CACM-1899
+
+simplex method, LINEAR PROGRAMMING, lu decomposition, 
+simplex method procedure employing lu decomposition (ALGORITHM 350 [h]) 
+cacm may, 1969 
+*********************************************************************
+Document:CACM-2490
+
+efficient ALGORITHMS are presented for partitioning 
+components AND simple paths. THE ALGORITHM for partitioning 
+vertices already on paths. (THE start vertex can 
+AND e is THE number OF edges, each ALGORITHM 
+*********************************************************************
+Document:CACM-0087
+
+a note on a method for GENERATING points 
+uniformly on n-dimensional spheres 
+cacm april, 1959 
+*********************************************************************
+Document:CACM-2573
+
+COMPUTER PROGRAMMING as an art 
+cacm december, 1974 
+knuth, d. e. 
+*********************************************************************
+Document:CACM-1880
+
+LINEAR system (ALGORITHM 328 [f4]) 
+chebyshev solutions, over-determined LINEAR 
+systems, LINEAR equations, exchange ALGORITHM 
+chebyshev solution to an overdetermined 
+*********************************************************************
+Document:CACM-2646
+
+THIS paper presents THE background AND ALGORITHMS 
+OF blocks OF DATA to buffer AND primary memories 
+for a mono-programmed COMPUTER system. a basic permutation 
+ALGORITHM AND several variations are given. 
+*********************************************************************
+Document:CACM-1796
+
+index by subject to ALGORITHMS, 1969 
+index by subject to ALGORITHMS, 1960 1968 (comm. 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-1734
+
+LINEAR system (ALGORITHM 328 [f4]) 
+chebyshev solutions, overdetermined LINEAR 
+systems, LINEAR equations, exchange ALGORITHM 
+chebyshev solution to an overdetermined 
+*********************************************************************
+Document:CACM-3130
+
+COMPUTER sciences courses, COMPUTER SCIENCE curriculum, COMPUTER 
+SCIENCE education, COMPUTER SCIENCE undergraduate degree 
+undergraduate program IN COMPUTER SCIENCE 
+THE undergraduate degree program IN COMPUTER SCIENCE OF THE 
+*********************************************************************
+Document:CACM-2094
+
+minimax approximation, nonlinear approximation, LINEAR PROGRAMMING 
+on an ALGORITHM for nonlinear minimax approximation 
+d by properties which permit THE application OF special ALGORITHMS, 
+mainly based on THE exchange ALGORITHMS OF remes (1934, 1935), for 
+*********************************************************************
+Document:CACM-2877
+
+program OPTIMIZATION, DATA flow analysis, 
+a program DATA flow analysis procedure 
+THE global DATA relationships IN a program 
+METHODS described IN THIS paper. a procedure is given 
+*********************************************************************
+Document:CACM-2766
+
+copying cyclic list STRUCTURES IN LINEAR time using bounded workspace 
+a bounded workspace copying ALGORITHM for arbitrary 
+operates IN LINEAR time AND does not require tag bits. 
+THE best previous bounded workspace copying ALGORITHMS 
+*********************************************************************
+Document:CACM-0632
+
+vectorcardiographic diagnosis with THE aid OF algol 
+cacm february, 1962 
+forsythe, g. e. 
+*********************************************************************
+Document:CACM-2834
+
+ALGORITHMS are presented to generate THE n-bit 
+fixed weight IN that code. both ALGORITHMS are efficient 
+efficient generation OF THE binary 
+reflected gray code AND its applications 
+*********************************************************************
+Document:CACM-0946
+
+suggestions on algol 60 (rome) ISSUES - a report by THE american 
+standards association subcommittee x3.4.2 
+cacm january, 1963 
+*********************************************************************
+Document:CACM-1831
+
+a comment on optimal tree STRUCTURES 
+information retrieval, file searching, tree STRUCTURES, double chaining 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-1392
+
+experience with formac ALGORITHM design 
+OF mathematical expression manipulation ALGORITHMS 
+formac expand AND differentiation ALGORITHMS, a 
+is made to stress PRINCIPLES AND ideas OF general relevance 
+*********************************************************************
+Document:CACM-1883
+
+NUMERICAL integration, romberg quadrature, 
+modified romberg quadrature(algorithm [d1]) 
+cacm june, 1969 
+*********************************************************************
+Document:CACM-2477
+
+control STRUCTURES, goto free PROGRAMMING, 
+multiple exits from a loop without THE goto 
+cacm july, 1973 
+*********************************************************************
+Document:CACM-2009
+
+simpson's rule for multiple integration (ALGORITHM 233 $d1)) 
+NUMERICAL integration, multiple integration, simpson's rule 
+cacm august, 1970 
+*********************************************************************
+Document:CACM-2239
+
+squank (ALGORITHM c379) 
+NUMERICAL integration, integration rule, adaptive 
+rule, NUMERICAL quadrature, quadrature rule, adaptive 
+*********************************************************************
+Document:CACM-2032
+
+DATA STRUCTURES, tree STRUCTURES, file STRUCTURES, scatter 
+file STRUCTURES using hashing functions 
+a general method OF file structuring is proposed which uses a hashing 
+*********************************************************************
+Document:CACM-2007
+
+ALGORITHMS policy/revised august 1970 
+cacm august, 1970 
+ca700814 jb february 10, 1978 3:12 pm 
+*********************************************************************
+Document:CACM-2283
+
+thinning ALGORITHMS on rectangular, hexagonal, AND triangular arrays 
+IN THIS report three thinning ALGORITHMS are 
+development OF each ALGORITHM is THE same. pictorial 
+results produced by each OF THE ALGORITHMS are presented 
+*********************************************************************
+Document:CACM-2040
+
+modified romberg quadrature (ALGORITHM 351 $d1)) 
+NUMERICAL integration, romberg quadrature, modified romberg quadrature, 
+cacm june, 1970 
+*********************************************************************
+Document:CACM-1952
+
+index by subject to ALGORITHMS, 1970 
+cacm december, 1970 
+ca701211 jb february 9, 1978 2:50 pm 
+*********************************************************************
+Document:CACM-1660
+
+index by subject to ALGORITHMS, 1960-1968 
+cacm december, 1968 
+ca681206 jb february 21, 1978 1:39 pm 
+*********************************************************************
+Document:CACM-1982
+
+modified havie integration (ALGORITHM 400 $d1)) 
+NUMERICAL integration, havie integration, romberg quadrature, 
+cacm october, 1970 
+*********************************************************************
+Document:CACM-2290
+
+immediate predominators IN a directed graph [h] (ALGORITHM a430) 
+connectivity, program OPTIMIZATION, optimizing compiler 
+cacm august, 1972 
+*********************************************************************
+Document:CACM-1651
+
+an interpretive input routine for LINEAR PROGRAMMING 
+to any LINEAR PROGRAMMING solution routine, for subsequent 
+is presented which greatly simplifies DATA input 
+an input system more suited for bulk DATA handling than 
+*********************************************************************
+Document:CACM-1138
+
+formalism IN PROGRAMMING languages* 
+cacm february, 1964 
+iverson, k. e. 
+*********************************************************************
+Document:CACM-2665
+
+copying list STRUCTURES using bounded workspace 
+two new ALGORITHMS are presented for list structure 
+n^2. THE second ALGORITHM, assuming one tag bit IN 
+any noncyclic structure is copied IN LINEAR speed, while 
+*********************************************************************
+Document:CACM-1529
+
+decomposition PROGRAMMING an analysis OF matrix substructure 
+ALGORITHMS. IN THE course OF THE analysis, a substructure 
+relative performance OF THE two ALGORITHMS AND to their 
+*********************************************************************
+Document:CACM-2442
+
+a sparse matrix package (ALGORITHM r408) 
+cacm september, 1973 
+lawrence, e. e. 
+*********************************************************************
+Document:CACM-2433
+
+control STRUCTURES IN illiac iv fortran 
+provides a means OF expressing DATA AND control 
+STRUCTURES suitable for exploiting illiac iv parallelism. 
+which could be expected to influence language (AND 
+*********************************************************************
+Document:CACM-1776
+
+maxflow (ALGORITHM 324 [h]) 
+network,liner PROGRAMMING, maximum flow 
+cacm february, 1968 
+*********************************************************************
+Document:CACM-0658
+
+discussion-the pros AND cons OF a special ir language 
+cacm january, 1962 
+sammet, j. e. 
+*********************************************************************
+Document:CACM-2677
+
+incomplete beta ratio (ALGORITHM r179) 
+cacm march, 1974 
+bosten, n. e. 
+*********************************************************************
+Document:CACM-1066
+
+growing applications OF LINEAR PROGRAMMING 
+USE OF LINEAR PROGRAMMING models has grown so 
+PRINCIPLES upon which future LINEAR PROGRAMMING 
+OF problem statement IN terms OF basic DATA to LINEAR 
+*********************************************************************
+Document:CACM-1654
+
+a university's educational program IN COMPUTER SCIENCE 
+COMPUTER SCIENCE is defined IN several 
+ways. THE objectives OF COMPUTER SCIENCE education are 
+for stanford's COMPUTER SCIENCE department. 
+*********************************************************************
+Document:CACM-1722
+
+METHODS OF convergence improvement for some improper integrals 
+IN THE NUMERICAL integration OF an improper 
+integrals, E.G. integrals whose integrands 
+METHODS OF convergence improvement are developed which greatly 
+*********************************************************************
+Document:CACM-2324
+
+integer PROGRAMMING, LINEAR PROGRAMMING, mathematical 
+PROGRAMMING, management SCIENCE, operations research, ALGORITHMS 
+PROGRAMMING, nonlinear PROGRAMMING, quadratic 
+nonlinear PROGRAMMING is presented as well as THE 
+*********************************************************************
+Document:CACM-0529
+
+regression AND coded patterns IN DATA editing 
+cacm july, 1962 
+robison, d. e. 
+*********************************************************************
+Document:CACM-1953
+
+exponential integral ei(x) (ALGORITHMS 385 $s13)) 
+cacm december, 1970 
+redish, k. a. 
+*********************************************************************
+Document:CACM-1873
+
+LINEAR PROGRAMMING, revised simplex 
+accelerating lp ALGORITHMS 
+phase OF lp ALGORITHMS. other lp applications are indicated. 
+*********************************************************************
+Document:CACM-2314
+
+STRUCTURES, DATA STRUCTURES, PROGRAMMING primitives, 
+requirements for advanced PROGRAMMING systems for list processing 
+large complex symbolic DATA stores. THIS paper presents 
+features, since ALGORITHMS must be not only 
+*********************************************************************
+Document:CACM-2505
+
+AND adjacent transposition ALGORITHMS 
+reflection-free permutations, rosary permutations, 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-2904
+
+integrated package OF local OPTIMIZATION ALGORITHMS. 
+an ALGORITHM for reduction OF operator strength 
+a simple ALGORITHM which uses an indexed temporary 
+including LINEAR function test replacement, 
+*********************************************************************
+Document:CACM-0725
+
+group participation COMPUTER demonstration 
+cacm october, 1963 
+mccormick, e. m. 
+*********************************************************************
+Document:CACM-2986
+
+done by a practical ALGORITHM that is asymptotically 
+faster than those IN common USE. for example, how to compute 
+compute LINEAR precedence functions IN o(n^2) steps 
+is shown, as well as how to compute LINEAR precedence 
+*********************************************************************
+Document:CACM-2630
+
+two ALGORITHMS are presented that construct 
+IN a directed graph. these ALGORITHMS generalize THE floyd 
+graph, network, shortest path, ALGORITHM 
+ALGORITHM AND THE dantzig ALGORITHM for finding 
+*********************************************************************
+Document:CACM-1089
+
+designing a COMPUTER center 
+cacm april, 1964 
+denison, a. 
+*********************************************************************
+Document:CACM-1658
+
+OF several existing ALGORITHMS for THE 
+zero-one PROGRAMMING problem. computational experience 
+requirements OF several OF THE ALGORITHMS are compared 
+size. COMPUTER experiments still provide little hope 
+*********************************************************************
+Document:CACM-3006
+
+anomalies with variable partition paging ALGORITHMS 
+AND paging ALGORITHMS, an increase IN mean memory allocation 
+two paging ALGORITHMS, are examined IN terms OF their 
+OF various anomalies are presented. two paging ALGORITHM 
+*********************************************************************
+Document:CACM-1069
+
+a method for comparing THE internal operating speeds OF computers 
+cacm may, 1964 
+raichelson, e. 
+*********************************************************************
+Document:CACM-0044
+
+runcible-algebraic translation on a limited COMPUTER 
+cacm november, 1959 
+knuth, d. e. 
+*********************************************************************
+Document:CACM-2306
+
+ancient babylonian ALGORITHMS 
+OF greatest interest from THE standpoint OF COMPUTER 
+SCIENCE. a number OF old babylonian tablets, many 
+*********************************************************************
+Document:CACM-0361
+
+programmed error correction on a decimal COMPUTER 
+cacm april, 1961 
+weinberg, g. m. 
+*********************************************************************
+Document:CACM-2310
+
+THE USE OF THE COMPUTER IN THE language-oriented 
+as desirable. THE implications OF THE COMPUTER 
+gathering DATA for THE construction AND testing 
+are necessary (E.G. analyzing literature or teaching 
+*********************************************************************
+Document:CACM-1330
+
+automated plotting flow-charts on a small COMPUTER 
+cacm january, 1965 
+anderson, h. e. 
+*********************************************************************
+Document:CACM-1659
+
+computational linguistics IN a ph. COMPUTER SCIENCE program 
+a ph. COMPUTER SCIENCE program. a classification OF THE 
+linguistics bibliography, COMPUTER SCIENCE curriculum 
+language AND COMPUTER, language DATA processing, 
+*********************************************************************
+Document:CACM-2902
+
+ALGORITHMS. simple ALGORITHMS operating on memory ordered 
+dynamic memory allocation IN COMPUTER simulation 
+35 dynamic memory allocation ALGORITHMS when used 
+test cases. ALGORITHM performance was measured IN 
+*********************************************************************
+Document:CACM-2903
+
+applied to two ALGORITHMS which solve pattern matching problems. 
+by using recursion IN troduction, ALGORITHMS 
+recursive ALGORITHMS IN which no stack operations 
+occur. these ALGORITHMS are then subjected to a second 
+*********************************************************************
+Document:CACM-2411
+
+control STRUCTURES, flowcharts, goto statements, 
+inductive assertion, least fix points, OPTIMIZATION 
+PROGRAMMING language design, proof OF programs, 
+semantics OF PROGRAMMING languages, structured PROGRAMMING. 
+*********************************************************************
+Document:CACM-2511
+
+maxflow (ALGORITHM r324) 
+cacm may, 1973 
+bayer, g. 
+*********************************************************************
+Document:CACM-2237
+
+bandsolve (ALGORITHM r195) 
+cacm december, 1972 
+schuegraf, e. 
+*********************************************************************
+Document:CACM-2562
+
+routing problem (ALGORITHM r456) 
+cacm december, 1974 
+tesch, g. 
+*********************************************************************

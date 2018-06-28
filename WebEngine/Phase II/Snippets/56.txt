@@ -1,0 +1,631 @@
+Query:articles relation the algebraic theory of semigroups and monoids to the study of automata and regular languages
+
+Document:CACM-2650
+
+error correction, REGULAR LANGUAGES, REGULAR events, 
+order-n correction for REGULAR LANGUAGES 
+b, belonging TO a given REGULAR language l, 
+finite state AUTOMATA, compiler error recovery, 
+*********************************************************************
+Document:CACM-2327
+
+AUTOMATA THEORY, brain THEORY, network complexity, 
+toward an AUTOMATA THEORY OF brains 
+in which AUTOMATA THEORY might evolve over THE 
+a source OF ideas for AUTOMATA theory-the STUDY 
+*********************************************************************
+Document:CACM-1678
+
+switching THEORY, THEORY OF computability 
+AUTOMATA, formal LANGUAGES, abstract switching, 
+describe as AUTOMATA, formal LANGUAGES, abstract 
+science program, AUTOMATA, formal LANGUAGES, 
+*********************************************************************
+Document:CACM-2112
+
+context-free LANGUAGES. a formal procedure is given for deriving from 
+THE translator consists OF mealy form finite-state AUTOMATA interacting 
+AUTOMATA, turing machines, REGULAR expression, transduction 
+expression, context-free LANGUAGES, translation, recognizers, 
+*********************************************************************
+Document:CACM-1896
+
+REGULAR coulomb wave functions (algorithm 292 s22]) 
+coulomb wave functions, wave functions, REGULAR coulomb wave functions 
+cacm may, 1969 
+*********************************************************************
+Document:CACM-1898
+
+REGULAR coulomb wave functions (algorithm 292 [s22]) 
+coulomb wave functions, wave functions, REGULAR coulomb wave functions 
+cacm may, 1969 
+*********************************************************************
+Document:CACM-1993
+
+REGULAR coulomb wave functions (algorithm 292 $s22)) 
+coulomb wave functions, wave functions, REGULAR coulomb wave functions 
+cacm september, 1970 
+*********************************************************************
+Document:CACM-2921
+
+finite state machines (AUTOMATA), REGULAR expressions, 
+REGULAR right part grammars AND their parsers 
+grammars called REGULAR right part (rrp) 
+describe THE syntax OF programming LANGUAGES more 
+*********************************************************************
+Document:CACM-1355
+
+REGULAR coulomb wave functions (algorithm 292 ) 
+cacm november, 1966 
+gautschi, w. 
+*********************************************************************
+Document:CACM-2323
+
+toward a general THEORY OF special functions 
+for THE field OF ALGEBRAIC manipulation is given. 
+then THE prospects for a general THEORY OF functions 
+TO differential equations. such a THEORY is 
+*********************************************************************
+Document:CACM-0055
+
+an ALGEBRAIC translator 
+cacm october, 1959 
+kaner, h. 
+*********************************************************************
+Document:CACM-2449
+
+OF structured variables based on simple AUTOMATA 
+THEORY is presented. THE technique offers a deterministic 
+a simple technique for structured variable lookup 
+*********************************************************************
+Document:CACM-0001
+
+preliminary report-international ALGEBRAIC language 
+cacm december, 1958 
+perlis, a. j. 
+*********************************************************************
+Document:CACM-2346
+
+information THEORY, coding THEORY, hu-tucker 
+hu-tucker minimum redundancy alphabetic 
+coding method [z] (algorithm a428) 
+*********************************************************************
+Document:CACM-2974
+
+sequence, complementary RELATION, search 
+comment on weighted increment linear search for scatter tables 
+cacm april, 1977 
+*********************************************************************
+Document:CACM-3189
+
+an ALGEBRAIC compiler for THE fortran assembly program 
+an ALGEBRAIC compiler has been written which may be added TO THE fortran 
+assembly program. this compiler will expand all ALGEBRAIC statements with THE 
+*********************************************************************
+Document:CACM-0393
+
+two subroutines for symbol manipulation with an ALGEBRAIC compiler 
+cacm february, 1961 
+carr iii, j. w. 
+*********************************************************************
+Document:CACM-0093
+
+TO translate simple ALGEBRAIC formulas into a 
+from formulas TO computer oriented language 
+a technique is shown for enabling a computer 
+*********************************************************************
+Document:CACM-0054
+
+sale, a simple ALGEBRAIC language for engineers 
+cacm october, 1959 
+brittenham, w. r. 
+*********************************************************************
+Document:CACM-1803
+
+complex equation, ALGEBRAIC complex equation 
+complex root finding (algorithm 365 [c5]) 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-0249
+
+specification LANGUAGES for mechanical LANGUAGES 
+AND their processors*-a baker's dozen 
+cacm december, 1961 
+*********************************************************************
+Document:CACM-1967
+
+number THEORY, prime numbers, complex numbers 
+an improved algorithm TO produce complex primes (algorithm 401 $a1)) 
+cacm november, 1970 
+*********************************************************************
+Document:CACM-0099
+
+possible modifications TO THE international ALGEBRAIC language 
+cacm february, 1959 
+green, j. 
+*********************************************************************
+Document:CACM-2476
+
+language THEORY, context-free grammars 
+equivalence between and/or graphs AND context-free grammars 
+cacm july, 1973 
+*********************************************************************
+Document:CACM-2121
+
+partitions,number THEORY 
+partitions in natural order (algorithm 371 $a1)) 
+cacm january, 1970 
+*********************************************************************
+Document:CACM-3203
+
+grad assistant - a program for symbolic ALGEBRAIC manipulation AND 
+abd differentiate ALGEBRAIC expressions. it is designed for use with problemms 
+differentiation 
+*********************************************************************
+Document:CACM-1840
+
+prime numbers, factoring, number THEORY 
+an efficient prime number generator (algorithm 357 [a1]) 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-2416
+
+primitive roots, number THEORY 
+matrix transposition in place [f1] (algorithm a467) 
+cacm november, 1973 
+*********************************************************************
+Document:CACM-1739
+
+REGULAR expression search algorithm 
+is discussed. THE compiler accepts a REGULAR 
+THE text matches THE given REGULAR expression. examples, 
+search, match, REGULAR expression 
+*********************************************************************
+Document:CACM-1453
+
+THE use OF THE kleene REGULAR expression notation 
+for describing ALGEBRAIC language syntax, 
+for linear systems OF ALGEBRAIC equations, 
+LANGUAGES, including some sublanguage OF algol. 
+*********************************************************************
+Document:CACM-1991
+
+AUTOMATA, finite AUTOMATA, singly generated AUTOMATA, automorphisms, 
+on THE number OF automorphisms OF a singly generated automaton 
+cacm september, 1970 
+*********************************************************************
+Document:CACM-2061
+
+context-free grammars, formal LANGUAGES, pushdown AUTOMATA 
+pushdown AUTOMATA which generate THE different reduction classes 
+it essentially carries out an exhaustive STUDY OF all possible 
+runs OF THE pushdown AUTOMATA generating THE reduction classes. 
+*********************************************************************
+Document:CACM-1923
+
+level LANGUAGES using basic input/output support 
+high level LANGUAGES, command language 
+pseudofiles 
+*********************************************************************
+Document:CACM-2290
+
+predominator, immediate predominator, graph THEORY, 
+immediate predominators in a directed graph [h] (algorithm a430) 
+cacm august, 1972 
+*********************************************************************
+Document:CACM-2090
+
+symbolic expansion OF ALGEBRAIC expressions (algorithm 377 $r2)) 
+multiplication, ALGEBRAIC distribution, 
+ALGEBRAIC multiplication, distribution algorithm, 
+*********************************************************************
+Document:CACM-1466
+
+discussion summary on graphical LANGUAGES 
+cacm march, 1966 
+ca660306 jb march 3, 1978 1:46 pm 
+*********************************************************************
+Document:CACM-1138
+
+formalism in programming languages* 
+cacm february, 1964 
+iverson, k. e. 
+*********************************************************************
+Document:CACM-1102
+
+mechanical LANGUAGES: a course specification 
+cacm april, 1964 
+gorn, s. 
+*********************************************************************
+Document:CACM-0463
+
+on ambiguity in phrase structure LANGUAGES 
+cacm october, 1962 
+floyd, r. w. 
+*********************************************************************
+Document:CACM-0628
+
+for use with algorithmic LANGUAGES 
+on a floating-point number representation 
+cacm march, 1962 
+*********************************************************************
+Document:CACM-0850
+
+in RELATION TO (1) their conversion from input formats, 
+conversion, reconversion AND comparison 
+techniques in variable-length sorting 
+*********************************************************************
+Document:CACM-1253
+
+TO THE reader familiar with ALGEBRAIC LANGUAGES. 
+simscript AND programmed entirely in an ALGEBRAIC 
+quikscript-a simscript- like language for THE g-20 
+*********************************************************************
+Document:CACM-1665
+
+THE practical application OF THE THEORY OF 
+finite-state AUTOMATA TO automatically generate 
+OF a subset OF REGULAR expressions. THE output 
+as defined by THE REGULAR expressions. each output 
+*********************************************************************
+Document:CACM-0265
+
+in symbolic LANGUAGES AND for use within fortran 
+low level language subroutines for use within fortran 
+this paper describes some subroutines, coded 
+*********************************************************************
+Document:CACM-2258
+
+techniques: a fundamental performance STUDY on 
+additional results on key-to-address transform 
+large existing formatted files 
+*********************************************************************
+Document:CACM-2558
+
+protection in programming LANGUAGES 
+linguistic mechanisms which can be used TO protect 
+one subprogram from another's malfunctioning 
+*********************************************************************
+Document:CACM-1397
+
+proceedings OF THE acm symposium on symbolic AND ALGEBRAIC manipulation 
+THE acm symposium on symbolic AND ALGEBRAIC 
+people interested in programming LANGUAGES designed 
+for manipulation OF ALGEBRAIC formulas AND symbol 
+*********************************************************************
+Document:CACM-2192
+
+for programming LANGUAGES. 
+another recursion induction principle 
+an inductive method for proving things about 
+*********************************************************************
+Document:CACM-1841
+
+prime numbers, number THEORY, sorting 
+a prime number generator using THE 
+treesort principle (algorithm 356 [a1]) 
+*********************************************************************
+Document:CACM-2645
+
+two LANGUAGES for estimating program efficiency 
+two LANGUAGES enabling their users TO estimate 
+processors for THE two LANGUAGES are also 
+procedures for ALGEBRAIC manipulation which can be 
+*********************************************************************
+Document:CACM-2133
+
+operations research, optimization THEORY, 
+algorithm for THE assignment problem 
+(rectangular matrices) [h] (algorithm 415) 
+*********************************************************************
+Document:CACM-1048
+
+fields as electrostatic field THEORY, heat 
+AND ideal fluid flow, AND stress concentration THEORY 
+TO THE STUDY OF an elliptic partial differential equation. 
+approximate solution OF axially symmetric problems 
+*********************************************************************
+Document:CACM-2661
+
+education, programming LANGUAGES, simulators 
+ideal teaching machines-a solution TO THE pedagogic language problem 
+cacm april, 1974 
+*********************************************************************
+Document:CACM-2166
+
+automated ALGEBRAIC manipulation in celestial mechanics 
+OF automated ALGEBRAIC manipulation which 
+a typical problem in perturbation THEORY is described. 
+*********************************************************************
+Document:CACM-0021
+
+ALGEBRAIC formulation OF flow diagrams 
+cacm june, 1958 
+voorhees, e. a. 
+*********************************************************************
+Document:CACM-2134
+
+algol procedure are discussed, AND a RELATION between 
+operations research, optimization THEORY, assignment 
+an extension OF THE munkres algorithm for 
+THE assignment problem TO rectangular matrices 
+*********************************************************************
+Document:CACM-2779
+
+THE recurrence RELATION between orthogonal polynomials 
+recurrence RELATION between orthogonal polynomials, 
+discrete least squares polynomial fits 
+*********************************************************************
+Document:CACM-2932
+
+THE framework for research in THE THEORY OF complexity 
+complexity OF computations, ALGEBRAIC complexity, 
+complexity OF computations 
+*********************************************************************
+Document:CACM-1334
+
+newcomb operators OF planetary THEORY 
+OF planetary THEORY. THE newcomb operators are expressed 
+TO perform THE ALGEBRAIC operations. formulas for over 
+mechanization OF tedious algebra: THE 
+*********************************************************************
+Document:CACM-2470
+
+THE notions OF data item, function, AND RELATION. 
+THEORY (or its derivatives) for THE concise AND 
+into LANGUAGES through THE mechanism OF singleton 
+are touched upon. THE THEORY is applied TO THE 
+*********************************************************************
+Document:CACM-2813
+
+THE computer science AND engineering research STUDY (cosers) 
+STUDY (cosers) is briefly described. THE motivation, 
+organization, AND schedule for this nsf supported STUDY 
+research, national research STUDY 
+*********************************************************************
+Document:CACM-1211
+
+completely dynamic. its RELATION TO similar schemes is discussed. 
+a note on storage OF strings 
+a method for storing strings is described which 
+*********************************************************************
+Document:CACM-1258
+
+in many fields, for example ALGEBRAIC number 
+THEORY, arithmetic must be carried out TO a degree 
+an extended arithmetic package 
+*********************************************************************
+Document:CACM-2580
+
+computer composition, music THEORY, formal LANGUAGES, probabilistic grammars 
+THEORY plus additional heuristics. fundamental TO THE 
+TO THE layman. it appears that full-blown music THEORY 
+a method for composing simple traditional music by computer 
+*********************************************************************
+Document:CACM-2704
+
+LANGUAGES 
+exception handling: issues AND a proposed notation 
+this paper defines exception conditions, discusses 
+*********************************************************************
+Document:CACM-1154
+
+multi-tape AND infinite-state AUTOMATA -- a survey 
+than finite AUTOMATA AND less powerful than general 
+digital computers as either THE finite AUTOMATA or THE 
+*********************************************************************
+Document:CACM-2842
+
+THE denotational semantics OF programming LANGUAGES 
+THEORY OF programming language semantics developed 
+by d. scott AND c. strachey. THE application OF THE THEORY 
+AND THE underlying mathematical THEORY OF computation 
+*********************************************************************
+Document:CACM-1887
+
+a recursive RELATION for THE determinant OF a pentadiagonal matrix 
+a recursive RELATION, relating leading principal 
+minors, is developed for THE determinant OF 
+*********************************************************************
+Document:CACM-1216
+
+no use is made OF list-processing LANGUAGES. 
+operator into an "ALGEBRAIC" programming language. 
+symbolic derivatives without list processing, subroutines, or recursion 
+*********************************************************************
+Document:CACM-2897
+
+a case STUDY OF a new code generation technique for compilers 
+recent developments in optimizing techniques 
+have allowed a new design for compilers TO emerge. 
+*********************************************************************
+Document:CACM-2986
+
+computational complexity, sparse RELATION, boolean 
+RELATION, linear precedence function, slr 
+grammar, t-canonical precedence RELATION 
+operations on sparse relations 
+*********************************************************************
+Document:CACM-2028
+
+number THEORY, diophantine equations 
+greatest common divisor OF n integers 
+AND multipliers $a1) (algorithm 386) 
+*********************************************************************
+Document:CACM-2504
+
+computer composition,music THEORY 
+concerning music AND computer composition in computational linguistics 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-2255
+
+computer composition, music THEORY 
+comments on moorer's music AND computer composition 
+cacm november, 1972 
+*********************************************************************
+Document:CACM-0864
+
+an empirical STUDY OF minimal storage sorting 
+cacm may, 1963 
+hibbard, t. n. 
+*********************************************************************
+Document:CACM-0164
+
+a short STUDY OF notation efficiency 
+cacm august, 1960 
+smith jr., h. j. 
+*********************************************************************
+Document:CACM-1911
+
+LANGUAGES is considered within THE frame work 
+OF transformational THEORY. TO account for these phenomena 
+natural LANGUAGES, generative grammar, transformational 
+THEORY, syntax, coordination, sentence 
+*********************************************************************
+Document:CACM-0438
+
+mechanical pragmatics: a time-motion STUDY 
+OF a miniature mechanical linguistic system 
+cacm december, 1962 
+*********************************************************************
+Document:CACM-2809
+
+s. householder, THE character AND use OF ALGEBRAIC 
+methods in THE THEORY OF norms is demonstrated. new results 
+positivity AND norms 
+*********************************************************************
+Document:CACM-1948
+
+computers in group THEORY: a survey 
+diverse range OF problems in group THEORY. 
+calculus. group THEORY programs range from 
+group THEORY, coset enumeration, subgroup lattices, 
+*********************************************************************
+Document:CACM-2051
+
+correspondence, REGULAR correspondence, list processing 
+THE REGULAR sound correspondences between genetically related LANGUAGES. 
+a pl/i program TO assist THE comparative linguist 
+*********************************************************************
+Document:CACM-2672
+
+composition, music THEORY 
+emotional content considered dangerous 
+cacm march, 1974 
+*********************************************************************
+Document:CACM-1867
+
+using complex-variable THEORY, it is shown that l(j) 
+asymptotic expected length, recursion RELATION, 
+on THE expected lengths OF sequences generated 
+in sorting by replacement selecting 
+*********************************************************************
+Document:CACM-1214
+
+some experiments in ALGEBRAIC manipulation by computer 
+a set OF subroutines TO allow ALGEBRAIC manipulations 
+on THE ibm 7094 computer has been written 
+*********************************************************************
+Document:CACM-2326
+
+fix point approach TO THE THEORY OF computation 
+following THE fix point THEORY OF scott, THE 
+LANGUAGES, least fix points, recursive programs, 
+*********************************************************************
+Document:CACM-1806
+
+presented. although in THEORY THE method always 
+complex equation, ALGEBRAIC complex equation 
+on THE downhill method 
+*********************************************************************
+Document:CACM-2648
+
+a design for a number THEORY package 
+a number THEORY package is described which uses 
+number THEORY package, trial division, multiprecise 
+with an optimized trial division routine 
+*********************************************************************
+Document:CACM-2782
+
+high-level LANGUAGES, philosophy OF language design 
+a reply TO gentleman AND marovich 
+cacm march, 1975 
+*********************************************************************
+Document:CACM-2305
+
+OF today's programming LANGUAGES 
+in today's programming LANGUAGES. THE investigation 
+higher programming LANGUAGES, programming, 
+THEORY OF programming, history OF programming 
+*********************************************************************
+Document:CACM-0689
+
+LANGUAGES in czechoslovakia AND poland, 1963 
+report OF a visit TO discuss common programming 
+cacm november, 1963 
+*********************************************************************
+Document:CACM-2167
+
+ALGEBRAIC manipulation, ALGEBRAIC simplification, 
+ALGEBRAIC simplification: a guide for THE perplexed 
+ALGEBRAIC simplification is examined first from 
+capabilities in an ALGEBRAIC manipulation 
+*********************************************************************
+Document:CACM-2710
+
+LANGUAGES based on THE relational calculus. facilities 
+database, data sublanguages, relations, query LANGUAGES, 
+LANGUAGES, relational completeness 
+specifying queries as relational expressions: 
+*********************************************************************
+Document:CACM-2769
+
+closure OF a binary RELATION that is represented 
+matrix, binary RELATION 
+a modification OF warshall's algorithm for 
+THE transitive closure OF binary relations 
+*********************************************************************
+Document:CACM-0651
+
+a survey OF LANGUAGES AND systems for information retrieval 
+cacm january, 1962 
+grems, m. 
+*********************************************************************
+Document:CACM-1136
+
+beginnings OF a THEORY OF information handling* 
+cacm february, 1964 
+steel jr., t. b. 
+*********************************************************************
+Document:CACM-1781
+
+THE writing OF translators OF programming LANGUAGES 
+is presented. THE formal STUDY OF syntax AND its application 
+translator writing systems 
+*********************************************************************
+Document:CACM-0397
+
+books, ARTICLES, programming terms, hardware terms, equipment, 
+a card format for reference files in information processing 
+this paper proposes a card format suitable for 
+*********************************************************************
+Document:CACM-0124
+
+solution is presented in algol code. an empirical RELATION 
+an algorithm for THE assignment problem 
+THE assignment problem is formulated AND briefly 
+*********************************************************************
+Document:CACM-3077
+
+conventional programming LANGUAGES are growing 
+ones in a style not possible in conventional LANGUAGES. 
+by ALGEBRAIC laws AND are carried out in THE same language 
+but also for THE power OF their associated ALGEBRAIC 
+*********************************************************************
+Document:CACM-1489
+
+data, documentation AND decision tables 
+in business data processing systems, it is 
+necessary TO be able TO define AND document data, 
+*********************************************************************

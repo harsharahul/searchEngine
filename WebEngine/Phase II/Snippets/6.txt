@@ -1,0 +1,613 @@
+Query:interested in articles on robotics motion planning particularly the geometric and combinatorial aspects  we are not interested in the dynamics of arm motion
+
+Document:CACM-2826
+
+MOTION DYNAMICS IN key frame animation 
+controlling MOTION DYNAMICS IN key frame animation 
+allows an animator to develop a complex MOTION 
+interactive skeleton techniques for enhancing 
+*********************************************************************
+Document:CACM-1543
+
+computer formulation OF THE equations OF MOTION using tensor notation 
+to derive THE equations OF MOTION OF a point mass 
+derive THE equations OF MOTION IN any coordinate system 
+*********************************************************************
+Document:CACM-0435
+
+INTERESTED. a method employing a decision matrix 
+a decision matrix as THE basis for a simple data input routine 
+currently a great deal OF time AND effort is 
+*********************************************************************
+Document:CACM-2828
+
+hierarchical GEOMETRIC models for visible surface algorithms 
+THE GEOMETRIC structure inherent IN THE definition 
+MOTION AND placement, but also to assist IN 
+traditional structure information, or a GEOMETRIC hierarchy, 
+*********************************************************************
+Document:CACM-1014
+
+though THE experimenter may NOT be INTERESTED IN 
+machine controls for analysis OF variance 
+a major problem IN using THE analysis OF variance, 
+*********************************************************************
+Document:CACM-0492
+
+basis OF a markov chain model. for THE reader NOT INTERESTED 
+analysis OF a file addressing method 
+this paper presents a new file addressing method 
+*********************************************************************
+Document:CACM-0605
+
+processing techniques to tabulate AND make MOTION pictures 
+computer simulation OF city traffic 
+IN simulating traffic flow ON city streets, 
+*********************************************************************
+Document:CACM-1867
+
+one is INTERESTED IN THE ratio l(j) OF THE 
+ON THE expected lengths OF sequences generated 
+IN sorting by replacement selecting 
+*********************************************************************
+Document:CACM-0695
+
+limitations due to ARM MOTION AND disk rotation ARE discussed. 
+use OF THE disk file ON stretch 
+THE paper begins by briefly describing THE 
+*********************************************************************
+Document:CACM-1397
+
+people INTERESTED IN programming languages designed 
+proceedings OF THE acm symposium ON symbolic AND algebraic manipulation 
+THE acm symposium ON symbolic AND algebraic 
+*********************************************************************
+Document:CACM-0531
+
+name upon marriage, AND other problems. WE ARE INTERESTED 
+person-matching by electronic methods 
+record linkage IN THE updating OF files is 
+*********************************************************************
+Document:CACM-1234
+
+which minimizes stores, fetches AND stack-pointer MOTION 
+THE structure OF yet another algol compiler 
+a high-speed "top down" method OF syntax analysis 
+*********************************************************************
+Document:CACM-1365
+
+which it has been successfully used ARE: differentiation 
+OF equations IN keplerian MOTION. these 
+eliminating monotonous mathematics with formac 
+*********************************************************************
+Document:CACM-1623
+
+may be INTERESTED IN THE problem because it is stated 
+an application OF formac 
+a nonlinear circuit analysis problem is stated 
+*********************************************************************
+Document:CACM-1664
+
+equations OF fluid MOTION AND THE continuity 
+an algorithm for deriving THE equations OF 
+mathematical physics by symbolic manipulation 
+*********************************************************************
+Document:CACM-0242
+
+notes ON GEOMETRIC weighted check digit verification 
+GEOMETRIC weight modulus 11 checking digits ON a 
+this note describes a method for utilizing 
+*********************************************************************
+Document:CACM-2721
+
+THE digital simulation OF river plankton population DYNAMICS 
+OF THE actual population DYNAMICS OF asterionella 
+AND, specifically, revealed THE importance OF THE annual 
+PLANNING involving such examinations. 
+*********************************************************************
+Document:CACM-2230
+
+a language for treating GEOMETRIC patterns IN a two-dimensional space 
+for positioning GEOMETRIC patterns IN a two-dimensional 
+architecture design, urban PLANNING, logical AND block 
+architecture design, urban PLANNING 
+*********************************************************************
+Document:CACM-0616
+
+INTERESTED IN developing a theoretical approach to data 
+an information algebra - phase i report-language 
+structure group OF THE codasyl development committee 
+*********************************************************************
+Document:CACM-1341
+
+programming, AND, eventually, systems which learn. 
+levels OF computer systems 
+IN building current computer systems, WE tend 
+*********************************************************************
+Document:CACM-1634
+
+27 bits ARE NOT enough for 8-digit accuracy 
+from THE inequality 10^8 < 2^27, WE ARE likely 
+to conclude that WE can represent 8-digit decimal 
+*********************************************************************
+Document:CACM-2176
+
+when sorting ON movable ARM disks, THE number OF 
+OF merge sorting ON movable ARM disks when THE 
+random or NOT. 
+buffer allocation IN merge-sorting 
+*********************************************************************
+Document:CACM-0281
+
+putting a hex ON e^x 
+recent notes ON approximate natural antilogy 
+have NOT considered indirect formulations for 
+*********************************************************************
+Document:CACM-0670
+
+AND, hence, is subject to many statutes AND regulations. 
+to identify AND provide for many legal ASPECTS right 
+complications AND expense. THE legal ASPECTS 
+some legal implications OF THE use OF computers IN THE banking business 
+*********************************************************************
+Document:CACM-0417
+
+during THE PLANNING stage. techniques 
+opportunities to interpret to lawyers THE technical ASPECTS 
+legal implications OF computer use 
+*********************************************************************
+Document:CACM-1009
+
+solution OF COMBINATORIAL problems using generating 
+COMBINATORIAL problems is discussed. particular 
+functions ON a variable-field computer 
+*********************************************************************
+Document:CACM-2671
+
+a note ON a COMBINATORIAL problem OF burnett AND coffman 
+memories, interleaving, derangements, rencontres, COMBINATORIAL analysis 
+cacm march, 1974 
+*********************************************************************
+Document:CACM-2873
+
+ASPECTS OF its implementation. THE language allows 
+THE flexible definition OF GEOMETRIC objects AND 
+a GEOMETRIC figure via a collection OF parameters AND 
+lg: a language for analytic geometry 
+*********************************************************************
+Document:CACM-3188
+
+at this point that language has many ASPECTS AND that pragmatics, semantics AND 
+ASPECTS into THE three semiotic dimension AND there seems to be a strong 
+semiotics AND programming languages 
+*********************************************************************
+Document:CACM-2389
+
+preliminary report ON a system for general space PLANNING 
+formulating AND solving OF a class OF space PLANNING 
+automated design, architecture, heuristic programs, space PLANNING 
+*********************************************************************
+Document:CACM-2753
+
+tasks IN architecture, engineering, urban PLANNING, 
+AND natural resource management. these space PLANNING 
+a heuristic problem solver with a PLANNING phase prefixed 
+to it. it uses THE PLANNING process to give 
+*********************************************************************
+Document:CACM-3198
+
+microprogramming, emulators AND programming languages 
+THE problem WE have been concerned with is that OF converting language to 
+action - or intellectual energy to mechanical energy. THE medium that WE use 
+*********************************************************************
+Document:CACM-3035
+
+a strategic PLANNING methodology for THE computing 
+PLANNING OF THE computing effort IN higher education 
+ARE presented here. a PLANNING methodology was 
+THE effectiveness OF THE PLANNING methodology was assessed 
+*********************************************************************
+Document:CACM-0530
+
+a computer method for radiation treatment PLANNING 
+cacm july, 1962 
+siler, w. 
+*********************************************************************
+Document:CACM-2078
+
+representations for space PLANNING 
+ARE called space PLANNING problems. THE representational 
+that allow automated space PLANNING ARE described AND compared. 
+*********************************************************************
+Document:CACM-1148
+
+for THE GEOMETRIC series ARE shown to give 
+an example IN "significant-digit" arithmetic* 
+different methods OF handling THE summing process 
+*********************************************************************
+Document:CACM-1698
+
+ARE needed IN certain ASPECTS OF operating system 
+a statistical model for console behavior IN multiuser computers 
+THE ability OF a computer system to communicate 
+*********************************************************************
+Document:CACM-1046
+
+IN a number OF ARTICLES published during THE 
+a compiler-building system developed by brooker AND morris 
+past two years, r. a. brooker AND d. morris (joined 
+*********************************************************************
+Document:CACM-2417
+
+four COMBINATORIAL algorithms [g6] (algorithm a466) 
+cacm november, 1973 
+ehrlich, g. 
+*********************************************************************
+Document:CACM-2505
+
+permutation, permutation generation, scheduling, COMBINATORIAL analysis 
+reflection-free permutations, rosary permutations, 
+AND adjacent transposition algorithms 
+*********************************************************************
+Document:CACM-2187
+
+computer science: a conceptual framework for curriculum PLANNING 
+to curriculum PLANNING IN computer science is presented 
+computer science, curriculum PLANNING, education 
+*********************************************************************
+Document:CACM-3156
+
+computing connected components ON parallel computers 
+WE present a parallel algorithm which uses n2 processors to find THE connected 
+components OF an undirected graph with n vertices IN time o(log2n). an 
+*********************************************************************
+Document:CACM-1885
+
+chomsky's ASPECTS OF THE theory OF syntax. THE major 
+a computer system for transformational grammar 
+a comprehensive system for transformational 
+*********************************************************************
+Document:CACM-0697
+
+field isodose curves for treatment PLANNING 
+a numerical method for THE determination OF moving 
+IN radiotherapy 
+*********************************************************************
+Document:CACM-3172
+
+an algorithm for PLANNING collision-free 
+for PLANNING a safe path for a polyhedral object moving among 
+paths among polyhedral obstacles 
+*********************************************************************
+Document:CACM-1621
+
+PLANNING OF typographical lay-out AND computerized control 
+computer typesetting OF algol 
+an application OF computer-aided typesetting 
+*********************************************************************
+Document:CACM-0705
+
+COMBINATORIAL OF m things taken n at a time (algorithm 160) 
+cacm october, 1963 
+blakely, r. e. 
+*********************************************************************
+Document:CACM-0888
+
+algorithm 160 COMBINATORIAL OF m things taken n at a time 
+cacm april, 1963 
+wolfson, m. l. 
+*********************************************************************
+Document:CACM-1385
+
+PLANNING, organization AND educational ASPECTS OF computer 
+computer technology IN communist china, 1956-1965 
+based ON information from translations OF communist 
+*********************************************************************
+Document:CACM-2705
+
+some social ASPECTS OF programming ARE illuminated 
+through analogies with similar ASPECTS OF 
+programming languages, natural languages, AND mathematics 
+*********************************************************************
+Document:CACM-2900
+
+that certain sites should (or should NOT) be 
+some theorems to aid IN solving THE file allocation problem 
+THE file allocation problem-i.e. THE problem 
+*********************************************************************
+Document:CACM-2485
+
+it is suggested that THE PLANNING, organizing, AND controlling 
+stage hypothesis, PLANNING, organizing, 
+managing THE computer resource: a stage hypothesis 
+*********************************************************************
+Document:CACM-2707
+
+THE solution OF two previously open COMBINATORIAL 
+time for THE solution to another COMBINATORIAL problem. 
+macros, COMBINATORIAL computing, non-attacking 
+backtrack programming techniques 
+*********************************************************************
+Document:CACM-0704
+
+COMBINATORIAL OF m things taken one at a time 
+two at a time, up to n at a time (algorithm 161) 
+cacm october, 1963 
+*********************************************************************
+Document:CACM-0887
+
+COMBINATORIAL OF m things taken one at a time, 
+two at a time, up to n at a time (algorithm 161) 
+cacm april, 1963 
+*********************************************************************
+Document:CACM-2582
+
+improving locality by critical working sets 
+a new approach to program locality improvement 
+via restructuring is described. THE method 
+*********************************************************************
+Document:CACM-2406
+
+AND physical ASPECTS OF data is increasingly 
+AND physical ASPECTS OF data. applications OF these 
+a data definition AND mapping language 
+*********************************************************************
+Document:CACM-2087
+
+permutation, ordering, number, number system, p-number, COMBINATORIAL 
+a number system for THE permutations 
+cacm march, 1970 
+*********************************************************************
+Document:CACM-0731
+
+symmetric list processor 
+a list processing system IN which each list 
+cell contains both a forward AND a backward link 
+*********************************************************************
+Document:CACM-0768
+
+COMBINATORIAL OF m things taken n at a time [m. l. wolfson AND h. v. wright, 
+certification OF algorithm 160 
+comm. acm, apr. 1963] 
+*********************************************************************
+Document:CACM-2095
+
+(THE burroughs b5500) ARE discussed. THE most striking feature 
+measurements OF segment size 
+distributions OF segment sizes measured under routine operating con 
+*********************************************************************
+Document:CACM-2836
+
+involving probabilistic parsing or COMBINATORIAL 
+structural ambiguity, COMBINATORIAL optimization 
+weighted derivation trees 
+*********************************************************************
+Document:CACM-2319
+
+AND design THE performance ASPECTS OF an operating system 
+operating system performance 
+an overview OF THE current AND future positions 
+*********************************************************************
+Document:CACM-3150
+
+beyond programming languages 
+as computer technology matures, our growing ability to create large systems is 
+leading to basic changes IN THE nature OF programming. current programming 
+*********************************************************************
+Document:CACM-3135
+
+presented uses THE GEOMETRIC structure OF THE pattern to define 
+ARE: (1) IN pharmacology: searching for a common constellation 
+detection OF three-dimensional patterns OF atoms IN chemical structures 
+*********************************************************************
+Document:CACM-3040
+
+for a COMBINATORIAL search problem: finding 
+backtrack, COMBINATORIAL algorithms, constraint 
+synthesizing constraint expressions 
+*********************************************************************
+Document:CACM-2943
+
+lucid, a nonprocedural language with iteration 
+lucid is a formal system IN which programs 
+can be written AND proofs OF programs carried out. 
+*********************************************************************
+Document:CACM-0755
+
+an exponential method OF numerical integration 
+OF ordinary differential equations 
+a formula for numerical integration is prepared, 
+*********************************************************************
+Document:CACM-2496
+
+ON THE near-optimality OF THE shortest-latency-time-first 
+drum scheduling discipline 
+for computer systems IN which it is practical 
+*********************************************************************
+Document:CACM-1186
+
+recursive solution OF a class OF COMBINATORIAL problems: an example 
+COMBINATORIAL problems requiring THE selection 
+OF n elements from a set OF m elements may be 
+*********************************************************************
+Document:CACM-2167
+
+algebraic simplification: a guide for THE perplexed 
+algebraic simplification is examined first from 
+THE point OF view OF a user who needs to comprehend 
+*********************************************************************
+Document:CACM-3185
+
+THE humble programmer 
+WE shall do a much better programming job, provided that WE approach THE 
+task with a full appreciation if its tremendous difficulty, provided that WE 
+*********************************************************************
+Document:CACM-1348
+
+flowtrace, a computer program for flowcharting programs 
+THE flowtrace system produces flowcharts OF programs 
+written IN "almost any" programming language. 
+*********************************************************************
+Document:CACM-2810
+
+professional ASPECTS, educational programs, industry 
+professionalism IN THE computing field 
+THE term professional means different things 
+*********************************************************************
+Document:CACM-0767
+
+COMBINATORIAL OF m things taken one at a time, 
+certification OF algorithm 161 
+two at a time, up to n at a time 
+[m. l. wolfson AND h. v. wright, 
+*********************************************************************
+Document:CACM-1184
+
+a fast storage allocator 
+a fast storage bookkeeping method is described 
+which is PARTICULARLY appropriate for list-structure 
+*********************************************************************
+Document:CACM-2231
+
+THE reconstruction OF binary patterns from their projections 
+given THE horizontal AND vertical projections 
+OF a finite binary pattern f, can WE construct 
+*********************************************************************
+Document:CACM-2502
+
+a comment ON THE practical ASPECTS OF computer science education 
+cacm may, 1973 
+estell, r. g. 
+*********************************************************************
+Document:CACM-1846
+
+ON simulating networks OF parallel processes 
+IN which simultaneous events may occur 
+some OF THE problems OF simulating discrete 
+*********************************************************************
+Document:CACM-2622
+
+IN THE computer. all ASPECTS OF THE system, including 
+a user authentication scheme NOT requiring secrecy IN THE computer 
+IN many computer operating systems a user authenticates 
+*********************************************************************
+Document:CACM-0321
+
+algol 60 confidential 
+THE algol 60 report,* when first encountered, 
+seems to describe a very complex language which 
+*********************************************************************
+Document:CACM-2887
+
+a study OF errors, error-proneness, AND error diagnosis IN cobol 
+this paper provides data ON cobol error frequency 
+for correction OF errors IN student-oriented 
+*********************************************************************
+Document:CACM-2486
+
+AND certain ASPECTS OF error correction. 
+computer photocomposition OF technical text 
+IN computer assisted typesetting by means OF 
+*********************************************************************
+Document:CACM-1262
+
+procedure-oriented language statements to facilitate parallel processing 
+two statements ARE suggested which allow a programmer 
+writing IN a procedure-oriented language 
+*********************************************************************
+Document:CACM-3154
+
+their logic AND control ASPECTS were identified AND separated IN 
+algorithm = logic + control 
+an algorithm can be regarded as consisting OF a logic component, 
+*********************************************************************
+Document:CACM-1948
+
+simple COMBINATORIAL or numerical programs to large 
+computers IN group theory: a survey 
+computers ARE being applied to an increasingly 
+*********************************************************************
+Document:CACM-1978
+
+THE use OF interactive graphics to solve numerical problems 
+with THE advent OF on-line (time-sharing) computer systems 
+AND graphic terminals, WE have available a new dimension 
+*********************************************************************
+Document:CACM-2712
+
+algorithm is given which does NOT show a COMBINATORIAL 
+horner's rule for THE evaluation OF general closed queueing networks 
+THE solution OF separable closed queueing networks 
+*********************************************************************
+Document:CACM-2572
+
+arguments for a moratorium ON THE construction 
+OF a community information utility 
+IN this article THE author urges a prudent 
+*********************************************************************
+Document:CACM-1001
+
+copyright ASPECTS OF computer usage 
+law. some ASPECTS OF THE proposed new copyright 
+this paper is concerned with THE question OF 
+*********************************************************************
+Document:CACM-2383
+
+OF THE ASPECTS OF human composition. five samples OF 
+music AND computer composition 
+THE problem discussed is that OF simulating human 
+*********************************************************************
+Document:CACM-3030
+
+an example OF hierarchical design AND proof 
+hierarchical programming is being increasingly 
+recognized as helpful IN THE construction OF 
+*********************************************************************
+Document:CACM-2918
+
+multiprocessor memory organization AND memory interference 
+THE structure OF shared memory IN a multiprocessor 
+computer system is examined with particular 
+*********************************************************************
+Document:CACM-3033
+
+IN this paper combines THE positive ASPECTS OF THE above 
+optimizing decision trees through heuristically guided search 
+optimal decision table conversion has been 
+*********************************************************************
+Document:CACM-1379
+
+a final solution to THE dangling else OF algol 60 AND related languages 
+THE dangling else problem consists OF a class 
+OF potential ambiguities IN algol-like conditional 
+*********************************************************************
+Document:CACM-3125
+
+global optimization by suppression OF partial redundancies 
+THE elimination OF redundant computations AND THE moving OF invariant 
+computations out OF loops ARE often done separately, with invariants 
+*********************************************************************
+Document:CACM-3132
+
+experiments with some algorithms that find 
+central solutions for pattern classification 
+IN two-class pattern recognition, it is a standard 
+*********************************************************************
+Document:CACM-2046
+
+data is organized IN THE machine (THE internal representation). a prompting 
+OF data is changed AND even when some ASPECTS OF THE external representation 
+a relational model OF data for large shared data banks 
+*********************************************************************
+Document:CACM-2667
+
+distributions (exponential, hyperexponential, AND GEOMETRIC). 
+execution characteristics OF programs IN a page-on-demand system 
+data ARE presented which show THE execution characteristics 
+*********************************************************************
+Document:CACM-3105
+
+a language extension for expressing constraints ON data access 
+controlled sharing OF information is needed AND 
+desirable for many applications AND is supported 
+*********************************************************************

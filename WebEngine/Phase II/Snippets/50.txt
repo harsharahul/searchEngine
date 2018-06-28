@@ -1,0 +1,653 @@
+Query:parallel processors in information retrieval
+
+Document:CACM-3156
+
+computing connected components on PARALLEL computers 
+o(log2n) time bound also can be achieved using only n$n/$log2n)) PROCESSORS. 
+of a symmetric boolean matrix. we assume that the PROCESSORS have 
+graph theory, PARALLEL processing, algorithms, 
+*********************************************************************
+Document:CACM-3075
+
+fast PARALLEL sorting algorithms 
+a PARALLEL bucket-sort algorithm is presented 
+PROCESSORS. the algorithm makes use of a technique that 
+requires more space than the product of PROCESSORS 
+*********************************************************************
+Document:CACM-2714
+
+merging with PARALLEL PROCESSORS 
+|b|=n, m<=n, and p, p<=m, PARALLEL PROCESSORS 
+for merging a and b with the p PARALLEL PROCESSORS, 
+PARALLEL processing, PARALLEL merging, PARALLEL binary insertion 
+*********************************************************************
+Document:CACM-2278
+
+binary trees, search trees, INFORMATION storage, INFORMATION RETRIEVAL 
+on foster's INFORMATION storage and RETRIEVAL using avl trees 
+cacm september, 1972 
+*********************************************************************
+Document:CACM-2288
+
+RETRIEVAL, INFORMATION RETRIEVAL, record organization, 
+file organization: the consecutive RETRIEVAL property 
+the consecutive RETRIEVAL property is an important 
+set. its existence enables the design of an INFORMATION 
+*********************************************************************
+Document:CACM-1811
+
+the PROCESSORS can simultaneously execute separate 
+PROCESSORS have independent instruction counters, meaning 
+relatively independently of the other PROCESSORS. communication 
+between cooperating PROCESSORS is by 
+*********************************************************************
+Document:CACM-1699
+
+INFORMATION RETRIEVAL testing, INFORMATION system 
+of mechanized INFORMATION RETRIEVAL systems, 
+of the research is that an INFORMATION RETRIEVAL system 
+experimental evaluation of INFORMATION 
+*********************************************************************
+Document:CACM-0891
+
+everyman's INFORMATION RETRIEVAL system 
+the INFORMATION RETRIEVAL problem whose solution 
+to install an INFORMATION RETRIEVAL program IN less than 
+to many different types of RETRIEVAL problems. further,the 
+*********************************************************************
+Document:CACM-1457
+
+IN automatic INFORMATION RETRIEVAL 
+automatic INFORMATION RETRIEVAL programs require 
+facilities to aid IN INFORMATION RETRIEVAL. 
+manipulations to be performed IN automatic INFORMATION 
+*********************************************************************
+Document:CACM-3134
+
+INFORMATION RETRIEVAL, inverted files, multiattribute RETRIEVAL, 
+d RETRIEVAL of INFORMATION are described. this method is particularly 
+for INFORMATION storage and RETRIEVAL 
+this paper describes a method for the organization and RETRIEVAL of attribute 
+*********************************************************************
+Document:CACM-2114
+
+a formal system for INFORMATION RETRIEVAL from files 
+file structure, directory decoding, and record RETRIEVAL are defined 
+lists, prime keyword, PARALLEL processing of lists 
+*********************************************************************
+Document:CACM-1927
+
+science, INFORMATION organization, INFORMATION RETRIEVAL, 
+INFORMATION science IN a ph. computer science program 
+curriculum IN the general area of INFORMATION 
+organization and INFORMATION system design IN a ph. 
+*********************************************************************
+Document:CACM-1681
+
+remote console communication, INFORMATION RETRIEVAL, 
+mode, INFORMATION RETRIEVAL language, symbolic command language 
+easy english,a language for INFORMATION 
+RETRIEVAL through a remote typewriter console 
+*********************************************************************
+Document:CACM-2497
+
+synchronizing PROCESSORS with memory-content-generated interrupts 
+of synchronizing PROCESSORS IN a multiprocessor 
+IN the repertoire of the PROCESSORS and a special "read-interlock" 
+interrupts,supervisors, monitors, debugging, PARALLEL 
+*********************************************************************
+Document:CACM-0634
+
+manipulation of trees IN INFORMATION retrieval* 
+cacm february, 1962 
+salton, g. 
+*********************************************************************
+Document:CACM-1830
+
+INFORMATION RETRIEVAL, direct access memory, data base, inverted list 
+RETRIEVAL times for a packed direct access inverted file 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-2723
+
+the simple case of two PROCESSORS, one performing lisp-like 
+complex cases involving several list PROCESSORS 
+and one or more garbage collection PROCESSORS are also briefly discussed. 
+semaphores, PARALLEL processing, compactification, relocation, 
+*********************************************************************
+Document:CACM-2570
+
+a comparison of list schedules for PARALLEL processing systems 
+the problem of scheduling two or more PROCESSORS 
+PARALLEL processing, precedence graphs, scheduling, 
+*********************************************************************
+Document:CACM-2516
+
+hierarchical storage IN INFORMATION RETRIEVAL 
+on INFORMATION RETRIEVAL operations. the data storage 
+INFORMATION RETRIEVAL, hierarchical storage 
+*********************************************************************
+Document:CACM-2175
+
+IN serials, IN PARALLEL, or IN a combination of these 
+PARALLEL processing, cache, arithmetic expressions, 
+PARALLEL exceeds the number of available PROCESSORS, 
+subexpression ordering IN the execution of arithmetic expressions 
+*********************************************************************
+Document:CACM-0651
+
+a survey of languages and systems for INFORMATION RETRIEVAL 
+cacm january, 1962 
+grems, m. 
+*********************************************************************
+Document:CACM-0275
+
+dynamic storage allocation for an INFORMATION RETRIEVAL system 
+cacm october, 1961 
+sams, b. h. 
+*********************************************************************
+Document:CACM-2070
+
+a formal system for INFORMATION RETRIEVAL from files 
+cacm april, 1970 
+hsiao, d. 
+*********************************************************************
+Document:CACM-2990
+
+effective INFORMATION RETRIEVAL using term accuracy 
+the performance of INFORMATION RETRIEVAL systems 
+INFORMATION RETRIEVAL, automatic indexing, content 
+on measuring the RETRIEVAL performance of an average 
+*********************************************************************
+Document:CACM-1680
+
+INFORMATION RETRIEVAL. it is written IN fortran 
+programs) of the operating system. language PROCESSORS 
+programming, simulation, modeling, INFORMATION 
+RETRIEVAL operating systems, graphics, displays, man-machine 
+*********************************************************************
+Document:CACM-1935
+
+and offers new potential for INFORMATION RETRIEVAL systems. 
+binary pattern, file examination, graph theory, INFORMATION 
+RETRIEVAL, mathematical model, partitioning, 
+randomized binary search technique 
+*********************************************************************
+Document:CACM-3012
+
+the use of an interactive INFORMATION storage 
+and RETRIEVAL system IN medical research 
+and RETRIEVAL system. a monitor built into the computer 
+implementation, system use, INFORMATION storage and RETRIEVAL system 
+*********************************************************************
+Document:CACM-0082
+
+handling identifiers as internal symbols IN language PROCESSORS 
+programmer-oriented symbols IN language PROCESSORS 
+substitution of computer-oriented symbols for 
+*********************************************************************
+Document:CACM-1032
+
+theoretical considerations IN INFORMATION RETRIEVAL systems 
+INFORMATION storage and RETRIEVAL systems are composed 
+(c) file organization to make access to INFORMATION 
+efficient. for identification of INFORMATION the paper 
+*********************************************************************
+Document:CACM-2530
+
+INFORMATION RETRIEVAL, coding, text compression 
+an algorithm for extracting phrases IN 
+a space-optimal fashion [z] (algorithm a444) 
+*********************************************************************
+Document:CACM-0239
+
+for INFORMATION RETRIEVAL systems 
+inefficiency of the use of boolean functions 
+cacm december, 1961 
+*********************************************************************
+Document:CACM-2532
+
+string, substring, hashing, INFORMATION storage and RETRIEVAL 
+on harrison's substring testing technique 
+cacm march, 1973 
+*********************************************************************
+Document:CACM-2976
+
+and measurement, INFORMATION RETRIEVAL, 
+approximating block accesses IN database organizations 
+cacm april, 1977 
+*********************************************************************
+Document:CACM-2965
+
+query, boolean expression, INFORMATION RETRIEVAL, file organization 
+an optimal evaluation of boolean expressions IN an online query system 
+cacm may, 1977 
+*********************************************************************
+Document:CACM-3168
+
+query, boolean expression, INFORMATION RETRIEVAL, file organization 
+comment on "an optimal evaluation of boolean 
+expressions IN an online query system." 
+*********************************************************************
+Document:CACM-1831
+
+INFORMATION RETRIEVAL, file searching, tree structures, double chaining 
+a comment on optimal tree structures 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-0292
+
+an INFORMATION RETRIEVAL language for legal studies 
+cacm september, 1961 
+kehl, w. b. 
+*********************************************************************
+Document:CACM-2140
+
+files, INFORMATION RETRIEVAL, query, multi-attribute 
+permitted decreased RETRIEVAL time at the cost 
+different fractions of RETRIEVAL and update. tradeoff 
+RETRIEVAL, file update 
+*********************************************************************
+Document:CACM-2631
+
+direct access, INFORMATION RETRIEVAL, character 
+INFORMATION, an attempt is made to overcome 
+one of the problems often associated with INFORMATION 
+RETRIEVAL, namely, the maintenance and use of large 
+*********************************************************************
+Document:CACM-3169
+
+query, boolean expression, optimal evaluation, INFORMATION RETRIEVAL 
+note on "an optimal evaluation of boolean expressions 
+IN an online query system." 
+*********************************************************************
+Document:CACM-2882
+
+list, INFORMATION RETRIEVAL, database organizations, 
+organization IN data RETRIEVAL systems 
+scale data RETRIEVAL systems has been scarce due 
+discusses a simulation model of a data RETRIEVAL 
+*********************************************************************
+Document:CACM-2552
+
+hash code, open hash, chaining, INFORMATION RETRIEVAL, collision 
+a note on when to chain overflow items within a direct-access table 
+cacm january, 1973 
+*********************************************************************
+Document:CACM-1846
+
+on simulating networks of PARALLEL processes 
+simulating the PARALLEL events or report that none 
+the INFORMATION available to the solution technique, but 
+unfeasible when the additional INFORMATION is provided. 
+*********************************************************************
+Document:CACM-1514
+
+INFORMATION RETRIEVAL system. 
+on the expected gain from adjust ing matched term RETRIEVAL systems 
+term RETRIEVAL systems. the expected gain and its probability 
+*********************************************************************
+Document:CACM-2781
+
+method, randomizing INFORMATION RETRIEVAL 
+the algorithm sequential access method: 
+an alternative to index sequential 
+*********************************************************************
+Document:CACM-2412
+
+hashing, INFORMATION storage and RETRIEVAL, 
+comment on brent's scatter storage algorithm 
+cacm november, 1973 
+*********************************************************************
+Document:CACM-2865
+
+verifying properties of PARALLEL programs: an axiomatic approach 
+of properties of PARALLEL programs is presented. 
+which are added to a PARALLEL program as 
+an aid to proving it correct. the INFORMATION IN a partial 
+*********************************************************************
+Document:CACM-1937
+
+data display, INFORMATION RETRIEVAL, graphic display, 
+a user-oriented data RETRIEVAL and display system. 
+with an easy means for specifying data RETRIEVAL 
+codas: a data display system 
+*********************************************************************
+Document:CACM-2519
+
+using a computer based INFORMATION RETRIEVAL system 
+complex INFORMATION, INFORMATION, communication, 
+on the problem of communicating complex INFORMATION 
+INFORMATION we are communicating, and a sophisticated 
+*********************************************************************
+Document:CACM-2967
+
+memory, graphics, INFORMATION RETRIEVAL, 
+PARALLEL processing, database management 
+a comparison of hardware and software associative 
+memories IN the context of computer graphics 
+*********************************************************************
+Document:CACM-2307
+
+for INFORMATION RETRIEVAL and for the control 
+files are searched and INFORMATION is retrieved following 
+reorganization of the stored INFORMATION as a function of 
+automatic indexing, automatic search and RETRIEVAL, 
+*********************************************************************
+Document:CACM-1262
+
+procedure-oriented language statements to facilitate PARALLEL processing 
+IN PARALLEL. the statements are do together 
+a range of PARALLEL operation and partly to 
+define each PARALLEL path within this range. do togethers 
+*********************************************************************
+Document:CACM-2455
+
+trees on the basis of mean RETRIEVAL time, of amount 
+of RETRIEVAL time. it is shown that, by permitting 
+imbalances of up to five units, the RETRIEVAL time 
+avl trees, balanced trees, INFORMATION storage and RETRIEVAL 
+*********************************************************************
+Document:CACM-1825
+
+a practical method for constructing lr(k) PROCESSORS 
+is developed. these PROCESSORS are capable 
+PROCESSORS are satisfied, then an lr(k) processor 
+*********************************************************************
+Document:CACM-2973
+
+PARALLEL computer, PARALLEL sorting, PARALLEL merge, 
+sorting on a mesh-connected PARALLEL computer 
+two algorithms are presented for sorting n^2 
+*********************************************************************
+Document:CACM-2896
+
+an exercise IN proving PARALLEL programs correct 
+a PARALLEL program, dijkstra's on-the-fly garbage 
+with proving such PARALLEL programs correct 
+*********************************************************************
+Document:CACM-1359
+
+data filtering applied to INFORMATION storage and RETRIEVAL applications 
+processing function IN INFORMATION storage 
+and RETRIEVAL applications. data string manipulation 
+*********************************************************************
+Document:CACM-2685
+
+the PARALLEL execution of do loops 
+methods are developed for the PARALLEL execution 
+PARALLEL computing, multiprocessor computers, 
+*********************************************************************
+Document:CACM-0763
+
+a syntax controlled generator of formal language PROCESSORS 
+cacm august, 1963 
+eickel, j. 
+*********************************************************************
+Document:CACM-1665
+
+PROCESSORS using finite state techniques 
+lexical PROCESSORS is dealt with IN this tutorial article 
+and character count IN the item. the PROCESSORS 
+since 1966, and PROCESSORS generated have 
+*********************************************************************
+Document:CACM-1959
+
+an interrupt based organization for management INFORMATION systems 
+the new organization which is proposed for management INFORMATION systems. 
+management INFORMATION systems, integrated data processing, 
+systems, interrupt scheduling, PARALLEL processing 
+*********************************************************************
+Document:CACM-2561
+
+a heuristic approach to inductive inference IN fact RETRIEVAL systems 
+from available INFORMATION. the procedures make use 
+are implemented IN a model fact RETRIEVAL system 
+inference, inductive inference, clustering, fact RETRIEVAL, heuristics 
+*********************************************************************
+Document:CACM-2160
+
+file organization, INFORMATION RETRIEVAL, inverted 
+a new file structure for attribute based RETRIEVAL 
+thus, for example, the structure for RETRIEVAL 
+be very different from one where only RETRIEVAL 
+*********************************************************************
+Document:CACM-2711
+
+automatic INFORMATION RETRIEVAL, automatic 
+IN a document RETRIEVAL, or other pattern matching 
+IN particular, RETRIEVAL performance may correlate inversely 
+a vector space model for automatic indexing 
+*********************************************************************
+Document:CACM-2139
+
+compression, INFORMATION RETRIEVAL, searching 
+substring, hashing, subset, signature, INFORMATION 
+implementation of the substring test by hashing 
+*********************************************************************
+Document:CACM-1236
+
+the smart automatic document RETRIEVAL system-an illustration 
+a fully automatic document RETRIEVAL system 
+and search requests. this feature is used IN the RETRIEVAL 
+retrieve the wanted INFORMATION. a typical search 
+*********************************************************************
+Document:CACM-1675
+
+INFORMATION RETRIEVAL, relevance, indexing, classification 
+a note on a relevance estimate and its improvement 
+IN this paper the effect of iterating the improvement 
+*********************************************************************
+Document:CACM-2700
+
+reduction: a method of proving properties of PARALLEL programs 
+when proving that a PARALLEL program has a 
+halting. thus correctness proofs of a PARALLEL 
+PARALLEL program, semaphore, verification 
+*********************************************************************
+Document:CACM-1988
+
+of PROCESSORS for programming languages-compilers, 
+be produced from a given set of component PROCESSORS. 
+a formalism for translator interactions 
+*********************************************************************
+Document:CACM-1158
+
+program structures for PARALLEL processing 
+constructs for organizing and explicating PARALLEL 
+program segments are discussed as extensions 
+*********************************************************************
+Document:CACM-2846
+
+INFORMATION RETRIEVAL systems. it has the same underlying 
+RETRIEVAL time, measured IN terms of bit inspections 
+improvement IN storage requirements and RETRIEVAL time 
+RETRIEVAL time, storage requirement, keys 
+*********************************************************************
+Document:CACM-2947
+
+INFORMATION RETRIEVAL, text editing, minicomputers, 
+search and RETRIEVAL systems, but has several 
+RETRIEVAL, literary analysis, linguistic analysis, command languages 
+sitar: an interactive text processing system for small computers 
+*********************************************************************
+Document:CACM-0655
+
+it well suited to various types of INFORMATION RETRIEVAL 
+comit as an ir language 
+many of the features that make comit a good 
+*********************************************************************
+Document:CACM-1627
+
+storage capacities of certain data management and INFORMATION 
+RETRIEVAL systems. the concept of level 
+physically organizing the INFORMATION for efficient 
+application of level changing to a multilevel storage organization 
+*********************************************************************
+Document:CACM-1652
+
+to problems IN area such as INFORMATION RETRIEVAL, document 
+a code for non-numeric INFORMATION processing 
+the internal INFORMATION processing operations 
+rate of the INFORMATION channel linking the system and 
+*********************************************************************
+Document:CACM-2258
+
+file search, scatter storage, INFORMATION RETRIEVAL 
+additional results on key-to-address transform 
+techniques: a fundamental performance study on 
+large existing formatted files 
+*********************************************************************
+Document:CACM-2266
+
+a highly PARALLEL algorithm for approximating 
+is conceptually suitable for PARALLEL computation, 
+PARALLEL numerical algorithms, real polynomials, 
+all zeros of a polynomial with only real zeros 
+*********************************************************************
+Document:CACM-2785
+
+PARALLEL computation, PARALLEL architecture 
+of the problems associated with PARALLEL computer 
+glypnir-a programming language for illiac iv 
+*********************************************************************
+Document:CACM-2493
+
+data base, reorganization, files, INFORMATION RETRIEVAL 
+optimum data base reorganization points 
+IN certain data base organization schemes the 
+*********************************************************************
+Document:CACM-1725
+
+ordered lists, ordered INFORMATION RETRIEVAL, 
+an efficient method of ordered RETRIEVAL of binary 
+ordered RETRIEVAL theorem, column digit values, digit 
+access frequency, ordered RETRIEVAL efficiency, 
+*********************************************************************
+Document:CACM-0950
+
+PARALLEL methods for integrating ordinary differential equations 
+computations of highly PARALLEL computers as can be 
+"PARALLEL" form. by this is meant that serial 
+*********************************************************************
+Document:CACM-1828
+
+PARALLEL accessing, PARALLEL search, file search, 
+which will maximize the amount of PARALLEL 
+synchronization IN a parallel-accessed data base 
+*********************************************************************
+Document:CACM-0141
+
+some thoughts on PARALLEL processing 
+cacm october, 1960 
+yarbrough, l. d. 
+*********************************************************************
+Document:CACM-2032
+
+tables, hashing functions, INFORMATION RETRIEVAL 
+file structures using hashing functions 
+a general method of file structuring is proposed which uses a hashing 
+*********************************************************************
+Document:CACM-1302
+
+PARALLEL signaling speeds for data transmission 
+(proposed american stand ard) 
+cacm march, 1965 
+*********************************************************************
+Document:CACM-0392
+
+comment on a paper on PARALLEL processing 
+cacm february, 1961 
+nekora, m. r. 
+*********************************************************************
+Document:CACM-1960
+
+include the ability given to any user to schedule his own PARALLEL 
+takes into account recent INFORMATION about user behavior. 
+process management and resource sharing IN the multiaccess system esope 
+*********************************************************************
+Document:CACM-2451
+
+a standard INFORMATION RETRIEVAL operation is 
+tree file, INFORMATION storage and RETRIEVAL, clustering, 
+design of tree structures for efficient querying 
+*********************************************************************
+Document:CACM-2484
+
+data base, data-base management, INFORMATION RETRIEVAL, 
+a note on INFORMATION organization and storage 
+INFORMATION structures, as list, tree, ring, 
+etc. thus the problem of INFORMATION organization and 
+*********************************************************************
+Document:CACM-2575
+
+the best-match problem IN document RETRIEVAL 
+document RETRIEVAL, best match, clustering, file 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-0440
+
+maximum use of items of identifying INFORMATION 
+rules that can be applied generally to name RETRIEVAL 
+these rules are described, and the ways IN which INFORMATION 
+record linkage 
+*********************************************************************
+Document:CACM-2895
+
+of communicating PARALLEL processes is described. 
+formal specifications,program correctness, PARALLEL 
+a language for formal problem specification 
+*********************************************************************
+Document:CACM-2623
+
+file maintenance, INFORMATION RETRIEVAL, utility 
+given and compared with statistics for other INFORMATION coding techniques. 
+a new technique for compression and storage of data 
+*********************************************************************
+Document:CACM-2832
+
+so that data can be cached to speed up RETRIEVAL. a RETRIEVAL 
+faster RETRIEVAL from context trees (corrigendum) 
+on previous context tree RETRIEVAL algorithms. 
+RETRIEVAL and auxiliary structures are built up to make 
+*********************************************************************
+Document:CACM-1468
+
+on labeling techniques using PARALLEL processing 
+this to bubble chamber pictures. the PARALLEL processing 
+and the PARALLEL processing simulator mentioned 
+syntax-directed interpretation of classes of pictures 
+*********************************************************************
+Document:CACM-2342
+
+interference between communicating PARALLEL processes 
+PARALLEL processes have been examined by 
+subproblems, IN the form of PARALLEL programs, and informal 
+these solutions. IN this paper a system of PARALLEL 
+*********************************************************************
+Document:CACM-1976
+
+multi-attribute RETRIEVAL with combined indexes 
+file organization, secondary index files, inverted files, INFORMATION 
+RETRIEVAL, data management, access method, secondary 
+keys, storage with buckets, rapid RETRIEVAL, balanced filing scheme, elimination 
+*********************************************************************
+Document:CACM-3059
+
+models for PARALLEL processing within programs: 
+approximate queueing models for internal PARALLEL 
+multiprogramming, PARALLEL processing, queueing 
+application to cpu:i/o and i/o:i/o overlap 
+*********************************************************************
+Document:CACM-2182
+
+interrupts, supervisors, monitors, debugging, PARALLEL 
+interrupt driven programming 
+cacm july, 1971 
+*********************************************************************
+Document:CACM-2664
+
+time by a divisor which is the number of PROCESSORS. 
+parallelism IN tape-sorting 
+two methods for employing parallelism IN tape-sorting 
+*********************************************************************

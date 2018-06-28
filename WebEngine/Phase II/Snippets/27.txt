@@ -1,0 +1,679 @@
+Query:memory management aspects of operating systems
+
+Document:CACM-2069
+
+OPERATING SYSTEMS, MEMORY MANAGEMENT 
+comments on a paper by wallace and mason 
+cacm april, 1970 
+*********************************************************************
+Document:CACM-2297
+
+paging machines, demand paging, OPERATING SYSTEMS 
+MEMORY MANAGEMENT 
+a model OF MEMORY contention in a paging machine 
+this paper is concerned with certain ASPECTS OF contention 
+*********************************************************************
+Document:CACM-2902
+
+MEMORY MANAGEMENT, dynamic storage allocation, 
+MEMORY MANAGEMENT, programming techniques, simulation, 
+simulation MEMORY MANAGEMENT, simulation techniques, 
+algorithms. simple algorithms OPERATING on MEMORY ordered 
+*********************************************************************
+Document:CACM-2988
+
+MEMORY MANAGEMENT and response time 
+MEMORY MANAGEMENT, system performance, queueing 
+in queueing network models OF computer SYSTEMS. 
+variables such as MEMORY requirement distribution 
+*********************************************************************
+Document:CACM-2358
+
+information sharing, paging, MEMORY MANAGEMENT, 
+the multics virtual MEMORY: concepts and design 
+as experience with use OF on-line OPERATING 
+SYSTEMS has grown, the need to share information 
+*********************************************************************
+Document:CACM-2319
+
+OPERATING system performance 
+with respect to OPERATING system performance 
+OF an OPERATING system, an overall model OF the total 
+and design the performance ASPECTS OF an OPERATING system 
+*********************************************************************
+Document:CACM-3006
+
+occur in paged virtual MEMORY OPERATING SYSTEMS 
+anomaly, MEMORY MANAGEMENT, program behavior, stack 
+and paging algorithms, an increase in mean MEMORY allocation 
+algorithms, virtual MEMORY, working set, page 
+*********************************************************************
+Document:CACM-2406
+
+as in advanced data MANAGEMENT SYSTEMS and distributed 
+data translation, data base MANAGEMENT SYSTEMS, 
+and physical ASPECTS OF data is increasingly 
+apparent. such languages will be a key SYSTEMS, as well 
+*********************************************************************
+Document:CACM-1752
+
+time-sharing, OPERATING SYSTEMS, resource MANAGEMENT, 
+MEMORY MANAGEMENT, virtual memories 
+a medium size virtual MEMORY paging machine are 
+resource MANAGEMENT for a medium scale time-sharing OPERATING system 
+*********************************************************************
+Document:CACM-2372
+
+OPERATING SYSTEMS, access MANAGEMENT, data banks, 
+system implementation within today's languages and OPERATING SYSTEMS. 
+MANAGEMENT information SYSTEMS 
+on the implementation OF security measures in information SYSTEMS 
+*********************************************************************
+Document:CACM-2740
+
+OF OPERATING SYSTEMS. the project MANAGEMENT 
+a large semaphore based OPERATING system 
+a large OPERATING system as a set OF cooperating 
+and the performance are discussed, too. the OPERATING 
+*********************************************************************
+Document:CACM-2374
+
+storage partitioning, MEMORY MANAGEMENT, dynamic 
+SYSTEMS. the storage requirement OF programs is modeled 
+and OPERATING efficiency over fixed partitioning. 
+a study OF storage partitioning using a mathematical model OF locality 
+*********************************************************************
+Document:CACM-1901
+
+storage MANAGEMENT, MEMORY MANAGEMENT, program 
+dynamic space-sharing in computer SYSTEMS 
+in computer SYSTEMS is presented. concepts OF value and 
+space-sharing, storage allocation, MEMORY allocation, 
+*********************************************************************
+Document:CACM-1753
+
+virtual MEMORY, processes, and sharing in multics 
+OF the multics OPERATING system are introduced. 
+MEMORY are defined and the use OF paging and 
+virtual MEMORY, information sharing, shared procedures, 
+*********************************************************************
+Document:CACM-1892
+
+strategies, OPERATING SYSTEMS, MEMORY MANAGEMENT 
+degree OF multiprogramming in page-on-demand SYSTEMS 
+between the number OF programs permitted to share MEMORY 
+SYSTEMS. the model preserves, as a key feature, the 
+*********************************************************************
+Document:CACM-1728
+
+behavior, virtual MEMORY SYSTEMS, single-level 
+OPERATING SYSTEMS, supervisor simulation, machine 
+directed at the measurement OF program OPERATING 
+behavior in those multiprogramming SYSTEMS in which 
+*********************************************************************
+Document:CACM-2345
+
+education, MANAGEMENT SYSTEMS, SYSTEMS analysis, 
+MANAGEMENT information SYSTEMS, information SYSTEMS 
+professional programs in information SYSTEMS 
+SYSTEMS in organizations is discussed, and a 
+*********************************************************************
+Document:CACM-1750
+
+multiprogrammed OPERATING SYSTEMS, multiprocessor 
+OPERATING SYSTEMS, control data corporation 6600, OPERATING system with ecs 
+(but not executable) fast random access MEMORY to 
+OF the faster MEMORY. 
+*********************************************************************
+Document:CACM-3000
+
+MEMORY SYSTEMS are presented and discussed. 
+the characteristics OF the virtual MEMORY requirements 
+OF MEMORY requests and for their holding times 
+they provide new empirical evidence OF certain ASPECTS 
+*********************************************************************
+Document:CACM-2867
+
+modularization and hierarchy in a family OF OPERATING SYSTEMS 
+used in the construction OF a family OF OPERATING 
+SYSTEMS. it is shown that the concepts OF module and 
+data type, address space, virtual MEMORY 
+*********************************************************************
+Document:CACM-2577
+
+site data MANAGEMENT, retrieval SYSTEMS 
+an on-site data MANAGEMENT system application in field archaeology 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-2669
+
+SYSTEMS, virtual MEMORY, associative MEMORY, MEMORY usage accounting, multics 
+managed multilevel MEMORY system requires 
+information stored in the MEMORY. some recent 
+experimental measurements on the multics virtual MEMORY 
+*********************************************************************
+Document:CACM-3011
+
+nature OF these SYSTEMS, MANAGEMENT use OF computing is 
+MANAGEMENT utilization OF computers in american local governments 
+traditional concepts OF MANAGEMENT information 
+SYSTEMS (mis) bear little relation to the information 
+*********************************************************************
+Document:CACM-1461
+
+discussion summary on OPERATING SYSTEMS 
+cacm march, 1966 
+ca660311 jb march 3, 1978 1:26 pm 
+*********************************************************************
+Document:CACM-3067
+
+database referencing, MEMORY MANAGEMENT, optimal 
+for the entire class OF demand-fetching MEMORY 
+defined; at its OPERATING points it minimizes aggregated 
+showing swapping load as a function OF MEMORY 
+*********************************************************************
+Document:CACM-2379
+
+OPERATING SYSTEMS, system design, levels OF abstraction, 
+the design OF the venus OPERATING system 
+the venus OPERATING system is an experimental 
+to define the OPERATING system as simply as possible. 
+*********************************************************************
+Document:CACM-2852
+
+the technology OF computer center MANAGEMENT: a 
+in computer science or in information SYSTEMS 
+adding a course on information SYSTEMS administration 
+on computer education for MANAGEMENT for graduate 
+*********************************************************************
+Document:CACM-2479
+
+education, MANAGEMENT information SYSTEMS, information 
+MANAGEMENT, computer MANAGEMENT 
+programs in information SYSTEMS: recommended 
+addendum on information SYSTEMS administration 
+*********************************************************************
+Document:CACM-2583
+
+SYSTEMS: a report from stanley house 
+humanization, social implication, MANAGEMENT, information 
+SYSTEMS, regulations, social and behavioral 
+guidelines for humanizing computerized information 
+*********************************************************************
+Document:CACM-3068
+
+a model for verification OF data security in OPERATING SYSTEMS 
+here in terms OF a general model for OPERATING SYSTEMS. 
+OPERATING SYSTEMS, security, protection, program verification 
+uncircumventably secure, shared computer SYSTEMS. a 
+*********************************************************************
+Document:CACM-2689
+
+report generation, automated SYSTEMS design, data processing, MANAGEMENT 
+a crt report generating system 
+cacm january, 1974 
+*********************************************************************
+Document:CACM-2798
+
+interleaved MEMORY SYSTEMS, modular MEMORY SYSTEMS, 
+analysis OF interleaved MEMORY SYSTEMS using blockage buffers 
+a model OF interleaved MEMORY SYSTEMS is presented, 
+to the MEMORY system. performance is measured 
+*********************************************************************
+Document:CACM-1959
+
+an interrupt based organization for MANAGEMENT information SYSTEMS 
+the new organization which is proposed for MANAGEMENT information SYSTEMS. 
+MANAGEMENT information SYSTEMS, integrated data processing, 
+for the design and coding OF large shared data base SYSTEMS. the 
+*********************************************************************
+Document:CACM-2502
+
+a comment on the practical ASPECTS OF computer science education 
+sciences curriculum, SYSTEMS design 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-2262
+
+MEMORY SYSTEMS, and compares them with traditional 
+garbage collection for virtual MEMORY computer SYSTEMS 
+growth within a virtual MEMORY computer system, 
+garbage collection, virtual MEMORY, list 
+*********************************************************************
+Document:CACM-2624
+
+virtual machine SYSTEMS have been implemented 
+SYSTEMS, e.g. cp-67 on the ibm 360/67. from previous 
+generation computer SYSTEMS, e.g. the dec pdp-10, cannot 
+OPERATING system, third generation architecture, 
+*********************************************************************
+Document:CACM-2481
+
+a virtual MEMORY computer system with a fast 
+buffer (cache) MEMORY between primary MEMORY and 
+and primary MEMORY is studied using the program's lifetime 
+storage are obtained for swapping and nonswapping buffer MANAGEMENT policies. 
+*********************************************************************
+Document:CACM-2864
+
+modeling OF program behavior and MEMORY MANAGEMENT in virtual MEMORY SYSTEMS. 
+program behavior, MEMORY MANAGEMENT, locality 
+characteristics OF program localities 
+*********************************************************************
+Document:CACM-2818
+
+SYSTEMS with interleaved MEMORY (corrigendum) 
+interference in multiprocessor computer 
+cacm november, 1976 
+*********************************************************************
+Document:CACM-2582
+
+is particularly suited to those SYSTEMS where primary MEMORY 
+working set which does not contain the next MEMORY 
+OF an OPERATING system have shown its substantial superiority 
+improvement, MEMORY hierarchies, virtual 
+*********************************************************************
+Document:CACM-2017
+
+performance evaluation, MEMORY MANAGEMENT 
+environment characteristic OF virtual MEMORY machines. descriptions OF 
+sorting, merging, virtual machines, paging SYSTEMS, dynamic 
+storage allocation, measurement OF SYSTEMS program behavior, 
+*********************************************************************
+Document:CACM-3050
+
+SYSTEMS design education: a gaming approach 
+this paper presents a MANAGEMENT game that allows 
+and a simulated run OF the center OPERATING under 
+system design, configuration, MANAGEMENT game 
+*********************************************************************
+Document:CACM-3026
+
+languages, data MANAGEMENT SYSTEMS, 
+the 1100 series SYSTEMS are sperry univac's 
+large-scale main frame computer SYSTEMS. beginning 
+registers. the 1100 OPERATING system is designed 
+*********************************************************************
+Document:CACM-2868
+
+reflections on an OPERATING system design 
+OPERATING system developed for the cdc 6400 
+layers when levels were added to the MEMORY hierarchy; 
+OPERATING system, protection, capabilities, 
+*********************************************************************
+Document:CACM-3028
+
+storage, extra codes, compilers, OPERATING SYSTEMS, 
+two SYSTEMS stand out: the mark i (developed 
+MANAGEMENT have evolved in the progression from 
+the manchester mark i and atlas: a his torical perspective 
+*********************************************************************
+Document:CACM-2859
+
+MEMORY, MEMORY interference, multiprocessing, 
+interference in multiprocessor computer SYSTEMS with interleaved MEMORY 
+this paper analyzes the MEMORY interference 
+several MEMORY modules. exect results are computed for 
+*********************************************************************
+Document:CACM-2357
+
+an on-line system OPERATING as part OF a normal 
+and fabrication. all ASPECTS OF the system are 
+multiplexer, implementation effort, OPERATING overhead, 
+user reactions, remote terminals, OPERATING system 
+*********************************************************************
+Document:CACM-2681
+
+dynamic MEMORY repacking, MEMORY compaction,storage 
+dynamic MEMORY repacking 
+under which the dynamic repacking OF main MEMORY is beneficial. 
+and the OPERATING conditions that lead 
+*********************************************************************
+Document:CACM-1462
+
+multilevel OPERATING SYSTEMS 
+OPERATING SYSTEMS. this implies that all applications-no 
+the OPERATING SYSTEMS, but at a different level. 
+operate under (or, more precisely, on top OF) the standard 
+*********************************************************************
+Document:CACM-2365
+
+paged MEMORY, virtual MEMORY, array processing 
+under an OPERATING system which uses paging. 
+matrix computations with fortran and paging 
+*********************************************************************
+Document:CACM-2407
+
+education, undergraduate curricula, MANAGEMENT SYSTEMS, 
+programs in information SYSTEMS 
+SYSTEMS in organizations is discussed, and a 
+information SYSTEMS, information analysis, 
+*********************************************************************
+Document:CACM-1657
+
+OPERATING system, MEMORY protection, time-sharing, 
+OF part OF a program with its own MEMORY 
+implementation OF the sharer2 time-sharing system 
+*********************************************************************
+Document:CACM-2378
+
+OPERATING SYSTEMS, supervisors, multiprogramming, 
+an OPERATING system based on the concept OF a supervisory computer 
+an OPERATING system which is organized as a 
+active processes and manages MEMORY, handle errors, and 
+*********************************************************************
+Document:CACM-2111
+
+to compilers and OPERATING SYSTEMS. these include the use OF syntax 
+OPERATING SYSTEMS, diagnostics, error detection, 
+spelling correction in SYSTEMS programs 
+is presented. by using SYSTEMS which perform spelling correction, 
+*********************************************************************
+Document:CACM-1924
+
+paged MEMORY SYSTEMS, virtual MEMORY SYSTEMS, 
+organizing matrices and matrix operations for paged MEMORY SYSTEMS 
+occurring in a paged MEMORY system. it is shown that 
+be in main MEMORY at one time. examination OF addition, 
+*********************************************************************
+Document:CACM-2668
+
+probability in a virtual MEMORY system OPERATING 
+under demand paging with various MEMORY sizes and replacement 
+virtual MEMORY, demand paging, replacement rule, 
+based on MEMORY states, control states, and MEMORY 
+*********************************************************************
+Document:CACM-2311
+
+process, functional SYSTEMS, MANAGEMENT SYSTEMS 
+SYSTEMS, software SYSTEMS, SYSTEMS development 
+computing milieu, MANAGEMENT data processing, hardware 
+a generational perspective OF information system development 
+*********************************************************************
+Document:CACM-1751
+
+multiprogramming, OPERATING SYSTEMS, program 
+in modern computer SYSTEMS is an adequate model for 
+knowledge vital to the dynamic MANAGEMENT OF 
+activity; then "processor demand" and "MEMORY demand" 
+*********************************************************************
+Document:CACM-2625
+
+information sharing, OPERATING SYSTEMS, computer 
+these SYSTEMS. the direct use OF a capability as 
+suggested. the scheme uses a main MEMORY hash table 
+for obtaining a segment's location in main MEMORY given 
+*********************************************************************
+Document:CACM-2967
+
+system utilizes a hardware associative MEMORY 
+OF the hardware associative MEMORY in three areas: 
+associative MEMORY technology, namely input/output 
+associative MEMORY, associative processor, content-addressable 
+*********************************************************************
+Document:CACM-1708
+
+a lisp system which uses core MEMORY as a buffer for 
+a large virtual MEMORY stored on a drum. details 
+storage MANAGEMENT, list processor implementation, 
+a note on the efficiency OF a lisp computation in a paged machine 
+*********************************************************************
+Document:CACM-0059
+
+and MANAGEMENT control SYSTEMS OF the federal 
+survey OF progress and trend OF development 
+and use OF automatic data processing in business 
+government, as OF december 1957-iii 
+*********************************************************************
+Document:CACM-1247
+
+an OPERATING environment for dynamic-recursive 
+computer programming SYSTEMS 
+system which can serve as an OPERATING environment for 
+SYSTEMS. the available services include dynamic allocation 
+*********************************************************************
+Document:CACM-1541
+
+a language for modeling and simulating dynamic SYSTEMS 
+ASPECTS OF simulation studies. the ability to represent 
+SYSTEMS containing highly interactive processes 
+*********************************************************************
+Document:CACM-2840
+
+protection in OPERATING SYSTEMS 
+SYSTEMS is presented and its appropriateness 
+is argued. the "safety" problem for protection SYSTEMS 
+protection, protection system, OPERATING 
+*********************************************************************
+Document:CACM-1680
+
+retrieval OPERATING SYSTEMS, graphics, displays, man-machine 
+display unit under OPERATING system/360. adept 
+is a cataloged program that controls the standard OPERATING 
+to it, and surrendering control to the OPERATING 
+*********************************************************************
+Document:CACM-1725
+
+value readout, digit variety readout, MEMORY access, MEMORY 
+words from an associative MEMORY, as described 
+the individual digit columns OF the MEMORY. thus the 
+MEMORY is empty). the use OF these circuits, which 
+*********************************************************************
+Document:CACM-0084
+
+and MANAGEMENT control SYSTEMS OF the federal government, 
+survey OF progress and trend OF development 
+and use OF automatic data processing in business 
+as OF december 1957-ii (part 2 see ca590406) 
+*********************************************************************
+Document:CACM-2317
+
+languages, OPERATING SYSTEMS, programming 
+programming SYSTEMS and languages 1965-1975 
+in the OPERATING system area all major computer 
+SYSTEMS, and they all ran into similar 
+*********************************************************************
+Document:CACM-2482
+
+deadlocks, resource allocation, OPERATING SYSTEMS, 
+based on the concept OF the hierarchical OPERATING 
+multiprogramming, hierarchical SYSTEMS 
+mixed solutions for the deadlock problem 
+*********************************************************************
+Document:CACM-2314
+
+requirements for advanced programming SYSTEMS for list processing 
+list processing SYSTEMS should be designed to 
+to the design OF advanced programming SYSTEMS for 
+a wide range OF applications. three ASPECTS OF programming 
+*********************************************************************
+Document:CACM-2198
+
+generalized data base MANAGEMENT SYSTEMS" 
+OF generalized data base MANAGEMENT SYSTEMS. this introduction 
+data base MANAGEMENT SYSTEMS, programming languages, 
+the art in these SYSTEMS and discusses the differences 
+*********************************************************************
+Document:CACM-1912
+
+simulation OF outpatient appointment SYSTEMS 
+which simulates appointment SYSTEMS employed 
+appointment SYSTEMS in a given clinical environment. 
+department, medicine, health, MANAGEMENT 
+*********************************************************************
+Document:CACM-2863
+
+MEMORY SYSTEMS, virtual MEMORY, working set, 
+on five virtual MEMORY programs are presented to demonstrate 
+vmin-an optimal variable-space page replacement algorithm 
+*********************************************************************
+Document:CACM-1923
+
+OPERATING SYSTEMS, interfaces input-output, 
+pseudofiles 
+an approach to system interfaces for high 
+*********************************************************************
+Document:CACM-3127
+
+portability, real time, OPERATING SYSTEMS, minicomputer 
+thoth, a portable real-time OPERATING system 
+thoth isa real-time OPERATING system which is designed to be portable 
+*********************************************************************
+Document:CACM-2163
+
+for MANAGEMENT has been carrying out a study 
+on "curriculum development in MANAGEMENT information 
+SYSTEMS education in colleges and universities" 
+SYSTEMS, and appropriate college curricula and courses 
+*********************************************************************
+Document:CACM-2597
+
+monitors, OPERATING SYSTEMS, scheduling, mutual 
+monitors: an OPERATING system structuring concept 
+a monitor as a method OF structuring an OPERATING 
+*********************************************************************
+Document:CACM-2106
+
+design and evaluation OF MANAGEMENT information SYSTEMS requires 
+MANAGEMENT information SYSTEMS, interpreters 
+computer education in a graduate school OF MANAGEMENT 
+such as paging and priority interrupt SYSTEMS can best be explained at the 
+*********************************************************************
+Document:CACM-2435
+
+a class OF dynamic MEMORY allocation algorithms 
+anew dynamic MEMORY allocation algorithm, the 
+which includes both OF these SYSTEMS as special cases. 
+*********************************************************************
+Document:CACM-1845
+
+OF the third generation computer SYSTEMS: cdc-6000, 
+first three SYSTEMS is based on actual experience 
+that overlay software incorporates a MEMORY occupation 
+the MEMORY as well as increased flexibility in program structure. 
+*********************************************************************
+Document:CACM-0856
+
+using random access drum MEMORY. the sort program 
+first part presents the OPERATING environment; the 
+sorting with large volume, random access, drum storage 
+*********************************************************************
+Document:CACM-2629
+
+OPERATING SYSTEMS, including: (1) a hierarchical file system 
+OPERATING system for the digital equipment 
+time-sharing, OPERATING system, file system, command language, pdp-11 
+the unix time-sharing system 
+*********************************************************************
+Document:CACM-3142
+
+MANAGEMENT SYSTEMS may be adequate, results OF the survey raise 
+errors, SYSTEMS errors, billing errors, MANAGEMENT SYSTEMS, consumers 
+them? what can be learned by designers OF large MANAGEMENT packages 
+consumer difficulties with computerized transactions: 
+*********************************************************************
+Document:CACM-2985
+
+the relationship OF in ternal pricing SYSTEMS 
+for computer services (chargeout SYSTEMS) and 
+user MANAGEMENT attitudes about their computer-based 
+information SYSTEMS is investigated. evidence is 
+*********************************************************************
+Document:CACM-3177
+
+cryptography, key MANAGEMENT, interpolation 
+OF robust key MANAGEMENT schemes for cryptographic SYSTEMS 
+how to share a secret 
+*********************************************************************
+Document:CACM-3025
+
+OF implementations to presently include SYSTEMS covering 
+evolution OF the hardware, OPERATING system, and languages 
+sharing computing SYSTEMS; transferring hardware 
+minicomputer/microcomputer SYSTEMS. 
+*********************************************************************
+Document:CACM-1781
+
+translator writing SYSTEMS 
+(semantic) ASPECTS OF translator writing 
+writing SYSTEMS, metacompiler, syntax, semantics, 
+*********************************************************************
+Document:CACM-0086
+
+and MANAGEMENT control SYSTEMS OF the federal government, as OF december 1957 
+survey OF progress and trend OF development 
+and use OF automatic data processing in business 
+*********************************************************************
+Document:CACM-0855
+
+MEMORY SYSTEMS for efficient sorting and other 
+OF data on bryant disc file MEMORY SYSTEMS for 
+characteristics OF bryant disc file SYSTEMS on the bendix 
+organization and structure OF dataon disk file 
+*********************************************************************
+Document:CACM-2080
+
+that can be extended with a hierarchy OF OPERATING SYSTEMS to suit diverse 
+multiprogramming, OPERATING SYSTEMS, parallel processes, process concept, 
+the nucleus OF a multiprogramming system 
+*********************************************************************
+Document:CACM-2095
+
+distributions OF segment sizes measured under routine OPERATING con 
+should be relevant to the design OF new computer SYSTEMS, 
+paging, resource allocation, MEMORY allocation, core utilization 
+measurements OF segment size 
+*********************************************************************
+Document:CACM-3112
+
+classical implementations OF list processing SYSTEMS 
+storage MANAGEMENT, storage allocation, lisp, cdr-coding, reference counting. 
+virtual MEMORY, file or database MANAGEMENT, 
+list processing in real time on a serial computer 
+*********************************************************************
+Document:CACM-1698
+
+are needed in certain ASPECTS OF OPERATING system 
+statistical models for input-output, OPERATING 
+a statistical model for console behavior in multiuser computers 
+*********************************************************************
+Document:CACM-2424
+
+OPERATING SYSTEMS, data security, fault tolerance, 
+dynamic verification OF OPERATING system decisions 
+OF OPERATING system decisions is used on the prime system 
+construction OF an OPERATING system which does not make certain 
+*********************************************************************
+Document:CACM-3188
+
+at this point that language has many ASPECTS and that pragmatics, semantics and 
+ASPECTS into the three semiotic dimension and there seems to be a strong 
+semiotics and programming languages 
+*********************************************************************
+Document:CACM-2622
+
+in many computer OPERATING SYSTEMS a user authenticates 
+in the computer. all ASPECTS OF the system, including 
+OPERATING system security, security, authentication, 
+a user authentication scheme not requiring secrecy in the computer 
+*********************************************************************
+Document:CACM-1810
+
+the available MEMORY is discussed. measurements 
+even though it is OPERATING across a memory-to-storage 
+will probably become a normal part OF most computing SYSTEMS. 
+automatic folding, storage hierarchies, MEMORY 
+*********************************************************************
+Document:CACM-0417
+
+SYSTEMS used in business and industry can 
+opportunities to interpret to lawyers the technical ASPECTS 
+OF computer SYSTEMS involved in legal situations. 
+legal implications OF computer use 
+*********************************************************************
+Document:CACM-2320
+
+OPERATING SYSTEMS but also within user programs. 
+OPERATING SYSTEMS, concurrent processes, shared 
+structured multiprogramming 
+*********************************************************************

@@ -1,0 +1,650 @@
+Query:articles about the sensitivity of the eigenvalue decomposition of real matrices in particular zero-one matrices  im especially interested in the separation of eigenspaces corresponding to distinct eigenvalues articles on the subject c davis and w kahn the rotation of eigenvectors by a permutation siam j numerical analysis vol 7 no 1 1970 g stewart error bounds for approximate invariant subspaces of closed linear operators siam j numerical analysis vol 8 no 4 1971  davis c kahn w stewart g
+
+Document:CACM-2284
+
+STEWART, G. W. 
+LINEAR algebra, MATRICES, LINEAR equations 
+solution OF THE matrix equation ax+xb=c [f4] (algorithm a432) 
+*********************************************************************
+Document:CACM-2043
+
+STEWART, G. W. 
+REAL symmetric matrix, EIGENVALUES, EIGENVECTORS, qr algorithm 
+EIGENVALUES AND EIGENVECTORS OF A REAL 
+cacm june, 1970 
+*********************************************************************
+Document:CACM-1954
+
+STEWART, G. W. 
+REAL symmetric matrix, EIGENVALUES, EIGENVECTORS, qr algorithm 
+EIGENVALUES AND EIGENVECTORS OF A REAL 
+cacm december, 1970 
+*********************************************************************
+Document:CACM-2548
+
+DAVIS, A. W. 
+hill, G. W. 
+1157 4 2548 
+1779 4 2548 
+*********************************************************************
+Document:CACM-1104
+
+an undergraduate curriculum IN NUMERICAL ANALYSIS 
+forsythe, G. e. 
+cacm april, 1964 
+*********************************************************************
+Document:CACM-2040
+
+wallick, G. C. 
+cacm june, 1970 
+NUMERICAL integration, romberg quadrature, modified romberg quadrature, 
+1040 4 2040 
+*********************************************************************
+Document:CACM-1982
+
+wallick, G. C. 
+cacm october, 1970 
+NUMERICAL integration, havie integration, romberg quadrature, 
+205 4 1982 
+*********************************************************************
+Document:CACM-1990
+
+NUMERICAL algorithm, NUMERICAL constants 
+NUMERICAL constants (algorithm) 
+cacm september, 1970 
+dunham, C. b. 
+*********************************************************************
+Document:CACM-1298
+
+adaptive NUMERICAL integration BY simpson's rule (algorithm 145 [d1]) 
+pike, m. C. 
+ca650309 jb march 7, 1978 6:03 pm 
+*********************************************************************
+Document:CACM-2133
+
+lassalle, J. C. 
+(rectangular MATRICES) [h] (algorithm 415) 
+cacm december, 1971 
+assignment problem, rectangular MATRICES 
+*********************************************************************
+Document:CACM-0085
+
+ERROR ANALYSIS IN floating point arithmetic 
+carr iii, J. W. 
+cacm may, 1959 
+*********************************************************************
+Document:CACM-2660
+
+simmons, G. C. 
+parallelism, polynomial root finding, REAL zeros 
+ca740410 jb february 1, 1978 10:36 am 
+2660 4 2660 
+*********************************************************************
+Document:CACM-0339
+
+alexander, W. J. 
+REAL exponential integral (algorithm 20) 
+thacher jr., h. C. 
+*********************************************************************
+Document:CACM-2824
+
+computation OF LINEAR precedence functions 
+duong-kien, C. 
+hoffmann, h. J. 
+1542 4 2824 
+*********************************************************************
+Document:CACM-2074
+
+cacm april, 1970 
+lyness, J. n. 
+NUMERICAL integration, integration rule, adaptive integration, 
+automatic integration, simpson's rule, NUMERICAL quadrature, quadrature, 
+*********************************************************************
+Document:CACM-0872
+
+adaptive NUMERICAL integration BY simpson's rule (algorithm 145) 
+mckeeman, W. m. 
+cacm april, 1963 
+*********************************************************************
+Document:CACM-1883
+
+fair weather, G. 
+NUMERICAL integration, romberg quadrature, 
+trapezoid values, rectangle values, ERROR bound 
+1352 4 1883 
+*********************************************************************
+Document:CACM-1310
+
+weiler, W. J. 
+klema, v. C. 
+ca650214 jb march 7, 1978 10:55 pm 
+A rapid braille transliteration technique FOR certain ibm machines 
+*********************************************************************
+Document:CACM-2009
+
+cacm august, 1970 
+proll, l. G. 
+NUMERICAL integration, multiple integration, simpson's rule 
+simpson's rule FOR multiple integration (algorithm 233 $d1)) 
+*********************************************************************
+Document:CACM-1963
+
+MATRICES, condition numbers, pei MATRICES, EIGENVECTORS, EIGENVALUES 
+condition numbers OF pei MATRICES 
+cacm november, 1970 
+rokne, J. 
+*********************************************************************
+Document:CACM-0561
+
+hanson, J. W. 
+caviness, J. s. 
+joseph, C. 
+1134 4 561 
+*********************************************************************
+Document:CACM-2041
+
+harrison, W. C. 
+cacm june, 1970 
+chandler, J. p. 
+1175 4 2041 
+*********************************************************************
+Document:CACM-0635
+
+baker, J. J. 
+A note ON multiplying boolean MATRICES 
+cacm february, 1962 
+*********************************************************************
+Document:CACM-2008
+
+cacm august, 1970 
+wise jr., W. r. 
+quadrature, gaussian quadrature, NUMERICAL integration, weight function, 
+gaussian quadrature formulas (algorithm 331 $d1)) 
+*********************************************************************
+Document:CACM-1174
+
+medlock, C. W. 
+inverse PERMUTATION (algorithm 250 [g6]) 
+cacm november, 1965 
+*********************************************************************
+Document:CACM-0826
+
+remarks ON fortran subroutines FOR time series ANALYSIS 
+bennett, C. m. 
+1118 4 826 
+826 4 826 
+*********************************************************************
+Document:CACM-0184
+
+struble, G. W. 
+A short method FOR measuring ERROR IN A least-squares power series 
+cacm june, 1960 
+*********************************************************************
+Document:CACM-1707
+
+hall, C. A. 
+test MATRICES, positive MATRICES, similarity 
+generation OF positive test MATRICES with known positive spectra 
+sufficient conditions are given FOR A REAL 
+*********************************************************************
+Document:CACM-0927
+
+white, W. C. 
+pratt, A. W. 
+LINEAR programming applied TO ultraviolet absorption spectroscopy 
+*********************************************************************
+Document:CACM-2244
+
+boland, W. r. 
+NUMERICAL integration, product type quadrature, trapezoidal integration 
+product type trapezoidal integration (algorithm a436) 
+*********************************************************************
+Document:CACM-0443
+
+complex number TO A REAL power (algorithm 106) 
+erwin jr.,g. W. 
+cacm december, 1962 
+*********************************************************************
+Document:CACM-1731
+
+gautschi, W. 
+quadrature, gaussian quadrature, NUMERICAL integration, 
+gaussian quadrature formulas (algorithm 331 [d1]) 
+*********************************************************************
+Document:CACM-2243
+
+boland, W. r. 
+NUMERICAL integration, product type quadrature, simpson's rule 
+product type simpson's integration [d1] (algorithm a437) 
+*********************************************************************
+Document:CACM-2335
+
+EIGENVALUES, EIGENVECTORS, qr-algorithm, 
+EIGENVALUES AND EIGENVECTORS OF A REAL general matrix (algorithm r343) 
+nonsymmetric MATRICES, general MATRICES 
+1968 4 2335 
+*********************************************************************
+Document:CACM-0481
+
+armerding, G. W. 
+gruenberger, f. J. 
+A one-day look at computing 
+*********************************************************************
+Document:CACM-0292
+
+kehl, W. b. 
+horty, J. f. 
+bacon, C. r. t. 
+an information retrieval language FOR legal studies 
+*********************************************************************
+Document:CACM-2242
+
+boland, W. r. 
+NUMERICAL integration, product type quadrature, 
+product type two-point gauss-legendre-simpson's 
+integration [d1] (algorithm a438) 
+*********************************************************************
+Document:CACM-2241
+
+boland, W. r. 
+NUMERICAL integration, product type quadrature, 
+product type three-point gauss-legendre-simpson's 
+integration [d1] (algorithm a439) 
+*********************************************************************
+Document:CACM-2098
+
+hill, G. W. 
+cacm february, 1970 
+t-test probabilities (algorithm 321); 
+student's t-distribution (algorithm 344) 
+*********************************************************************
+Document:CACM-0749
+
+note onstochastic MATRICES 
+dumey, A. i. 
+cacm september, 1963 
+*********************************************************************
+Document:CACM-2047
+
+STEWART, G. W. 
+EIGENVALUES, EIGENVECTORS, qr method, origin 
+algorithm FOR symmetric tridiagonal MATRICES 
+THE qr iteration FOR THE EIGENVALUES OF A symmetric tridiagonal matrix can 
+*********************************************************************
+Document:CACM-1986
+
+hill, G. W. 
+cacm october, 1970 
+1986 4 1986 
+2315 4 1986 
+*********************************************************************
+Document:CACM-1141
+
+bounded context syntactic ANALYSIS 
+floyd, r. W. 
+267 4 1141 
+1134 4 1141 
+*********************************************************************
+Document:CACM-1987
+
+hill, G. W. 
+cacm october, 1970 
+1157 4 1987 
+1779 4 1987 
+*********************************************************************
+Document:CACM-2072
+
+cacm april, 1970 
+NUMERICAL integration, romberg quadrature, 
+trapezoid values, rectangle values, ERROR bound 
+modified romberg quadrature (algorithm 351 $d1)) 
+*********************************************************************
+Document:CACM-0259
+
+sullivan, J. G. 
+PERMUTATION (algorithm 71) 
+cacm november, 1961 
+*********************************************************************
+Document:CACM-0608
+
+PERMUTATION (algorithm 71) 
+peck, J. e. l. 
+schrack, G. f. 
+*********************************************************************
+Document:CACM-2119
+
+cacm january, 1970 
+gautschi, W. 
+klein, b. J. 
+recursive computation, successive derivatives, ERROR control 
+*********************************************************************
+Document:CACM-2239
+
+NUMERICAL integration, integration rule, adaptive 
+rule, NUMERICAL quadrature, quadrature rule, adaptive 
+quadrature, automatic quadrature, round-off ERROR 
+squank (algorithm c379) 
+*********************************************************************
+Document:CACM-0645
+
+broyden, C. G. 
+invrs (algorithm 66) 
+cacm january, 1962 
+*********************************************************************
+Document:CACM-1123
+
+gladfelter, G. W. 
+gauss (algorithm 209) 
+cacm march, 1964 
+*********************************************************************
+Document:CACM-0005
+
+wadey, W. G. 
+two square-root approximations 
+cacm november, 1958 
+*********************************************************************
+Document:CACM-0629
+
+lynch, W. C. 
+ON A wired-in binary-to-decimal conversion scheme 
+cacm march, 1962 
+*********************************************************************
+Document:CACM-2505
+
+PERMUTATION, PERMUTATION generation, scheduling, combinatorial ANALYSIS 
+2044 4 2505 
+2189 4 2505 
+2292 4 2505 
+*********************************************************************
+Document:CACM-1899
+
+simplex method procedure employing lu DECOMPOSITION (algorithm 350 [h]) 
+golub, G. h. 
+simplex method, LINEAR programming, lu DECOMPOSITION, 
+*********************************************************************
+Document:CACM-1151
+
+A note ON multiplying boolean MATRICES ii 
+1151 4 1151 
+1265 4 1151 
+2769 4 1151 
+*********************************************************************
+Document:CACM-1921
+
+harmonic ANALYSIS, spectral ANALYSIS, orthogonal polynomials, 
+singleton, r. C. 
+digital filtering, PERMUTATION 
+an algol convolution procedure based ON THE 
+*********************************************************************
+Document:CACM-1837
+
+harmonic ANALYSIS, spectral ANALYSIS, orthogonal polynomials, 
+singleton, r. C. 
+digital filtering, PERMUTATION 
+an algol convolution procedure based ON THE 
+*********************************************************************
+Document:CACM-0195
+
+patterson, G. W. 
+what is A code? 
+cacm may, 1960 
+*********************************************************************
+Document:CACM-1669
+
+harmonic ANALYSIS, spectral ANALYSIS, orthogonal polynomials, 
+singleton, r. C. 
+memory, PERMUTATION 
+1668 4 1669 
+*********************************************************************
+Document:CACM-2415
+
+algorithm FOR automatic NUMERICAL integration 
+automatic integration, NUMERICAL integration, 
+automatic quadrature, NUMERICAL quadrature 
+1352 4 2415 
+*********************************************************************
+Document:CACM-1668
+
+singleton, r. C. 
+fourier series, harmonic ANALYSIS, spectral 
+ANALYSIS, orthogonal polynomials, orthogonal transformation, 
+virtual core memory, PERMUTATION 
+*********************************************************************
+Document:CACM-0571
+
+PERMUTATION IN lexicographical order (algorithm 102) 
+schrack, G. f. 
+cacm june, 1962 
+*********************************************************************
+Document:CACM-2791
+
+hancock, t. W. 
+exact probabilities FOR r x C contingency tables (algorithm r434) 
+cacm february, 1975 
+*********************************************************************
+Document:CACM-0660
+
+more test MATRICES FOR determinants AND inverses (pracnique) 
+cacm december, 1963 
+englar, t. s. 
+*********************************************************************
+Document:CACM-1917
+
+harmonic ANALYSIS, spectral ANALYSIS, orthogonal polynomials, 
+singleton, r. C. 
+memory, PERMUTATION 
+an algol procedure FOR THE fast fourier transform 
+*********************************************************************
+Document:CACM-0831
+
+REAL ERROR function, erf (algorithm 123) 
+thacher jr., h. C. 
+cacm june, 1963 
+*********************************************************************
+Document:CACM-1692
+
+STEWART iii, G. 
+NUMERICAL solution OF A thin plate heat transfer problem 
+lick, d. W. 
+THE NUMERICAL solution OF A system OF LINEAR 
+*********************************************************************
+Document:CACM-2331
+
+johnson, s. C. 
+kernighan, b. W. 
+an integer programming problem (algorithm r397) 
+*********************************************************************
+Document:CACM-1782
+
+FOR NUMERICAL fourier ANALYSIS is given. 
+A NUMERICAL integration formula is presented which 
+is useful IN fourier ANALYSIS TO improve accuracy 
+meisel, W. s. 
+*********************************************************************
+Document:CACM-0467
+
+PERMUTATION generator (algorithm 87) 
+schrack, G. f. 
+cacm october, 1962 
+*********************************************************************
+Document:CACM-2418
+
+hill, G. W. 
+student's t frequency [s14] (algorithm a465) 
+cacm november, 1973 
+*********************************************************************
+Document:CACM-3016
+
+STEWART, W. 
+A comparison OF NUMERICAL techniques IN markov modeling 
+this paper presents several NUMERICAL methods which 
+markov models, NUMERICAL techniques, simultaneous 
+*********************************************************************
+Document:CACM-1301
+
+zaremba, W. A. 
+ca650306 jb march 7, 1978 6:06 pm 
+ON algol i/o conventions 
+*********************************************************************
+Document:CACM-1229
+
+random PERMUTATION (algorithm 235 [g6]) 
+pike, m. C. 
+cacm july, 1965 
+*********************************************************************
+Document:CACM-2214
+
+REAL intervals, REAL interval arithmetic, 
+REAL interval arithmetic. complex interval division 
+cacm february, 1971 
+rokne, J. 
+*********************************************************************
+Document:CACM-0129
+
+herriot, J. G. 
+forsythe, G. e. 
+rootfinder ii (algorithm 15) 
+*********************************************************************
+Document:CACM-1895
+
+quadrature, gaussian quadrature, NUMERICAL integration, 
+gaussian quadrature formulas (algorithm 331 [d1]) 
+cacm may, 1969 
+*********************************************************************
+Document:CACM-2729
+
+smith, A. J. 
+comments ON A paper BY t. C. chen AND i. t. ho 
+2729 4 2729 
+*********************************************************************
+Document:CACM-0054
+
+brittenham, W. r. 
+kuss, G. 
+smith, A. o. 
+405 4 54 
+*********************************************************************
+Document:CACM-0393
+
+carr iii, J. W. 
+hanson, J. W. 
+two subroutines FOR symbol manipulation with an algebraic compiler 
+*********************************************************************
+Document:CACM-2432
+
+mifsud, C. J. 
+bohlen, m. J. 
+2432 4 2432 
+addendum TO A multiple-precision division algorithm 
+*********************************************************************
+Document:CACM-0108
+
+programmed ERROR correction IN project mercury 
+weinberg, G. m. 
+cacm december, 1960 
+*********************************************************************
+Document:CACM-0631
+
+wilson, J. b. 
+249 4 631 
+254 4 631 
+272 4 631 
+*********************************************************************
+Document:CACM-0260
+
+mifsud, C. J. 
+interpolation BY aitken (algorithm 70) 
+cacm november, 1961 
+*********************************************************************
+Document:CACM-1121
+
+sambles, A. W. 
+comments ON "A continued operation notation"* 
+gerard, J. m. 
+1062 4 1121 
+*********************************************************************
+Document:CACM-2056
+
+cacm may, 1970 
+proll, l. G. 
+LINEAR programming, integer variables, dual method 
+gomory (algorithm 263a $h)) 
+*********************************************************************
+Document:CACM-0126
+
+mackinney, J. G. 
+least squares fit BY orthogonal polynomials (algorithm 28) 
+cacm november, 1960 
+*********************************************************************
+Document:CACM-0361
+
+programmed ERROR correction ON A decimal computer 
+weinberg, G. m. 
+361 4 361 
+*********************************************************************
+Document:CACM-2157
+
+cacm september, 1971 
+madpis, G. 
+average binary search length FOR dense ordered lists 
+*********************************************************************
+Document:CACM-1598
+
+makinson, G. J. 
+least squares fit BY orthogonal polynomials (algorithm 28 [e2]) 
+cacm may, 1967 
+*********************************************************************
+Document:CACM-1078
+
+morelock, J. C. 
+elementary functions BY continued fractions (algorithm 229) 
+cacm may, 1964 
+*********************************************************************
+Document:CACM-0672
+
+leibowitz, G. J. 
+recent developments affecting adp IN tax administration 
+cacm december, 1963 
+*********************************************************************
+Document:CACM-1640
+
+makinson, G. J. 
+generalized least squared fit BY orthogonal 
+polynomials (algorithm 296 [e2]) 
+*********************************************************************
+Document:CACM-1578
+
+makinson, G. J. 
+generalized least squares fit BY orthogonal 
+polynomials (algorithm 296 [e2]) 
+*********************************************************************
+Document:CACM-0537
+
+DAVIS, m. 
+logemann, G. 
+A machine program FOR theorem-proving 
+*********************************************************************
+Document:CACM-0907
+
+mifsud, C. J. 
+combination IN lexicographical order (algorithm 154) 
+cacm march, 1963 
+*********************************************************************
+Document:CACM-0906
+
+mifsud, C. J. 
+combination IN any order (algorithm 155) 
+cacm march, 1963 
+*********************************************************************
+Document:CACM-1966
+
+wilson, W. J. 
+cacm november, 1970 
+A generalized method FOR generating argument/function values 
+*********************************************************************
+Document:CACM-0597
+
+emery, J. C. 
+modular data processing systems written IN cobol 
+cacm may, 1962 
+*********************************************************************

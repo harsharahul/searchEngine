@@ -1,0 +1,657 @@
+Query:any information on packet radio networks  of particular interest are algorithms for packet routing and for dealing with changes in network topography  i am not interested in the hardware used in the network
+
+Document:CACM-3032
+
+nodes OF a NETWORK. ALGORITHMS FOR accomplishing 
+computer NETWORKS, store-and-forward PACKET 
+a broadcast PACKET is FOR delivery to all 
+this delivery through a store-and-forward PACKET switching 
+*********************************************************************
+Document:CACM-2949
+
+a correctness proof OF a topology INFORMATION 
+NETWORK 
+NETWORK to communicate, each node must have 
+INFORMATION about THE network's topology. since nodes 
+*********************************************************************
+Document:CACM-2849
+
+computer NETWORKS, PACKET switching, multiprocessing, 
+locally distributed computing stations. THE PACKET 
+computer NETWORKS or loosely coupled multiprocessors. 
+control. coordination OF access to THE ether FOR PACKET 
+*********************************************************************
+Document:CACM-2892
+
+ARE USED to anticipate overhead IN a heavily loaded NETWORK. 
+proposed NETWORK protocol AND compared WITH those FOR THE current system. 
+arpanet, computer communication NETWORKS, interprocess 
+communication, measurement, PACKET switching, 
+*********************************************************************
+Document:CACM-2890
+
+ROUTING ALGORITHMS, adaptive ROUTING, quadratic ROUTING, 
+ON quadratic adaptive ROUTING ALGORITHMS 
+conditions FOR an optimal ROUTING, adaptive ROUTING tends 
+alternate ROUTING, store-and-forward NETWORK, 
+*********************************************************************
+Document:CACM-1685
+
+NETWORK analysis, NETWORK calculation, NETWORK program 
+NETWORK generator, NETWORK assembler, activity 
+gan, a system FOR generating AND analyzing activity NETWORKS 
+gan, a system FOR generating activity NETWORKS, 
+*********************************************************************
+Document:CACM-3158
+
+secure personal computing IN an insecure NETWORK 
+a method FOR implementing secure personal computing IN a NETWORK 
+public-key encryption device AND HARDWARE keys. each user is responsible 
+data to other users ON THE NETWORK. 
+*********************************************************************
+Document:CACM-2515
+
+minimal event-node NETWORK OF project precedence relations 
+NETWORK to represent a set OF precedence 
+AND g. l. nemhauser (1968) produces event-node NETWORKS 
+NETWORK, project, event-node NETWORK, activity-node 
+*********************************************************************
+Document:CACM-2776
+
+computer NETWORKS IN higher education: socio-economic-political factors 
+survey OF computer NETWORKS IN higher education 
+conducted during 1971-73. five major AND 18 minor NETWORKS 
+were identified. THE five major NETWORKS 
+*********************************************************************
+Document:CACM-2951
+
+dynamic response time prediction FOR computer NETWORKS 
+if THE ultimate aim OF a computing NETWORK 
+ON a NETWORK. analytical, simulation, AND statistical performance 
+time INFORMATION FOR users wishing to process various 
+*********************************************************************
+Document:CACM-2371
+
+IN a resource sharing computer NETWORK 
+distributed throughout a computer NETWORK. 
+THE hypothetical application OF THE system to an existing NETWORK is discussed. 
+computer NETWORKS, resource sharing 
+*********************************************************************
+Document:CACM-2197
+
+THE merit OF regional computing NETWORKS 
+computing NETWORKS. one such NETWORK has 
+learned from THE operation OF THE NETWORK over THE past 
+two years. a major impact OF THE NETWORK was 
+*********************************************************************
+Document:CACM-3040
+
+a constraint NETWORK representation is presented 
+NETWORKS is formulated, which is related to problems 
+backtrack, combinatorial ALGORITHMS, constraint 
+NETWORKS, constraint satisfaction, graph coloring, 
+*********************************************************************
+Document:CACM-2614
+
+critical path, NETWORKS, precedence NETWORKS 
+arrow to precedence NETWORK transformation [h] (algorithm a481) 
+cacm august, 1974 
+*********************************************************************
+Document:CACM-0383
+
+ON finding minimum routes IN a NETWORK WITH turn penalties 
+cacm february, 1961 
+caldwell, t. 
+*********************************************************************
+Document:CACM-1989
+
+transition NETWORK grammars FOR natural language analysis 
+THE use OF augmented transition NETWORK grammars FOR THE analysis 
+actions associated WITH THE arcs OF THE grammar NETWORK allow FOR THE reordering, 
+advantage OF semantic INFORMATION to guide THE parsing. THE 
+*********************************************************************
+Document:CACM-1928
+
+exclusive simulation OF activity IN digital NETWORKS 
+NETWORKS OF large AND active digital systems 
+large systems simulation, NETWORK structures, 
+OF NETWORK structures other than digital NETWORKS. 
+*********************************************************************
+Document:CACM-1261
+
+modeling AND simulation OF digital NETWORKS 
+THE simulation OF digital NETWORKS ON a digital 
+digital NETWORK is modeled as a set OF time-dependent 
+OF a model element comprising THE NETWORK mode. THE 
+*********************************************************************
+Document:CACM-0828
+
+incompressible flow NETWORK calculations 
+AND pressures IN fluid flow NETWORKS is presented. 
+a general method FOR THE calculation OF flows 
+*********************************************************************
+Document:CACM-1688
+
+capacitated NETWORK, linear programming, minimum-cost 
+flow, NETWORK flow, out-of-kilter 
+netflow (algorithm 248 [h]) 
+*********************************************************************
+Document:CACM-2088
+
+capacitated NETWORK, linear programming, minimum-cost 
+flow, NETWORK flow, out-of-kilter 
+netflow (algorithm 336 $h)) 
+*********************************************************************
+Document:CACM-1690
+
+capacitated NETWORK, linear programming, minimum-cost 
+flow, NETWORK flow, out-of-kilter 
+netflow (algorithm 336 [h]) 
+*********************************************************************
+Document:CACM-1687
+
+capacitated NETWORK, linear programming, minimum-cost 
+flow, NETWORK flow, out-of-kilter 
+netflow (algorithm 248 [h]) 
+*********************************************************************
+Document:CACM-1890
+
+simulation OF traffic flows IN a NETWORK 
+WITH traffic flows IN THE NETWORK OF a large area 
+traffic simulation, traffic flow, traffic NETWORK 
+signal setting, vehicle, road NETWORK, list structure, computer simulation 
+*********************************************************************
+Document:CACM-0367
+
+randomly-numbered elements OF a NETWORK 
+a NETWORK OF directed line segments free OF circular 
+topological ordering OF a list OF 
+*********************************************************************
+Document:CACM-3133
+
+logic AND semantic NETWORKS 
+an extended form OF semantic NETWORK is defined, which can 
+semantic NETWORK is provided WITH a precise semantics, 
+THE other hand, by regarding semantic NETWORKS as an 
+*********************************************************************
+Document:CACM-1695
+
+plexus-an on-line system FOR modeling neural NETWORKS 
+a neural NETWORK, to analyze THE output data produced 
+NETWORKS ARE built up from components representing 
+experimental data as input to a NETWORK. convenient 
+*********************************************************************
+Document:CACM-1723
+
+computer construction OF project NETWORKS 
+project NETWORKS ARE USED IN pert AND cpm. 
+NETWORKS directly from THE project precedence relations. 
+project NETWORKS, pert, cpm, topological 
+*********************************************************************
+Document:CACM-2934
+
+graph, NETWORK, shortest path, algorithm, ranking 
+comment ON computing THE k shortest paths IN a graph 
+cacm august, 1977 
+*********************************************************************
+Document:CACM-2274
+
+generating english discourse from semantic NETWORKS 
+by THE system is IN THE form OF a NETWORK that imposes 
+algorithm uses THE INFORMATION IN THE semantic 
+NETWORK to select appropriate generation paths through 
+*********************************************************************
+Document:CACM-2969
+
+optimal program AND data locations IN computer NETWORKS 
+OF program AND data files IN a computer NETWORK 
+occur IN real heterogeneous computer NETWORKS. insights 
+computer NETWORKS, databases, distributed 
+*********************************************************************
+Document:CACM-3059
+
+is developed by NETWORK decomposition. THE 
+NETWORK models, multiprocessing OF computation 
+models FOR parallel processing within programs: 
+application to cpu:i/o AND i/o:i/o overlap 
+*********************************************************************
+Document:CACM-1846
+
+ON simulating NETWORKS OF parallel processes 
+a conventional digital computer ARE dealt WITH. THE 
+systems ARE assumed to be described as a NETWORK 
+rules. following this, THE problem OF DEALING WITH simultaneous 
+*********************************************************************
+Document:CACM-1611
+
+scheduling project NETWORKS 
+AND NETWORK analysis features OF THE algorithm 
+some OF THE basic concepts AND terminology 
+*********************************************************************
+Document:CACM-0441
+
+topological sorting OF large NETWORKS 
+FOR many problems involving analysis OF NETWORKS. 
+topological order. it permits treatment OF larger NETWORKS 
+is discussed IN terms OF THE 7090. a pert NETWORK OF 
+*********************************************************************
+Document:CACM-2630
+
+two ALGORITHMS ARE presented that construct 
+IN a directed graph. these ALGORITHMS generalize THE floyd 
+graph, NETWORK, shortest path, algorithm 
+ON computing sets OF shortest paths IN a graph 
+*********************************************************************
+Document:CACM-1822
+
+shortest path, tree, NETWORK, directed graph 
+shortest-path forest WITH topological ordering (algorithm [h]) 
+cacm november, 1969 
+*********************************************************************
+Document:CACM-3070
+
+central-server queueing NETWORK models THE use OF 
+NETWORK models, central server model 
+hybrid simulation models OF computer systems 
+*********************************************************************
+Document:CACM-1776
+
+maxflow (algorithm 324 [h]) 
+cacm february, 1968 
+bayer, g. 
+*********************************************************************
+Document:CACM-2894
+
+THE nbs NETWORK measurement system is employed 
+a methodology FOR interactive computer service measurement 
+a measurement methodology applicable to IN teractive 
+*********************************************************************
+Document:CACM-0757
+
+simulation OF a traffic NETWORK 
+cacm august, 1963 
+katz, j. h. 
+*********************************************************************
+Document:CACM-1704
+
+critical path scheduling, pert, cost/time tradeoffs, NETWORK flows 
+minimum excess cost curve (algorithm 217 [h]) 
+cacm august, 1968 
+*********************************************************************
+Document:CACM-2988
+
+IN queueing NETWORK models OF computer systems. 
+NETWORK models, IN teractive computer systems 
+memory management AND response time 
+*********************************************************************
+Document:CACM-2900
+
+OF finding THE optimal set OF NETWORK sites at 
+that certain sites should (or should NOT) be 
+file allocation, computer NETWORKS, distributed data management 
+some theorems to aid IN solving THE file allocation problem 
+*********************************************************************
+Document:CACM-2712
+
+horner's rule FOR THE evaluation OF general closed queueing NETWORKS 
+THE solution OF separable closed queueing NETWORKS 
+grows combinatorially WITH THE size of THE NETWORK 
+queueing NETWORKS, queueing theory horner's rule, 
+*********************************************************************
+Document:CACM-0517
+
+evaluation OF pert NETWORK (algorithm 119) 
+cacm august, 1962 
+eisenman, b. 
+*********************************************************************
+Document:CACM-2568
+
+THE problem classically titled "THE examination 
+IN THE terminology OF classical NETWORK theory. 
+one such formulation is: given a nondirected NETWORK, 
+FOR exam I. THE object OF this paper is to generalize 
+*********************************************************************
+Document:CACM-0036
+
+a queue NETWORK simulator FOR THE ibm 650 AND burroughs 220 
+cacm december, 1959 
+conway, r. w. 
+*********************************************************************
+Document:CACM-2046
+
+data is organized IN THE machine (THE internal representation). a prompting 
+service which supplies such INFORMATION is NOT a satisfactory 
+types OF stored INFORMATION. existing noninferential, formatted data systems 
+provide users WITH tree-structured files or slightly more general NETWORK 
+*********************************************************************
+Document:CACM-2401
+
+a HARDWARE implementation OF THE algorithm using large 
+neural NETWORK description, IN terms OF mcculloch-pitts 
+ON shrinking binary picture patterns 
+*********************************************************************
+Document:CACM-1034
+
+OF documents IN THE INFORMATION NETWORK automatically. 
+autosate 
+an automated data system analysis technique is 
+*********************************************************************
+Document:CACM-3164
+
+nodes ARE, "detached" until THE new ARE can be entered acyclically 
+OF actions. two pad ALGORITHMS ARE presented; one uses a simple 
+acyclic digraph, database integrity, NETWORK, deadlock 
+progressive acyclic digraphs-a tool FOR database integrity 
+*********************************************************************
+Document:CACM-1889
+
+NETWORK involving-41 institutions is discussed. 
+regional NETWORK, introducing computing, under-graduate 
+introducing computing to smaller colleges 
+AND universities -- a progress report 
+*********************************************************************
+Document:CACM-2380
+
+ON dec pdp-10 augmented by special paging HARDWARE 
+system operational within six months OF HARDWARE 
+arpa NETWORK. 
+tenex, a paged time sharing system FOR THE pdp-10 
+*********************************************************************
+Document:CACM-2581
+
+augmented transition NETWORK, local parsing 
+a locally-organized parser FOR spoken input 
+this paper describes lpars, a locally-organized 
+*********************************************************************
+Document:CACM-2059
+
+operation research, NETWORK problems, control theory, traffic problems, etc. 
+operation research, NETWORK, traffic 
+a language FOR treating graphs 
+*********************************************************************
+Document:CACM-2948
+
+design is presented along WITH THE ALGORITHMS USED to 
+local echoing, communication system, NETWORK 
+a terminal-oriented communication system 
+*********************************************************************
+Document:CACM-2327
+
+OF how THE brain processes INFORMATION. 
+automata theory, brain theory, NETWORK complexity, 
+toward an automata theory OF brains 
+*********************************************************************
+Document:CACM-2454
+
+computational ALGORITHMS FOR closed queueing 
+NETWORKS WITH exponential servers 
+NETWORKS WITH exponential servers. expressions FOR 
+THE computational ALGORITHMS ARE based ON two-dimensional 
+*********************************************************************
+Document:CACM-1458
+
+schwartz, j. I. 
+online programming 
+when THE transition has been made from off line 
+*********************************************************************
+Document:CACM-2973
+
+array that require O(N) ROUTING AND comparison steps. 
+two ALGORITHMS ARE presented FOR sorting n^2 
+THE best previous algorithm takes time O(N log 
+n). THE ALGORITHMS OF this paper ARE shown to be optimal 
+*********************************************************************
+Document:CACM-1811
+
+OF current IN an electrical NETWORK was written FOR a 
+storage interference, electrical NETWORK, simulation, 
+a case study IN programming FOR parallel-processors 
+*********************************************************************
+Document:CACM-0616
+
+an INFORMATION algebra - phase I report-language 
+model called "an INFORMATION algebra" developed primarily 
+will be read (a) WITH avid INTEREST by programming language 
+INTERESTED IN developing a theoretical approach to data 
+*********************************************************************
+Document:CACM-2572
+
+OF a community INFORMATION utility 
+design AND desirability OF computerized community INFORMATION 
+community INFORMATION utilities ARE examined IN this 
+OF an INFORMATION utility IN a prototype 
+*********************************************************************
+Document:CACM-3172
+
+trajectories ARE found by searching a NETWORK which indicates, FOR each vertex 
+an algorithm FOR planning collision-free 
+paths among polyhedral obstacles 
+*********************************************************************
+Document:CACM-1397
+
+people INTERESTED IN programming languages designed 
+strings, IN their applications, AND IN ALGORITHMS FOR 
+FOR several INTEREST groups. THE conference was sponsored 
+by THE acm special INTEREST committee ON symbolic 
+*********************************************************************
+Document:CACM-2718
+
+NETWORK model OF databases, data base task group, database 
+a preliminary system FOR THE design OF dbtg data structures 
+THE functional approach to database design is 
+*********************************************************************
+Document:CACM-3076
+
+NETWORKS, NETWORK reliability, security, social values 
+value conflicts AND social choice IN electronic 
+funds transfer system developments 
+*********************************************************************
+Document:CACM-2289
+
+solution OF graph problems is THE determination OF ALGORITHMS 
+serial. IN PARTICULAR, several parallelized 
+ALGORITHMS ARE presented FOR THE solution OF certain 
+direct applications to wire ROUTING, pert chart analysis, 
+*********************************************************************
+Document:CACM-1572
+
+to develop an appropriate HARDWARE configuration 
+ALGORITHMS or techniques. FOR THE sake 
+THE simulation OF time sharing systems 
+*********************************************************************
+Document:CACM-1844
+
+terminal. a crosspoint switching NETWORK allows 
+be run ON a dedicated batch system if compatible computers ARE USED. 
+a modular computer sharing system 
+*********************************************************************
+Document:CACM-1551
+
+ON compiling ALGORITHMS FOR arithmetic expressions 
+this paper deals WITH ALGORITHMS concerning arithmetic 
+ALGORITHMS generate an object code which minimizes 
+nakata, I. 
+*********************************************************************
+Document:CACM-2178
+
+OF THE meaning to be assigned them (THE 
+directed graph, lisp, NETWORK, data structure, 
+a language extension FOR graph processing AND its formal semantics 
+*********************************************************************
+Document:CACM-1165
+
+use OF both HARDWARE micro-program routines AND 
+benjamin, r. I. 
+THE spectra 70/45 emulator FOR THE rca 301 
+*********************************************************************
+Document:CACM-1728
+
+OF page replacement ALGORITHMS AND FOR assessing THE 
+further experimental data ON THE behavior 
+OF programs IN a paging environment 
+*********************************************************************
+Document:CACM-2598
+
+extending THE INFORMATION theory approach to converting 
+a computer program. THE ALGORITHMS considered 
+IN this paper perform limited search AND, accordingly, 
+IN INFORMATION theory OF noiseless coding. THE results 
+*********************************************************************
+Document:CACM-3111
+
+security, wiretap, computer NETWORK security, 
+secure communications over insecure channels 
+according to traditional conceptions OF cryptographic 
+*********************************************************************
+Document:CACM-1906
+
+automated printed circuit ROUTING WITH a stepping aperture 
+a computer program FOR ROUTING interconnections 
+down THE board. THE planned ROUTING is THE basis FOR 
+ROUTING, printed circuit, interconnections, aperture, 
+*********************************************************************
+Document:CACM-2396
+
+processing, based ON a semantic memory NETWORK 
+text, resolves ambiguities, adds INFORMATION 
+mccalla, g. I. 
+muse: a model to understand simple english 
+*********************************************************************
+Document:CACM-2833
+
+ALGORITHMS ARE designed to work well IN systems 
+an efficient, incremental, automatic garbage collector 
+this paper describes a new way OF solving 
+*********************************************************************
+Document:CACM-2450
+
+THE design OF scheduling AND paging ALGORITHMS. although 
+IN THE literature DEALING WITH resource allocation, there 
+empirical working set behavior 
+*********************************************************************
+Document:CACM-1516
+
+FOR THE automatic compression OF "ANY" INFORMATION, 
+THE "INFORMATION explosion" noted IN recent 
+FOR all INFORMATION be kept to a minimum. a fully automatic 
+be USED WITH "ANY" body OF INFORMATION to greatly reduce 
+*********************************************************************
+Document:CACM-2888
+
+INFORMATION reference coding 
+through a set-theoretic INFORMATION model. 
+analysis, INFORMATION modeling, database 
+*********************************************************************
+Document:CACM-1159
+
+that it is this process OF convergence IN HARDWARE 
+halpern, m. I. 
+machine independence: its technology AND economics 
+*********************************************************************
+Document:CACM-1867
+
+one is INTERESTED IN THE ratio l(j) OF THE 
+technique to THE number OF memory cells USED. 
+ON THE expected lengths OF sequences generated 
+IN sorting by replacement selecting 
+*********************************************************************
+Document:CACM-2016
+
+computer utility is discussed. these tools include special HARDWARE 
+PARTICULAR measurements OF INTEREST IN a system which combines demand 
+insight into effectiveness (or lack there OF) OF individual tools is provided. 
+THE instrumentation OF multics 
+*********************************************************************
+Document:CACM-2439
+
+multiple terminals under user program 
+control IN a time-sharing environment 
+user-written programs ON THE dartmouth time-sharing 
+*********************************************************************
+Document:CACM-2902
+
+ALGORITHMS. simple ALGORITHMS operating ON memory ordered 
+35 dynamic memory allocation ALGORITHMS when USED 
+fragmentation. ALGORITHMS main taining separate 
+well. ALGORITHMS employing power-of-two block sizes 
+*********************************************************************
+Document:CACM-3038
+
+using encryption FOR authentication IN large NETWORKS OF computers 
+communication IN computer NETWORKS is discussed. 
+AND public-key encryption ALGORITHMS ARE considered as THE basis FOR protocols. 
+encryption, security, authentication, NETWORKS, protocols, 
+*********************************************************************
+Document:CACM-3132
+
+experiments WITH some ALGORITHMS that find 
+than a noncentral hyperplane. six ALGORITHMS FOR finding central 
+three ALGORITHMS which ARE defined IN THE paper ARE found to be 
+central solutions FOR pattern classification 
+*********************************************************************
+Document:CACM-1612
+
+essential weakness OF THE method is IN DEALING WITH complicated 
+top-to-bottom parsing rehabilitated? 
+this note is concerned WITH THE efficiency 
+*********************************************************************
+Document:CACM-1623
+
+command. IN PARTICULAR, it made extensive use OF THE 
+may be INTERESTED IN THE problem because it is stated 
+OF INTEREST IN areas other than circuit analysis. 
+an application OF formac 
+*********************************************************************
+Document:CACM-0944
+
+trees. such trees have INFORMATION storage AND retrieval 
+word length AND distribution OF stored INFORMATION 
+certain list properties is available. OF prime INTEREST 
+storage AND search properties OF a tree-organized memory system 
+*********************************************************************
+Document:CACM-1199
+
+changing technologies OF HARDWARE AND software 
+center IN terms OF INFORMATION nets, decision processes, 
+a computer center simulation project 
+*********************************************************************
+Document:CACM-2516
+
+hierarchical storage IN INFORMATION retrieval 
+ON INFORMATION retrieval operations. THE data storage 
+HARDWARE is assumed to consist ON n-levels OF 
+linearly connected memory HARDWARE WITH increasing data 
+*********************************************************************
+Document:CACM-2625
+
+these schemes when DEALING WITH shared addresses ARE 
+identify capabilities will dominate. a HARDWARE address 
+addressing, capabilities, addressing HARDWARE, 
+protection, protection HARDWARE, shared addresses, 
+*********************************************************************
+Document:CACM-2424
+
+HARDWARE AND software. THE dynamic verification 
+OF a single HARDWARE or software fault. furthermore, 
+one user's INFORMATION cannot become available to another 
+single HARDWARE or software fault.the amount OF additional 
+*********************************************************************
+Document:CACM-1362
+
+THE american standard code FOR INFORMATION 
+that is, WITH THE representation OF INFORMATION 
+7-bit code FOR INFORMATION interchange. 
+code extension IN ascii* (an asa tutorial) 
+*********************************************************************
+Document:CACM-0820
+
+checking FOR loops IN NETWORKS 
+cacm july, 1963 
+gordon, r. m. 
+*********************************************************************
+Document:CACM-2445
+
+ROUTING problem (algorithm a456) 
+ROUTING problem, shortest path, traveling 
+cacm september, 1973 
+*********************************************************************

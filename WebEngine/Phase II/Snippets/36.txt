@@ -1,0 +1,660 @@
+Query:fast algorithm for context-free language recognition or parsing
+
+Document:CACM-1265
+
+on the relative efficiencies of CONTEXT-FREE grammar recognizers 
+a number of diverse RECOGNITION procedures 
+that have been proposed FOR PARSING sentences with 
+respect to a CONTEXT-FREE grammar are described in this 
+*********************************************************************
+Document:CACM-2112
+
+RECOGNITION and PARSING may be treated as special cases of the translation 
+CONTEXT-FREE languages. a formal procedure is given FOR deriving from 
+expression, CONTEXT-FREE languages, translation, recognizers, 
+PARSING, meta-compilers, pushdown transducer, syntax 
+*********************************************************************
+Document:CACM-2110
+
+an efficient CONTEXT-FREE PARSING ALGORITHM 
+syntax analysis, PARSING, CONTEXT-FREE grammar, 
+and the familiar top-down ALGORITHM. it has a time bound proportional to 
+class of grammars, which seems to include most practical CONTEXT-FREE 
+*********************************************************************
+Document:CACM-2698
+
+CONTEXT-FREE languages: a practical approach 
+the analyzer takes a general class of CONTEXT-FREE 
+RECOGNITION consists of a least-errors count FOR 
+grammar. the ALGORITHM design emphasizes practical 
+*********************************************************************
+Document:CACM-2476
+
+LANGUAGE theory, CONTEXT-FREE grammars 
+equivalence between and/or graphs and CONTEXT-FREE grammars 
+cacm july, 1973 
+*********************************************************************
+Document:CACM-2030
+
+formal LANGUAGE theory, PARSING, PARSING algorithms, RECOGNITION algorithms 
+derivations and a PARSING ALGORITHM which finds 
+context-sensitive PARSING 
+required by the ALGORITHM is essentially no more than the required to 
+*********************************************************************
+Document:CACM-2733
+
+lr PARSING, ll PARSING, ambiguous grammars 
+deterministic PARSING of ambiguous grammars 
+CONTEXT-FREE grammars together with rules to resolve 
+programming LANGUAGE specification, parser generation, 
+*********************************************************************
+Document:CACM-2811
+
+structural pattern RECOGNITION, PARSING, waveform analysis, pulse waves 
+structural pattern RECOGNITION of carotid pulse 
+waves using a general waveform PARSING system 
+a general waveform PARSING system with application 
+*********************************************************************
+Document:CACM-1399
+
+on top-to-bottom RECOGNITION and left recursion 
+descriptions in a CONTEXT-FREE grammar by performing 
+the RECOGNITION according to a strongly equivalent, 
+*********************************************************************
+Document:CACM-1787
+
+grammar, CONTEXT-FREE LANGUAGE, formal LANGUAGE, 
+recognizer FOR sentences of the corresponding LANGUAGE. 
+PARSING 
+use of transition matrices in compiling 
+*********************************************************************
+Document:CACM-1350
+
+the augmented predictive analyzer FOR CONTEXT-FREE 
+CONTEXT-FREE grammar g, a standard-form grammar 
+a standard-form grammar, it can accept the LANGUAGE 
+of any CONTEXT-FREE grammar g, given an equivalent standard-form 
+*********************************************************************
+Document:CACM-2794
+
+LANGUAGE RECOGNITION problem which is based on the cocke 
+PARSING ALGORITHM is used as an illustration. 
+proving, LANGUAGE RECOGNITION 
+state-space, problem-reduction, and theorem proving-some relationships 
+*********************************************************************
+Document:CACM-2084
+
+ambiguity, inherent ambiguity, complement, CONTEXT-FREE LANGUAGE, 
+type 2 LANGUAGE, bounded LANGUAGE 
+a note on the complement of inherently ambiguous CONTEXT-FREE languages 
+chomsky-language, phrase structure LANGUAGE, production system, 
+*********************************************************************
+Document:CACM-2061
+
+an ALGORITHM FOR the construction of bounded-context parsers 
+the definition of a CONTEXT-FREE grammar and the working of a 
+a CONTEXT-FREE grammar is then introduced and its connection with 
+in the second part, the utility of the ALGORITHM is discuss 
+*********************************************************************
+Document:CACM-1012
+
+set t. every CONTEXT-FREE LANGUAGE can be analyzed 
+and of a working PARSING ALGORITHM. the connection 
+formal PARSING systems 
+important FOR both natural LANGUAGE data processing 
+*********************************************************************
+Document:CACM-2836
+
+of a CONTEXT-FREE grammar. an ALGORITHM is presented 
+in addition, the correctness of the ALGORITHM 
+involving probabilistic PARSING OR combinatorial 
+weighted derivation trees 
+*********************************************************************
+Document:CACM-1527
+
+through questions posed in natural LANGUAGE 
+sentences. this procedure makes use of a sentence RECOGNITION 
+sentences of a natural LANGUAGE. it 
+is possible to make use of a RECOGNITION device of this 
+*********************************************************************
+Document:CACM-2179
+
+grammar, syntactic analysis, PARSING ALGORITHM, 
+a class of CONTEXT-FREE grammars, called the 
+CONTEXT-FREE grammar, lr(k) grammar, precedence 
+simple lr(k) grammars 
+*********************************************************************
+Document:CACM-2754
+
+a syntactic ALGORITHM FOR peak detection 
+ALGORITHM incorporating piecewise linear approximation 
+and tabular PARSING techniques. several parameters serve 
+ALGORITHM is of sufficient speed to allow on-line 
+*********************************************************************
+Document:CACM-2581
+
+PARSING, speech RECOGNITION, speech understanding, 
+PARSING system, designed FOR use in a continuous 
+augmented transition network, local PARSING 
+a locally-organized parser FOR spoken input 
+*********************************************************************
+Document:CACM-2739
+
+natural LANGUAGE, PARSING, grammar, programming languages 
+FOR the computer analysis of natural LANGUAGE 
+sentences have been based on augmented CONTEXT-FREE 
+grammars: a CONTEXT-FREE grammar which defines a 
+*********************************************************************
+Document:CACM-2301
+
+floyd production LANGUAGE, PARSING, syntax 
+algorithmic LANGUAGE processing,bottom-up PARSING, 
+grammars. they are much more suited to PARSING than 
+a bottom-up scheme FOR PARSING them, based 
+*********************************************************************
+Document:CACM-1768
+
+which can then parse any sentence in the LANGUAGE (OR 
+a global parser FOR CONTEXT-FREE phrase structure grammars 
+whose purpose is to shorten the basic ALGORITHM by quickly 
+ALGORITHM and the parser have been implemented in rca 
+*********************************************************************
+Document:CACM-2703
+
+FOR including the semantics of a CONTEXT-FREE LANGUAGE 
+attribute grammars are an extension of CONTEXT-FREE 
+with the syntax of the LANGUAGE. the circularity 
+specifically, it is shown that any deterministic ALGORITHM 
+*********************************************************************
+Document:CACM-2492
+
+PARSING of complex decision situations 
+a new PARSING technique is proposed which allows 
+PARSING based only on syntactical characteristics 
+decision tables, PARSING, decision grid chart,problem analysis 
+*********************************************************************
+Document:CACM-1989
+
+natural LANGUAGE analysis, PARSING, semantic interpretation, 
+transition network grammars FOR natural LANGUAGE analysis 
+of natural LANGUAGE sentences is described. structure-building 
+advantage of semantic information to guide the PARSING. the 
+*********************************************************************
+Document:CACM-1184
+
+a FAST storage allocator 
+a FAST storage bookkeeping method is described 
+low-level list LANGUAGE), makes available 
+*********************************************************************
+Document:CACM-1825
+
+processor, CONTEXT-FREE LANGUAGE algol 
+of recognizing and PARSING an input during a single 
+constructed FOR each part (using knuth's ALGORITHM) 
+LANGUAGE, syntax-directed compiler, LANGUAGE 
+*********************************************************************
+Document:CACM-1836
+
+vectors, called linear precedence functions. a new ALGORITHM 
+functions when given the precedence matrix; this ALGORITHM 
+boolean matrices, syntax, precedence grammar CONTEXT-FREE 
+PARSING, transition matrix, precedence 
+*********************************************************************
+Document:CACM-1612
+
+of the top-to-bottom PARSING ALGORITHM as used in 
+top-to-bottom PARSING rehabilitated? 
+connection with programming LANGUAGE grammars. it is 
+*********************************************************************
+Document:CACM-2643
+
+FAST access to individual bits. it considers the problem 
+PARSING, lexical analysis,scanning, 
+the minimization of spatially-multiplexed character sets 
+*********************************************************************
+Document:CACM-1855
+
+syntactic analysis, LANGUAGE processing, LANGUAGE 
+analysis, PARSING, analysis procedure, RECOGNITION 
+a program FOR the syntactic analysis of english sentences 
+*********************************************************************
+Document:CACM-2050
+
+automatic PARSING FOR content analysis 
+all of an unrestricted natural LANGUAGE text, some applications, of which 
+information retrieval, LANGUAGE analysis, text processing 
+content analysis, PARSING, syntactic analysis, natural LANGUAGE processing, 
+*********************************************************************
+Document:CACM-2980
+
+editing is equivalent to FAST graph operations. a number of examples are shown. 
+picture processing, pattern RECOGNITION, segmentation, region editing 
+the editing of picture segmentations using local analysis of graphs 
+*********************************************************************
+Document:CACM-2215
+
+to sequential pattern RECOGNITION 
+a sequential pattern RECOGNITION (spr) procedure 
+some computer simulated experiments in character RECOGNITION 
+sequential pattern RECOGNITION, game tree searching, 
+*********************************************************************
+Document:CACM-1309
+
+a computer LANGUAGE system has been developed 
+which makes possible FAST preparation of management 
+a computer user-oriented system 
+*********************************************************************
+Document:CACM-2310
+
+LANGUAGE analysis in the humanities 
+as to LANGUAGE analysis in the humanities will be the 
+LANGUAGE analysis, humanities, science of the humanities, 
+pattern RECOGNITION, pattern generation, 
+*********************************************************************
+Document:CACM-2340
+
+precedence grammars, CONTEXT-FREE PARSING 
+precedence relations is given. this ALGORITHM not 
+a boolean matrix method FOR the computation 
+of linear precedence functions 
+*********************************************************************
+Document:CACM-2786
+
+the LANGUAGE has been designed to be easy to learn 
+and to use by people (FOR example, secretaries and 
+typesetting. experience indicates that the LANGUAGE 
+2 produces (formula). the syntax of the LANGUAGE is specified 
+*********************************************************************
+Document:CACM-2546
+
+as input to a grammatical inference ALGORITHM. the ALGORITHM 
+both in designing a new programming LANGUAGE 
+and in extending an existing LANGUAGE, the designer 
+FOR the LANGUAGE. we are proposing an interactive 
+*********************************************************************
+Document:CACM-2982
+
+the storage requirement in precedence PARSING 
+precedence PARSING, storage requirement, value table 
+cacm march, 1977 
+*********************************************************************
+Document:CACM-0617
+
+perform its calculations OR data processing FAST 
+poseidon 
+any computer that forms part of a control system-whether 
+*********************************************************************
+Document:CACM-1548
+
+PARSING of decision tables 
+considered in this paper are on the PARSING of decision 
+and context relationships. such PARSING 
+*********************************************************************
+Document:CACM-2702
+
+CONTEXT-FREE grammar is a member of some easily 
+every k there exists an o(n(k+2)) ALGORITHM FOR 
+computational complexity, CONTEXT-FREE grammars, 
+PARSING, lr(k) grammars, np-complete problems 
+*********************************************************************
+Document:CACM-2195
+
+of the problem is not embedded in the RECOGNITION ALGORITHM 
+of stages is equal to the length n of the curves (OR 
+picture processing, picture RECOGNITION, picture 
+global RECOGNITION, parallel processing, dynamic 
+*********************************************************************
+Document:CACM-1737
+
+a global parser FOR CONTEXT-FREE phrase structure grammars 
+cacm june, 1968 
+unger, s. h. 
+*********************************************************************
+Document:CACM-1669
+
+algol procedures FOR the FAST fourier transform (ALGORITHM 338 [c6]) 
+FAST fourier transform, complex fourier transform, 
+cacm november, 1968 
+*********************************************************************
+Document:CACM-1668
+
+an algol procedure FOR the FAST fourier transform 
+with arbitrary factors (ALGORITHM 339 [c6]) 
+FAST fourier transform, multivariate fourier transform, 
+*********************************************************************
+Document:CACM-3045
+
+no attempt to repair errors is made, yet PARSING and 
+with negligible increase in PARSING time, space, 
+syntax errors, error recovery, PARSING, 
+a simple recovery-only procedure FOR simple precedence parsers 
+*********************************************************************
+Document:CACM-1917
+
+an algol procedure FOR the FAST fourier transform 
+with arbitrary factors (ALGORITHM 339 [c6]) 
+FAST fourier transform, complex fourier transform, 
+*********************************************************************
+Document:CACM-0949
+
+of a CONTEXT-FREE LANGUAGE should be conceived 
+integer and signed constants in algol 
+a few remarks are given on the relations between 
+*********************************************************************
+Document:CACM-1683
+
+whether a given CONTEXT-FREE phrase structure 
+grammar, simple precedence LANGUAGE, operator 
+boolean matrix methods FOR the detection of simple precedence grammars 
+*********************************************************************
+Document:CACM-1162
+
+an assembly LANGUAGE FOR reprogramming 
+complete reprogramming of compiler LANGUAGE programs 
+is seldom necessary. it is assembly LANGUAGE 
+is, from assembly LANGUAGE to machine LANGUAGE. 
+*********************************************************************
+Document:CACM-3132
+
+in two-class pattern RECOGNITION, it is a standard 
+technique to have an ALGORITHM finding hyperplanes 
+used practice, the modified relaxation ALGORITHM is very poor. 
+pattern RECOGNITION, pattern classification, linear discriminants, central 
+*********************************************************************
+Document:CACM-2921
+
+this paper in troduces an alternative to CONTEXT-FREE 
+PARSING, programming languages, LANGUAGE generation, 
+regular right part grammars and their parsers 
+*********************************************************************
+Document:CACM-1073
+
+a FAST procedure FOR generating exponential random variables 
+a very FAST method FOR generating exponential 
+random variables in a digital computer is outlined. 
+*********************************************************************
+Document:CACM-2423
+
+generator" realizable as an assembly LANGUAGE, 
+words of 60-bit core memory of which 140 words are PARSING 
+automata, translation grammars, translator optimization, compression ALGORITHM 
+a parser-generating system FOR constructing compressed compilers 
+*********************************************************************
+Document:CACM-1525
+
+cooley and tukey have proposed a FAST ALGORITHM 
+on computing the FAST fourier transform 
+a power of two, computing time FOR this ALGORITHM is 
+in this paper, the FAST fourier transform ALGORITHM 
+*********************************************************************
+Document:CACM-1921
+
+FAST fourier transform (ALGORITHM 345 [c6]) 
+FAST fourier transform, complex fourier transform, 
+an algol convolution procedure based on the 
+*********************************************************************
+Document:CACM-1837
+
+FAST fourier transform (ALGORITHM 345 [c6]) 
+FAST fourier transform, complex fourier transform, 
+an algol convolution procedure based on the 
+*********************************************************************
+Document:CACM-1455
+
+trac, a procedure-describing LANGUAGE FOR the reactive typewriter 
+and compiling) LANGUAGE and processing ALGORITHM 
+is given. the trac LANGUAGE was developed as the basis 
+in the trac LANGUAGE, one can write procedures FOR 
+*********************************************************************
+Document:CACM-2113
+
+RECOGNITION, pattern RECOGNITION, matching procedures, tree-structure 
+PARSING, syntactic analysis, natural-language analysis, linguistic data 
+the multistore parser FOR hierarchical syntactic structures 
+*********************************************************************
+Document:CACM-2481
+
+the distribution of a program in primary and FAST buffer storage 
+a virtual memory computer system with a FAST 
+the cost-time integral of primary and FAST buffer 
+cache, virtual memory, lifetime function, cost-time integral, FAST buffer 
+*********************************************************************
+Document:CACM-2059
+
+a LANGUAGE FOR treating graphs 
+a LANGUAGE FOR the representation of graph is described, and the formulation of 
+are represented by linked lists. the LANGUAGE is syntactically defined 
+by means of a syntax-driven compiler. application areas FOR this LANGUAGE are 
+*********************************************************************
+Document:CACM-1641
+
+a use of FAST and slow memories in list-processing languages 
+level a nonhomogeneous store composed of FAST (core) 
+leaves the most often called pages in the FAST memory. 
+on the number of pages available in the FAST store. 
+*********************************************************************
+Document:CACM-1335
+
+RECOGNITION (proposed american stand ard) 
+character set FOR optical character 
+cacm january, 1965 
+*********************************************************************
+Document:CACM-1131
+
+on context and ambiguity in parsing* 
+cacm february, 1964 
+ross, d. t. 
+*********************************************************************
+Document:CACM-0204
+
+proving theorems by pattern RECOGNITION i 
+cacm april, 1960 
+wang, h. 
+*********************************************************************
+Document:CACM-2880
+
+a FAST ALGORITHM FOR division by constant divisors 
+a FAST division technique FOR constant divisors 
+mathematical foundations of the ALGORITHM are presented 
+*********************************************************************
+Document:CACM-2545
+
+shown to be a generalization of a formal LANGUAGE. 
+patterns, snobol4, pattern theory, PARSING, pattern matching, 
+a theory of discrete patterns and their implementation in snobol4 
+*********************************************************************
+Document:CACM-2641
+
+a minimal spanning tree clustering method [z] (ALGORITHM a479) 
+clustering, pattern RECOGNITION, feature 
+cacm june, 1974 
+*********************************************************************
+Document:CACM-1179
+
+pufft-the purdue university FAST fortran translator 
+translator FOR the full fortran iv LANGUAGE, the fortran 
+LANGUAGE programs are processed at very high speeds. 
+LANGUAGE compatibility has been maintained so that 
+*********************************************************************
+Document:CACM-2370
+
+an experimental laboratory FOR pattern RECOGNITION and signal processing 
+terminal, image processing, pattern RECOGNITION 
+an interactive computer-controlled scanning 
+*********************************************************************
+Document:CACM-2350
+
+clenshaw-curtis quadrature [d1] (ALGORITHM a424) 
+quadrature, chebyshev series, cosine transform, FAST fourier transform 
+cacm may, 1972 
+*********************************************************************
+Document:CACM-3198
+
+the problem we have been concerned with is that of converting LANGUAGE to 
+FOR this purpose is LANGUAGE and therefore we are preoccupied with the subject 
+of LANGUAGE. in the areas of LANGUAGE investigation we have concentrated first 
+microprogramming, emulators and programming languages 
+*********************************************************************
+Document:CACM-1679
+
+a FAST fourier transform ALGORITHM FOR real-valued series 
+an integral power of two. this ALGORITHM preserves 
+the order and symmetry of the cooley-turkey FAST 
+fourier transform ALGORITHM while effecting the two-to-one 
+*********************************************************************
+Document:CACM-2402
+
+pictorial pattern RECOGNITION and the 
+RECOGNITION techniques make possible a number of approaches 
+pattern RECOGNITION algorithms is hindered by the fact 
+pictorial pattern RECOGNITION, phase problem, 
+*********************************************************************
+Document:CACM-1665
+
+items OR of words allowable in a LANGUAGE given in terms 
+as FAST as hand-coded processors, which would 
+analyze the LANGUAGE and detect errors, and 
+machine, PARSING, plex structure, regular expressions,sequential 
+*********************************************************************
+Document:CACM-0462
+
+computer pattern RECOGNITION techniques: electrocardiographic diagnosis 
+pattern classification and RECOGNITION devices 
+FOR the purpose of pattern RECOGNITION. in this way 
+*********************************************************************
+Document:CACM-1902
+
+different languages, including assembly LANGUAGE. 
+programs, and no special RECOGNITION of exercises by the operators is necessary. 
+an automatic grading scheme FOR simple programming exercises 
+*********************************************************************
+Document:CACM-2246
+
+levels of LANGUAGE FOR portable software 
+designed machine-independent LANGUAGE and 
+then to map this LANGUAGE, often using a macro processor, 
+into the assembly LANGUAGE of each desired 
+*********************************************************************
+Document:CACM-2054
+
+speech RECOGNITION, word RECOGNITION, pattern-matching, pattern 
+considered. details of a specific word RECOGNITION program are given. this 
+RECOGNITION, time-sharing, remote access, voice input, speech input, 
+on the feasibility of voice input to 
+*********************************************************************
+Document:CACM-0633
+
+(iii. analysis and pattern RECOGNITION) 
+simulation and analysis of biochemical systems 
+cacm february, 1962 
+*********************************************************************
+Document:CACM-1453
+
+FOR describing algebraic LANGUAGE syntax, 
+elimination ALGORITHM of gorn,similar to gaussian elimination 
+a hand calculation result of the application of the ALGORITHM 
+terms, as far as its CONTEXT-FREE portion is 
+*********************************************************************
+Document:CACM-2986
+
+of precedence relations FOR a CONTEXT-FREE grammar, can be 
+done by a practical ALGORITHM that is asymptotically 
+operations on sparse relations 
+*********************************************************************
+Document:CACM-2788
+
+picture processing, pattern RECOGNITION, curve detection,line fitting 
+finding circles by an array of accumulators 
+cacm february, 1975 
+*********************************************************************
+Document:CACM-2910
+
+picture processing, pattern RECOGNITION, curve 
+equivalence of hough curve detection to template matching 
+cacm november, 1977 
+*********************************************************************
+Document:CACM-3094
+
+analyses of deterministic PARSING algorithms 
+the ALGORITHM one wishes to analyze. the 
+LANGUAGE. 
+and bottom-up PARSING, relative efficiencies. 
+*********************************************************************
+Document:CACM-3176
+
+gaussian elimination, PARSING, searching, 
+why a simpler ALGORITHM used FOR compressing lr PARSING tables works so well. 
+storing a sparse table 
+*********************************************************************
+Document:CACM-3093
+
+the scheme, which is based on lr PARSING, is driven 
+correction, PARSING, lr, syntax errors, compilers 
+automatic error recovery FOR lr parsers 
+*********************************************************************
+Document:CACM-1569
+
+of a CONTEXT-FREE phrase structure grammar 
+implementing phrase-structure productions in pl/i 
+a method is described FOR implementing the productions 
+*********************************************************************
+Document:CACM-2252
+
+LANGUAGE using a general purpose text editor, and incremental 
+of the method are: (1) the syntax of the LANGUAGE 
+commands has been received; and (4) the PARSING and 
+incremental compiler, interactive programming LANGUAGE 
+*********************************************************************
+Document:CACM-2091
+
+pdel-a LANGUAGE FOR partial differential equations 
+LANGUAGE to solve and study partial differential equation problems 
+has been designed; a practical translator FOR the LANGUAGE has also 
+FOR a significant portion of the LANGUAGE. this partial differential 
+*********************************************************************
+Document:CACM-2644
+
+a theorem-proving LANGUAGE FOR experimentation 
+a LANGUAGE especially oriented toward automated 
+and instructions of this LANGUAGE. the use 
+of this LANGUAGE permits easy extension of automated 
+*********************************************************************
+Document:CACM-2353
+
+FAST finite-difference solution of biharmonic problems 
+numerically, results in a FAST numerical method FOR 
+setting the reynolds number equal to zero, in 
+*********************************************************************
+Document:CACM-0185
+
+in order to exploit fully a FAST computer which 
+scheduling ALGORITHM is described which tends to minimize 
+(OR any subset of it), subject to external constraints 
+such as precedence, urgency, etc. the ALGORITHM 
+*********************************************************************
+Document:CACM-0644
+
+a string LANGUAGE FOR symbol manipulation based on algol 60 
+an artificial computer programming LANGUAGE 
+LANGUAGE is followed by examples, a description of 
+experiments with the LANGUAGE on an ibm 704 computer, 
+*********************************************************************
+Document:CACM-2556
+
+LANGUAGE which can tolerate a considerable 
+PARSING, approximate match, compiler, program 
+adaptive correction of program statements 
+*********************************************************************
+Document:CACM-2287
+
+are utilized in developing a new scanning ALGORITHM. 
+the problem of detection and RECOGNITION of contour 
+contour lines, topology, detection and RECOGNITION 
+a new approach to automatic scanning of contour maps 
+*********************************************************************
+Document:CACM-1794
+
+a FAST random number generator FOR ibm 360 
+cacm december, 1969 
+seraphin, d. s. 
+*********************************************************************

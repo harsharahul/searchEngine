@@ -1,0 +1,617 @@
+Query:find all discussions of horizontal microcode optimization with special emphasis on optimization of loops and global optimization
+
+Document:CACM-2464
+
+OPTIMIZATION, constrained OPTIMIZATION, box's algorithm 
+the complex method for constrained OPTIMIZATION [e4] (algorithm a454) 
+cacm august, 1973 
+*********************************************************************
+Document:CACM-1231
+
+peephole OPTIMIZATION 
+optimizing technique called peephole OPTIMIZATION. 
+redundant instructions may be discarded during 
+*********************************************************************
+Document:CACM-2835
+
+recursion analysis for compiler OPTIMIZATION 
+use in compiler OPTIMIZATION. implementation considerations 
+algorithm is given to further improve OPTIMIZATION. 
+recursion, compiler OPTIMIZATION 
+*********************************************************************
+Document:CACM-2611
+
+the complex method for constrained OPTIMIZATION (algorithm r454) 
+cacm august, 1974 
+shere, k. d. 
+*********************************************************************
+Document:CACM-2616
+
+conversions are mainly program debugging AND OPTIMIZATION 
+decision tables, program OPTIMIZATION, debugging, 
+ON the conversion OF programs to decision tables: method AND objectives 
+*********************************************************************
+Document:CACM-2929
+
+an OPTIMIZATION technique known as inline substitution 
+is analyzed. the OPTIMIZATION consists 
+program OPTIMIZATION, compilers, structured 
+an analysis OF inline substitution for a structured programming language 
+*********************************************************************
+Document:CACM-2133
+
+operations research, OPTIMIZATION theory, 
+algorithm for the assignment problem 
+(rectangular matrices) [h] (algorithm 415) 
+*********************************************************************
+Document:CACM-1947
+
+object code OPTIMIZATION 
+used to do GLOBAL common expression elimination 
+instructions, object code, OPTIMIZATION, redundancy 
+*********************************************************************
+Document:CACM-2495
+
+object-code OPTIMIZATION, register assignment, 
+adapting optimal code generation for arithmetic 
+expressions to the instruction sets available 
+ON present-day computers 
+*********************************************************************
+Document:CACM-2344
+
+ON the OPTIMIZATION OF performance OF time-sharing systems by simulation 
+algorithm, including the scheduling itself, require OPTIMIZATION, 
+features would benefit from OPTIMIZATION whereas 
+manner AND would not benefit from OPTIMIZATION. features 
+*********************************************************************
+Document:CACM-2904
+
+integrated package OF local OPTIMIZATION algorithms. 
+compilers, OPTIMIZATION OF compiled code, program analysis, 
+an algorithm for reduction OF operator strength 
+*********************************************************************
+Document:CACM-2836
+
+OPTIMIZATION. 
+structural ambiguity, combinatorial OPTIMIZATION 
+weighted derivation trees 
+*********************************************************************
+Document:CACM-1676
+
+machine-independent OPTIMIZATION occurs in pass ii 
+AND do-loop AND machine-dependent OPTIMIZATION in 
+common subsegments, tree representation, OPTIMIZATION 
+the lrltran compiler 
+*********************************************************************
+Document:CACM-2964
+
+OPTIMIZATION, resident, overflow storage 
+an approach to optimal design OF storage parameters in databases 
+cacm may, 1977 
+*********************************************************************
+Document:CACM-1795
+
+code OPTIMIZATION, sequencing OF operations, 
+optimal code for serial AND parallel computation 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-2290
+
+connectivity, program OPTIMIZATION, optimizing compiler 
+immediate predominators in a directed graph [h] (algorithm a430) 
+cacm august, 1972 
+*********************************************************************
+Document:CACM-3054
+
+various code OPTIMIZATION techniques. a detailed 
+are summarized. a variety OF SPECIAL situations are considered 
+quicksort, analysis OF algorithms, code OPTIMIZATION, sorting 
+implementing quicksort programs 
+*********************************************************************
+Document:CACM-3125
+
+GLOBAL OPTIMIZATION by suppression OF partial redundancies 
+computations out OF LOOPS are often done separately, WITH invariants 
+optimizer, OPTIMIZATION, compiler, compilation, 
+*********************************************************************
+Document:CACM-3080
+
+the system is as a post OPTIMIZATION step in code 
+that OPTIMIZATION OF the genre OF this paper can result 
+compilers, correctness, code OPTIMIZATION, 
+proving the correctness OF heuristically optimized code 
+*********************************************************************
+Document:CACM-1807
+
+OPTIMIZATION OF expressions in fortran 
+invariant calculations from do LOOPS, (3) to efficiently 
+fortran, OPTIMIZATION, expressions, compilers, 
+LOOPS, common subexpressions, invariant calculations 
+*********************************************************************
+Document:CACM-2411
+
+inductive assertion, least fix points, OPTIMIZATION 
+tree-structured programs 
+cacm november, 1973 
+*********************************************************************
+Document:CACM-2537
+
+OPTIMIZATION problem: determine how each message should 
+minimum space, text storage, OPTIMIZATION, 
+common phrases AND minimum-space text storage 
+*********************************************************************
+Document:CACM-2680
+
+turnaround time. an OPTIMIZATION model for 
+disk analysis, disk OPTIMIZATION, disk files,file 
+optimal space allocation ON disk storage devices 
+*********************************************************************
+Document:CACM-2253
+
+in a previous paper. this scheme attempts program OPTIMIZATION 
+languages, program OPTIMIZATION, range operations, symbolic 
+index ranges for matrix calculi 
+*********************************************************************
+Document:CACM-2877
+
+the GLOBAL data relationships in a program 
+program OPTIMIZATION, data flow analysis, 
+a program data flow analysis procedure 
+*********************************************************************
+Document:CACM-2195
+
+GLOBAL approach, greater flexibility AND adequacy 
+the complexity OF the OPTIMIZATION process is then discussed. 
+GLOBAL recognition, parallel processing, dynamic 
+programming, interaction graph, secondary OPTIMIZATION problem 
+*********************************************************************
+Document:CACM-2716
+
+GLOBAL query OPTIMIZATION, (2) exploiting disjoint 
+relational database, database OPTIMIZATION, inverted 
+optimizing the performance OF a relational algebra database interface 
+*********************************************************************
+Document:CACM-2944
+
+requires GLOBAL flow analysis to be performed ON the 
+used to FIND actions that cancel when the code is executed 
+garbage collection, GLOBAL flow analysis, list processing, 
+OPTIMIZATION, reference counts, storage 
+*********************************************************************
+Document:CACM-0693
+
+concepts has been developed to solve OPTIMIZATION 
+an extension OF fibonaccian search to several variables 
+a technique which uses fibonaccian search 
+*********************************************************************
+Document:CACM-3018
+
+algorithm which solves a certain combinatorial OPTIMIZATION 
+this OPTIMIZATION problem is here shown to be equivalent 
+covering edges by cliques WITH regard to 
+keyword conflicts AND intersection graphs 
+*********************************************************************
+Document:CACM-3069
+
+data flow analysis, GLOBAL flow analysis, OPTIMIZATION, 
+a practical interprocedural data flow analysis algorithm 
+a new interprocedural data flow analysis algorithm 
+*********************************************************************
+Document:CACM-2953
+
+recursion elimination, OPTIMIZATION OF programs, 
+notes ON recursion elimination 
+various methods OF recursion elimination are 
+*********************************************************************
+Document:CACM-2701
+
+a fast AND usually linear algorithm for GLOBAL 
+a new algorithm for GLOBAL flow analysis ON 
+number OF exits from program LOOPS. consequently 
+GLOBAL flow analysis, data flow, code OPTIMIZATION, 
+*********************************************************************
+Document:CACM-2579
+
+OPTIMIZATION, redundant computations, common subexpressions, 
+register allocation via usage counts 
+this paper introduces the notion OF usage counts, 
+*********************************************************************
+Document:CACM-2812
+
+soda (systems OPTIMIZATION AND design algorithm) 
+accurately defined systems, systems OPTIMIZATION 
+computer-aided analysis AND design OF information systems 
+*********************************************************************
+Document:CACM-2134
+
+operations research, OPTIMIZATION theory, assignment 
+an extension OF the munkres algorithm for 
+the assignment problem to rectangular matrices 
+*********************************************************************
+Document:CACM-2388
+
+retrieving information from binary trees, GLOBAL 
+AND local OPTIMIZATION, sorting, recursion 
+optimizing binary trees grown WITH a sorting algorithm 
+*********************************************************************
+Document:CACM-1658
+
+operations research, OPTIMIZATION theory, integer 
+analysis OF algorithms for the zero-one programming problem 
+this paper is concerned WITH a review AND examination 
+*********************************************************************
+Document:CACM-3053
+
+(exhaustive) OPTIMIZATION, although packing costs 
+packed scatter tables 
+scatter tables for open addressing benefit 
+*********************************************************************
+Document:CACM-2969
+
+an OPTIMIZATION procedure for the allocation 
+optimal program AND data locations in computer networks 
+OF program AND data files in a computer network 
+*********************************************************************
+Document:CACM-1195
+
+the output for OPTIMIZATION OF processing ON the 
+uplifts-university OF pittsburgh linear file tandem system 
+a series OF computer programs has been developed 
+*********************************************************************
+Document:CACM-1564
+
+a line at a time. the only OPTIMIZATION 
+description OF basic algorithm in detab/65 preprocessor 
+the basic algorithm for the conversion OF decision 
+*********************************************************************
+Document:CACM-2923
+
+advanced methods OF program certification AND OPTIMIZATION. 
+AND derives new GLOBAL information helpful in solving 
+many familiar GLOBAL flow analysis problems. an 
+high-level data flow analysis 
+*********************************************************************
+Document:CACM-1223
+
+calculable expressions from LOOPS AND to do the 
+OPTIMIZATION such as the effective use OF index 
+high speed compilation OF efficient object code 
+*********************************************************************
+Document:CACM-2715
+
+query. the OPTIMIZATION algorithms designed 
+implementation OF a structured english query language 
+the relational model OF data, the xrm relational 
+*********************************************************************
+Document:CACM-0104
+
+objective being OPTIMIZATION OF parameters such as 
+digital simulation OF discrete flow systems* 
+the discrete flow systems discussed are characterized 
+*********************************************************************
+Document:CACM-2000
+
+optimal control, OPTIMIZATION, ordinary differential equations, 
+a variation OF the goodman-lance method for 
+the solution OF two-point boundary value problems 
+*********************************************************************
+Document:CACM-2015
+
+productions, precedence grammars, translator OPTIMIZATION, 
+a technique for generating almost optimal 
+floyd-evans productions for precedence grammars 
+*********************************************************************
+Document:CACM-2142
+
+AND the problem is to FIND the "most representative" 
+picture. three algorithms are described (ALL using 
+mathematical programming, monte carlo techniques, OPTIMIZATION, 
+reconstruction OF pictures from their projections 
+*********************************************************************
+Document:CACM-1410
+
+the OPTIMIZATION OF time-shared system performance 
+interarrival statistics for time sharing systems 
+requires the description OF the stochastic 
+*********************************************************************
+Document:CACM-2903
+
+program transformation, OPTIMIZATION OF programs, 
+improving programs by the introduction OF recursion 
+a new technique OF program transformation, 
+*********************************************************************
+Document:CACM-3020
+
+recursion removal, recursion elimination, OPTIMIZATION, 
+systematic recursion removal 
+the recursion removal algorithm presented 
+*********************************************************************
+Document:CACM-2321
+
+design OPTIMIZATION problems that require reconsideration 
+ON the interface between computers AND data communications systems 
+future systems that combine computers, digital 
+*********************************************************************
+Document:CACM-1886
+
+applied, AND hence GLOBAL optimal results are not 
+factorization algorithms, code OPTIMIZATION, sequencing 
+generation OF optimal code for expressions via factorization 
+*********************************************************************
+Document:CACM-2570
+
+list scheduling, OPTIMIZATION, dynamic programming 
+a comparison OF list schedules for parallel processing systems 
+the problem OF scheduling two or more processors 
+*********************************************************************
+Document:CACM-2858
+
+program structure AND a choice OF OPTIMIZATION 
+a process for the determination OF 
+addresses in variable length addressing 
+*********************************************************************
+Document:CACM-1719
+
+calculation AND the OPTIMIZATION OF a drum-oriented 
+a methodology for calculating AND 
+optimizing real-time system performance 
+*********************************************************************
+Document:CACM-2423
+
+automata, translation grammars, translator OPTIMIZATION, compression algorithm 
+a parser-generating system for constructing compressed compilers 
+this paper describes a parser-generating system 
+*********************************************************************
+Document:CACM-2433
+
+which could be expected to influence language (AND 
+code structuring is the crucial illiac OPTIMIZATION 
+control structures in illiac iv fortran 
+*********************************************************************
+Document:CACM-2699
+
+program OPTIMIZATION, automatic programming, high-level 
+automatic data structure choice in a language OF very high level 
+setl is a set-theoretically oriented language 
+*********************************************************************
+Document:CACM-2188
+
+WITH an OPTIMIZATION, the best graphics system configuration, 
+are in turn used to FIND general display system 
+an approach to the optimum design OF computer graphics systems 
+*********************************************************************
+Document:CACM-1951
+
+operating systems, OPTIMIZATION models 
+estimates OF distributions OF random variables 
+for certain computer communications traffic models 
+*********************************************************************
+Document:CACM-2451
+
+poses an OPTIMIZATION problem in the design OF 
+design OF tree structures for efficient querying 
+a standard information retrieval operation is 
+*********************************************************************
+Document:CACM-2883
+
+OPTIMIZATION problems, dynamic programming, shortest 
+an application OF heuristic search methods to edge AND contour detection 
+this paper presents a method for detecting edges 
+*********************************************************************
+Document:CACM-3002
+
+this model has already been used in the OPTIMIZATION OF 
+a record AND file partitioning model 
+one OF the main objectives in the design OF 
+*********************************************************************
+Document:CACM-2722
+
+o (log n); AND OPTIMIZATION (guarantees logarithmic performance 
+multidimensional binary search trees used for associative searching 
+this paper develops the multidimensional binary 
+*********************************************************************
+Document:CACM-2314
+
+entry, testing, debugging, editing, OPTIMIZATION, 
+requirements for advanced programming systems for list processing 
+list processing systems should be designed to 
+*********************************************************************
+Document:CACM-3132
+
+experiments WITH some algorithms that FIND 
+set. the traditional methods FIND a hyperplane which separates ALL 
+central solutions for pattern classification 
+*********************************************************************
+Document:CACM-0820
+
+checking for LOOPS in networks 
+cacm july, 1963 
+gordon, r. m. 
+*********************************************************************
+Document:CACM-1737
+
+a GLOBAL parser for context-free phrase structure grammars 
+cacm june, 1968 
+unger, s. h. 
+*********************************************************************
+Document:CACM-0307
+
+FIND (algorithm 65) 
+cacm july, 1961 
+hoare, c. a. r. 
+*********************************************************************
+Document:CACM-1191
+
+FIND precedence functions (algorithm 265 [l2]) 
+cacm october, 1965 
+wirth, n. 
+*********************************************************************
+Document:CACM-2477
+
+multiple exits from LOOPS, exit statement 
+multiple exits from a loop without the goto 
+cacm july, 1973 
+*********************************************************************
+Document:CACM-0507
+
+partition, quicksort, FIND (algorithm 63, 64, 65) 
+cacm august, 1962 
+hillmore, j. s. 
+*********************************************************************
+Document:CACM-2574
+
+multiple exists from LOOPS, exit statement 
+multiple exists from a loop using neither go to nor labels 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-3029
+
+foreword to the SPECIAL issue ON computer architecture 
+cacm january, 1978 
+fuller,s. 
+*********************************************************************
+Document:CACM-0776
+
+partition, quicksort, AND FIND (algorithm 62, 64, & 65) 
+cacm august, 1963 
+randell, b. 
+*********************************************************************
+Document:CACM-2174
+
+has been extended to FIND ALL the stable marriage assignments. 
+the stable marriage problem 
+the original work OF gale AND shapley ON an assignment 
+*********************************************************************
+Document:CACM-2332
+
+SPECIAL series summation WITH arbitrary precision (algorithm r393) 
+cacm june, 1972 
+sale, a. h. j. 
+*********************************************************************
+Document:CACM-1995
+
+SPECIAL series summation WITH arbitrary precision $c6) (algorithm 393) 
+cacm september, 1970 
+abdali, s. k. 
+*********************************************************************
+Document:CACM-1913
+
+function, SPECIAL functions 
+polygamma functions WITH arbitrary precision (algorithm 349 [s14]) 
+cacm april, 1969 
+*********************************************************************
+Document:CACM-1961
+
+an efficient search algorithm to FIND the elementary circuits OF a graph 
+which uses an exhaustive search to FIND ALL OF the elementary 
+circuits OF a graph. the algorithm can be easily modified to FIND ALL 
+*********************************************************************
+Document:CACM-2364
+
+estimates, error estimates, SPECIAL functions 
+complex gamma function WITH error control [s14] (algorithm a421) 
+cacm april, 1972 
+*********************************************************************
+Document:CACM-0265
+
+coded programs, to deal WITH "SPECIAL arithmetic" (e.g. 
+low level language subroutines for use within fortran 
+this paper describes some subroutines, coded 
+*********************************************************************
+Document:CACM-1808
+
+by computers are dealt WITH. SPECIAL EMPHASIS is paid 
+advanced cryptographic techniques for computers 
+cryptographic techniques which can be used to 
+*********************************************************************
+Document:CACM-2304
+
+EMPHASIS ON eastern universities AND commercial developments. 
+a western view OF computer history 
+many u. histories OF the digital computer 
+*********************************************************************
+Document:CACM-1762
+
+dilogarithm function, SPECIAL functions 
+dilogarithm (algorithm 327 [s22]) 
+cacm april, 1968 
+*********************************************************************
+Document:CACM-2029
+
+exponential integral, SPECIAL functions, rational chebyshev approximation 
+exponential integral $s13) (algorithm 385) 
+cacm july, 1970 
+*********************************************************************
+Document:CACM-1981
+
+normal curve integral, probability, SPECIAL functions 
+normal curve integral (algorithm 304 $s15)) 
+cacm october, 1970 
+*********************************************************************
+Document:CACM-1760
+
+normal curve integral, probability, SPECIAL functions 
+normal curve integral (algorithm 304 [s15]) 
+cacm april, 1968 
+*********************************************************************
+Document:CACM-2512
+
+SPECIAL functions, function evaluation 
+coulomb wave functions (algorithm r300) 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-1838
+
+normal curve integral, probability, SPECIAL functions 
+normal curve integral (algorithm 304 [s15]) 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-1761
+
+chi-squared integral, probability, SPECIAL functions 
+chi-squared integral (algorithm 299 [s15]) 
+cacm april, 1968 
+*********************************************************************
+Document:CACM-1730
+
+three-term recurrences, SPECIAL functions 
+jacobi polynomials (algorithm 332 [s22]) 
+cacm june, 1968 
+*********************************************************************
+Document:CACM-1798
+
+SPECIAL functions, function evaluation 
+coulomb wave functions (algorithm 300 [s22]) 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-2336
+
+SPECIAL functions, function evaluation 
+complex error function (algorithm c363) 
+cacm june, 1972 
+*********************************************************************
+Document:CACM-1502
+
+EMPHASIS throughout the system is ON providing 
+an online editor 
+an online, interactive system for test editing 
+*********************************************************************
+Document:CACM-1548
+
+tables WITH regard to HORIZONTAL AND vertical 
+parsing OF decision tables 
+reduction in the size OF decision tables can be 
+*********************************************************************
+Document:CACM-0089
+
+a routine to FIND the solution OF simultaneous 
+linear equations WITH polynomial coefficients 
+cacm april, 1959 
+*********************************************************************
+Document:CACM-2940
+
+means OF specializing alphard's LOOPS to operate 
+results are obtained that for common SPECIAL 
+cases OF these LOOPS are essentially identical to the 
+abstraction AND verification in alphard: defining 
+*********************************************************************

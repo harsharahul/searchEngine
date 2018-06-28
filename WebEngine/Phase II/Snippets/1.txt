@@ -1,0 +1,689 @@
+Query:what articles exist which deal with tss time sharing system an operating system for ibm computers
+
+Document:CACM-2319
+
+computer SYSTEM, OPERATING SYSTEM, performance 
+OPERATING SYSTEM performance 
+WITH respect to OPERATING SYSTEM performance 
+of AN OPERATING SYSTEM, AN overall model of the total 
+*********************************************************************
+Document:CACM-2379
+
+the design of the venus OPERATING SYSTEM 
+the venus OPERATING SYSTEM is AN experimental 
+to define the OPERATING SYSTEM as simply as possible. 
+OPERATING systems, SYSTEM design, levels of abstraction, 
+*********************************************************************
+Document:CACM-1519
+
+george 3-a general purpose TIME SHARING and OPERATING SYSTEM 
+AN OPERATING SYSTEM is described WHICH will 
+users while at the same TIME running several 
+off line (background) jobs. the SYSTEM is not oriented 
+*********************************************************************
+Document:CACM-1410
+
+interarrival statistics FOR TIME SHARING systems 
+time-sharing SYSTEM (TSS). the input process 
+the optimization of time-shared SYSTEM performance 
+interarrival TIME distribution. the data obtained 
+*********************************************************************
+Document:CACM-1523
+
+sharer, a TIME SHARING SYSTEM FOR the cdc 6600 
+a TIME SHARING SYSTEM embedded within the 
+standard batch processing SYSTEM FOR the cdc 6600 
+is described. the SYSTEM is general purpose and file-based, 
+*********************************************************************
+Document:CACM-1161
+
+1401 compatibility feature on the IBM system/360 model 30 
+the "second generation" of stored-program COMPUTERS, 
+of WHICH IBM 1400 series was a part, brought 
+edp into the mass market FOR the first TIME on a large 
+*********************************************************************
+Document:CACM-2380
+
+tenex, a paged TIME SHARING SYSTEM FOR the pdp-10 
+tenex is a new TIME SHARING SYSTEM implemented 
+WHICH are important FOR any TIME SHARING SYSTEM. 
+tenex, paging, virtual machines, TIME SHARING 
+*********************************************************************
+Document:CACM-1591
+
+into AN OPERATING SYSTEM of a large computer 
+OPERATING SYSTEM to execute functions other than 
+written to run under the OPERATING SYSTEM (ibsys) FOR 
+full resources of the OPERATING SYSTEM (language processors, 
+*********************************************************************
+Document:CACM-1033
+
+OPERATING SYSTEM includes display and entry of 
+experimental personalized array translator SYSTEM 
+a SYSTEM designed FOR intimate man-machine 
+environment is experimentally operational. the SYSTEM 
+*********************************************************************
+Document:CACM-1698
+
+are needed in certain aspects of OPERATING SYSTEM 
+a statistical model FOR console behavior in multiuser COMPUTERS 
+the ability of a computer SYSTEM to communicate 
+statistical models FOR input-output, OPERATING 
+*********************************************************************
+Document:CACM-1749
+
+OPERATING SYSTEM, multiprogramming SYSTEM, SYSTEM 
+the structure of the "the"-multiprogramming SYSTEM 
+a multiprogramming SYSTEM is described in 
+hierarchy, SYSTEM structure, real-time debugging, 
+*********************************************************************
+Document:CACM-1680
+
+programs) of the OPERATING SYSTEM. language processors 
+a general-purpose display processing and tutorial SYSTEM 
+display unit under OPERATING system/360. adept 
+is a cataloged program that controls the standard OPERATING 
+*********************************************************************
+Document:CACM-1506
+
+computer (AN IBM SYSTEM 360/30). therefore techniques 
+the laconiq monitor: TIME SHARING FOR online dialogues 
+SYSTEM user and a retrieval application. the monitor 
+feature of the SYSTEM is that it is event-driven rather 
+*********************************************************************
+Document:CACM-1938
+
+of the SYSTEM while SHARING its TIME WITH other 
+some criteria FOR time-sharing SYSTEM performance 
+to utilize the full resources of the SYSTEM that 
+quantitative time-sharing SYSTEM performance 
+*********************************************************************
+Document:CACM-2632
+
+hydra: the kernel of a multiprocessor OPERATING SYSTEM 
+hydra-the kernel of AN OPERATING SYSTEM FOR c.mmp, 
+OPERATING SYSTEM, kernel, nucleus, protection, security 
+to a given type, SHARING, and protection of any reference 
+*********************************************************************
+Document:CACM-2629
+
+time-sharing, OPERATING SYSTEM, file SYSTEM, command language, pdp-11 
+OPERATING SYSTEM FOR the digital equipment 
+the unix time-sharing SYSTEM 
+corporation pdp-11/40 and 11/45 COMPUTERS. it offers 
+*********************************************************************
+Document:CACM-3127
+
+thoth, a portable real-time OPERATING SYSTEM 
+thoth isa real-time OPERATING SYSTEM WHICH is designed to be portable 
+portability, real TIME, OPERATING systems, minicomputer 
+WITH quite different architectures. both the SYSTEM and application 
+*********************************************************************
+Document:CACM-1544
+
+tele-cupl: a telephone TIME SHARING SYSTEM 
+a general purpose, remote access, computing SYSTEM 
+to the telephone terminals, but the SYSTEM 
+high speed printing devices. the SYSTEM is 
+*********************************************************************
+Document:CACM-2371
+
+a SYSTEM FOR interprocess communication 
+in a resource SHARING computer network 
+a SYSTEM of communication between processes in a 
+time-sharing SYSTEM is described and the communication 
+*********************************************************************
+Document:CACM-2740
+
+a large semaphore based OPERATING SYSTEM 
+a large OPERATING SYSTEM as a set of cooperating 
+cooperating processes, OPERATING SYSTEM, semaphores, 
+OPERATING SYSTEM structure, asynchronous 
+*********************************************************************
+Document:CACM-2541
+
+design of the language, OPERATING SYSTEM, 
+design of this SYSTEM (WHICH has not been implemented). 
+AN overview of the ispl computer SYSTEM design 
+new concept FOR OPERATING systems: separation 
+*********************************************************************
+Document:CACM-3048
+
+COMPUTERS by deterministic simulation 
+configurations of highly concurrent COMPUTERS. a technique 
+deterministic simulation model of a SYSTEM. in the model 
+data streams of the real SYSTEM. simulation of the 
+*********************************************************************
+Document:CACM-3025
+
+evolution of the hardware, OPERATING SYSTEM, and languages 
+computer structures, architecture, OPERATING SYSTEM, timesharing 
+the evolution of the dec SYSTEM 10 
+the dec SYSTEM 10, also known as the pdp-10, evolved 
+*********************************************************************
+Document:CACM-2357
+
+AN on-line SYSTEM OPERATING as part of a normal 
+user reactions, remote terminals, OPERATING SYSTEM 
+batch SYSTEM FOR the cdc 6600 computer is described. 
+the SYSTEM, WHICH required one man-year FOR initial 
+*********************************************************************
+Document:CACM-1464
+
+in relation to AN elaborate OPERATING SYSTEM 
+into the ibsys OPERATING SYSTEM. assembly 
+although assembly plus loading TIME exceeds compilation 
+TIME, the total TIME is satisfactory and the 
+*********************************************************************
+Document:CACM-1647
+
+OPERATING SYSTEM. fortran iv was selected as the source 
+WHICH has been implemented within the IBM 7040/44 
+resides core there is virtually no SYSTEM overhead, 
+this feature makes the SYSTEM attractive to 
+*********************************************************************
+Document:CACM-1264
+
+blnsys-a 1401 OPERATING SYSTEM WITH braille capabilities 
+blnsys is AN OPERATING SYSTEM designed FOR 
+attached tape drives. printed output of this SYSTEM 
+or braille. even though this SYSTEM was written FOR 
+*********************************************************************
+Document:CACM-1168
+
+enable the SYSTEM to operate on three IBM COMPUTERS. 
+program SYSTEM written in cobol is 
+across machine lines in cobol 
+*********************************************************************
+Document:CACM-0585
+
+to the automatic TIME SHARING of independently coded 
+initial experience WITH AN OPERATING multiprogramming SYSTEM 
+SYSTEM modifications were necessary to accomplish this 
+of a multiprogramming SYSTEM. the material that follows 
+*********************************************************************
+Document:CACM-1750
+
+OPERATING systems, control data corporation 6600, OPERATING SYSTEM WITH ecs 
+computer SYSTEM WITH extended core storage 
+heighten the multiprogramming performance of a multicomputer SYSTEM 
+and functions of such a SYSTEM are based on a 
+*********************************************************************
+Document:CACM-2947
+
+sitar: AN interactive text processing SYSTEM FOR small COMPUTERS 
+and text analysis SYSTEM FOR nontechnical users, 
+SYSTEM much more powerful than the sum of its parts. 
+crts,time SHARING, bibliographic search and 
+*********************************************************************
+Document:CACM-1440
+
+starting approximations FOR square root calculation on IBM system/360 
+in a form to facilitate their use in IBM system/360 square 
+of primary interest on IBM system/360. 
+*********************************************************************
+Document:CACM-2054
+
+AN on-line computer processing SYSTEM 
+AN on-line digital computer processing SYSTEM is considered in WHICH AN 
+SYSTEM WITH a fortran-like algebraic compiler as the object processor is 
+resources required to accommodate several users at a TIME. the results show 
+*********************************************************************
+Document:CACM-1657
+
+OPERATING SYSTEM, memory protection, time-sharing, 
+implementation of the sharer2 time-sharing SYSTEM 
+suboperating SYSTEM. AN improved version of the 
+sharer time-sharing SYSTEM using this feature is described. 
+*********************************************************************
+Document:CACM-2358
+
+OPERATING SYSTEM, multics, virtual memory, segmentation, 
+SHARING. usually, SHARING is accomplished by allowing 
+as experience WITH use of on-line OPERATING 
+among SYSTEM users has become increasingly apparent. 
+*********************************************************************
+Document:CACM-1393
+
+pm, a SYSTEM FOR polynomial manipulation 
+pm is AN IBM 7094 program SYSTEM FOR formal manipulation 
+by the SYSTEM are sums, differences, products, quotients, 
+SYSTEM, WHICH is described and compared WITH 
+*********************************************************************
+Document:CACM-2317
+
+in the OPERATING SYSTEM area all major computer 
+of OPERATING SYSTEM principles. important trends 
+is a great DEAL of theoretical interest in algol 68 
+SYSTEM measurement and evaluation techniques,and 
+*********************************************************************
+Document:CACM-1844
+
+a modular computer SHARING SYSTEM 
+of a bank of interchangeable COMPUTERS, each of WHICH 
+process terminal jobs as they arrive. one of the COMPUTERS 
+the ratio of users to COMPUTERS is dependent on both 
+*********************************************************************
+Document:CACM-1542
+
+a microprogrammed implementation of euler on IBM system/360 model 30 
+AN experimental processing SYSTEM FOR the algorithmic 
+microprogramming on AN IBM system/360 model 30 using a 
+second read-only storage unit. the SYSTEM consists 
+*********************************************************************
+Document:CACM-1827
+
+OPERATING SYSTEM and user program behavior 
+performance monitoring in a time-sharing SYSTEM 
+a general purpose time-sharing SYSTEM is described. 
+in the michigan terminal SYSTEM (mts) FOR the 
+*********************************************************************
+Document:CACM-0414
+
+IBM 1440 data processing SYSTEM features five new units 
+the IBM 1440 data processing SYSTEM, announced 
+recently by the international business machines 
+*********************************************************************
+Document:CACM-1226
+
+SYSTEM. in many systems, the selection 
+be critical to the system's OPERATING efficiency. 
+of file organizations he must consider FOR his SYSTEM. 
+the organization of structured files 
+*********************************************************************
+Document:CACM-3023
+
+architecture of the IBM system/370 
+of the important parameters of the various IBM 
+this paper discusses the design considerations 
+*********************************************************************
+Document:CACM-2424
+
+dynamic verification of OPERATING SYSTEM decisions 
+construction of AN OPERATING SYSTEM WHICH does not make certain 
+that every TIME the decision is made there is a 
+of OPERATING SYSTEM decisions is used on the prime SYSTEM 
+*********************************************************************
+Document:CACM-1225
+
+analyzer, a SYSTEM of syntactic analysis 
+now operational at harvard on and IBM 7094, are delineated. 
+SYSTEM are discussed in comparison to those of AN immediate 
+now claim efficiency both in processing TIME and 
+*********************************************************************
+Document:CACM-1885
+
+a computer SYSTEM FOR transformational grammar 
+a comprehensive SYSTEM FOR transformational 
+SYSTEM as a whole, first discussing the general attitudes underlying 
+the development of the SYSTEM, then 
+*********************************************************************
+Document:CACM-2948
+
+a terminal-oriented communication SYSTEM 
+this paper describes a SYSTEM FOR full-duplex 
+and its terminals. the SYSTEM consists of a communications 
+of terminals of various types. the overall SYSTEM 
+*********************************************************************
+Document:CACM-0252
+
+programming a duplex computer SYSTEM 
+programming that has been used WITH two COMPUTERS 
+in a military defense SYSTEM. the method combines special 
+package. the duplex operation gives the SYSTEM greater 
+*********************************************************************
+Document:CACM-0637
+
+SYSTEM developed at the naval electronics laboratory, 
+completed in may, 1961 in WHICH the neliac SYSTEM 
+was used to generate a compiler FOR the IBM 1401. the 
+generated WITH 7090 neliac SYSTEM. the reduction 
+*********************************************************************
+Document:CACM-0698
+
+AN OPERATING SYSTEM is described WHICH allows 
+COMPUTERS from ordinary dial telephones 
+data-dial: two-way communication WITH 
+*********************************************************************
+Document:CACM-1179
+
+a core resident, compile-and-go SYSTEM designed 
+FOR the IBM 7090/7094 computer is described. 
+subroutine library, AN input--output SYSTEM 
+programs may be debugged in the pufft SYSTEM and 
+*********************************************************************
+Document:CACM-2535
+
+the effects of multiplexing on a computer-communications SYSTEM 
+TIME division multiplexing changes the stochastic 
+of a time-shared computer-communications SYSTEM. it is 
+concluded that while, FOR certain values of SYSTEM 
+*********************************************************************
+Document:CACM-2764
+
+paragraph length input. its core is a SYSTEM of preferential 
+based on WHAT we call "semantic density." the SYSTEM 
+AN intelligent analyzer and understander of english 
+*********************************************************************
+Document:CACM-0971
+
+TIME SHARING in a traffic control program 
+the toronto traffic signal control SYSTEM consists 
+programs, all competing FOR machine TIME. to satisfy 
+the real-time SYSTEM. in this paper the more interesting 
+*********************************************************************
+Document:CACM-1304
+
+a rapid turnaround multi-programming SYSTEM 
+in this paper, basic features, SYSTEM characteristics 
+SYSTEM WITH rapid turnaround TIME are described. 
+*********************************************************************
+Document:CACM-1753
+
+of the multics OPERATING SYSTEM are introduced. 
+virtual memory, processes, and SHARING in multics 
+virtual memory, information SHARING, shared procedures, 
+data SHARING, dynamic linking, segmentation, 
+*********************************************************************
+Document:CACM-2080
+
+the nucleus of a multiprogramming SYSTEM 
+this paper describes the philosophy and structure of a multiprogramming SYSTEM 
+that can be extended WITH a hierarchy of OPERATING systems to suit diverse 
+requirements of program scheduling and resource allocation. the SYSTEM 
+*********************************************************************
+Document:CACM-1315
+
+automation of the radioisotope accountability SYSTEM 
+SYSTEM of radioisotope accountability FOR three years. the 
+SYSTEM in january, 1963. the program FOR purchased 
+radioisotopes is written in format fortran FOR the IBM 
+*********************************************************************
+Document:CACM-1163
+
+a translation SYSTEM has been developed to 
+reprogram philco 2000 series codes FOR IBM 7094 operation. 
+experience WITH this SYSTEM is limited but 
+philco/ibm translation at problem-oriented, symbolic and binary levels 
+*********************************************************************
+Document:CACM-2597
+
+monitors: AN OPERATING SYSTEM structuring concept 
+a monitor as a method of structuring AN OPERATING 
+SYSTEM. it introduces a form of synchronization, describes 
+monitors, OPERATING systems, scheduling, mutual 
+*********************************************************************
+Document:CACM-1173
+
+the performance of a SYSTEM FOR automatic segmentation 
+SYSTEM FOR handling the transfers of program 
+described. the performance of the SYSTEM is discussed, 
+ways of improving the SYSTEM. 
+*********************************************************************
+Document:CACM-1685
+
+gan, a SYSTEM FOR generating and analyzing activity networks 
+gan, a SYSTEM FOR generating activity networks, 
+is designed to save TIME in the preparation 
+of activity networks and to DEAL conveniently WITH network 
+*********************************************************************
+Document:CACM-2542
+
+OPERATING SYSTEM development, language processing 
+a software design and evaluation SYSTEM 
+a critical failure of current software SYSTEM 
+is proposed. a SYSTEM WHICH integrates performance evaluation 
+*********************************************************************
+Document:CACM-2378
+
+AN OPERATING SYSTEM based on the concept of a supervisory computer 
+AN OPERATING SYSTEM WHICH is organized as a 
+of a compound event in the SYSTEM) by combining 
+OPERATING systems, supervisors, multiprogramming, 
+*********************************************************************
+Document:CACM-3068
+
+many of those properties of AN OPERATING SYSTEM WHICH 
+ucla secure OPERATING SYSTEM is also discussed. 
+a model FOR verification of data security in OPERATING systems 
+here in terms of a general model FOR OPERATING systems. 
+*********************************************************************
+Document:CACM-2681
+
+a probabilistic model of a multiprogramming SYSTEM 
+before the original performance of the SYSTEM is 
+and the OPERATING conditions that lead 
+to improved SYSTEM throughput through repacking are delineated. 
+*********************************************************************
+Document:CACM-1195
+
+IBM 7090 SYSTEM. the programs are completely self-checking 
+uplifts-university of pittsburgh linear file tandem SYSTEM 
+SYSTEM on AN IBM 1401-7090 combined data processing 
+SYSTEM. the program are note-worthy in that they create 
+*********************************************************************
+Document:CACM-1236
+
+a fully automatic document retrieval SYSTEM 
+OPERATING on the IBM 7094 is described. the SYSTEM 
+the SYSTEM is used not only to simulate AN actual OPERATING 
+the smart automatic document retrieval system-an illustration 
+*********************************************************************
+Document:CACM-2796
+
+monitors: AN OPERATING SYSTEM structuring concept (corrigendum) 
+cacm february, 1975 
+hoare, c. a. r. 
+*********************************************************************
+Document:CACM-1046
+
+a compiler-building SYSTEM developed by brooker and morris 
+in a number of ARTICLES published during the 
+a very interesting programming SYSTEM that they 
+of their SYSTEM. it expands on some points that the original 
+*********************************************************************
+Document:CACM-2624
+
+OPERATING SYSTEM, third generation architecture, 
+systems, e.g. cp-67 on the IBM 360/67. from previous 
+support a virtual machine SYSTEM. in this paper, 
+model of a third-generation-like computer SYSTEM is 
+*********************************************************************
+Document:CACM-1462
+
+multilevel OPERATING systems 
+the basic software FOR all newer COMPUTERS 
+OPERATING systems. this implies that all applications-no 
+matter how large, complex or TIME consuming-must 
+*********************************************************************
+Document:CACM-2188
+
+on considerations such as SYSTEM response TIME, SYSTEM 
+display SYSTEM designers are faced WITH the 
+data processing SYSTEM. the work reported 
+graphics SYSTEM. the parameters of the model are functions 
+*********************************************************************
+Document:CACM-2398
+
+teacher/student authored cai using the newbasic SYSTEM 
+interactive SYSTEM called newbasic/catalyst 
+at the SYSTEM level shows how students can mix the advantages 
+experience WITH the SYSTEM in AN urban 
+*********************************************************************
+Document:CACM-2560
+
+multiprogrammed computer SYSTEM, storage SYSTEM, hierarchical index sets 
+computer WITH a two-level storage SYSTEM 
+by multiprogramming in the presence of this type of storage SYSTEM. 
+SYSTEM WITH a two-level storage SYSTEM in WHICH there 
+*********************************************************************
+Document:CACM-1960
+
+the main design principles of the multiaccess SYSTEM esope are described. 
+than on implementation details. the main features of the SYSTEM 
+processes using SYSTEM primitive operations, the file-memory relationship, 
+process management and resource SHARING in the multiaccess SYSTEM esope 
+*********************************************************************
+Document:CACM-2868
+
+reflections on AN OPERATING SYSTEM design 
+OPERATING SYSTEM developed FOR the cdc 6400 
+OPERATING SYSTEM, protection, capabilities, 
+FOR protection, and the organization of the SYSTEM 
+*********************************************************************
+Document:CACM-2946
+
+monitor, OPERATING SYSTEM, mutual exclusion, synchronization, 
+streams SHARING a finite buffer pool. 
+AN alternative to event queues FOR synchronization in monitors 
+*********************************************************************
+Document:CACM-1697
+
+a SYSTEM developed at harvard FOR graphically 
+on a computer is printed. in principle, the SYSTEM 
+can DEAL WITH any orthography, although at present 
+to the repertoire of the SYSTEM by graphical input on 
+*********************************************************************
+Document:CACM-2920
+
+as a game between the OPERATING SYSTEM and the processes 
+OPERATING SYSTEM, multiprogramming, time-sharing, 
+priori information about the processes, resources, OPERATING 
+SYSTEM, etc., of the "safe situations" WHICH 
+*********************************************************************
+Document:CACM-2917
+
+SYSTEM FOR small COMPUTERS (corrigendum) 
+sitar: AN interactive text processing 
+cacm october, 1977 
+*********************************************************************
+Document:CACM-2219
+
+OPERATING SYSTEM can be characterized 
+in a general purpose OPERATING SYSTEM, and 
+scheduler, time-sharing, OPERATING SYSTEM, 
+a policy-driven scheduler FOR a time-sharing SYSTEM 
+*********************************************************************
+Document:CACM-1472
+
+the OPERATING SYSTEM FOR the univac 1107 at case 
+institute is reviewed. the SYSTEM is of interest 
+throughput achieved and the lack of AN OPERATING 
+description of a high capacity, fast 
+*********************************************************************
+Document:CACM-3137
+
+a macro model of a distributed information SYSTEM in presented. the model 
+SYSTEM from the perspective of the end-user. the making evident the effect of 
+various design and OPERATING parameters on overall cost per transaction. 
+of AN interactive transaction processing SYSTEM. 
+*********************************************************************
+Document:CACM-1805
+
+monitor, OPERATING SYSTEM, SYSTEM software, supervisors, 
+performance, TIME SHARING, TIME slicing 
+productivity of multiprogrammed computers-progress 
+in developing AN analytic prediction method 
+*********************************************************************
+Document:CACM-1417
+
+economies of scale and the IBM system/360 
+cost functions among five system/360 models 
+are analyzed through examinations of instruction 
+*********************************************************************
+Document:CACM-2878
+
+priority queues, semi-markov process, price scheduling, OPERATING SYSTEM 
+joining policies in a multipriority multiclass batch computer SYSTEM 
+consider a multipriority batch computer SYSTEM 
+SYSTEM is formulated here as a semi-markov decision 
+*********************************************************************
+Document:CACM-1626
+
+structure of a lisp SYSTEM using two-level storage 
+in AN ideal list-processing SYSTEM there would 
+SYSTEM utilizing a drum FOR its principal storage medium, 
+WITH a surprisingly low TIME penalty FOR use 
+*********************************************************************
+Document:CACM-2950
+
+OPERATING systems,processor SHARING, implementation 
+of a scheduling SYSTEM WHICH formalizes the notion of 
+in real OPERATING systems. the policy-driven scheduler 
+a unifying approach to scheduling 
+*********************************************************************
+Document:CACM-2622
+
+OPERATING SYSTEM security, security, authentication, 
+known solely to himself and the SYSTEM. the SYSTEM compares 
+in many computer OPERATING systems a user authenticates 
+program. the integrity of the SYSTEM depends on 
+*********************************************************************
+Document:CACM-0098
+
+the IBM fortran automatic coding SYSTEM 
+the arithmetic translator-compiler of 
+cacm february, 1959 
+*********************************************************************
+Document:CACM-0202
+
+a control SYSTEM FOR logical block diagnosis WITH data loading 
+diagnostic monitor SYSTEM WHICH facilitates 
+to a computer program makes the SYSTEM convenient 
+features WHICH can be included in the SYSTEM. 
+*********************************************************************
+Document:CACM-2951
+
+dynamic response TIME prediction FOR computer networks 
+is resource SHARING, then the human component as 
+the feasibility of a dynamic response TIME monitor 
+TIME information FOR users wishing to process various 
+*********************************************************************
+Document:CACM-1518
+
+software, and its environment. the measures of SYSTEM performance 
+relating to turnaround TIME, throughput, hardware utilization, 
+AN experimental model of system/360 
+*********************************************************************
+Document:CACM-2003
+
+AN interactive software SYSTEM FOR computers-aided 
+the characteristics of AN interactive software SYSTEM, intended to constitute 
+languages, OPERATING at different levels, on WHICH the interaction 
+of the software SYSTEM; its design criteria provide the user WITH 
+*********************************************************************
+Document:CACM-2218
+
+b6500, bulk core usage, OPERATING SYSTEM model, relocation, 
+swap volume minimization, SYSTEM simulation, time-sharing 
+SYSTEM. inasmuch as the b6500 SYSTEM is 
+AN analysis of some time-sharing techniques 
+*********************************************************************
+Document:CACM-2372
+
+the security of AN information SYSTEM may be 
+and execution TIME. distinguishing between data 
+only once at translation TIME rather than repeatedly 
+at execution TIME. the model is used to explain 
+*********************************************************************
+Document:CACM-1534
+
+dad, the c. OPERATING SYSTEM 
+OPERATING SYSTEM, dad, is described in detail. 
+this SYSTEM is designed FOR the control data 3600 using 
+of the SYSTEM. the techniques found useful in the development 
+*********************************************************************
+Document:CACM-1571
+
+a user-oriented time-shared online SYSTEM 
+AN existing SYSTEM and planned additions within 
+research institute at ucla is described. the SYSTEM 
+of experience using the present SYSTEM, significant advances 
+*********************************************************************
+Document:CACM-2840
+
+protection, protection SYSTEM, OPERATING 
+protection in OPERATING systems 
+to determine whether a SYSTEM in a particular 
+SYSTEM, decidability, turing machine 
+*********************************************************************

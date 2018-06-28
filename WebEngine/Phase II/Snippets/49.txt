@@ -1,0 +1,673 @@
+Query:the role of information retrieval in knowledge based systems ie expert systems
+
+Document:CACM-3134
+
+BASED INFORMATION SYSTEMS, using THE normal multiplication table as a directory 
+are described. for a certain class OF INFORMATION SYSTEMS, 
+INFORMATION RETRIEVAL, inverted files, multiattribute RETRIEVAL, 
+d RETRIEVAL OF INFORMATION are described. this method is particularly 
+*********************************************************************
+Document:CACM-1514
+
+on THE expected gain from adjust ing matched term RETRIEVAL SYSTEMS 
+term RETRIEVAL SYSTEMS. THE expected gain and its probability 
+INFORMATION RETRIEVAL system. 
+a file adjustment procedure BASED on maximizing 
+*********************************************************************
+Document:CACM-2345
+
+management INFORMATION SYSTEMS, INFORMATION SYSTEMS 
+professional programs IN INFORMATION SYSTEMS 
+education, management SYSTEMS, SYSTEMS analysis, 
+THE need for education related to INFORMATION 
+*********************************************************************
+Document:CACM-1699
+
+OF mechanized INFORMATION RETRIEVAL SYSTEMS, 
+INFORMATION RETRIEVAL testing, INFORMATION system 
+OF THE research is that an INFORMATION RETRIEVAL system 
+experimental evaluation OF INFORMATION 
+*********************************************************************
+Document:CACM-2882
+
+RETRIEVAL SYSTEMS. these data RETRIEVAL SYSTEMS can 
+organization IN data RETRIEVAL SYSTEMS 
+scale data RETRIEVAL SYSTEMS has been scarce due 
+database organizations IN data RETRIEVAL SYSTEMS. IN particular, 
+*********************************************************************
+Document:CACM-0651
+
+a survey OF languages and SYSTEMS for INFORMATION RETRIEVAL 
+cacm january, 1962 
+grems, m. 
+*********************************************************************
+Document:CACM-0018
+
+simple automatic coding SYSTEMS 
+cacm july, 1958 
+adams, e. s. 
+*********************************************************************
+Document:CACM-1959
+
+THE new organization which is proposed for management INFORMATION SYSTEMS. 
+management INFORMATION SYSTEMS, integrated data processing, 
+an interrupt BASED organization for management INFORMATION SYSTEMS 
+for THE design and coding OF large shared data base SYSTEMS. THE 
+*********************************************************************
+Document:CACM-2407
+
+INFORMATION SYSTEMS, INFORMATION analysis, 
+programs IN INFORMATION SYSTEMS 
+THE need for education related to INFORMATION 
+SYSTEMS IN organizations is discussed, and a 
+*********************************************************************
+Document:CACM-2311
+
+SYSTEMS, software SYSTEMS, SYSTEMS development 
+process, functional SYSTEMS, management SYSTEMS 
+a generational perspective OF INFORMATION system development 
+*********************************************************************
+Document:CACM-0239
+
+for INFORMATION RETRIEVAL SYSTEMS 
+inefficiency OF THE use OF boolean functions 
+cacm december, 1961 
+*********************************************************************
+Document:CACM-3012
+
+THE use OF an interactive INFORMATION storage 
+and RETRIEVAL system IN medical research 
+and RETRIEVAL system. a monitor built into THE computer 
+THE results show THE important ROLE played 
+*********************************************************************
+Document:CACM-2990
+
+THE performance OF INFORMATION RETRIEVAL SYSTEMS 
+effective INFORMATION RETRIEVAL using term accuracy 
+INFORMATION RETRIEVAL, automatic indexing, content 
+ways. much OF THE published evaluation work is BASED 
+*********************************************************************
+Document:CACM-2583
+
+guidelines for humanizing computerized INFORMATION 
+SYSTEMS: a report from stanley house 
+humanization, social implication, management, INFORMATION 
+SYSTEMS, regulations, social and behavioral 
+*********************************************************************
+Document:CACM-2479
+
+education, management INFORMATION SYSTEMS, INFORMATION 
+SYSTEMS administration, INFORMATION SYSTEMS 
+programs IN INFORMATION SYSTEMS: recommended 
+addendum on INFORMATION SYSTEMS administration 
+*********************************************************************
+Document:CACM-1032
+
+theoretical considerations IN INFORMATION RETRIEVAL SYSTEMS 
+INFORMATION storage and RETRIEVAL SYSTEMS are composed 
+(c) file organization to make access to INFORMATION 
+efficient. for identification OF INFORMATION THE paper 
+*********************************************************************
+Document:CACM-2163
+
+education, INFORMATION analysis, SYSTEMS design, business data processing 
+on "curriculum development IN management INFORMATION 
+SYSTEMS education IN colleges and universities" 
+need for education IN administrative INFORMATION 
+*********************************************************************
+Document:CACM-2852
+
+IN computer science or IN INFORMATION SYSTEMS 
+adding a course on INFORMATION SYSTEMS administration 
+professional programs IN INFORMATION SYSTEMS. this paper 
+IN INFORMATION SYSTEMS or for graduate professional 
+*********************************************************************
+Document:CACM-1541
+
+a language for modeling and simulating dynamic SYSTEMS 
+SYSTEMS containing highly interactive processes 
+and THE ROLE OF THE process concept, is presented 
+*********************************************************************
+Document:CACM-0795
+
+debugging SYSTEMS at THE source language level 
+cacm august, 1963 
+ferguson, h. e. 
+*********************************************************************
+Document:CACM-2577
+
+site data management, RETRIEVAL SYSTEMS 
+an on-site data management system application IN field archaeology 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-2741
+
+saturation IN multiprogramming SYSTEMS 
+paging SYSTEMS (i) unstable regimes OF operations and (ii) 
+which "thrashing" can set IN. 
+SYSTEMS is proposed. it is BASED on a technique OF variable 
+*********************************************************************
+Document:CACM-2798
+
+analysis OF interleaved memory SYSTEMS using blockage buffers 
+a model OF interleaved memory SYSTEMS is presented, 
+I.E. schemes for sending instruction and data requests 
+interleaved memory SYSTEMS, modular memory SYSTEMS, 
+*********************************************************************
+Document:CACM-0652
+
+use OF semantic structure IN INFORMATION SYSTEMS 
+cacm january, 1962 
+sable, j. d. 
+*********************************************************************
+Document:CACM-0987
+
+for INFORMATION processing on automatic data 
+processing SYSTEMS) 
+fortran vs. basic fortran (a programming language 
+*********************************************************************
+Document:CACM-2985
+
+INFORMATION SYSTEMS is investigated. evidence is 
+THE relationship OF IN ternal pricing SYSTEMS 
+for computer services (chargeout SYSTEMS) and 
+indicate that THE chargeout SYSTEMS characteristic 
+*********************************************************************
+Document:CACM-2372
+
+on THE implementation OF security measures IN INFORMATION SYSTEMS 
+management INFORMATION SYSTEMS 
+THE security OF an INFORMATION system may be 
+security features OF several existing SYSTEMS, and serves 
+*********************************************************************
+Document:CACM-2840
+
+protection IN operating SYSTEMS 
+SYSTEMS is presented and its appropriateness 
+is argued. THE "safety" problem for protection SYSTEMS 
+that this problem is decidable, I.E. there is an algorithm 
+*********************************************************************
+Document:CACM-2111
+
+spelling correction IN SYSTEMS programs 
+to compilers and operating SYSTEMS. these include THE use OF syntax 
+and semantics INFORMATION, THE organization OF restricted keyword 
+is presented. by using SYSTEMS which perform spelling correction, 
+*********************************************************************
+Document:CACM-1728
+
+behavior IN those multiprogramming SYSTEMS IN which 
+THE frequency OF page faults, I.E. THE frequency OF those 
+paging SYSTEMS, paging, dynamic program behavior, program 
+behavior, virtual memory SYSTEMS, single-level 
+*********************************************************************
+Document:CACM-1457
+
+IN automatic INFORMATION RETRIEVAL 
+automatic INFORMATION RETRIEVAL programs require 
+facilities to aid IN INFORMATION RETRIEVAL. 
+manipulations to be performed IN automatic INFORMATION 
+*********************************************************************
+Document:CACM-2631
+
+direct access, INFORMATION RETRIEVAL, character 
+text searching IN direct access SYSTEMS 
+INFORMATION, an attempt is made to overcome 
+one OF THE problems often associated with INFORMATION 
+*********************************************************************
+Document:CACM-1935
+
+and offers new potential for INFORMATION RETRIEVAL SYSTEMS. 
+binary pattern, file examination, graph theory, INFORMATION 
+RETRIEVAL, mathematical model, partitioning, 
+randomized binary search technique 
+*********************************************************************
+Document:CACM-2127
+
+SYSTEMS BASED on dictionaries with thousands OF entries-with 
+natural language question-answering SYSTEMS: 1969 
+language question-answering SYSTEMS are reviewed 
+experimental SYSTEMS and that a useful paradigm has evolved to guide 
+*********************************************************************
+Document:CACM-3072
+
+scheduling SYSTEMS for multiprogrammed- multiprocessor 
+computer SYSTEMS are presented. THE basic control variables 
+executing on THE cpu. THE model SYSTEMS feature simulated 
+multiprogramming SYSTEMS, i/o system scheduling 
+*********************************************************************
+Document:CACM-2888
+
+INFORMATION reference coding 
+items IN business SYSTEMS have to be identified 
+system. IN business SYSTEMS associated 
+through a set-theoretic INFORMATION model. 
+*********************************************************************
+Document:CACM-3090
+
+way "successful" automated INFORMATION SYSTEMS fit 
+OF computing, management INFORMATION SYSTEMS, 
+sociology OF computing, INFORMATION SYSTEMS and 
+service integration, urban INFORMATION SYSTEMS 
+*********************************************************************
+Document:CACM-2812
+
+computer-aided analysis and design OF INFORMATION SYSTEMS 
+computer-aided analysis, INFORMATION SYSTEMS, logical 
+accurately defined SYSTEMS, SYSTEMS optimization 
+was written IN ads (accurately defined SYSTEMS) 
+*********************************************************************
+Document:CACM-2522
+
+operating SYSTEMS, supervisory SYSTEMS 
+recent research IN time-sharing paging SYSTEMS 
+and are source allocation strategy BASED on 
+implementation OF a dispatcher BASED on THE working set 
+*********************************************************************
+Document:CACM-2198
+
+generalized data base management SYSTEMS" 
+OF generalized data base management SYSTEMS. this introduction 
+THE art IN these SYSTEMS and discusses THE differences 
+host language SYSTEMS and those found IN self-contained 
+*********************************************************************
+Document:CACM-1627
+
+RETRIEVAL SYSTEMS. THE concept OF level 
+storage capacities OF certain data management and INFORMATION 
+physically organizing THE INFORMATION for efficient 
+application OF level changing to a multilevel storage organization 
+*********************************************************************
+Document:CACM-0440
+
+reliable SYSTEMS for searching and updating 
+maximum use OF items OF identifying INFORMATION 
+rules that can be applied generally to name RETRIEVAL 
+SYSTEMS have been developed IN a methodological 
+*********************************************************************
+Document:CACM-3089
+
+performance OF rollback recovery SYSTEMS under intermittent failures 
+INFORMATION processing. THE model is used to derive THE 
+database reliability, file SYSTEMS, checkpoints, recovery 
+*********************************************************************
+Document:CACM-2168
+
+list tracing IN SYSTEMS allowing multiple cell-types 
+list-processing SYSTEMS have each allowed THE 
+list-processing, storage allocation, lisp, slip, BASED storage, pointers 
+*********************************************************************
+Document:CACM-0616
+
+an INFORMATION algebra - phase i report-language 
+language, at THE SYSTEMS level OF data processing. THE 
+report is BASED, for THE most part, on a mathematical 
+model called "an INFORMATION algebra" developed primarily 
+*********************************************************************
+Document:CACM-1996
+
+SYSTEMS OF hyperbolic pde $d3) (algorithm 392) 
+cacm september, 1970 
+smith, r. r. 
+*********************************************************************
+Document:CACM-1233
+
+OF flowcharts for INFORMATION processing 
+SYSTEMS (a standard working paper) 
+for THE use OF flowcharts for INFORMATION processing 
+SYSTEMS. THE conventions are applied to THE use 
+*********************************************************************
+Document:CACM-1808
+
+security SYSTEMS, confidential INFORMATION 
+maintain THE confidentiality OF INFORMATION processed 
+cryptographic, cryptanalysis, ciphers secrecy SYSTEMS, 
+advanced cryptographic techniques for computers 
+*********************************************************************
+Document:CACM-1924
+
+organizing matrices and matrix operations for paged memory SYSTEMS 
+that a partitioned matrix representation (I.E. one submatrix 
+paged memory SYSTEMS, virtual memory SYSTEMS, 
+*********************************************************************
+Document:CACM-2406
+
+apparent. such languages will be a key SYSTEMS, as well 
+as IN advanced data management SYSTEMS and distributed 
+data translation, data base management SYSTEMS, 
+a data definition and mapping language 
+*********************************************************************
+Document:CACM-2624
+
+virtual machine SYSTEMS have been implemented 
+SYSTEMS, e.g. cp-67 on THE ibm 360/67. from previous 
+generation computer SYSTEMS, e.g. THE dec pdp-10, cannot 
+formal requirements for virtualizable third generation architectures 
+*********************************************************************
+Document:CACM-3011
+
+traditional concepts OF management INFORMATION 
+SYSTEMS currently IN use by top management IN most us local 
+nature OF these SYSTEMS, management use OF computing is 
+involving improvements IN decision INFORMATION. 
+*********************************************************************
+Document:CACM-1489
+
+IN business data processing SYSTEMS, it is 
+represents both (1) their changing INFORMATION 
+SYSTEMS must be analyzed and programs prepared 
+data, documentation and decision tables 
+*********************************************************************
+Document:CACM-3028
+
+two SYSTEMS stand out: THE mark i (developed 
+storage, extra codes, compilers, operating SYSTEMS, 
+THE manchester mark i and atlas: a his torical perspective 
+*********************************************************************
+Document:CACM-3177
+
+k pieces, but even complete KNOWLEDGE OF k - 1 pieces reveals 
+olutely no INFORMATION about d. this technique enables THE construction 
+OF robust key management schemes for cryptographic SYSTEMS 
+how to share a secret 
+*********************************************************************
+Document:CACM-2578
+
+self-stabilizing SYSTEMS IN spite OF distributed control 
+cacm november, 1974 
+dijkstra, e. w. 
+*********************************************************************
+Document:CACM-1280
+
+SYSTEMS IN which variable time-lags are present 
+at present no extensive body OF KNOWLEDGE exists 
+numerical integration OF a differential-difference 
+equation with a decreasing time-lag 
+*********************************************************************
+Document:CACM-0637
+
+was used to generate all but THE first, I.E. THE SYSTEMS 
+neliac SYSTEMS for several different machines 
+SYSTEMS. this report presents THE results OF a project 
+a neliac-generated 7090-1401 compiler 
+*********************************************************************
+Document:CACM-1267
+
+performance OF SYSTEMS used for data transmission 
+transfer rate OF INFORMATION bits -an asa tutorial 
+INFORMATION thruput as a characteristic OF 
+SYSTEMS performance is discussed. this discussion 
+*********************************************************************
+Document:CACM-2870
+
+a lattice model OF secure INFORMATION flow 
+secure INFORMATION flow IN a computer system. 
+OF secure INFORMATION flow among security classes. THE 
+OF INFORMATION flow. THE lattice properties 
+*********************************************************************
+Document:CACM-2988
+
+IN queueing network models OF computer SYSTEMS. 
+empirical analyses and analytic studies BASED on applying 
+OF IN teractive computer SYSTEMS which use nonpaged memories. 
+network models, IN teractive computer SYSTEMS 
+*********************************************************************
+Document:CACM-1636
+
+SYSTEMS OF ordinary differential equations 
+SYSTEMS arise, greatly complicating THE numerical 
+invariant imbeding and THE numerical integration 
+OF boundary-value problems for unstable linear 
+*********************************************************************
+Document:CACM-2553
+
+science curriculum, SYSTEMS design 
+THE practical aspect OF computer science education-discussion 
+cacm january, 1973 
+*********************************************************************
+Document:CACM-1844
+
+are possible for a range OF SYSTEMS sizes that 
+multiple terminal SYSTEMS, terminal oriented SYSTEMS, 
+multiple processor SYSTEMS, high availability, 
+SYSTEMS, modular computer-sharing SYSTEMS, graphics, 
+*********************************************************************
+Document:CACM-1681
+
+data base, THE moore school INFORMATION SYSTEMS laboratory 
+remote console communication, INFORMATION RETRIEVAL, 
+mode, INFORMATION RETRIEVAL language, symbolic command language 
+easy english,a language for INFORMATION 
+*********************************************************************
+Document:CACM-2318
+
+THE ROLE OF computer system models IN performance evaluation 
+SYSTEMS and establishes circumstances under 
+models constitute a useful means OF investigating 
+*********************************************************************
+Document:CACM-2795
+
+THE program employs both THE INFORMATION RETRIEVAL and 
+a model OF natural language BASED on an underlying 
+is described. a program BASED on this model is able 
+KNOWLEDGE, which include: (1) executable tests 
+*********************************************************************
+Document:CACM-1951
+
+from four operational multiaccess SYSTEMS, and THE model is shown to 
+same distribution independent OF which OF THE four SYSTEMS is being examined. 
+by THE exponential distribution are discussed for THE SYSTEMS studied. 
+operating SYSTEMS, optimization models 
+*********************************************************************
+Document:CACM-3150
+
+programming, programming languages, programming SYSTEMS, SYSTEMS development 
+as computer technology matures, our growing ability to create large SYSTEMS is 
+SYSTEMS OF THE complexity called for by THE tasks we attempt. just 
+intricacies OF a machine's order code, higher level programming SYSTEMS 
+*********************************************************************
+Document:CACM-2151
+
+operating SYSTEMS, multiprogramming SYSTEMS, time-sharing 
+software SYSTEMS is followed by a description OF 
+shown how other time-sharing SYSTEMS may provide similar measuring facilities. 
+SYSTEMS, software measurement, user program 
+*********************************************************************
+Document:CACM-1164
+
+emulation OF large SYSTEMS 
+SYSTEMS on ibm system/360. 
+THE conversion problem and a new technique 
+*********************************************************************
+Document:CACM-1713
+
+IN multiprogramming SYSTEMS: a case his tory 
+that can occur IN multiprogramming SYSTEMS when 
+scheduling is BASED primarily on preassigned priorities. 
+on overcoming high-priority paralysis 
+*********************************************************************
+Document:CACM-1461
+
+discussion summary on operating SYSTEMS 
+cacm march, 1966 
+ca660311 jb march 3, 1978 1:26 pm 
+*********************************************************************
+Document:CACM-1473
+
+method for THE solution OF SYSTEMS OF differential 
+OF SYSTEMS OF differential equations is studied. this 
+THE stability OF THE fourth order runge-kutta 
+equations 
+*********************************************************************
+Document:CACM-1572
+
+THE simulation OF time sharing SYSTEMS 
+SYSTEMS has raised a number OF problems for 
+for these SYSTEMS, but appropriate software adjustments 
+must be made. unfortunately, these SYSTEMS often 
+*********************************************************************
+Document:CACM-0597
+
+modular data processing SYSTEMS written IN cobol 
+cacm may, 1962 
+emery, j. c. 
+*********************************************************************
+Document:CACM-3181
+
+misinformation and lack OF KNOWLEDGE about eft among 
+THE introduction OF eft SYSTEMS will require a coordinated educational 
+electronic funds transfer SYSTEMS, consumer education, security 
+public protection and education with eft 
+*********************************************************************
+Document:CACM-0025
+
+general purpose programming SYSTEMS 
+cacm may, 1958 
+holt, a. w. 
+*********************************************************************
+Document:CACM-1236
+
+THE smart automatic document RETRIEVAL system-an illustration 
+a fully automatic document RETRIEVAL system 
+and search requests. this feature is used IN THE RETRIEVAL 
+retrieve THE wanted INFORMATION. a typical search 
+*********************************************************************
+Document:CACM-1341
+
+levels OF computer SYSTEMS 
+IN building current computer SYSTEMS, we tend 
+on THE usefulness OF future SYSTEMS, particularly 
+programming, and, eventually, SYSTEMS which learn. 
+*********************************************************************
+Document:CACM-2995
+
+IN multiprogramming SYSTEMS (corrigendum) 
+decomposability, instabilities, and saturation 
+cacm february, 1977 
+*********************************************************************
+Document:CACM-1747
+
+SYSTEMS, computer SYSTEMS design, input equipment, 
+INFORMATION security, INFORMATION privacy, computing 
+three criteria for designing computing SYSTEMS to facilitate debugging 
+processes, protection IN multiprogrammed SYSTEMS, 
+*********************************************************************
+Document:CACM-2735
+
+programmers, SYSTEMS analysis, keypunch operators, 
+discrimination IN THE employment OF women IN THE computer industry 
+cacm july, 1975 
+*********************************************************************
+Document:CACM-2314
+
+requirements for advanced programming SYSTEMS for list processing 
+list processing SYSTEMS should be designed to 
+to THE design OF advanced programming SYSTEMS for 
+SYSTEMS are highlighted: good interactive 
+*********************************************************************
+Document:CACM-3180
+
+public policy makers have good INFORMATION on THE comparative costs 
+OF alternative payment SYSTEMS such as cash, checks, credit cards, 
+and eft transactions. as a result, eft SYSTEMS and services are 
+costs OF THE current u. payments system 
+*********************************************************************
+Document:CACM-3026
+
+THE 1100 series SYSTEMS are sperry univac's 
+large-scale main frame computer SYSTEMS. beginning 
+is BASED on a 36-bit word, ones complement structure 
+languages, data management SYSTEMS, 
+*********************************************************************
+Document:CACM-2317
+
+programming SYSTEMS and languages 1965-1975 
+SYSTEMS, and they all ran into similar 
+languages, operating SYSTEMS, programming 
+SYSTEMS, multiprogramming, history 
+*********************************************************************
+Document:CACM-3068
+
+a model for verification OF data security IN operating SYSTEMS 
+uncircumventably secure, shared computer SYSTEMS. a 
+here IN terms OF a general model for operating SYSTEMS. 
+operating SYSTEMS, security, protection, program verification 
+*********************************************************************
+Document:CACM-2818
+
+SYSTEMS with interleaved memory (corrigendum) 
+interference IN multiprocessor computer 
+cacm november, 1976 
+*********************************************************************
+Document:CACM-2358
+
+many contemporary SYSTEMS permit some degree OF 
+OF INFORMATION stored IN files kept IN secondary storage. 
+system programs OF all INFORMATION, independent 
+OF its physical storage location. INFORMATION is stored 
+*********************************************************************
+Document:CACM-1680
+
+INFORMATION RETRIEVAL. it is written IN fortran 
+RETRIEVAL operating SYSTEMS, graphics, displays, man-machine 
+computer-assisted instruction, tutorial SYSTEMS, 
+programming, simulation, modeling, INFORMATION 
+*********************************************************************
+Document:CACM-1388
+
+a procedure for numerically solving SYSTEMS 
+generate symbolic solutions. THE procedure is BASED 
+automast: automatic mathematical analysis and symbolic translation 
+*********************************************************************
+Document:CACM-1071
+
+computer-usage accounting for generalized time-sharing SYSTEMS 
+SYSTEMS requires a revision OF accounting procedures 
+accounting IN generalized time-sharing SYSTEMS 
+*********************************************************************
+Document:CACM-2138
+
+bliss: a language for SYSTEMS programming 
+for use IN writing production software SYSTEMS for a 
+specific machine (THE pdp-10): compilers, operating 
+SYSTEMS, etc. prime design goals OF THE design are THE 
+*********************************************************************
+Document:CACM-1066
+
+a mathematical algorithm (I.E. THE simplex method) to 
+SYSTEMS must be BASED. these viewpoints are influenced 
+petroleum industry are placing on such SYSTEMS. some 
+growing applications OF linear programming 
+*********************************************************************
+Document:CACM-3144
+
+a model for and discussion OF multi-interpreter SYSTEMS 
+either be interpreted (I.E. nested interpreters) or run directly on 
+a multi-interpreter system is a system IN which programs execute 
+*********************************************************************
+Document:CACM-2482
+
+BASED on THE concept OF THE hierarchical operating 
+deadlocks, resource allocation, operating SYSTEMS, 
+multiprogramming, hierarchical SYSTEMS 
+mixed solutions for THE deadlock problem 
+*********************************************************************
+Document:CACM-1387
+
+solution OF SYSTEMS OF polynomial equations by elimination 
+IN solving SYSTEMS OF polynomial equations. it is found 
+OF small SYSTEMS, where it yields all solutions without 
+OF large SYSTEMS OF equation due to THE explosive 
+*********************************************************************
+Document:CACM-1912
+
+simulation OF outpatient appointment SYSTEMS 
+which simulates appointment SYSTEMS employed 
+appointment SYSTEMS IN a given clinical environment. 
+*********************************************************************
+Document:CACM-3136
+
+price/performance patterns OF u. computer SYSTEMS 
+purpose computer SYSTEMS. THE other market is THE developing one 
+for small business computer SYSTEMS, a market which is relatively 
+*********************************************************************

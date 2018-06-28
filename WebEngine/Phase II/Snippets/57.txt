@@ -1,0 +1,685 @@
+Query:abstracts of articles     j backus can programming be liberated from the von neumann style                a functional style and its algebra of programs cacm 21     re millo r lipton a perlis letter to acm forum cacm 22         1979 629-630  backus j de millo r lipton r perlis a
+
+Document:CACM-3077
+
+FUNCTIONAL PROGRAMMING, ALGEBRA OF PROGRAMS, combining 
+VON NEUMANN computers, VON NEUMANN languages, models OF 
+uses THE FUNCTIONAL PROGRAMMING STYLE both in 
+CAN PROGRAMMING BE LIBERATED FROM THE VON NEUMANN 
+*********************************************************************
+Document:CACM-3140
+
+DE MILLO, R. 
+LIPTON, R. 
+PERLIS, A. 
+CACM may, 1979 
+*********************************************************************
+Document:CACM-0196
+
+BACKUS, J. 
+CACM may, 1960 
+ca600501 jb march 22, 1978 1:34 pm 
+report on THE algorithmic language algol 60 
+*********************************************************************
+Document:CACM-1132
+
+PERLIS, A. J. 
+CACM february, 1964 
+iturriaga, R. 
+an extension TO algol for manipulating formulae* 
+*********************************************************************
+Document:CACM-1705
+
+DE vogelaere, R. 
+decompose real, STYLE, berkeley STYLE, procedures relationship, 
+algorithms policy [comm. ACM 10 (nov. 67), 729] A basic 
+OF THE subset oti, otr, otb, ota. THE berkeley STYLE 
+*********************************************************************
+Document:CACM-3008
+
+LIPTON, R. 
+CACM march, 1978 
+demillo, R. 
+preserving average proximity in arrays 
+*********************************************************************
+Document:CACM-2700
+
+LIPTON, R. J. 
+reduction: A method OF proving properties OF parallel PROGRAMS 
+CACM december, 1975 
+*********************************************************************
+Document:CACM-0001
+
+PERLIS, A. J. 
+CACM december, 1958 
+ca581203 jb march 22, 1978 8:28 pm 
+preliminary report-international algebraic language 
+*********************************************************************
+Document:CACM-0209
+
+PERLIS, A. J. 
+CACM april, 1960 
+ca600402 jb march 22, 1978 1:56 pm 
+symbol manipulation by threaded lists 
+*********************************************************************
+Document:CACM-0065
+
+PERLIS, J. A. 
+CACM september, 1959 
+ca590904 jb march 22, 1978 4:49 pm 
+algol sub-committee report - extensions 
+*********************************************************************
+Document:CACM-1914
+
+klimpel, R. R. 
+integer PROGRAMMING, linear ALGEBRA, mathematical 
+matrix scaling by integer PROGRAMMING (algorithm 348 [f1]) 
+CACM april, 1969 
+*********************************************************************
+Document:CACM-0176
+
+PERLIS, A. J. 
+CACM june, 1960 
+symbol manipulation by threaded lists (corrigendum) 
+*********************************************************************
+Document:CACM-1106
+
+PERLIS, A. J. 
+PROGRAMMING OF digital computers 
+CACM april, 1964 
+*********************************************************************
+Document:CACM-2922
+
+proper attitude AND PROGRAMMING STYLE for language allowing 
+according TO THE proposed PROGRAMMING STYLE, A generative 
+two-level control structure for nondeterministic PROGRAMMING 
+THE basic ideas OF nondeterministic PROGRAMMING 
+*********************************************************************
+Document:CACM-1137
+
+PERLIS, A. J. 
+CACM february, 1964 
+A format language* 
+*********************************************************************
+Document:CACM-0437
+
+PERLIS, A. J. 
+CACM december, 1962 
+galler, b. A. 
+compiling matrix operations 
+*********************************************************************
+Document:CACM-1715
+
+DE vogelaere, R. 
+CACM july, 1968 
+ca680714 jb february 22, 1978 11:24 am 
+direct search (algorithm 178 [e4]) 
+*********************************************************************
+Document:CACM-1459
+
+FROM other PROGRAMMING languages because OF 
+in which their object PROGRAMS are executed 
+CACM march, 1966 
+opler, A. 
+*********************************************************************
+Document:CACM-2303
+
+THE period preceding THE founding OF ACM was 
+CACM july, 1972 
+archaeology OF computers - reminiscences, 1945-1947 
+*********************************************************************
+Document:CACM-2705
+
+PROGRAMMING languages, natural languages, AND mathematics 
+some social aspects OF PROGRAMMING are illuminated 
+in PROGRAMMING. THE development OF natural languages toward 
+speaks for PROGRAMMING language design based on general, 
+*********************************************************************
+Document:CACM-3178
+
+CACM december, 1979 
+kling, R. 
+ca791201 db february 21, 1980 5:02 pm 
+introduction TO THE eft symposium 
+*********************************************************************
+Document:CACM-0228
+
+herbold, R. J. 
+CACM february, 1960 
+ca600204 jb march 22, 1978 2:21 pm 
+quadi (algorithm 1) 
+*********************************************************************
+Document:CACM-3197
+
+in line with THE acm's policy statement [comm. ACM 5 (nov. 1962), 547-549], 
+CACM june, 1966 
+bemer, R. w. 
+green, J. 
+*********************************************************************
+Document:CACM-0259
+
+coveyou, R. R. 
+CACM november, 1961 
+sullivan, J. g. 
+permutation (algorithm 71) 
+*********************************************************************
+Document:CACM-0027
+
+CACM may, 1958 
+randels, J. b. 
+reeves, R. f. 
+ca580501 jb march 22, 1978 9:17 pm 
+*********************************************************************
+Document:CACM-1764
+
+session 19 OF THE ACM 20 th anniversary conference 
+bernard A. galler, richard, w. hamming, AND alan J. PERLIS. 
+CACM april, 1968 
+survey courses, beginning PROGRAMMING, course 
+*********************************************************************
+Document:CACM-1716
+
+bell, J. R. 
+CACM july, 1968 
+ca680713 jb february 22, 1978 11:26 am 
+normal random deviates (algorithm 334 [g5]) 
+*********************************************************************
+Document:CACM-1946
+
+adler, R. J. 
+CACM january, 1969 
+computing polynomial resultants: bezout's determinant 
+vs. collins' reduced p. algorithm 
+*********************************************************************
+Document:CACM-0875
+
+van DE riet, R. p. 
+CACM april, 1963 
+incomplete elliptic integrals (algorithm 73) 
+*********************************************************************
+Document:CACM-2850
+
+in A simple pl/i STYLE PROGRAMMING language. 
+PROGRAMS. instead OF supplying THE normal inputs 
+also described. it interpretively executes PROGRAMS written 
+CACM july, 1976 
+*********************************************************************
+Document:CACM-3130
+
+CACM march, 1979 
+for computing machinery (ACM). THE core curriculum common TO all 
+computer science undergraduate PROGRAMS is presented in terms OF 
+austing, R. 
+*********************************************************************
+Document:CACM-1771
+
+given for undergraduate PROGRAMS. graduate PROGRAMS in computer 
+PROGRAMS in computer science -- A report OF THE 
+ACM curriculum committee on computer science 
+PROGRAMS in computer science which were developed 
+*********************************************************************
+Document:CACM-1931
+
+hansen AND R. R. smith, have shown how interval 
+A method proposed by hasen AND R. R. smith is compared 
+CACM february, 1969 
+interval arithmetic determinant evaluation 
+*********************************************************************
+Document:CACM-1278
+
+OF THE ACM, R. wengert suggested A technique for 
+very attractive FROM THE PROGRAMMING viewpoint 
+CACM april, 1965 
+bellman, R. e. 
+*********************************************************************
+Document:CACM-2097
+
+fenichel, R. R. 
+A program TO teach PROGRAMMING 
+OF elementary instruction in PROGRAMMING. TO THE student, teach offers loosely 
+similar PROGRAMS OF profound tutorial skill will appear only as THE results OF 
+*********************************************************************
+Document:CACM-1835
+
+hochsprung, R. R. 
+THE iitran PROGRAMMING language 
+CACM october, 1969 
+dewar, R. b. k. 
+*********************************************************************
+Document:CACM-2802
+
+structured PROGRAMMING, ALGEBRA OF functions, 
+THE new math OF computer PROGRAMMING 
+structured PROGRAMMING has proved TO BE an important 
+AND development. structured PROGRAMS are identified 
+*********************************************************************
+Document:CACM-0406
+
+PERLIS, A. J. 
+CACM january, 1961 
+evans jr., A. 
+THE use OF threaded lists in constructing A combined 
+*********************************************************************
+Document:CACM-3099
+
+integer PROGRAMMING AND their application 
+pure AND mixed integer PROGRAMMING problems. some OF 
+PROGRAMMING. these sufficient conditions are particularly 
+PROGRAMMING problems with known optimal solutions. these 
+*********************************************************************
+Document:CACM-2971
+
+cordy, J. R. 
+sp/k: A system for teaching computer PROGRAMMING 
+that has been designed for teaching PROGRAMMING. 
+is suitable for in troducing PROGRAMMING concepts 
+*********************************************************************
+Document:CACM-3154
+
+CACM july, 1979 
+THE logic OF THE algorithm. we argue that computer PROGRAMS would 
+kowalski, R. 
+control language, logic PROGRAMMING, nonprocedural language, PROGRAMMING 
+*********************************************************************
+Document:CACM-1729
+
+minit algorithm for linear PROGRAMMING (algorithm 333 [h]) 
+CACM june, 1968 
+salazar, R. c. 
+linear PROGRAMMING, dual simplex method, primal problem, dual problem 
+*********************************************************************
+Document:CACM-2219
+
+bernstein, A. J. 
+CACM february, 1971 
+sharp, J. c. 
+A policy-driven scheduler for A time-sharing system 
+*********************************************************************
+Document:CACM-3203
+
+THE general recursive ALGEBRA AND differentiation assistant (grad assistant) 
+CACM august, 1966 
+fletcher, J. g. 
+grad assistant - A program for symbolic algebraic manipulation AND 
+*********************************************************************
+Document:CACM-2610
+
+point in R. assuming R is starlike with respect TO 
+OF R. such formulas are useful for approximating 
+THE solution OF THE dirichlet problem for R. 
+CACM august, 1974 
+*********************************************************************
+Document:CACM-3078
+
+systems using computer- aided ALGEBRA 
+OF symbol manipulation PROGRAMS. since many physical 
+CACM july, 1978 
+chattergy, R. 
+*********************************************************************
+Document:CACM-1923
+
+for PROGRAMS TO communicate with deeply embedded 
+CACM march, 1969 
+rosin, R. f. 
+pseudofiles 
+*********************************************************************
+Document:CACM-0347
+
+herndon, J. R. 
+CACM april, 1961 
+gamma function for range 1 TO 2 (algorithm 54) 
+*********************************************************************
+Document:CACM-1965
+
+ehrman, J. R. 
+CACM november, 1970 
+correction TO "logical" arithmetic on computers 
+with two's complement binary arithmetic 
+*********************************************************************
+Document:CACM-1718
+
+ehrman, J. R. 
+CACM july, 1968 
+ca680711 jb february 22, 1978 11:34 am 
+"logical" arithmetic on computers 
+*********************************************************************
+Document:CACM-2201
+
+coulter jr., R. R. 
+CACM april, 1971 
+talbot, p. A. 
+carr iii, J. w. 
+*********************************************************************
+Document:CACM-0292
+
+CACM september, 1961 
+horty, J. f. 
+bacon, c. R. t. 
+an information retrieval language for legal studies 
+*********************************************************************
+Document:CACM-2183
+
+walker, R. J. 
+CACM july, 1971 
+binary summation 
+*********************************************************************
+Document:CACM-0720
+
+CACM october, 1963 
+bailey, m. J. 
+futrelle, R. p. 
+format-free input in fortran 
+*********************************************************************
+Document:CACM-1418
+
+CACM june, 1966 
+peck, J. e. l. 
+williams, m. R. 
+examination scheduling (algorithm 286 [zh]) 
+*********************************************************************
+Document:CACM-0631
+
+CACM march, 1962 
+ledley, R. 
+wilson, J. b. 
+automatic-programming-language translation through syntactical analysis* 
+*********************************************************************
+Document:CACM-0344
+
+herndon, J. R. 
+CACM april, 1961 
+ber or bei function (algorithm 57) 
+*********************************************************************
+Document:CACM-0352
+
+herndon, J. R. 
+CACM april, 1961 
+spherical neumant function (algorithm 49) 
+*********************************************************************
+Document:CACM-0611
+
+howell, J. R. 
+CACM april, 1962 
+permutation generator (algorithm 87) 
+*********************************************************************
+Document:CACM-0088
+
+CACM april, 1959 
+hicks, J. s. 
+wheeling, R. f. 
+ca590404 jb march 22, 1978 7:10 pm 
+*********************************************************************
+Document:CACM-2309
+
+CACM july,1972 
+computers in THE instructional process: 
+directions for research AND development 
+*********************************************************************
+Document:CACM-2298
+
+CACM august, 1972 
+rosin, R. f. 
+eckhouse jr., R. h. 
+an environment for research in microprogramming AND emulation 
+*********************************************************************
+Document:CACM-2215
+
+slagle, J. R. 
+CACM february, 1971 
+lee, R. c. t. 
+backing-up procedure, dynamic PROGRAMMING, branch-and-bound 
+*********************************************************************
+Document:CACM-1099
+
+fact that THE blind may BE especially suited for PROGRAMMING 
+memory, THE blind brings TO THE work OF PROGRAMMING skills 
+CACM april, 1964 
+professional computer work for THE blind 
+*********************************************************************
+Document:CACM-0910
+
+mayer, R. J. 
+CACM march, 1963 
+selective instruction trap for THE 7090 
+*********************************************************************
+Document:CACM-1668
+
+CACM november, 1968 
+singleton, R. c. 
+ca681111 jb february 21, 1978 2:26 pm 
+an algol procedure for THE fast fourier transform 
+*********************************************************************
+Document:CACM-1669
+
+CACM november, 1968 
+singleton, R. c. 
+ca681110 jb february 21, 1978 2:29 pm 
+algol procedures for THE fast fourier transform (algorithm 338 [c6]) 
+*********************************************************************
+Document:CACM-1717
+
+duley, J. R. 
+CACM july, 1968 
+ca680712 jb february 22, 1978 11:30 am 
+generating prime implicants via ternary encoding AND decimal arithmetic 
+*********************************************************************
+Document:CACM-3138
+
+ca790404 dh may 21, 1979 2:06 pm 
+CACM april, 1979 
+A mathematical PROGRAMMING updating method using modified 
+hanson, R. 
+*********************************************************************
+Document:CACM-2691
+
+CACM january, 1974 
+king, p. J. h. 
+johnson, R. g. 
+decision table, flowcharting, preprocessor, optimal PROGRAMS, search 
+*********************************************************************
+Document:CACM-1691
+
+whittlesey, J. R. 
+CACM september, 1968 
+ca680910 jb february 21, 1978 4:44 pm 
+A comparison OF THE correlational behavior 
+*********************************************************************
+Document:CACM-2092
+
+CACM march, 1970 
+schwarcz, R. m. 
+burger, J. f. 
+simmons, R. f. 
+*********************************************************************
+Document:CACM-2679
+
+for six ACM algorithms: quicksort (no. 64), 
+CACM march, 1974 
+loeser, R. 
+some performance tests OF "quicksort" AND descendants 
+*********************************************************************
+Document:CACM-1614
+
+PERLIS, A. J. 
+CACM april, 1967 
+galler, b. A. 
+A proposal for definitions in algol 
+*********************************************************************
+Document:CACM-2931
+
+logic AND PROGRAMMING languages 
+computability theory. PROGRAMMING languages offer 
+well) does A machine simulate A process? PROGRAMS naturally 
+AND how they are TO BE transformed (THE dynamics). 
+*********************************************************************
+Document:CACM-1733
+
+fenichel, R. R. 
+CACM june, 1968 
+ca680612 jb february 22, 1978 3:58 pm 
+distribution OF indistinguishable objects 
+*********************************************************************
+Document:CACM-2593
+
+CACM october, 1974 
+canaday, R. h. 
+harrison, R. d. 
+ryder, J. l. 
+*********************************************************************
+Document:CACM-3101
+
+is part OF THE sl5 PROGRAMMING language, is 
+CACM may, 1978 
+griswold, R. 
+procedures, coroutines, PROGRAMMING languages, 
+*********************************************************************
+Document:CACM-1353
+
+clasen, R. J. 
+techniques for automatic tolerance control in linear PROGRAMMING 
+for THE simplex method OF linear PROGRAMMING are 
+CACM november, 1966 
+*********************************************************************
+Document:CACM-1046
+
+past two years, R. A. brooker AND d. morris (joined 
+in A number OF ARTICLES published during THE 
+by J. rohl in their most recent paper have presented 
+A very interesting PROGRAMMING system that they 
+*********************************************************************
+Document:CACM-2156
+
+fenichel, R. R. 
+CACM september, 1971 
+comment on cheney's list-compaction algorithm 
+*********************************************************************
+Document:CACM-2939
+
+clu is A new PROGRAMMING language designed TO support 
+work in PROGRAMMING methodology has led TO THE realization 
+in THE PROGRAMMING process. OF these, only THE 
+means OF PROGRAMMING examples, THE utility OF THE three 
+*********************************************************************
+Document:CACM-0633
+
+higgins, J. J. 
+CACM february, 1962 
+ochser, R. t. 
+simulation AND analysis OF biochemical systems 
+*********************************************************************
+Document:CACM-1734
+
+CACM june, 1968 
+bartels, R. h. 
+ca680611 jb february 22, 1978 4:01 pm 
+chebyshev solution TO an overdetermined 
+*********************************************************************
+Document:CACM-2917
+
+CACM october, 1977 
+schneider, b. R. jr. 
+watts, R. m. 
+sitar: an interactive text processing 
+*********************************************************************
+Document:CACM-0884
+
+CACM april, 1963 
+clark, R. e. 
+kubik, R. n. 
+orthogonal polynomial least squares surface fit (algorithm 164) 
+*********************************************************************
+Document:CACM-3149
+
+ca790605 dh august 22, 1979 1:36 pm 
+CACM june, 1979 
+shapira, R. 
+THE cyclic order property OF vertices as an aid in scene analysis 
+*********************************************************************
+Document:CACM-3145
+
+ca790601 dh august 21, 1979 3:19 pm 
+CACM june, 1979 
+OF PROGRAMMING, testing PROGRAMMING proficiency 
+in teaching cobol PROGRAMMING 
+*********************************************************************
+Document:CACM-2657
+
+waldinger, R. J. 
+CACM april, 1974 
+lee, R. c. t. 
+an improved program-synthesizing algorithm AND ITS correctness 
+*********************************************************************
+Document:CACM-1463
+
+goodroe, J. R. 
+paper on THE em concepts, AND TO, finally, trace 
+various levels OF PROGRAMMING languages. 
+CACM march, 1966 
+*********************************************************************
+Document:CACM-0012
+
+CACM september, 1958 
+reeves, R. f. 
+ca580901 jb march 22, 1978 8:56 pm 
+error estimation in runge-kutta procedures 
+*********************************************************************
+Document:CACM-0214
+
+CACM march, 1960 
+floyd, R. w. 
+ca600304 jb march 22, 1978 2:01 pm 
+an algorithm defining algol assignment statements 
+*********************************************************************
+Document:CACM-0024
+
+CACM may, 1958 
+sisson, R. l. 
+ca580504 jb march 22, 1978 9:13 pm 
+an improved decimal redundancy check 
+*********************************************************************
+Document:CACM-0235
+
+CACM january, 1960 
+bagley, p. R. 
+ca600101 jb march 22, 1978 2:30 pm 
+two think pieces 
+*********************************************************************
+Document:CACM-0199
+
+CACM april, 1960 
+claussen, R. 
+ca600412 jb march 22, 1978 1:37 pm 
+euclidian algorithm (algorithm 7) 
+*********************************************************************
+Document:CACM-1280
+
+CACM april, 1965 
+bellman, R. e. 
+buell, J. d. 
+kalaba, R. e. 
+*********************************************************************
+Document:CACM-0139
+
+kenyon, R. R. 
+CACM october, 1960 
+binomial coefficients (algorithm 19) 
+*********************************************************************
+Document:CACM-2400
+
+CACM january, 1972 
+duda, R. o. 
+use OF THE hough transformation todetect lines AND curves in pictures 
+*********************************************************************
+Document:CACM-3038
+
+ca781201 dh january 22, 1979 11:18 am 
+CACM december, 1978 
+needham, R. 
+using encryption for authentication in large networks OF computers 
+*********************************************************************
+Document:CACM-1246
+
+korphage, R. R. 
+CACM june, 1965 
+deeply nested iterations 
+*********************************************************************

@@ -1,0 +1,628 @@
+Query:list all articles on el1 and ecl el1 may be given as el1 i dont remember how they did it
+Document:CACM-2651
+
+the treatment of data types in EL1 
+AND efficient implementation. the EL1 language contains 
+cacm MAY, 1974 
+*********************************************************************
+Document:CACM-1051
+
+multiword LIST items 
+the LIST concept AS originally proposed by 
+words AS elements of a LIST. this report describes the 
+of standard LIST structures with single-word items, the 
+*********************************************************************
+Document:CACM-1878
+
+recovery of reentrant LIST structures in slip 
+reentrant LIST structures are not recovered even when 
+LIST of slip MAY BE amended to mark those lists 
+collector that recovers abandoned reentrant LIST structures 
+*********************************************************************
+Document:CACM-0595
+
+AND, at best, difficult to measure. HOW then 
+cacm MAY, 1962 
+greene, I. 
+guides to teaching cobol 
+*********************************************************************
+Document:CACM-0497
+
+further remarks ON line segment curve-fitting using dynamic programming 
+in a recent paper, bellman showed HOW dynamic 
+programming could BE used to determine the solution 
+*********************************************************************
+Document:CACM-2513
+
+LIST moving, LIST copying, LIST traversal, garbage collection lisp 
+a nonrecursive LIST moving algorithm 
+for moving any lisp-type LIST. in particular, 
+nodes into which the LIST is to BE moved, AND no 
+*********************************************************************
+Document:CACM-2177
+
+graph. the graph MAY BE represented either (I) AS an 
+ordered LIST of edges or (ii) AS a packed adjacency 
+AS 2(m+n) in case (I), or (n^2)/win case 
+an algorithm for the blocks AND cutnodes of a graph 
+*********************************************************************
+Document:CACM-1853
+
+LIST representation, LIST, compact LIST, garbage 
+compact LIST representation: definition, 
+a LIST to BE chained, compact, or any combination 
+of the two. a description is GIVEN of that LIST representation 
+*********************************************************************
+Document:CACM-2390
+
+a proposal for a computer-based interactive scientific community 
+because of the problems created by the explosion 
+of papers in the mathematical sciences AND 
+*********************************************************************
+Document:CACM-1957
+
+for its use are GIVEN. the LIST set generator is 
+the LIST set generator: a construct for evaluating set expressions 
+the LIST set generator is defined AND algorithms 
+a construct which MAY BE added to a LIST processing system or any 
+*********************************************************************
+Document:CACM-0717
+
+partitioning algorithms for finite sets 
+the partitions of a set with n elements are represented 
+by certain n-tuples of positive integers. 
+*********************************************************************
+Document:CACM-1046
+
+in a number of ARTICLES published during the 
+a compiler-building system developed by brooker AND morris 
+past two years, r. a. brooker AND d. morris (joined 
+*********************************************************************
+Document:CACM-1588
+
+pl/i LIST processing 
+the concepts of LIST processing have been introduced 
+operate ON simple AND complex data LIST organizations. 
+upon the data LIST structures. these two problems have 
+*********************************************************************
+Document:CACM-2184
+
+the expression lambda(name list)(expression)(value LIST), 
+ON the meaning of names in programming systems 
+IT is assumed that there is a similarity of 
+*********************************************************************
+Document:CACM-1456
+
+AND answering simple english questions are GIVEN. an 
+other LIST processing languages are ideally suited for 
+storage AND retrieval of aspects of meaning in directed graph structures 
+*********************************************************************
+Document:CACM-2060
+
+cacm MAY, 1970 
+lambda calculus, LIST processing, nondeterministic algorithm 
+gedanken-a simple typeless language based ON the 
+principle of completeness AND the reference concept 
+*********************************************************************
+Document:CACM-1035
+
+mixtures, in an input/output LIST or in an expression, 
+ON the complexity of the LIST of quantities 
+characteristics of the fortran cep language 
+*********************************************************************
+Document:CACM-3142
+
+large linked program packages (AS eft for instance). 
+cacm MAY, 1979 
+consumer difficulties with computerized transactions: 
+an empirical investigation 
+*********************************************************************
+Document:CACM-1861
+
+the mad definition facility 
+one of the first definition facilities for 
+higher level languages is described. users of the 
+*********************************************************************
+Document:CACM-1495
+
+solution of transcendental equations by series reversion 
+an algorithm is developed for expressing the 
+solution y, of the equation f(y) = g(x) AS a power 
+*********************************************************************
+Document:CACM-2232
+
+are GIVEN. substantial variation in width-at-angle 
+pattern width at a GIVEN angle 
+that the pattern feature "width AS a function 
+*********************************************************************
+Document:CACM-2723
+
+LIST operations AND the other performing 
+collection AND for standard LIST processing primitives 
+LIST cells while another processor MAY BE 
+allow the LIST processor to run unimpeded while 
+*********************************************************************
+Document:CACM-1890
+
+a bidirectional LIST in computer memory. the movement 
+signal setting, vehicle, road network, LIST structure, computer simulation 
+simulation of traffic flows in a network 
+*********************************************************************
+Document:CACM-2106
+
+computer education in a graduate school of management 
+several years of experience have led to the belief that the creative 
+design AND evaluation of management information systems requires 
+*********************************************************************
+Document:CACM-1608
+
+with a pole of second order is discussed, AND, AS an example, 
+numerical integration of function that has a pole 
+IT is common to need to integrate numerically 
+*********************************************************************
+Document:CACM-2766
+
+copying cyclic LIST structures in linear time using bounded workspace 
+LIST structures is GIVEN. this algorithm 
+cacm MAY, 1975 
+LIST processing, copying, linear time, space complexity 
+*********************************************************************
+Document:CACM-1614
+
+complex numbers, file processing, AND LIST manipulation. 
+a proposal for definitions in algol 
+an extension to algol is proposed for adding 
+*********************************************************************
+Document:CACM-3057
+
+optimal his togram matching by monotone gray level transformation 
+this paper investigates the problem of optimal 
+his togram matching using monotone gray level 
+*********************************************************************
+Document:CACM-2838
+
+suspending the operations of a LIST processor 
+processor in parallel with LIST processing operations, 
+algorithms for recovering discarded LIST structures in 
+sufficient conditions under which the LIST processor never 
+*********************************************************************
+Document:CACM-2051
+
+AND uses LIST processing techniques to sort AND count them. 
+in that pair of words. the output is a LIST of ALL correspondence 
+correspondence, regular correspondence, LIST processing 
+a pl/i program to assist the comparative linguist 
+*********************************************************************
+Document:CACM-1459
+
+requirements for real-time languages 
+real-time languages have different requirements 
+from other programming languages because of 
+*********************************************************************
+Document:CACM-2484
+
+information structures, AS LIST, tree, ring, 
+a note ON information organization AND storage 
+since the logical structure of a data base 
+*********************************************************************
+Document:CACM-3144
+
+cacm MAY, 1979 
+a model for AND discussion of multi-interpreter systems 
+a multi-interpreter system is a system in which programs execute 
+*********************************************************************
+Document:CACM-1931
+
+arithmetic (I.) can BE used effectively to bound errors 
+with straightforward use of I. in determinant 
+I. for determinant evaluation. an application using 
+I. determinants in a program to test a set of 
+*********************************************************************
+Document:CACM-0865
+
+cacm MAY, 1963 
+internal AND tape sorting using the replacement-selection technique 
+a general technique for sequencing unsorted 
+*********************************************************************
+Document:CACM-3106
+
+a fast algorithm for copying LIST structures 
+linked LIST structure into a block of 
+LIST. apart from a fixed number of program 
+of LIST cells into nine types, which enables processing 
+*********************************************************************
+Document:CACM-2986
+
+functions in O(N) steps, where n is the size of 
+operations ON sparse relations 
+various computations ON relations, boolean matrices, 
+*********************************************************************
+Document:CACM-1264
+
+functions: assemble sps source decks, post LIST, 
+user's program, LIST card input to a program, 
+LIST punched output, provide a storage dump, execute 
+cacm MAY, 1965 
+*********************************************************************
+Document:CACM-1350
+
+the augmented predictive analyzer for context-free 
+languages-its relative efficiency 
+IT has been proven by greibach that for a GIVEN 
+*********************************************************************
+Document:CACM-2194
+
+cacm MAY, 1971 
+HOW to keep the addresses short 
+an algorithm is presented for minimizing the 
+*********************************************************************
+Document:CACM-0527
+
+the description LIST of concepts 
+a concept is described by a LIST structure. 
+LIST structure. like the definition, the description 
+LIST structure of a concept is also built up from 
+*********************************************************************
+Document:CACM-1847
+
+in a pushdown LIST to await examination. one stage 
+pushdown LIST AND examine IT, i.e. inspect ALL those 
+an algorithm for finding a fundamental set of cycles of a graph 
+*********************************************************************
+Document:CACM-3031
+
+abstract data types AND software validation 
+a data abstraction can BE naturally specified 
+using algebraic axioms. the virtue of these 
+*********************************************************************
+Document:CACM-1154
+
+multi-tape AND infinite-state automata -- a survey 
+a survey of machines which are more powerful 
+than finite automata AND less powerful than general 
+*********************************************************************
+Document:CACM-2470
+
+fen-an axiomatic basis for program semantics 
+a formal system is presented which abstracts 
+the notions of data item, function, AND relation. 
+*********************************************************************
+Document:CACM-1012
+
+vocabulary I, input vocabulary t, AND ALL productions 
+formal parsing systems 
+automatic syntactic analysis has recently become 
+*********************************************************************
+Document:CACM-2971
+
+cacm MAY, 1977 
+sp/k: a system for teaching computer programming 
+sp/k is a compatible subset of the pl/i language 
+*********************************************************************
+Document:CACM-2841
+
+designing surfaces in 3-d 
+an experimental system for computer-aided 
+design of free-form surfaces in three dimensions 
+*********************************************************************
+Document:CACM-3054
+
+to quicksort is GIVEN, along with a discussion 
+implementing quicksort programs 
+this paper is a practical study of HOW to 
+*********************************************************************
+Document:CACM-2905
+
+perfect hashing functions: a single 
+probe retrieving method for static sets 
+a refinement of hashing which allows retrieval 
+*********************************************************************
+Document:CACM-1307
+
+or REMEMBER the vocabulary of the language because 
+or REMEMBER the grammar. the program restricts 
+a lightpen-controlled program for on-line data analysis 
+*********************************************************************
+Document:CACM-0731
+
+symmetric LIST processor 
+a LIST processing system in which each LIST 
+cell contains both a forward AND a backward link 
+*********************************************************************
+Document:CACM-3032
+
+this LIST of algorithms we add (6) reverse path 
+reverse path forwarding of broadcast packets 
+a broadcast packet is for delivery to ALL 
+*********************************************************************
+Document:CACM-2993
+
+steinberg, d. I. 
+occurrences of cycling AND other phenomena 
+arising in a class of linear programming models 
+*********************************************************************
+Document:CACM-3177
+
+HOW to share a secret 
+in this paper we show HOW to divide data d into 
+n pieces in such a way that d is easily reconstructable from any 
+*********************************************************************
+Document:CACM-2666
+
+is GIVEN, for which the nondiscrete solution can BE 
+sefton, I. m. 
+ON lions' counter example for gotlieb's method 
+for the construction of school timetables 
+*********************************************************************
+Document:CACM-2622
+
+a user authentication scheme not requiring secrecy in the computer 
+in many computer operating systems a user authenticates 
+himself by entering a secret password 
+*********************************************************************
+Document:CACM-1717
+
+generating prime implicants via ternary encoding AND decimal arithmetic 
+decimal arithmetic, ternary encoding of cubes, 
+AND topological considerations are used in an 
+*********************************************************************
+Document:CACM-2358
+
+cacm MAY, 1972 
+the multics virtual memory: concepts AND design 
+AS experience with use of on-line operating 
+*********************************************************************
+Document:CACM-3069
+
+a practical interprocedural data flow analysis algorithm 
+a new interprocedural data flow analysis algorithm 
+is presented AND analyzed. the algorithm 
+*********************************************************************
+Document:CACM-2845
+
+a buddy system variation for disk storage allocation 
+a generalization of the buddy system for storage 
+allocation is described. the set of permitted 
+*********************************************************************
+Document:CACM-2855
+
+LIST moving, LIST copying, lisp, space complexity, constant workspace 
+arbitrary LIST structures, using no storage 
+to hold the original LIST AND the copy. the 
+original LIST is destroyed AS IT is moved. no mark 
+*********************************************************************
+Document:CACM-2179
+
+simple lr(k) grammars 
+a class of context-free grammars, called the 
+"simple lr(k)" or slr(k) grammars is defined. 
+*********************************************************************
+Document:CACM-1972
+
+a nonrecursive LIST compacting algorithm 
+a simple nonrecursive LIST structure compacting scheme or garbage 
+collector suitable for both compact AND lisp-like LIST structures is presented. 
+LIST compacting, garbage collection, compact LIST, lisp 
+*********************************************************************
+Document:CACM-2456
+
+ON the capabilities of while, repeat, AND exit statements 
+a well-formed program is defined AS a program 
+in which loops AND if statements are properly 
+*********************************************************************
+Document:CACM-2317
+
+programming systems AND languages 1965-1975 
+in spite of impressive gains by pl/i, fortran 
+AND cobol remain the languages in which most 
+*********************************************************************
+Document:CACM-2767
+
+a comparison of simulation event LIST algorithms 
+notices, AND another uses an indexed linear LIST. the algorithms 
+promising algorithm uses the indexed LIST concept. 
+simulation, time flow mechanisms, event LIST algorithm, 
+*********************************************************************
+Document:CACM-2354
+
+in a companion paper to this, "I methodology 
+cacm MAY, 1972 
+implementing clenshaw-curtis quadrature, 
+ii computing the cosine transformation 
+*********************************************************************
+Document:CACM-0944
+
+a memory with LIST properties [1] MAY BE used 
+certain LIST properties is available. of prime interest 
+storage AND search properties of a tree-organized memory system 
+*********************************************************************
+Document:CACM-1470
+
+LIST processing languages, illustrate the forms 
+the structure of programming languages 
+the following are identified AS major components 
+*********************************************************************
+Document:CACM-0677
+
+length of strings for a merge sort 
+detailed statistics are GIVEN ON the length 
+of maximal sorted strings which result form the 
+*********************************************************************
+Document:CACM-1155
+
+simple programs (IT is hoped that this ability 
+experiments with a deductive question-answering program 
+AS an investigation in artificial intelligence, 
+*********************************************************************
+Document:CACM-1911
+
+ON coordination reduction AND sentence analysis 
+a class of coordination phenomena in natural 
+languages is considered within the frame work 
+*********************************************************************
+Document:CACM-2373
+
+quantities is GIVEN. the relation to lru (least 
+properties of the working-set model 
+a program's working set w(t,t) at time t is 
+*********************************************************************
+Document:CACM-3052
+
+cold-start vs. warm-start miss ratios 
+in a two-level computer storage hierarchy, miss 
+ratio measurements are often made from a "cold 
+*********************************************************************
+Document:CACM-1727
+
+of obtaining estimates of the p(ij) are GIVEN. in 
+I. although the p(ij) are, for each I, proportional to 
+one way of estimating frequencies of jumps in a program 
+*********************************************************************
+Document:CACM-3112
+
+LIST processing in real time ON a serial computer 
+a real-time LIST processing system is one 
+in which the time required by the elementary LIST 
+classical implementations of LIST processing systems 
+*********************************************************************
+Document:CACM-2927
+
+lists yields an algorithm of O(N) arithmetic 
+AND the bit complexity to O(N logn log log logn). 
+a storage requirement is described using O(N logn/log logn) bits AS well. 
+number theory, linked LIST, preprocessing, 
+*********************************************************************
+Document:CACM-2305
+
+the "plankalkul" of konrad zuse: a forerunner 
+of today's programming languages 
+plankalkul was an attempt by korrad zuse in 
+*********************************************************************
+Document:CACM-1435
+
+cacm MAY, 1966 
+design of computer simulation experiments for industrial systems 
+the aim of this paper is to provide background 
+*********************************************************************
+Document:CACM-2036
+
+existing time-sharing systems is GIVEN. 
+an interactive command generating facility 
+a facility to permit conversationally controlled tasks 
+*********************************************************************
+Document:CACM-2970
+
+cacm MAY, 1977 
+achieving specific accuracy in simulation output analysis 
+this paper extends the use of the regenerative 
+*********************************************************************
+Document:CACM-1265
+
+cacm MAY, 1965 
+ON the relative efficiencies of context-free grammar recognizers 
+a number of diverse recognition procedures 
+*********************************************************************
+Document:CACM-2609
+
+interpolation with rounded ramp functions 
+a new interpolation function is introduced. 
+IT has infinitely many continuous derivatives 
+*********************************************************************
+Document:CACM-0367
+
+topological ordering of a LIST of 
+a LIST of these lines in numeric order, a simple technique 
+can BE used to create at high speed a LIST 
+randomly-numbered elements of a network 
+*********************************************************************
+Document:CACM-3202
+
+manip: a computer system for algebra AND analytic differentiation 
+a mathematical expression to BE operated upon is written in fortran-like 
+notation AND stored in the computer AS a string of bcd characters with ALL 
+*********************************************************************
+Document:CACM-2772
+
+ON maintenance of the opportunity LIST 
+is that for maintenance of the opportunity LIST. opportunity 
+LIST maintenance methods are based ON necessary 
+four specific sets of necessary conditions, is GIVEN. 
+*********************************************************************
+Document:CACM-3172
+
+an algorithm for planning collision-free 
+paths among polyhedral obstacles 
+this paper describes a collision avoidance algorithm 
+*********************************************************************
+Document:CACM-1072
+
+cacm MAY, 1964 
+an improved equivalence algorithm 
+an algorithm for assigning storage ON the basis 
+*********************************************************************
+Document:CACM-1489
+
+data, documentation AND decision tables 
+in business data processing systems, IT is 
+necessary to BE able to define AND document data, 
+*********************************************************************
+Document:CACM-2002
+
+hirschsoln, I. 
+amesplot-a higher level data plotting software system 
+amesplot is an extensible software system designed to make the display of 
+*********************************************************************
+Document:CACM-2729
+
+comments ON a paper by t. c. chen AND I. t. ho 
+cacm august, 1975 
+smith, a. j. 
+*********************************************************************
+Document:CACM-2865
+
+cacm MAY, 1976 
+verifying properties of parallel programs: an axiomatic approach 
+an axiomatic method for proving a number 
+*********************************************************************
+Document:CACM-3188
+
+semiotics AND programming languages 
+I have based my paper ON semiotics AND its three dimension. I should insert 
+at this point that language has many aspects AND that pragmatics, semantics AND 
+*********************************************************************
+Document:CACM-1433
+
+cacm MAY, 1966 
+a note ON linear programming algorithm design: a combinatorial problem 
+AS linear programming models grow bigger AND 
+*********************************************************************
+Document:CACM-2712
+
+horner's rule for the evaluation of general closed queueing networks 
+the solution of separable closed queueing networks 
+requires the evaluation of homogeneous multinomial 
+*********************************************************************
+Document:CACM-2409
+
+an algorithm for the approximate solution 
+of wiener-hopf integral equations 
+an explicit approximate solution is GIVEN for 
+*********************************************************************
+Document:CACM-2229
+
+construction of rational AND negative powers of a formal series 
+some methods are described for the generation 
+of fractional AND negative powers of any formal 
+*********************************************************************
+Document:CACM-1409
+
+nebula: a digital computer using a 20 mc glass delay line memory 
+oregon state university has designed AND constructed 
+a medium-speed serial digital computer 
+*********************************************************************
+Document:CACM-2889
+
+performance of height-balanced trees 
+this paper presents the results of simulations 
+that investigate the performance of height-balanced 
+*********************************************************************

@@ -1,0 +1,650 @@
+Query:probabilistic algorithms especially those dealing with algebraic and symbolic manipulation  some examples rabiin probabilistic algorithm on finite field siam waztch probabilistic testing of polynomial identities siam  rabinm
+
+Document:CACM-2932
+
+in tractable problems, PROBABILISTIC ALGORITHMS 
+AND methods. illustrative EXAMPLES OF practical 
+complexity OF computations, ALGEBRAIC complexity, 
+complexity OF computations 
+*********************************************************************
+Document:CACM-2836
+
+OF a context-free grammar. an ALGORITHM is presented 
+in addition, the correctness OF the ALGORITHM 
+involving PROBABILISTIC parsing or combinatorial 
+derivation tree, parse tree, PROBABILISTIC grammar, 
+*********************************************************************
+Document:CACM-1474
+
+tests OF PROBABILISTIC models for propagation OF roundoff errors 
+PROBABILISTIC models for roundoff error, AND then to 
+describe a series OF experiments for TESTING the 
+*********************************************************************
+Document:CACM-3175
+
+breaking substitution ciphers using a relaxation ALGORITHM 
+ciphers is represented as a PROBABILISTIC labeling problem. 
+breaking the cipher. the method is applies successfully to two EXAMPLES. 
+PROBABILISTIC classification, relaxation 
+*********************************************************************
+Document:CACM-2681
+
+a PROBABILISTIC model OF a multiprogramming system 
+PROBABILISTIC model, central processor productivity, 
+dynamic memory repacking 
+*********************************************************************
+Document:CACM-1935
+
+PROBABILISTIC method, random sequencing, search techniques, tree structures 
+randomized binary search technique 
+a mathematical model is developed for the mean 
+*********************************************************************
+Document:CACM-2560
+
+a PROBABILISTIC model OF a multiprogrammed computer 
+a queuing model OF a multiprogrammed 
+computer WITH a two-level storage system 
+*********************************************************************
+Document:CACM-2516
+
+a PROBABILISTIC analysis is employed to determine 
+hierarchical storage in information retrieval 
+the effect OF hierarchical storage organizations 
+*********************************************************************
+Document:CACM-2580
+
+computer composition, music theory, formal languages, PROBABILISTIC grammars 
+a method for composing simple traditional music by computer 
+a method is described for composing musical 
+*********************************************************************
+Document:CACM-2437
+
+key space according to a certain PROBABILISTIC selection 
+ALGORITHM. all files WITH the same number OF 
+in accordance WITH the ALGORITHM, AND the 
+general performance analysis OF key-to-address 
+*********************************************************************
+Document:CACM-2165
+
+relativity, ALGEBRAIC MANIPULATION, equation 
+general relativity AND the application OF ALGEBRAIC manipulative systems 
+the paper describes SOME applications OF SYMBOLIC 
+including the derivation OF the FIELD equations, the 
+*********************************************************************
+Document:CACM-2090
+
+ALGORITHM, POLYNOMIAL distribution, POLYNOMIAL expansion 
+SYMBOLIC expansion OF ALGEBRAIC expressions (ALGORITHM 377 $r2)) 
+algebra, SYMBOLIC algebra, SYMBOLIC 
+multiplication, ALGEBRAIC distribution, 
+*********************************************************************
+Document:CACM-1397
+
+proceedings OF the acm symposium ON SYMBOLIC AND ALGEBRAIC MANIPULATION 
+AND ALGEBRAIC MANIPULATION. the program committee consisted 
+the acm symposium ON SYMBOLIC AND ALGEBRAIC 
+for MANIPULATION OF ALGEBRAIC formulas AND symbol 
+*********************************************************************
+Document:CACM-2323
+
+for the FIELD OF ALGEBRAIC MANIPULATION is given. 
+ALGEBRAIC MANIPULATION, special functions, ALGEBRAIC 
+simplification, SYMBOLIC integration, ALGEBRAIC 
+preferable to a less general effort to make ALGEBRAIC 
+*********************************************************************
+Document:CACM-1386
+
+SYMBOLIC factoring OF polynomials in several variables 
+a multi-variate POLYNOMIAL WITH integer coefficients 
+is presented. the ALGORITHM is an extension OF a technique 
+OF steps. the ALGORITHM consists OF factoring 
+*********************************************************************
+Document:CACM-3071
+
+formac, SYMBOLIC MANIPULATION, tensors 
+an ALGORITHM using SYMBOLIC techniques for the 
+in this note, an ALGORITHM is presented for the 
+OF the bel-petrov types OF a gravitational FIELD. 
+*********************************************************************
+Document:CACM-3203
+
+grad assistant - a program for SYMBOLIC ALGEBRAIC MANIPULATION AND 
+abd differentiate ALGEBRAIC expressions. it is designed for use WITH problemms 
+in which a large amount OF routine MANIPULATION is to be done by a program 
+differentiation 
+*********************************************************************
+Document:CACM-2166
+
+automated ALGEBRAIC MANIPULATION in celestial mechanics 
+OF automated ALGEBRAIC MANIPULATION which 
+MANIPULATION packages. SOME future directions 
+ALGORITHM required in celestial mechanics, a typical 
+*********************************************************************
+Document:CACM-0265
+
+in SYMBOLIC languages AND for use within fortran 
+multi-precision arithmetic), symbol MANIPULATION, 
+bit MANIPULATION AND expanded character set input-output, AND visual display. 
+low level language subroutines for use within fortran 
+*********************************************************************
+Document:CACM-2645
+
+procedures for ALGEBRAIC MANIPULATION which can be 
+SYMBOLIC MANIPULATION, program efficiency, 
+translator which compiles a program into a SYMBOLIC 
+by the first processor. EXAMPLES OF the usage 
+*********************************************************************
+Document:CACM-1214
+
+SOME experiments in ALGEBRAIC MANIPULATION by computer 
+a set OF subroutines to allow ALGEBRAIC manipulations 
+ON the ibm 7094 computer has been written 
+*********************************************************************
+Document:CACM-2170
+
+symbol MANIPULATION, ALGEBRAIC simplification, 
+applications OF symbol MANIPULATION in theoretical physics 
+this paper surveys the applications OF SYMBOLIC 
+*********************************************************************
+Document:CACM-2167
+
+ALGEBRAIC MANIPULATION, ALGEBRAIC simplification, 
+capabilities in an ALGEBRAIC MANIPULATION 
+ALGEBRAIC simplification: a guide for the perplexed 
+ALGEBRAIC simplification is examined first from 
+*********************************************************************
+Document:CACM-2169
+
+POLYNOMIAL MANIPULATION, interpreters, translators 
+altran is a complete system for SYMBOLIC computation 
+SYMBOLIC algebra, rational function MANIPULATION, 
+the altran system for rational function manipulation-a survey 
+*********************************************************************
+Document:CACM-2850
+
+this paper describes the SYMBOLIC execution OF 
+as in a normal execution except that values may be SYMBOLIC 
+yet interesting issues arise during the SYMBOLIC execution 
+particular system called effigy which provides SYMBOLIC 
+*********************************************************************
+Document:CACM-2414
+
+arithmetic overa FINITE FIELD [a1] (ALGORITHM a469) 
+cacm november, 1973 
+lam, c. 
+*********************************************************************
+Document:CACM-1396
+
+survey OF formula MANIPULATION 
+the FIELD OF formula MANIPULATION is surveyed, 
+WITH particular attention to the specific capabilities 
+*********************************************************************
+Document:CACM-2450
+
+the design OF scheduling AND paging ALGORITHMS. although 
+in the literature DEALING WITH resource allocation, there 
+in the hope that workers in the FIELD might find experimental 
+empirical working set behavior 
+*********************************************************************
+Document:CACM-0393
+
+two subroutines for symbol MANIPULATION WITH an ALGEBRAIC compiler 
+cacm february, 1961 
+carr iii, j. w. 
+*********************************************************************
+Document:CACM-0719
+
+character addressable, variable FIELD computers 
+permit ready establishment AND MANIPULATION 
+push variable FIELD items down into such stacks 
+or pop them up. the availability OF a variety OF FIELD 
+*********************************************************************
+Document:CACM-1216
+
+SYMBOLIC derivatives without list processing, subroutines, or recursion 
+prints out the SYMBOLIC derivative OF an absolutely 
+operator into an "ALGEBRAIC" programming language. 
+*********************************************************************
+Document:CACM-3007
+
+complexity OF computations (corrigendum) 
+cacm march, 1978 
+rabin, m. 
+*********************************************************************
+Document:CACM-1393
+
+pm, a system for POLYNOMIAL MANIPULATION 
+ALGORITHM for POLYNOMIAL greatest common divisor 
+pm is an ibm 7094 program system for formal MANIPULATION 
+*********************************************************************
+Document:CACM-2266
+
+a highly parallel ALGORITHM for approximating 
+all zeros OF a POLYNOMIAL WITH only real zeros 
+an ALGORITHM is described based ON newton's 
+point in the method is POLYNOMIAL deflation used. 
+*********************************************************************
+Document:CACM-2164
+
+SYMBOLIC integration: the stormy decade 
+three approaches to SYMBOLIC integration in the 
+degree to moses' sin. the second, from ALGEBRAIC 
+MANIPULATION, led to manove's implementation AND to 
+*********************************************************************
+Document:CACM-1696
+
+an ALGORITHM for identifying the ergodic subchains 
+codes are reviewed, AND an updating procedure for DEALING 
+AND transient states OF a stochastic matrix 
+*********************************************************************
+Document:CACM-2253
+
+a by-product OF the SYMBOLIC MANIPULATION OF expressions 
+the paper describes a scheme for SYMBOLIC 
+MANIPULATION OF index expressions which arise as 
+by transforming the original ALGORITHM 
+*********************************************************************
+Document:CACM-1121
+
+notations for symbol MANIPULATION by m. barnett [comm. acm 6(august, 1963)]. 
+comments ON "a continued operation notation"* 
+this note is intended to clarify AND correct 
+*********************************************************************
+Document:CACM-1893
+
+root finders, roots OF POLYNOMIAL equations, POLYNOMIAL 
+AND resultant routine (ALGORITHM 340 [c2]) 
+TESTING OF roots, acceptance criteria 
+roots OF polynomials by a root-squaring 
+*********************************************************************
+Document:CACM-1667
+
+root finders, roots OF POLYNOMIAL equations, POLYNOMIAL 
+AND resultant routine (ALGORITHM 340 [c2]) 
+TESTING OF roots, acceptance criteria 
+roots OF polynomials by a root-squaring 
+*********************************************************************
+Document:CACM-1210
+
+SYMBOLIC naming OF information files, without violating 
+file-handling within fortran 
+this note describes SOME fortran subroutines 
+*********************************************************************
+Document:CACM-2567
+
+in nature but to be ESPECIALLY efficient when DEALING 
+an exponential method for the solution OF 
+systems OF ordinary differential equations 
+*********************************************************************
+Document:CACM-0762
+
+SOME remarks ON the syntax OF SYMBOLIC programming languages 
+cacm august, 1963 
+diforino, a. c. 
+*********************************************************************
+Document:CACM-1392
+
+OF mathematical expression MANIPULATION ALGORITHMS 
+experience WITH formac ALGORITHM design 
+are discussed. concrete EXAMPLES are provided by the 
+formac expand AND differentiation ALGORITHMS, a 
+*********************************************************************
+Document:CACM-0717
+
+partitioning ALGORITHMS for FINITE sets 
+ALGORITHM are described which generate without repetitions 
+the partitions OF a set WITH n elements are represented 
+*********************************************************************
+Document:CACM-2704
+
+features for DEALING WITH exceptions in an orderly 
+exception handling: issues AND a proposed notation 
+this paper defines exception conditions, discusses 
+*********************************************************************
+Document:CACM-1619
+
+by SOME ALGORITHMS used to compute various 
+error-free methods for statistical computations 
+neely has discussed computational error generated 
+*********************************************************************
+Document:CACM-1020
+
+free FIELD read (ALGORITHM 239 [i5]) 
+cacm august, 1964 
+mckeeman, w. m. 
+*********************************************************************
+Document:CACM-1999
+
+approximants is considered, AND SOME optimal POLYNOMIAL initial 
+optimal starting approximations for generating 
+square root for slow or no divide 
+*********************************************************************
+Document:CACM-1524
+
+a stopping criterion for POLYNOMIAL root finding 
+when searching for the root OF a POLYNOMIAL, 
+in this paper an ALGORITHM is presented which 
+which occurs in evaluating the POLYNOMIAL. this stopping 
+*********************************************************************
+Document:CACM-2490
+
+efficient ALGORITHMS for graph MANIPULATION [h] (ALGORITHM a447) 
+graphs,analysis OF ALGORITHMS, graph MANIPULATION 
+efficient ALGORITHMS are presented for partitioning 
+components AND simple paths. the ALGORITHM for partitioning 
+*********************************************************************
+Document:CACM-1862
+
+over-come. universities, ESPECIALLY THOSE WITH 
+computing capabilities at argentine AND chilean universities 
+the author reports ON a trip to universities in 
+*********************************************************************
+Document:CACM-3201
+
+SYMBOLIC MANIPULATION OF poisson series 
+poisson series OF three variables are manageable symbolically through as a 
+set OF formal subroutines written partially in the ibm 7094 machine language, 
+*********************************************************************
+Document:CACM-2767
+
+a comparison OF simulation event list ALGORITHMS 
+four ALGORITHMS are considered which can be used 
+simulation system. two OF the ALGORITHMS are new, one 
+notices, AND another uses an indexed linear list. the ALGORITHMS 
+*********************************************************************
+Document:CACM-2956
+
+over the elements OF any FINITE set (instead OF the 
+SOME ideas ON data types in high-level languages 
+a number OF issues are explored concerning the 
+*********************************************************************
+Document:CACM-2283
+
+thinning ALGORITHMS ON rectangular, hexagonal, AND triangular arrays 
+in this report three thinning ALGORITHMS are 
+development OF each ALGORITHM is the same. pictorial 
+results produced by each OF the ALGORITHMS are presented 
+*********************************************************************
+Document:CACM-0111
+
+ON programming the numerical solution OF POLYNOMIAL equations 
+the roots OF POLYNOMIAL equations. by applying 
+numerical EXAMPLES are shown to illustrate the pitfalls 
+*********************************************************************
+Document:CACM-1699
+
+information retrieval TESTING, information system 
+command language, SYMBOLIC command language, 
+experimental evaluation OF information 
+retrieval through a teletypewriter 
+*********************************************************************
+Document:CACM-1806
+
+based ON the modified method is given in ALGORITHM 
+365. SOME numerical EXAMPLES are included. 
+complex equation, ALGEBRAIC complex equation 
+ON the downhill method 
+*********************************************************************
+Document:CACM-3006
+
+anomalies WITH variable partition paging ALGORITHMS 
+AND paging ALGORITHMS, an increase in mean memory allocation 
+two paging ALGORITHMS, are examined in terms OF their 
+anomaly potential, AND reference string EXAMPLES 
+*********************************************************************
+Document:CACM-0892
+
+retrieval AND MANIPULATION OF data file records. 
+the results OF the above operations. SOME EXAMPLES OF 
+recol-a retrieval command language 
+*********************************************************************
+Document:CACM-1388
+
+automast: automatic mathematical analysis AND SYMBOLIC translation 
+generate SYMBOLIC solutions. the procedure is based 
+ON a FINITE taylor series expansion that includes 
+*********************************************************************
+Document:CACM-1948
+
+groups OF FINITE groups, character tables, AND commutator 
+symbol MANIPULATION systems. in this survey the 
+more important ALGORITHMS in use are described AND contrasted, 
+programming, symbol MANIPULATION, survey 
+*********************************************************************
+Document:CACM-0284
+
+MANIPULATION OF ALGEBRAIC expressions 
+an ALGORITHM for algebraically manipulating 
+for systems analysis problems. this ALGORITHM 
+is, by virtue OF the ALGORITHM, in a form which simplifies 
+*********************************************************************
+Document:CACM-2399
+
+a test-editing AND MANIPULATION program is described. 
+a crt editing system 
+the program operates from low-cost cathode-ray 
+*********************************************************************
+Document:CACM-1391
+
+computer experiments in FINITE algebra 
+OF the objects OF modern algebra: FINITE groups, maps 
+a medium-scale programming system is written 
+*********************************************************************
+Document:CACM-0644
+
+a string language for symbol MANIPULATION based ON algol 60 
+is proposed for describing the MANIPULATION OF 
+language is followed by EXAMPLES, a description OF 
+*********************************************************************
+Document:CACM-1644
+
+OF a least squares POLYNOMIAL makes the 
+computed POLYNOMIAL only an approximation to the true least 
+square POLYNOMIAL. a simple method for adjust ing 
+the constant term OF the computed POLYNOMIAL to get 
+*********************************************************************
+Document:CACM-1154
+
+than FINITE automata AND less powerful than general 
+digital computers as either the FINITE automata or the 
+OF memory available in the same manner. EXAMPLES 
+multi-tape AND infinite-state automata -- a survey 
+*********************************************************************
+Document:CACM-2385
+
+zeros OF a complex POLYNOMIAL [c2] (ALGORITHM a419) 
+roots, roots OF a POLYNOMIAL, zeros OF a POLYNOMIAL 
+cacm february, 1972 
+*********************************************************************
+Document:CACM-1628
+
+toward a distinct professional FIELD, but that the 
+the emergence OF a profession 
+computer programming deals WITH an enormous 
+*********************************************************************
+Document:CACM-1049
+
+boundary problems by FINITE difference methods 
+these fail, the more difficult method OF FINITE differences 
+this paper gives EXAMPLES AND discusses the FINITE difference 
+numerical solution OF nonlinear two-point 
+*********************************************************************
+Document:CACM-1334
+
+fortran, using simple array MANIPULATION techniques 
+to perform the ALGEBRAIC operations. formulas for over 
+mechanization OF tedious algebra: the 
+newcomb operators OF planetary theory 
+*********************************************************************
+Document:CACM-1664
+
+mathematical physics by SYMBOLIC MANIPULATION 
+systems, fortran, SYMBOLIC MANIPULATION 
+an ALGORITHM for deriving the equations OF 
+*********************************************************************
+Document:CACM-2094
+
+ON an ALGORITHM for nonlinear minimax approximation 
+d by properties which permit the application OF special ALGORITHMS, 
+mainly based ON the exchange ALGORITHMS OF remes (1934, 1935), for 
+type OF a general nonlinear ALGORITHM due to osborne AND watson 
+*********************************************************************
+Document:CACM-3189
+
+an ALGEBRAIC compiler for the fortran assembly program 
+an ALGEBRAIC compiler has been written which may be added to the fortran 
+assembly program. this compiler will expand all ALGEBRAIC statements WITH the 
+*********************************************************************
+Document:CACM-2273
+
+two ALGORITHMS for generating computer programs 
+from decision tables are described. the ALGORITHMS 
+entry tables. the ALGORITHMS are based ON the 
+by instantly marking rules which are not applicable (ALGORITHMS 
+*********************************************************************
+Document:CACM-1253
+
+simscript AND programmed entirely in an ALGEBRAIC 
+to the reader familiar WITH ALGEBRAIC languages. 
+quikscript-a simscript- like language for the g-20 
+*********************************************************************
+Document:CACM-1946
+
+resultant ALGORITHM, g.c.d. ALGORITHM, POLYNOMIAL 
+ALGORITHM, multivariate POLYNOMIAL equations 
+computing POLYNOMIAL resultants: bezout's determinant 
+vs. collins' reduced p. ALGORITHM 
+*********************************************************************
+Document:CACM-2199
+
+a sparse matrix package (part i) [f4] (ALGORITHM 408) 
+matrix, sparse matrix, matrix MANIPULATION 
+cacm april, 1971 
+*********************************************************************
+Document:CACM-2410
+
+converting a POLYNOMIAL pn(x) into a chebyshev 
+for summing any FINITE series whose terms satisfy 
+a recurrence scheme for converting from 
+one orthogonal expansion into another 
+*********************************************************************
+Document:CACM-1589
+
+dialog is an ALGEBRAIC language for online 
+dialog: a conversational programming system WITH a graphical orientation 
+use WITH a graphical input-output console device. 
+*********************************************************************
+Document:CACM-1543
+
+do non-numeric work, that is, SYMBOLIC ALGEBRAIC MANIPULATION 
+SYMBOLIC mathematical computation, a method has been 
+computer formulation OF the equations OF motion using tensor notation 
+*********************************************************************
+Document:CACM-2325
+
+OF computation, ALGORITHMS, continuous ALGORITHMS 
+OF continuous ALGORITHMS. four OF the components 
+(FINITE precision number systems, computational 
+complexity), synthesis AND analysis OF ALGORITHMS, 
+*********************************************************************
+Document:CACM-2304
+
+FIELD have tended to be impersonal, WITH heavy 
+a western view OF computer history 
+many u. histories OF the digital computer 
+*********************************************************************
+Document:CACM-3131
+
+ALGORITHMS ESPECIALLY useful for microcomputer control AND other 
+speed WITH hardware arithmetic for many applications. ALGORITHMS 
+focus microcomputer number system 
+*********************************************************************
+Document:CACM-2884
+
+permutation enumeration: four new permutation ALGORITHMS 
+classical permutation enumeration ALGORITHMS encounter 
+ON n marks. four new ALGORITHMS have the attribute 
+two OF the ALGORITHMS produce the next permutation 
+*********************************************************************
+Document:CACM-1387
+
+solution OF systems OF POLYNOMIAL equations by elimination 
+in solving systems OF POLYNOMIAL equations. it is found 
+SYMBOLIC integration AND simplification. 
+*********************************************************************
+Document:CACM-2268
+
+(both POLYNOMIAL AND rational). the TESTING 
+a comparative study OF computer programs 
+for integrating differential equations 
+*********************************************************************
+Document:CACM-1595
+
+ON the computer enumeration OF FINITE topologies 
+which can be formed from a FINITE point 
+leading to an ALGORITHM for enumerating FINITE topologies, 
+*********************************************************************
+Document:CACM-2959
+
+the user OF sba views his application as MANIPULATION 
+he can gradually automate this application by giving "EXAMPLES" 
+the system for business automation (sba): programming language 
+*********************************************************************
+Document:CACM-0319
+
+to the "euler POLYNOMIAL" AND shows how a number OF known 
+ON a class OF iteration formulas AND SOME historical notes 
+the class OF iteration formulas obtainable 
+*********************************************************************
+Document:CACM-2096
+
+ON computer experiments in the artificial intelligence FIELD, these experiments 
+experiments WITH the m & n tree-searching program 
+the m & n procedure is an improvement to the mini-max 
+*********************************************************************
+Document:CACM-1706
+
+champ-character MANIPULATION procedures 
+MANIPULATION is described. string procedures 
+procedures so that numeric AND SYMBOLIC processes may 
+symbol MANIPULATION, string handling, character 
+*********************************************************************
+Document:CACM-2958
+
+the application OF an ALGEBRAIC technique 
+the EXAMPLES presented is a top-down development 
+involved in constructing ALGEBRAIC specifications 
+abstract data types AND the development OF data structures 
+*********************************************************************
+Document:CACM-2719
+
+generating functions, list processing, lisp, ALGEBRAIC 
+MANIPULATION, programming languages, analysis 
+OF ALGORITHMS 
+mechanical program analysis 
+*********************************************************************
+Document:CACM-2997
+
+convex hulls OF FINITE sets OF poin ts in two AND three dimensions 
+AND three dimensions can be determined WITH O(N 
+log n) operations. the presented ALGORITHMS use the "divide 
+since any convex hull ALGORITHM requires at 
+*********************************************************************
+Document:CACM-0182
+
+evaluation OF the chebyshev POLYNOMIAL tn(x) by recursion (ALGORITHM) 
+cacm june, 1960 
+galler, g. m. 
+*********************************************************************
+Document:CACM-0181
+
+evaluation OF the hermite POLYNOMIAL hn(x) by recursion (ALGORITHM) 
+cacm june, 1960 
+galler, g. m. 
+*********************************************************************
+Document:CACM-0180
+
+evaluation OF the laguerre POLYNOMIAL ln(x) by recursion (ALGORITHM) 
+cacm june, 1960 
+galler, g. m. 
+*********************************************************************

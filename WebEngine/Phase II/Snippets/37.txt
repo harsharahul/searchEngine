@@ -1,0 +1,628 @@
+Query:articles describing the relationship between data types and concurrency eg what is the type of a process  when is a synchronization attempt  between two processes type correct  in a message-passing system is there any notion of the types of messages--ie any way to check that the sender of the message and the receiver are both treating the bit stream as some particular type
+
+Document:CACM-2244
+
+product TYPE trapezoidal integration (algorithm a436) 
+numerical integration, product TYPE quadrature, trapezoidal integration 
+cacm december, 1972 
+*********************************************************************
+Document:CACM-2243
+
+product TYPE simpson's integration [d1] (algorithm a437) 
+numerical integration, product TYPE quadrature, simpson's rule 
+cacm december, 1972 
+*********************************************************************
+Document:CACM-2242
+
+product TYPE two-point gauss-legendre-simpson's 
+numerical integration, product TYPE quadrature, 
+integration [d1] (algorithm a438) 
+*********************************************************************
+Document:CACM-2241
+
+product TYPE three-point gauss-legendre-simpson's 
+numerical integration, product TYPE quadrature, 
+integration [d1] (algorithm a439) 
+*********************************************************************
+Document:CACM-2651
+
+programmer-defined DATA TYPES DATA TYPES AND generic 
+DATA TYPE definition, DATA description language, compilation 
+THE treatment OF DATA TYPES IN el1 
+set OF DATA TYPES AND associated operations IN A manner 
+*********************************************************************
+Document:CACM-2957
+
+DATA abstraction, relational database, DATA TYPE, 
+world. aggregation transforms A RELATIONSHIP BETWEEN 
+objects into A higher-level object. A new DATA 
+TYPE, called aggregation, IS developed which, under 
+*********************************************************************
+Document:CACM-2265
+
+THE NOTION OF TYPE checking AND presents A partial 
+problems faced for ANY NOTION OF TYPE checking 
+TYPE checking, TYPES, lambda calculus, models for 
+A model for TYPE checking 
+*********************************************************************
+Document:CACM-0618
+
+man-man-machine PROCESSES ARE characterized IN five 
+main TYPES, AND THE markets for each TYPE ARE 
+computers- THE key TO total systems control: an industrial viewpoint 
+*********************************************************************
+Document:CACM-3105
+
+abstract DATA TYPES, TYPE checking, capabilities 
+programming languages, access control, DATA TYPES, 
+A language extension for expressing constraints on DATA access 
+expression OF access constraints on shared DATA. 
+*********************************************************************
+Document:CACM-2956
+
+SOME ideas on DATA TYPES IN high-level languages 
+THE domain OF an array AS A DATA TYPE, THE need for 
+DATA TYPES, generic procedures, programming languages 
+NOTION THAT A DATA TYPE IS A set OF values together 
+*********************************************************************
+Document:CACM-2558
+
+type-tagging schemes ARE considered. an ATTEMPT 
+protection, TYPES, environments,trademarks, seals, 
+protection IN programming languages 
+*********************************************************************
+Document:CACM-2941
+
+TYPES AND TYPE coercions, THE benefits OF THE TYPE SYSTEM 
+THE specific topics addressed ARE: module structure 
+programming languages, TYPES, modules, 
+DATA structures, systems programming 
+*********************************************************************
+Document:CACM-3031
+
+DATA TYPE, DATA structure, specification 
+abstract DATA TYPES AND software validation 
+formal specification OF A DATA TYPE. an example 
+OF an abstract DATA TYPE. second, semi-automatic 
+*********************************************************************
+Document:CACM-2815
+
+complex DATA TYPES IN separately compiled modules. 
+high-level binding with low-level linkers 
+an easy TO implement scheme IS described by 
+*********************************************************************
+Document:CACM-2632
+
+hydra: THE kernel OF A multiprocessor operating SYSTEM 
+hydra-the kernel OF an operating SYSTEM for c.mmp, 
+generalized NOTION OF "resource", BOTH physical AND virtual, 
+TYPES, specification OF new operations applicable 
+*********************************************************************
+Document:CACM-3103
+
+DATA TYPES such AS sets AND lists, programmer 
+abstract DATA TYPES, automatic programming, DATA 
+automatic DATA structure selection: an example AND overview 
+time can be saved by automating THE PROCESS OF filling 
+*********************************************************************
+Document:CACM-0033
+
+A programmed binary counter for THE ibm TYPE 650 calculator 
+hunter, j. A. 
+cacm january, 1958 
+*********************************************************************
+Document:CACM-2341
+
+blocks-a new DATA TYPE for snobol4 
+A new DATA TYPE, called A block, has been implemented 
+snobol4, DATA TYPES, two-dimensional mathematics, test processing, flowcharting 
+extension TO A string. (THE third dimension IS used for 
+*********************************************************************
+Document:CACM-2060
+
+language IS permissible IN ANY other meaningful context. IN PARTICULAR, 
+BETWEEN SOME reference AND its value, (3) all compound DATA 
+structures ARE treated AS functions. (4) TYPE declarations ARE 
+not permitted. THE functional approach TO DATA structures AND THE 
+*********************************************************************
+Document:CACM-0785
+
+conversions BETWEEN calendar date AND julian day number (algorithm 199) 
+cacm august, 1963 
+tantzen, r. g. 
+*********************************************************************
+Document:CACM-3142
+
+end targets OF A computerized PROCESS IS assessed. how many AND 
+WHAT TYPE OF errors occur? how easily ARE they corrected? WHAT 
+IS THE reaction OF consumers TO errors-to A failure TO CORRECT 
+from such DATA? results show THAT with THE present state OF THE 
+*********************************************************************
+Document:CACM-0906
+
+combination IN ANY order (algorithm 155) 
+cacm march, 1963 
+mifsud, c. j. 
+*********************************************************************
+Document:CACM-0770
+
+combination IN ANY order (algorithm 155) 
+cacm august, 1963 
+bosworth, k. m. 
+*********************************************************************
+Document:CACM-0560
+
+communication BETWEEN independently translated blocks 
+cacm july, 1962 
+wegner, p. 
+*********************************************************************
+Document:CACM-0183
+
+conversion BETWEEN floating point representations 
+cacm june, 1960 
+perry, c. 
+*********************************************************************
+Document:CACM-1426
+
+maintaining A reasonably full hospital. THERE TYPES OF 
+discharge rates. THE last TYPE policy produced more stable 
+A simulation OF hospital admission policy 
+*********************************************************************
+Document:CACM-0977
+
+conversions BETWEEN calendar date AND 
+julian day number (algorithm 199 [z]) 
+cacm november, 1964 
+*********************************************************************
+Document:CACM-2912
+
+THE problem OF sharing DATA among asynchronous 
+PROCESS IS considered. it IS assumed THAT only 
+TWO techniques for transmitting messages BETWEEN PROCESSES. 
+mechanism other than DATA which can be written 
+*********************************************************************
+Document:CACM-1096
+
+on avoiding matrix reversals BETWEEN 7090 fortran ii AND 7090 fortran iv 
+cacm april, 1964 
+stevens, d. 
+*********************************************************************
+Document:CACM-1152
+
+presented which IS not limited TO THE size or TYPE 
+floating-point arithmetic with 84-bit numbers 
+A classic AND straightforward technique IS 
+*********************************************************************
+Document:CACM-1181
+
+A simple DATA transmission SYSTEM using THE office telephone 
+A method has evolved for transmitting DATA OF 
+A TYPE originating IN many laboratory situation 
+*********************************************************************
+Document:CACM-0265
+
+coded programs, TO deal with "special arithmetic" (E.G. 
+BIT manipulation AND expanded character set input-output, AND visual display. 
+low level language subroutines for use within fortran 
+*********************************************************************
+Document:CACM-1398
+
+robot DATA screening: A solution TO multivariate 
+TYPE problems IN THE biological AND social sciences 
+OF THE TYPE OF multivariate problem THAT IS 
+termination OF THE searching PROCESS ARE derived 
+*********************************************************************
+Document:CACM-1626
+
+structure OF A lisp SYSTEM using two-level storage 
+IN an ideal list-processing SYSTEM THERE would 
+be enough core memory TO contain all THE DATA 
+SYSTEM utilizing A drum for its principal storage medium, 
+*********************************************************************
+Document:CACM-1489
+
+DATA, documentation AND decision tables 
+IN business DATA processing systems, it IS 
+necessary TO be able TO define AND document DATA, 
+make an unfamiliar SYSTEM manageable, A detailed 
+*********************************************************************
+Document:CACM-2084
+
+maurer, h. A. 
+chomsky-language, phrase structure language, production SYSTEM, 
+TYPE 2 language, bounded language 
+A note on THE complement OF inherently ambiguous context-free languages 
+*********************************************************************
+Document:CACM-2394
+
+function, binary SYSTEM, chebyshev zeros, square rots, continued fractions 
+ordering +-f(+-f(+-f(...+-f(x)..))) WHEN f(x) IS positive monotonic 
+cacm january, 1972 
+*********************************************************************
+Document:CACM-1097
+
+an algorithm for converting integers from base A TO base b 
+A little known, simple algorithm for integer 
+conversion BETWEEN number systems IS presented 
+*********************************************************************
+Document:CACM-1244
+
+BIT manipulation IN fortran language 
+cacm june, 1965 
+tobey, g. d. 
+*********************************************************************
+Document:CACM-1121
+
+comments on "A continued operation notation"* 
+this note IS intended TO clarify AND CORRECT 
+several points IN A recent paper DESCRIBING SOME 
+sambles, A. w. 
+*********************************************************************
+Document:CACM-1303
+
+A correspondence BETWEEN algol 60 AND church's lambda-notation: part ii* 
+cacm march, 1965 
+landin, p. j. 
+*********************************************************************
+Document:CACM-0676
+
+on THE computation OF A certain TYPE OF incompletebeta functions 
+cacm november, 1963 
+tang, i. c. 
+*********************************************************************
+Document:CACM-2560
+
+multiprogrammed computer SYSTEM, storage SYSTEM, hierarchical index sets 
+computer with A two-level storage SYSTEM 
+by multiprogramming IN THE presence OF this TYPE OF storage SYSTEM. 
+SYSTEM with A two-level storage SYSTEM IN which THERE 
+*********************************************************************
+Document:CACM-1200
+
+THAT using this concept A number OF new subroutine TYPES 
+on reversible subroutines AND computers THAT run backwards 
+A computer design IS describe which permits 
+*********************************************************************
+Document:CACM-2476
+
+hall, p. A. v. 
+equivalence BETWEEN and/or graphs AND context-free grammars 
+cacm july, 1973 
+*********************************************************************
+Document:CACM-3006
+
+five TYPES OF anomalous behavior which may 
+A redefined. one TYPE OF anomaly, for example, concerns 
+THE fact THAT, with certain reference strings 
+anomalies with variable partition paging algorithms 
+*********************************************************************
+Document:CACM-0024
+
+an improved decimal redundancy CHECK 
+cacm may, 1958 
+sisson, r. l. 
+*********************************************************************
+Document:CACM-1923
+
+an approach TO SYSTEM interfaces for high 
+pseudofiles 
+level languages using basic input/output support 
+*********************************************************************
+Document:CACM-0867
+
+over certain TYPES OF subareas OF THE (x,y)-space. 
+for ANY TYPE OF closed area. finally, applications 
+least squares fitting OF planes TO surfaces using dynamic programming 
+*********************************************************************
+Document:CACM-2184
+
+function BETWEEN THE DATA names OF A programming 
+language AND THE file names OF an operating SYSTEM. 
+AND A storable object OF TYPE context. manipulations 
+fraser, A. g. 
+*********************************************************************
+Document:CACM-1655
+
+shift out, shift IN, escape, DATA link 
+code extension, code table, BIT pattern 
+code extension procedures for information 
+interchange* (proposed usa standard) 
+*********************************************************************
+Document:CACM-0195
+
+WHAT IS A code? 
+cacm may, 1960 
+patterson, g. w. 
+*********************************************************************
+Document:CACM-0005
+
+TWO square-root approximations 
+cacm november, 1958 
+wadey, w. g. 
+*********************************************************************
+Document:CACM-0483
+
+OF THE TYPE used ARE sufficient TO define 
+on THE nonexistence OF A phrase structure grammar for algol 60 
+algol 60 IS defined partly by formal mechanisms 
+*********************************************************************
+Document:CACM-1736
+
+MESSAGE format, DATA transmission, MESSAGE headings 
+heading format for DATA transmission (A usaai tutorial -- standards) 
+DATA transmission heading format, heading format, 
+*********************************************************************
+Document:CACM-0129
+
+rootfinder ii (algorithm 15) 
+cacm november, 1960 
+forsythe, g. e. 
+*********************************************************************
+Document:CACM-1104
+
+an undergraduate curriculum IN numerical analysis 
+cacm april, 1964 
+forsythe, g. e. 
+*********************************************************************
+Document:CACM-0152
+
+crout with pivoting (algorithm 16) 
+cacm september, 1960 
+forsythe, g. e. 
+*********************************************************************
+Document:CACM-0140
+
+crout with pivoting (algorithm 16) 
+cacm october, 1960 
+forsythe, g. e. 
+*********************************************************************
+Document:CACM-2333
+
+random vectors uniform IS solid angle (algorithm r381) 
+cacm june, 1972 
+schrack, g. f. 
+*********************************************************************
+Document:CACM-0612
+
+permute (algorithm 86) 
+cacm april, 1962 
+peck, j. e. l. 
+*********************************************************************
+Document:CACM-0608
+
+permutation (algorithm 71) 
+cacm april, 1962 
+peck, j. e. l. 
+*********************************************************************
+Document:CACM-2214
+
+complex interval arithmetic 
+complex interval arithmetic IS defined using 
+real interval arithmetic. complex interval division 
+*********************************************************************
+Document:CACM-2743
+
+merge sorting, computational complexity, DATA 
+sorting x + y 
+cacm june, 1975 
+*********************************************************************
+Document:CACM-0197
+
+an imaginary number SYSTEM 
+cacm april, 1960 
+knuth, d. e. 
+*********************************************************************
+Document:CACM-2573
+
+computer programming AS an art 
+cacm december, 1974 
+knuth, d. e. 
+*********************************************************************
+Document:CACM-1880
+
+linear SYSTEM (algorithm 328 [f4]) 
+chebyshev solution TO an overdetermined 
+cacm june, 1969 
+*********************************************************************
+Document:CACM-1734
+
+linear SYSTEM (algorithm 328 [f4]) 
+chebyshev solution TO an overdetermined 
+cacm june, 1968 
+*********************************************************************
+Document:CACM-2850
+
+TO A program (E.G. numbers) one supplies symbols representing 
+OF conditional branch TYPE statements. A 
+PARTICULAR SYSTEM called effigy which provides symbolic 
+verifier. A brief discussion OF THE RELATIONSHIP 
+*********************************************************************
+Document:CACM-2023
+
+DATA base, SYNCHRONIZATION, locking, deadlock, reference count 
+A note on DATA base deadlocks 
+cacm july, 1970 
+*********************************************************************
+Document:CACM-2192
+
+another recursion induction principle 
+an inductive method for proving things about 
+recursively defined functions IS described. it 
+*********************************************************************
+Document:CACM-1907
+
+same TYPE, which has recently been described IN 
+bartlett, k. A. 
+scantlebury, r. A. 
+DATA transmission, error correction, full-duplex, 
+*********************************************************************
+Document:CACM-0041
+
+SOME notes on computer research IN eastern europe 
+cacm december, 1959 
+nadler, m. 
+*********************************************************************
+Document:CACM-0235
+
+TWO think pieces 
+cacm january, 1960 
+bagley, p. r. 
+*********************************************************************
+Document:CACM-2975
+
+remark on uniform insertion IN structured DATA structures 
+DATA structures, directed graphs, uniform insertion 
+cacm april, 1977 
+*********************************************************************
+Document:CACM-1153
+
+bray, t. A. 
+A fast procedure for generating normal random variables* 
+A technique for generating normally distributed 
+*********************************************************************
+Document:CACM-1757
+
+DATA code for calendar date for machine-to-machine 
+DATA interchange* (proposed usa standard) 
+usa standard, DATA code, calendar date, machine-to-machine 
+DATA interchange, recording calendar 
+*********************************************************************
+Document:CACM-2677
+
+incomplete beta ratio (algorithm r179) 
+cacm march, 1974 
+bosten, n. e. 
+*********************************************************************
+Document:CACM-1965
+
+correction TO "logical" arithmetic on computers 
+with two's complement binary arithmetic 
+cacm november, 1970 
+*********************************************************************
+Document:CACM-0141
+
+SOME thoughts on parallel processing 
+cacm october, 1960 
+yarbrough, l. d. 
+*********************************************************************
+Document:CACM-0393
+
+TWO subroutines for symbol manipulation with an algebraic compiler 
+cacm february, 1961 
+carr iii, j. w. 
+*********************************************************************
+Document:CACM-2527
+
+TYPE TO another, checks subscripts, AND automatically 
+detects many TYPES OF programmer errors. 
+hassitt, A. 
+implementation OF high level language machine 
+*********************************************************************
+Document:CACM-3106
+
+OF list cells into nine TYPES, which enables processing 
+operations TO be optimized for each TYPE. 
+A fast algorithm for copying list structures 
+*********************************************************************
+Document:CACM-1138
+
+formalism IN programming languages* 
+cacm february, 1964 
+iverson, k. e. 
+*********************************************************************
+Document:CACM-1312
+
+recursion AND iteration 
+cacm february, 1965 
+rice, h. g. 
+*********************************************************************
+Document:CACM-1140
+
+"structural connections" IN formal language* 
+cacm february, 1964 
+irons, e. t. 
+*********************************************************************
+Document:CACM-0273
+
+experience IN automatic storage allocation 
+cacm october, 1961 
+collins jr., g. o. 
+*********************************************************************
+Document:CACM-0945
+
+arithmetizing declarations: an application TO cobol 
+cacm january, 1963 
+conway, m. e. 
+*********************************************************************
+Document:CACM-0047
+
+russian visit TO u. computers 
+cacm november, 1959 
+zaitzeff, e. m. 
+*********************************************************************
+Document:CACM-0672
+
+recent developments affecting adp IN tax administration 
+cacm december, 1963 
+leibowitz, g. j. 
+*********************************************************************
+Document:CACM-1367
+
+for parallel-by-bit DATA communication IN ascii* 
+character structure AND character parity sense 
+(proposed american standard) 
+*********************************************************************
+Document:CACM-0571
+
+permutation IN lexicographical order (algorithm 102) 
+cacm june, 1962 
+schrack, g. f. 
+*********************************************************************
+Document:CACM-0108
+
+programmed error correction IN project mercury 
+cacm december, 1960 
+dimsdale, b. 
+*********************************************************************
+Document:CACM-0775
+
+interpolation, differentiation, AND integration (algorithm 77) 
+cacm august, 1963 
+hennion, p. e. 
+*********************************************************************
+Document:CACM-0684
+
+interpolation, differentiation, AND integration (algorithm 77) 
+cacm november, 1963 
+hennion, p. e. 
+*********************************************************************
+Document:CACM-0641
+
+interpolation, differentiation, AND integration (algorithm 77) 
+cacm february, 1962 
+hennion, p. e. 
+*********************************************************************
+Document:CACM-2660
+
+addendum TO m. l. patrick paper 
+cacm april, 1974 
+simmons, g. c. 
+*********************************************************************
+Document:CACM-0474
+
+input DATA organization IN fortran 
+cacm october, 1962 
+yarbrough, l. 
+*********************************************************************
+Document:CACM-0168
+
+multiprogram scheduling parts 3 AND 4 scheduling 
+algorithm AND external constraints 
+cacm july, 1960 
+*********************************************************************
+Document:CACM-2417
+
+four combinatorial algorithms [g6] (algorithm a466) 
+cacm november, 1973 
+ehrlich, g. 
+*********************************************************************

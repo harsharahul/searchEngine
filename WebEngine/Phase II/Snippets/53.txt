@@ -1,0 +1,646 @@
+Query:mathematical induction group theory integers modulo m probability binomial coefficients binomial theorem homomorphism morphism transitivity relations relation matrix       syracuse university 313 link hall syracuse n 13210
+
+Document:CACM-0569
+
+BINOMIAL COEFFICIENTS (algorithm 19) 
+cacm june, 1962 
+steck, b. 
+*********************************************************************
+Document:CACM-0514
+
+BINOMIAL COEFFICIENTS (algorithm 19) 
+cacm august, 1962 
+george, r. 
+*********************************************************************
+Document:CACM-0139
+
+BINOMIAL COEFFICIENTS (algorithm 19) 
+cacm october, 1960 
+kenyon, r. r. 
+*********************************************************************
+Document:CACM-2391
+
+synthetic division, BINOMIAL COEFFICIENTS 
+unitary symmetric polynomials [z] (algorithm r391) 
+cacm january, 1972 
+*********************************************************************
+Document:CACM-1186
+
+computing BINOMIAL COEFFICIENTS. several specific 
+recursive solution of a class of combinatorial problems: an example 
+combinatorial problems requiring the selection 
+*********************************************************************
+Document:CACM-2229
+
+approaches: the BINOMIAL THEOREM and the iteration 
+BINOMIAL THEOREM, newton iterations, chebyshev 
+construction of rational and negative powers of a formal series 
+*********************************************************************
+Document:CACM-0679
+
+the BINOMIAL COEFFICIENTS. in the area of logical control 
+wells, M. b. 
+recent improvements in madcap 
+*********************************************************************
+Document:CACM-2986
+
+operations on sparse RELATIONS 
+various computations on RELATIONS, boolean matrices, 
+of precedence RELATIONS for a context-free grammar, can be 
+RELATIONS in o(n^2) steps is shown, as well as how to 
+*********************************************************************
+Document:CACM-2210
+
+recursion, the principle of MATHEMATICAL INDUCTION 
+program synthesis, MATHEMATICAL INDUCTION 
+a program satisfying certain specifications a THEOREM 
+must be applied. the RELATION between the version of 
+*********************************************************************
+Document:CACM-2031
+
+of storage locations are linear in N. a THEOREM of lame that gives a bound 
+algorithm and bound for the greatest common divisor of N INTEGERS 
+algorithm for finding the greatest common divisor of N INTEGERS a(i) 
+for the number of iterations of the euclidean algorithm for two INTEGERS 
+*********************************************************************
+Document:CACM-2769
+
+MATRIX, binary RELATION 
+the transitive closure of binary RELATIONS 
+closure of a binary RELATION that is represented 
+by a boolean MATRIX. the algorithm is similar to warshall's 
+*********************************************************************
+Document:CACM-1817
+
+computation of fourier COEFFICIENTS (algorithm 255 [c6]) 
+HALL, g. 
+numerical integration, fourier COEFFICIENTS, filon's method 
+*********************************************************************
+Document:CACM-2028
+
+greatest common divisor of N INTEGERS 
+number THEORY, diophantine equations 
+and multipliers $a1) (algorithm 386) 
+*********************************************************************
+Document:CACM-2981
+
+subgoal INDUCTION 
+a proof method, subgoal INDUCTION, is presented 
+use of an invariant. the RELATION between subgoal 
+INDUCTION can be viewed as a specialized form of computation 
+*********************************************************************
+Document:CACM-2416
+
+MATRIX transposition in place [f1] (algorithm a467) 
+brenner, N. 
+transposition, MATRIX operations, permutations, 
+primitive roots, number THEORY 
+*********************************************************************
+Document:CACM-0203
+
+decoding combinations of the first N INTEGERS taken k at a time 
+brown, r. M. 
+cacm april, 1960 
+*********************************************************************
+Document:CACM-1567
+
+RELATIONS are given between certain symmetric 
+polynomials in the light of the THEORY of the 
+symmetric GROUP. such an approach unifies earlier work 
+on the representation of symmetric polynomials 
+*********************************************************************
+Document:CACM-2648
+
+a design for a number THEORY package 
+a number THEORY package is described which uses 
+INTEGERS. the package has been coded in ibm's basic 
+can be used to determine the unique factorization of large INTEGERS. 
+*********************************************************************
+Document:CACM-1948
+
+computers in GROUP THEORY: a survey 
+diverse range of problems in GROUP THEORY. 
+calculus. GROUP THEORY programs range from 
+GROUP THEORY, coset enumeration, subgroup lattices, 
+*********************************************************************
+Document:CACM-2613
+
+TRANSITIVITY sets [g7] (algorithm a482) 
+TRANSITIVITY, sets 
+cacm august, 1974 
+*********************************************************************
+Document:CACM-0495
+
+MATRIX of COEFFICIENTS is required. many available procedures 
+adjustment of several parameters, the COEFFICIENTS 
+positive-definite MATRIX. in order to solve 
+for MATRIX inversion do not take advantage 
+*********************************************************************
+Document:CACM-2476
+
+HALL, p. a. v. 
+language THEORY, context-free grammars 
+equivalence between and/or graphs and context-free grammars 
+*********************************************************************
+Document:CACM-1887
+
+pentadiagonal MATRIX, quindiagonal MATRIX, quindiagonal 
+MATRIX, band MATRIX, determinant, characteristic 
+a recursive RELATION, relating leading principal 
+a pentadiagonal MATRIX. a numerical example is included 
+*********************************************************************
+Document:CACM-0717
+
+by certain n-tuples of positive INTEGERS. 
+into M or fewer sets (1 <= M <= N), and (3) all 
+partitions of the given set into exactly M sets (1 <= M <= N). 
+partitioning algorithms for finite sets 
+*********************************************************************
+Document:CACM-2327
+
+automata THEORY, brain THEORY, network complexity, 
+toward an automata THEORY of brains 
+of the brain-has been pushed aside in MATHEMATICAL 
+development of the THEORY. this paper suggests the ways 
+*********************************************************************
+Document:CACM-0248
+
+what is proprietary in MATHEMATICAL programming?-impressions 
+in MATHEMATICAL programming?" was sponsored by the 
+special interest committee on MATHEMATICAL programming 
+of the acm during a HALL of discussion/on september 
+*********************************************************************
+Document:CACM-1707
+
+HALL, c. a. 
+MATRIX, yields a positive MATRIX with a preassigned positive spectrum. 
+MATRIX to be similar to a positive MATRIX. this 
+generation of positive test matrices with known positive spectra 
+*********************************************************************
+Document:CACM-1922
+
+LINK, LINK control procedures, LINK establishment/termination 
+data LINK, data LINK control procedures, data LINK establishment/termination 
+control procedures, LINK polling/selection procedures, 
+procedures, data LINK message 
+*********************************************************************
+Document:CACM-0852
+
+HALL, M. h. 
+a method of comparing the time requirements of sorting methods 
+cacm may, 1963 
+*********************************************************************
+Document:CACM-3037
+
+primes between 2 and N. the algorithm executes 
+of INTEGERS not larger than N can be performed 
+factorization of all INTEGERS between 2 and N in time proportional to N. 
+a linear sieve algorithm for finding prime numbers 
+*********************************************************************
+Document:CACM-3010
+
+value ratings of 313 students at the UNIVERSITY of minnesota 
+value orientation of computer science students 
+technological and nontechnological value orientations 
+*********************************************************************
+Document:CACM-0373
+
+correlation COEFFICIENTS with MATRIX multiplication (algorithm 39) 
+cacm march, 1961 
+sassouni, p. 
+*********************************************************************
+Document:CACM-1914
+
+programming, MATRIX condition, MATRIX scaling 
+MATRIX scaling by integer programming (algorithm 348 [f1]) 
+integer programming, linear algebra, MATHEMATICAL 
+*********************************************************************
+Document:CACM-0241
+
+machine calculation of moments of a PROBABILITY distribution 
+machine of the moments of a PROBABILITY distribution, 
+method (where N is the number of entries in the PROBABILITY 
+*********************************************************************
+Document:CACM-0382
+
+statistical programs at the UNIVERSITY of north carolina 
+bush, N. 
+cacm february, 1961 
+*********************************************************************
+Document:CACM-1521
+
+multi-dimensional partition generator (algorithm 313 [a1]) 
+cacm october, 1967 
+bratley, p. 
+*********************************************************************
+Document:CACM-0269
+
+core allocation based on PROBABILITY 
+riskin, b. N. 
+cacm october, 1961 
+*********************************************************************
+Document:CACM-1694
+
+an algorithm for the PROBABILITY of 
+the PROBABILITY for the union of N independent 
+algorithm, PROBABILITY, optimum, storage vs. time 
+the union of a large number of events 
+*********************************************************************
+Document:CACM-2326
+
+fix point approach to the THEORY of computation 
+following the fix point THEORY of scott, the 
+computational INDUCTION 
+*********************************************************************
+Document:CACM-2446
+
+analysis of skew representations of the symmetric GROUP (algorithm a455) 
+williams, j. M. 
+symmetric GROUP, skew representation, partition, 
+*********************************************************************
+Document:CACM-1609
+
+scheduling UNIVERSITY course examinations by computer 
+each GROUP at a different period a minimal 
+HALL jr., a. d. 
+*********************************************************************
+Document:CACM-2520
+
+greatest common divisor of N INTEGERS and multipliers (algorithm c386) 
+cacm april, 1973 
+ragland, l. c. 
+*********************************************************************
+Document:CACM-0725
+
+GROUP participation computer demonstration 
+mccormick, e. M. 
+cacm october, 1963 
+*********************************************************************
+Document:CACM-1423
+
+a simple algorithm for computing the generalized inverse of a MATRIX 
+the generalized inverse of a MATRIX is important 
+N MATRIX a, including the special case when m+n and a 
+= N. in the first case the algorithm gives the ordinary 
+*********************************************************************
+Document:CACM-0453
+
+enlargement of a GROUP (algorithm 136) 
+wells, M. 
+cacm november, 1962 
+*********************************************************************
+Document:CACM-2149
+
+taylor COEFFICIENTS of an analytic function [c5] 
+lyness, j. N. 
+taylor COEFFICIENTS, taylor series, cauchy integral, 
+entcaf and entcre: evaluation of normalized 
+*********************************************************************
+Document:CACM-2457
+
+INDUCTION, structural INDUCTION 
+powerful inductive methods computational INDUCTION 
+and structural INDUCTION, including examples of their applications. 
+inductive methodsfor proving properties of programs 
+*********************************************************************
+Document:CACM-0727
+
+and MATHEMATICAL THEORY are suppliedxtension of the 
+yohe, M. 
+on the approximate solution of delta(u)=f(u) 
+*********************************************************************
+Document:CACM-1870
+
+INTEGERS may be used to construct binary 
+"numbers" in which the PROBABILITY that each bit in the 
+some techniques for using pseudorandom numbers in computer simulation 
+*********************************************************************
+Document:CACM-3156
+
+of a symmetric boolean MATRIX. we assume that the processors have 
+graph THEORY, parallel processing, algorithms, 
+computing connected components on parallel computers 
+*********************************************************************
+Document:CACM-2953
+
+INDUCTION 
+notes on recursion elimination 
+various methods of recursion elimination are 
+*********************************************************************
+Document:CACM-1933
+
+number generator MODULO 2**31 - 1, a prime mersenne 
+uniform PROBABILITY density, uniform frequency 
+coding the lehmer pseudo-random number generator 
+*********************************************************************
+Document:CACM-1836
+
+the precedence RELATIONS of a precedence grammar can 
+functions when given the precedence MATRIX; this algorithm 
+parsing, transition MATRIX, precedence 
+ca691010 jb february 15, 1978 3:13 pm 
+*********************************************************************
+Document:CACM-2096
+
+the M (N) highest (lowest) valued successors. an M & N procedure was 
+lisp, kalah, game playing, decision THEORY, 
+experiments with the M & N tree-searching program 
+*********************************************************************
+Document:CACM-1308
+
+a MATHEMATICAL model for mechanical part description 
+the flexibility of a MATHEMATICAL model takes 
+output desired. one approach to the MATHEMATICAL 
+model consists of a GROUP of surface-defining quadric 
+*********************************************************************
+Document:CACM-2192
+
+another recursion INDUCTION principle 
+recursion, INDUCTION, correctness, proofs, compiler correctness 
+an inductive method for proving things about 
+*********************************************************************
+Document:CACM-2032
+
+and their RELATION to trees studied in the past is explainedesults for the 
+PROBABILITY distributions of path lengths are derived and illustrated. 
+file structures using hashing functions 
+*********************************************************************
+Document:CACM-1935
+
+a MATHEMATICAL model is developed for the mean 
+binary pattern, file examination, graph THEORY, information 
+retrieval, MATHEMATICAL model, partitioning, 
+randomized binary search technique 
+*********************************************************************
+Document:CACM-1691
+
+hutchinson states that the "new" (prime MODULO) 
+shift-register generators, linear recurrence MODULO 
+MODULO two, congruential generators, prime numbers, 
+a comparison of the correlational behavior 
+*********************************************************************
+Document:CACM-2695
+
+tridiagonalizing a MATRIX by similarity transformations 
+N x N MATRIX and determines whether or not it 
+of increments are linear in N. this compares 
+if the MATRIX is permutable into tridiagonal form, 
+*********************************************************************
+Document:CACM-2169
+
+with integer COEFFICIENTS. it has been designed and 
+HALL jr., a. d. 
+the altran system for rational function manipulation-a survey 
+*********************************************************************
+Document:CACM-0503
+
+rational roots of polynomials with integer COEFFICIENTS (algorithm 78) 
+collison, d. M. 
+cacm august, 1962 
+*********************************************************************
+Document:CACM-2806
+
+of a square MATRIX, both related to hadamard's 
+determinant THEOREM, which have some merits as alternatives 
+two hadamard numbers for matrices 
+*********************************************************************
+Document:CACM-2834
+
+taken k at a time, the compositions of INTEGERS, and 
+reingold, e. M. 
+efficient generation of the binary 
+reflected gray code and its applications 
+*********************************************************************
+Document:CACM-1403
+
+positive INTEGERS 
+INTEGERS. the method is easily extended to include 
+a method for finding the M smallest values of 
+a monotonic function defined on ordered sets of 
+*********************************************************************
+Document:CACM-2346
+
+information THEORY, coding THEORY, hu-tucker 
+yohe, j. M. 
+hu-tucker minimum redundancy alphabetic 
+coding method [z] (algorithm a428) 
+*********************************************************************
+Document:CACM-2842
+
+and the underlying MATHEMATICAL THEORY of computation 
+THEORY of programming language semantics developed 
+by d. scott and c. strachey. the application of the THEORY 
+environment, store, continuation, THEORY 
+*********************************************************************
+Document:CACM-2199
+
+MATRIX, sparse MATRIX, MATRIX manipulation 
+a sparse MATRIX package (part i) [f4] (algorithm 408) 
+mcnamee, j. M. 
+*********************************************************************
+Document:CACM-1761
+
+o'brien, w. M. 
+chi-squared integral, PROBABILITY, special functions 
+chi-squared integral (algorithm 299 [s15]) 
+*********************************************************************
+Document:CACM-2714
+
+merging with parallel processors 
+consider two linearly ordered sets a, b, |a|=m, 
+|b|=n, m<=n, and p, p<=m, parallel processors 
+*********************************************************************
+Document:CACM-2515
+
+minimal event-node network of project precedence RELATIONS 
+RELATIONS without parallel activities is presented. a 
+RELATIONS counterexamples are given to show that the 
+lee, y. M. 
+*********************************************************************
+Document:CACM-2340
+
+a boolean MATRIX method for the computation 
+a modified version of bell's boolean MATRIX 
+functions associated with a conflict-free MATRIX of 
+precedence RELATIONS is given. this algorithm not 
+*********************************************************************
+Document:CACM-1857
+
+chase, s. M. 
+integration, fourier COEFFICIENTS, fourier series 
+filon quadrature (algorithm [d1]) 
+*********************************************************************
+Document:CACM-2405
+
+system of linear equations, almost tridiagonal MATRIX, sparse MATRIX 
+linear systems with almost tridiagonal MATRIX [f4] (algorithm a470) 
+kubicek, M. 
+*********************************************************************
+Document:CACM-2608
+
+recurrence RELATIONS for the fresnel integral and similar integrals 
+recurrence RELATIONS, fresnel integral, exponential integral 
+cacm august,1974 
+*********************************************************************
+Document:CACM-2644
+
+in automated THEOREM proving, there is a need for developing 
+THEOREM proving. this paper discusses some of the features 
+THEOREM proving, resolution, factoring, 
+a theorem-proving language for experimentation 
+*********************************************************************
+Document:CACM-2763
+
+gibbs, N. e. 
+spanning tree, vertex adjacency MATRIX 
+basic cycle generation [h] (algorithm 491) 
+*********************************************************************
+Document:CACM-2289
+
+MATRIX of a graph is easily mapped onto an array; 
+each MATRIX element is stored in one cell of the array, 
+many cases grows at a rate not exceeding log2 N, 
+levitt, k. N. 
+*********************************************************************
+Document:CACM-1501
+
+eigenvectors of a 2n x 2n MATRIX 
+certain 2n x 2n MATRIX can be obtained by use of 
+eigenvectors of the 2n x 2n MATRIX by use of 
+*********************************************************************
+Document:CACM-2794
+
+state-space, problem-reduction, and THEOREM proving-some relationships 
+by a resolution-based THEOREM prover determines whether 
+THEOREM proving, and the terminology used to refer to them, 
+problem-reduction representation, THEOREM 
+*********************************************************************
+Document:CACM-0068
+
+the role of the UNIVERSITY in computers, 
+a study was made of UNIVERSITY programs in 
+fields. UNIVERSITY policies, organization, 
+an integrated UNIVERSITY program is recommended reflecting 
+*********************************************************************
+Document:CACM-2234
+
+roots of MATRIX pencils (algorithm r405) 
+heiberger, r. M. 
+eigenvalues, MATRIX roots, pencil roots 
+*********************************************************************
+Document:CACM-2059
+
+graph operations such as node and/or LINK deletion or insertion, union, 
+operation research, network problems, control THEORY, traffic problems, etc. 
+a language for treating graphs 
+*********************************************************************
+Document:CACM-1533
+
+a marovian model of the UNIVERSITY of michigan executive system 
+a MATHEMATICAL model of a computer's executive 
+system is postulated and its parameters estimated 
+*********************************************************************
+Document:CACM-2081
+
+programming, MATRIX, MATRIX concatenation, 
+a MATRIX calculus is introduced with the intention of developing data structures 
+suitable for a high level algorithmic language for MATHEMATICAL programming. 
+of matrices) are considered, and MATRIX operators areext 
+*********************************************************************
+Document:CACM-2484
+
+binary RELATIONS, an algorithm for constructing 
+different RELATIONS and algorithms results in different 
+storage is reduced to that of defining RELATIONS 
+a basis for developing a formal THEORY on the subject. 
+*********************************************************************
+Document:CACM-3085
+
+MATRIX multiplication, MATRIX chain product 
+computation order of MATRIX chain products 
+this paper discusses the computation of MATRIX 
+an o(n) algorithm for determining a near-optimal 
+*********************************************************************
+Document:CACM-2430
+
+syslo,m. M. 
+algorithm, graph THEORY, circuit search 
+the elementary circuits of a graph [h] (algorithm a459) 
+*********************************************************************
+Document:CACM-2058
+
+in-situ transposition of a rectangular MATRIX (algorithm 380 $f1)) 
+brebner, M. a. 
+rectangular MATRIX, transpose 
+*********************************************************************
+Document:CACM-1295
+
+is represented by a LINK. a LINK is defined 
+activity is carried with its LINK. for a typical net, 
+pert time calculations without topological ordering 
+*********************************************************************
+Document:CACM-0536
+
+are bound in a RELATION with certain parameters 
+baer, r. M. 
+nonlinear regression and the solution of simultaneous equations 
+*********************************************************************
+Document:CACM-2927
+
+given an integer N, what is the computational 
+N? a modified sieve of eratosthenes using doubly linked 
+number THEORY, linked list, preprocessing, 
+some new upper bounds on the generation of prime numbers 
+*********************************************************************
+Document:CACM-1217
+
+map of partitions into INTEGERS (algorithm 264 [a1]) 
+cacm august, 1965 
+mckay, j. k. s. 
+*********************************************************************
+Document:CACM-2134
+
+algol procedure are discussed, and a RELATION between 
+operations research, optimization THEORY, assignment 
+an extension of the munkres algorithm for 
+the assignment problem to rectangular matrices 
+*********************************************************************
+Document:CACM-1725
+
+THEOREM for associative memories 
+simple proof of this THEOREM derived from some elementary 
+ordered retrieval THEOREM, column digit values, digit 
+access frequency proof, retrieval THEOREM proof 
+*********************************************************************
+Document:CACM-1867
+
+using complex-variable THEORY, it is shown that l(j) 
+asymptotic expected length, recursion RELATION, 
+on the expected lengths of sequences generated 
+in sorting by replacement selecting 
+*********************************************************************
+Document:CACM-2554
+
+order of the MATRIX and M the bandwidth, the matrices 
+MATRIX c whose bandwidth is the same as a and b. 
+reduction of a band-symmetric generalized eigenvalue problem 
+*********************************************************************
+Document:CACM-2220
+
+coding THEOREM and the communications concept 
+THEORY, noiseless channel, sorting 
+conversion of limited-entry decision tables to computer 
+programs-a proposed modification to pollack's 
+*********************************************************************
+Document:CACM-0722
+
+alcor GROUP representation of algol symbols 
+cacm october, 1963 
+ca631003 jb march 13, 1978 6:36 pm 
+*********************************************************************
+Document:CACM-2758
+
+a note on the lu factorization of a symmetric MATRIX 
+hatzopoulos, M. 
+MATRIX inversion, separable systems 
+*********************************************************************

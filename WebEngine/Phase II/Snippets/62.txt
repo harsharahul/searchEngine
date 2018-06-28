@@ -1,0 +1,631 @@
+Query:results relating parallel complexity theory both for prams and uniform circuits
+
+Document:CACM-1961
+
+an efficient search algorithm to find the elementary CIRCUITS of a graph 
+CIRCUITS of a graph. the algorithm can be easily modified to find all 
+of the elementary CIRCUITS with a particular attribute such as 
+of its application. empirical bounds are presented RELATING 
+*********************************************************************
+Document:CACM-1368
+
+systematic generation of hamiltonian CIRCUITS 
+AND exhaustively all the hamiltonian CIRCUITS. 
+FOR a combinatorial matrix which may specify 
+*********************************************************************
+Document:CACM-2430
+
+the elementary CIRCUITS of a graph [h] (algorithm a459) 
+algorithm, graph THEORY, circuit search 
+cacm october, 1973 
+*********************************************************************
+Document:CACM-2932
+
+the framework FOR research in the THEORY of COMPLEXITY 
+COMPLEXITY of computations 
+COMPLEXITY of computations, algebraic COMPLEXITY, 
+*********************************************************************
+Document:CACM-0320
+
+operations, systems AND CIRCUITS. a set of rules FOR 
+BOTH the sequential AND PARALLEL aspects of logic. they 
+logic-structure tables 
+*********************************************************************
+Document:CACM-2327
+
+automata THEORY, brain THEORY, network COMPLEXITY, 
+toward an automata THEORY of brains 
+development of the THEORY. this paper suggests the ways 
+in which automata THEORY might evolve over the 
+*********************************************************************
+Document:CACM-1856
+
+a simulation program AND THEORY of language 
+that text by correctly RELATING each (explicit or implicit) 
+correctly RELATING text to the memory's prior content 
+AND capabilities FOR RELATING text to such 
+*********************************************************************
+Document:CACM-2685
+
+the PARALLEL execution of do loops 
+methods are developed FOR the PARALLEL execution 
+PARALLEL computing, multiprocessor computers, 
+*********************************************************************
+Document:CACM-2200
+
+FOR division yielding complement RESULTS are derived 
+RESULTS is dealt with as is that of selecting an appropriate 
+on complement division 
+*********************************************************************
+Document:CACM-2220
+
+else rule but RESULTS in more executions than the first modification. 
+THEORY, noiseless channel, sorting 
+conversion of limited-entry decision tables to computer 
+programs-a proposed modification to pollack's 
+*********************************************************************
+Document:CACM-2702
+
+on the COMPLEXITY of lr(k) testing 
+is considered. the time COMPLEXITY of this problem 
+the COMPLEXITY of the problem depends very strongly 
+exponential time. these RESULTS carry over to many 
+*********************************************************************
+Document:CACM-2720
+
+THEORY, each disk drive is characterized by a queueing 
+UNIFORM distributions. total response time of the 
+load conditions. the RESULTS indicate that faster 
+modeling, queueing THEORY, balancing, 
+*********************************************************************
+Document:CACM-2401
+
+a PARALLEL processing algorithm FOR shrinking 
+window employed (two-by-two elements), the PARALLEL 
+any pattern, regardless of the COMPLEXITY of 
+counting binary patterns, shrinking, PARALLEL 
+*********************************************************************
+Document:CACM-2326
+
+fix point approach to the THEORY of computation 
+following the fix point THEORY of scott, the 
+handling, in a UNIFORM manner of various properties 
+*********************************************************************
+Document:CACM-2927
+
+COMPLEXITY of finding all the primes less than 
+COMPLEXITY. this upper bound is shown to be equivalent 
+AND the bit COMPLEXITY to o(n logn log log logn). 
+computational COMPLEXITY, sieve, prime number generation, 
+*********************************************************************
+Document:CACM-2342
+
+interference between communicating PARALLEL processes 
+PARALLEL processes have been examined by 
+subproblems, in the form of PARALLEL programs, AND informal 
+these solutions. in this paper a system of PARALLEL 
+*********************************************************************
+Document:CACM-1143
+
+as well as to the RESULTS of experiments with radioactive 
+RESULTS show that the values of the fitted parameters 
+best to select a UNIFORM technique BOTH FOR running 
+to consider as significant only relative RESULTS 
+*********************************************************************
+Document:CACM-1424
+
+automatic analysis of electronic digital CIRCUITS using list processing 
+a mapping from black diagrams of digital CIRCUITS 
+to list structures is described, together 
+*********************************************************************
+Document:CACM-3156
+
+graph THEORY, PARALLEL processing, algorithms, 
+computing connected components on PARALLEL computers 
+we present a PARALLEL algorithm which uses n2 processors to find the connected 
+*********************************************************************
+Document:CACM-0335
+
+are solved numerically comparison of these RESULTS 
+with RESULTS obtained using the picard iteration procedure 
+some numerical experiments using newton's method 
+FOR nonlinear parabolic AND ellipticboundary-value 
+*********************************************************************
+Document:CACM-1725
+
+by lewin, is based on the use of special readout CIRCUITS 
+CIRCUITS indicate whether the individual digit 
+memory is empty). the use of these CIRCUITS, which 
+a simple proof of lewin's ordered-retrieval 
+*********************************************************************
+Document:CACM-1309
+
+reports, regardless of computational COMPLEXITY or format 
+AND flexible presentation of RESULTS in either tabular 
+a computer user-oriented system 
+*********************************************************************
+Document:CACM-2790
+
+the elementary CIRCUITS of a graph (algorithm r459) 
+cacm february, 1975 
+syslo, m. m. 
+*********************************************************************
+Document:CACM-2975
+
+remark on UNIFORM insertion in structured data structures 
+data structures, directed graphs, UNIFORM insertion 
+cacm april, 1977 
+*********************************************************************
+Document:CACM-2333
+
+random vectors UNIFORM is solid angle (algorithm r381) 
+random vector generator, points UNIFORM on sphere, 
+cacm june, 1972 
+*********************************************************************
+Document:CACM-1911
+
+of transformational THEORY. to account FOR these phenomena 
+THEORY, syntax, coordination, sentence 
+on coordination reduction AND sentence analysis 
+*********************************************************************
+Document:CACM-2266
+
+a highly PARALLEL algorithm FOR approximating 
+is conceptually suitable FOR PARALLEL computation, 
+PARALLEL numerical algorithms, real polynomials, 
+all zeros of a polynomial with only real zeros 
+*********************************************************************
+Document:CACM-1603
+
+additions provide a UNIFORM device to machine 
+PARALLEL processing capability. user programs communicate 
+a multiprogramming monitor FOR small machines 
+*********************************************************************
+Document:CACM-2896
+
+an exercise in proving PARALLEL programs correct 
+a PARALLEL program, dijkstra's on-the-fly garbage 
+with proving such PARALLEL programs correct 
+*********************************************************************
+Document:CACM-3086
+
+on the COMPLEXITY of computing the measure of u[ai, bi] 
+the decision tree COMPLEXITY of computing the 
+the ease of analysis AND on the RESULTS produced. 
+computational COMPLEXITY, computational models, 
+*********************************************************************
+Document:CACM-2076
+
+cubic splines on UNIFORM meshes 
+periodic or nonperiodic, on UNIFORM meshes. arcs of two cubics suffice 
+simple spline representation, cardinal splines, UNIFORM mesh splines 
+*********************************************************************
+Document:CACM-0950
+
+PARALLEL methods FOR integrating ordinary differential equations 
+computations of highly PARALLEL computers as can be 
+"PARALLEL" form. by this is meant that serial 
+without knowledge of the RESULTS of the other subtasks. 
+*********************************************************************
+Document:CACM-1948
+
+computers in group THEORY: a survey 
+diverse range of problems in group THEORY. 
+calculus. group THEORY programs range from 
+AND RESULTS which have been obtained using 
+*********************************************************************
+Document:CACM-1925
+
+the solution of problems RELATING to contour 
+concepts of use in contour map processing 
+generalized techniques whose use can simplify 
+*********************************************************************
+Document:CACM-2714
+
+PARALLEL processing, PARALLEL merging, PARALLEL binary insertion 
+merging with PARALLEL processors 
+|b|=n, m<=n, AND p, p<=m, PARALLEL processors 
+FOR merging a AND b with the p PARALLEL processors, 
+*********************************************************************
+Document:CACM-2216
+
+empirical tests, as well as the analytical RESULTS, 
+are in agreement with previously published RESULTS FOR the 
+first moment in the cases of UNIFORM AND nonuniform 
+in the case of UNIFORM distribution of branching 
+*********************************************************************
+Document:CACM-2189
+
+generation of rosary permutations expressed in hamiltonian CIRCUITS 
+n vertices, hamitonian CIRCUITS equivalent to .5(n 
+permutation, graph THEORY, scheduling, combinatorial algebra 
+*********************************************************************
+Document:CACM-2227
+
+RELATING to general programming methodology are drawn. 
+documentation, program correctness, THEORY 
+proof of a program: find 
+*********************************************************************
+Document:CACM-2195
+
+the COMPLEXITY of the optimization process is then discussed. 
+the method described is suitable FOR PARALLEL 
+state can be computed in PARALLEL, AND the number 
+global recognition, PARALLEL processing, dynamic 
+*********************************************************************
+Document:CACM-2134
+
+a solution FOR rectangular matrices. timing RESULTS 
+operations research, optimization THEORY, assignment 
+an extension of the munkres algorithm FOR 
+the assignment problem to rectangular matrices 
+*********************************************************************
+Document:CACM-2560
+
+the RESULTS are presented of an analysis of 
+devices are busy. some numerical RESULTS are given which 
+a queuing model of a multiprogrammed 
+computer with a two-level storage system 
+*********************************************************************
+Document:CACM-2255
+
+computer composition, music THEORY 
+comments on moorer's music AND computer composition 
+cacm november, 1972 
+*********************************************************************
+Document:CACM-2121
+
+partitions,number THEORY 
+partitions in natural order (algorithm 371 $a1)) 
+cacm january, 1970 
+*********************************************************************
+Document:CACM-2809
+
+methods in the THEORY of norms is demonstrated. new RESULTS 
+positivity AND norms 
+following some lines of joint work with a. 
+*********************************************************************
+Document:CACM-1595
+
+certain fundamental RESULTS are established, 
+AND computed RESULTS are given FOR n <= 7. 
+on the computer enumeration of finite topologies 
+*********************************************************************
+Document:CACM-0678
+
+digital CIRCUITS, AND generates corresponding 
+optimizing bit-time computer simulation 
+a major component of a bit-time computer simulation 
+*********************************************************************
+Document:CACM-2784
+
+selection, computational COMPLEXITY, medians, tournaments, quantiles 
+expected time bounds FOR selection 
+a new selection algorithm is presented which 
+*********************************************************************
+Document:CACM-1266
+
+considerations RELATING to purpose of fortran standardization 
+(appendixes to asa fortran standard) 
+cacm may, 1965 
+*********************************************************************
+Document:CACM-1566
+
+conventionally used best UNIFORM approximations 
+stated, AND several basic RESULTS are proved. a 
+optimal starting values FOR newton-raphson calculation of sqrt(x) 
+*********************************************************************
+Document:CACM-1648
+
+UNIFORM random (algorithm 294 [g5]) 
+cacm january, 1967 
+strome, w. m. 
+*********************************************************************
+Document:CACM-1957
+
+RESULTS from any expression involving sets AND set operators. the 
+in PARALLEL, rather than evaluating subexpressions AND 
+the list set generator: a construct FOR evaluating set expressions 
+*********************************************************************
+Document:CACM-2648
+
+a design FOR a number THEORY package 
+a number THEORY package is described which uses 
+number THEORY package, trial division, multiprecise 
+with an optimized trial division routine 
+*********************************************************************
+Document:CACM-2580
+
+THEORY plus additional heuristics. fundamental to the 
+to the layman. it appears that full-blown music THEORY 
+computer composition, music THEORY, formal languages, probabilistic grammars 
+a method FOR composing simple traditional music by computer 
+*********************************************************************
+Document:CACM-2837
+
+COMPLEXITY vi(n) of the i-th selection problem 
+concrete computational COMPLEXITY, upper bounds, 
+new upper bounds FOR selection 
+*********************************************************************
+Document:CACM-1888
+
+mesh size AND dynamic mesh size allocation. FOR UNIFORM 
+equation to be satisfied at the mesh points RESULTS 
+spline function methods FOR nonlinear boundary-value problems 
+*********************************************************************
+Document:CACM-2709
+
+RESULTS on control structures AND explores 
+RESULTS on time/space limitations, AND theorems 
+RELATING the relative power of control structures under 
+of theoretical RESULTS on the practicing programmer AND 
+*********************************************************************
+Document:CACM-3175
+
+letters. these probabilities are updated in PARALLEL FOR all 
+scheme RESULTS in improved estimates that finally lead to 
+breaking substitution ciphers using a relaxation algorithm 
+*********************************************************************
+Document:CACM-2672
+
+composition, music THEORY 
+emotional content considered dangerous 
+cacm march, 1974 
+*********************************************************************
+Document:CACM-2110
+
+compilers, computational COMPLEXITY 
+an efficient context-free parsing algorithm 
+a parsing algorithm which seems to be the most efficient general context-free 
+*********************************************************************
+Document:CACM-3045
+
+AND COMPLEXITY of BOTH the parser AND its table generator. 
+a simple recovery-only procedure FOR simple precedence parsers 
+a simple method is described enabling simple 
+*********************************************************************
+Document:CACM-2649
+
+of UNIFORM AND reciprocal distributions. 
+roundoff errors, UNIFORM distribution, reciprocal 
+on the distributions of significant digits AND roundoff errors 
+*********************************************************************
+Document:CACM-2596
+
+bits per block. simulation RESULTS are presented which 
+RESULTS indicate that FOR a UNIFORM request distribution, 
+a weighted buddy method FOR dynamic storage allocation 
+*********************************************************************
+Document:CACM-1262
+
+procedure-oriented language statements to facilitate PARALLEL processing 
+in PARALLEL. the statements are do together 
+a range of PARALLEL operation AND partly to 
+define each PARALLEL path within this range. do togethers 
+*********************************************************************
+Document:CACM-2973
+
+PARALLEL computer, PARALLEL sorting, PARALLEL merge, 
+sorting on a mesh-connected PARALLEL computer 
+two algorithms are presented FOR sorting n^2 
+*********************************************************************
+Document:CACM-1806
+
+given AND a critical review of RELATING literature is 
+presented. although in THEORY the method always 
+on the downhill method 
+*********************************************************************
+Document:CACM-2865
+
+verifying properties of PARALLEL programs: an axiomatic approach 
+of properties of PARALLEL programs is presented. 
+which are added to a PARALLEL program as 
+*********************************************************************
+Document:CACM-1932
+
+measure of goodness of fit, optimal RESULTS are not 
+the logarithmic error AND newton's method FOR the square root 
+the problem of obtaining optimal starting values 
+*********************************************************************
+Document:CACM-2515
+
+relations without PARALLEL activities is presented. a 
+minimal event-node network of project precedence relations 
+a procedure FOR constructing a minimal event-node 
+*********************************************************************
+Document:CACM-3163
+
+time o(log 2n). moreover, the o(log n) COMPLEXITY is optimal. earlier 
+RESULTS have shown that deletion in such a structure can 
+COMPLEXITY than insertion. furthermore, it can now be concluded 
+an optimal insertion algorithm FOR one-sided 
+*********************************************************************
+Document:CACM-1825
+
+AND if certain conditions RELATING these individual 
+a practical method FOR constructing lr(k) processors 
+is developed. these processors are capable 
+*********************************************************************
+Document:CACM-1158
+
+program structures FOR PARALLEL processing 
+constructs FOR organizing AND explicating PARALLEL 
+program segments are discussed as extensions 
+*********************************************************************
+Document:CACM-2997
+
+least o(n log n) operations, the time COMPLEXITY of the 
+computational COMPLEXITY, convex hull, optimal algorithms, 
+convex hulls of finite sets of poin ts in two AND three dimensions 
+*********************************************************************
+Document:CACM-2337
+
+a sorting problem AND its COMPLEXITY 
+sorting, computational COMPLEXITY, computational combinatorics 
+a technique FOR proving min-max norms of sorting 
+*********************************************************************
+Document:CACM-2700
+
+reduction: a method of proving properties of PARALLEL programs 
+when proving that a PARALLEL program has a 
+halting. thus correctness proofs of a PARALLEL 
+PARALLEL program, semaphore, verification 
+*********************************************************************
+Document:CACM-3096
+
+the sense that its COMPLEXITY cannot be reduced in order 
+RESULTS by hirschberg, indicates that, of the three basic 
+an optimal method FOR deletion in one-sided height-balanced trees 
+*********************************************************************
+Document:CACM-1567
+
+polynomials in the light of the THEORY of the 
+on the representation of symmetric polynomials 
+relations are given between certain symmetric 
+*********************************************************************
+Document:CACM-2057
+
+random vectors UNIFORM in solid angle (algorithm 381 $g5)) 
+cacm may, 1970 
+knop, r. e. 
+*********************************************************************
+Document:CACM-3007
+
+COMPLEXITY of computations (corrigendum) 
+cacm march, 1978 
+rabin, m. 
+*********************************************************************
+Document:CACM-2346
+
+information THEORY, coding THEORY, hu-tucker 
+hu-tucker minimum redundancy alphabetic 
+coding method [z] (algorithm a428) 
+*********************************************************************
+Document:CACM-3084
+
+experiments confirm these RESULTS. 
+UNIFORM distribution 
+interpolation search -a log logn search 
+*********************************************************************
+Document:CACM-2598
+
+extending the information THEORY approach to converting 
+in this paper perform limited search AND, accordingly, 
+THEORY, noiseless channel, sorting 
+in information THEORY of noiseless coding. the RESULTS 
+*********************************************************************
+Document:CACM-2785
+
+PARALLEL computation, PARALLEL architecture 
+of the problems associated with PARALLEL computer 
+glypnir-a programming language FOR illiac iv 
+*********************************************************************
+Document:CACM-2936
+
+AND second, its worst-case COMPLEXITY is o( 
+COMPLEXITY showed it to be nearly independent of n. 
+an efficient data structure FOR the simulation event set 
+*********************************************************************
+Document:CACM-3055
+
+is shown to have expected swap COMPLEXITY 5/9n. 
+an analysis of algorithms FOR the dutch national flag problem 
+solutions to the dutch national flag problem 
+*********************************************************************
+Document:CACM-1933
+
+UNIFORM probability density, UNIFORM frequency 
+coding the lehmer pseudo-random number generator 
+an algorithm AND coding technique is presented 
+*********************************************************************
+Document:CACM-1302
+
+PARALLEL signaling speeds FOR data transmission 
+(proposed american stand ard) 
+cacm march, 1965 
+*********************************************************************
+Document:CACM-2703
+
+the intrinsically exponential COMPLEXITY of 
+grammars, computational COMPLEXITY, exponential 
+the circularity problem FOR attribute grammars 
+*********************************************************************
+Document:CACM-1828
+
+PARALLEL accessing, PARALLEL search, file search, 
+which will maximize the amount of PARALLEL 
+synchronization in a parallel-accessed data base 
+*********************************************************************
+Document:CACM-2740
+
+semaphores). the number of PARALLEL processes is carefully 
+structuring, buffering, PARALLEL processes, synchronizing 
+a large semaphore based operating system 
+*********************************************************************
+Document:CACM-0141
+
+some thoughts on PARALLEL processing 
+cacm october, 1960 
+yarbrough, l. d. 
+*********************************************************************
+Document:CACM-2795
+
+(2) information RELATING conceptual to syntactic 
+sentence paraphrasing from a conceptual base 
+a model of natural language based on an underlying 
+*********************************************************************
+Document:CACM-3075
+
+fast PARALLEL sorting algorithms 
+a PARALLEL bucket-sort algorithm is presented 
+PARALLEL processing, sorting, algorithms, bucket sort 
+*********************************************************************
+Document:CACM-2469
+
+modeling speed independent asynchronous CIRCUITS. 
+petri nets AND speed independent design 
+petri nets are investigated as one method of 
+*********************************************************************
+Document:CACM-0392
+
+comment on a paper on PARALLEL processing 
+cacm february, 1961 
+nekora, m. r. 
+*********************************************************************
+Document:CACM-2851
+
+formal verification of PARALLEL programs 
+two formal models FOR PARALLEL computation 
+is called PARALLEL place assertions, is shown to be 
+PARALLEL program, correctness, verification, 
+*********************************************************************
+Document:CACM-1533
+
+the RESULTS predicted by the model agree reasonable well 
+with actual RESULTS. the model is used to study 
+a marovian model of the university of michigan executive system 
+*********************************************************************
+Document:CACM-1111
+
+a class of iterative techniques FOR the factorization of polynomials* 
+a method of iteration is developed in terms 
+of a function of somewhat arbitrary character. 
+*********************************************************************
+Document:CACM-2261
+
+a UNIFORM zero-one random number source, is based on 
+an approximate method FOR generating symmetric random variables 
+a method FOR generating values of continuous 
+*********************************************************************
+Document:CACM-1429
+
+matrix reduction using the hungarian method 
+FOR the generation of school timetables 
+the application of kuhn's hungarian method 
+*********************************************************************
+Document:CACM-1536
+
+PARALLEL, as in wengert's procedure, but with the 
+dynamic computation of derivatives 
+it is shown how wengert's procedure FOR computation 
+*********************************************************************

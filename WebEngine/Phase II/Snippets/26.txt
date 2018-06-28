@@ -1,0 +1,667 @@
+Query:concurrency control mechanisms in operating systems
+
+Document:CACM-2626
+
+the design of MECHANISMS to CONTROL the sharing 
+protection and the CONTROL of information sharing IN multics 
+hierarchical CONTROL of access specifications, 
+multics, protection, security, privacy, access CONTROL, 
+*********************************************************************
+Document:CACM-2632
+
+hydra: the kernel of a multiprocessor OPERATING system 
+hydra-the kernel of an OPERATING system for c.mmp, 
+called an "object". MECHANISMS are presented 
+type of object. the MECHANISMS provide a coherent 
+*********************************************************************
+Document:CACM-2840
+
+protection IN OPERATING SYSTEMS 
+a model of protection MECHANISMS IN computing 
+SYSTEMS is presented and its appropriateness 
+is argued. the "safety" problem for protection SYSTEMS 
+*********************************************************************
+Document:CACM-3105
+
+IN OPERATING SYSTEMS by access CONTROL MECHANISMS. this 
+programming languages, access CONTROL, data types, 
+a language extension for expressing constraints on data access 
+*********************************************************************
+Document:CACM-2939
+
+abstraction MECHANISMS IN clu 
+CONTROL, and especially data abstractions-are useful 
+MECHANISMS that support the use of data and 
+CONTROL abstractions. this paper provides an IN troduction 
+*********************************************************************
+Document:CACM-2377
+
+hardware processor MECHANISMS for implementing these rings 
+of protection. the MECHANISMS for implementing 
+these rings of protection. the MECHANISMS allow cross-ring 
+to a call to a companion user procedure. the MECHANISMS 
+*********************************************************************
+Document:CACM-3128
+
+to CONTROL the ordering of events directly, rather than using mutual 
+exclusion to protect manipulations of shared variables that CONTROL 
+ordering of events. direct CONTROL of ordering seems to simplify 
+SYSTEMS. the mechanism is defined formally, and then several 
+*********************************************************************
+Document:CACM-2870
+
+this paper investigates MECHANISMS that guarantee 
+these MECHANISMS are examined within a mathematical framework 
+of different existing SYSTEMS and facilitate 
+the construction of MECHANISMS that enforce security. 
+*********************************************************************
+Document:CACM-3068
+
+a model for verification of data security IN OPERATING SYSTEMS 
+here IN terms of a general model for OPERATING SYSTEMS. 
+OPERATING SYSTEMS, security, protection, program verification 
+uncircumventably secure, shared computer SYSTEMS. a 
+*********************************************************************
+Document:CACM-1750
+
+OPERATING SYSTEMS, CONTROL data corporation 6600, OPERATING system with ecs 
+multiprogrammed OPERATING SYSTEMS, multiprocessor 
+multiple computer SYSTEMS, extended core storage, 
+considerations IN the design of a multiple 
+*********************************************************************
+Document:CACM-2080
+
+that can be extended with a hierarchy of OPERATING SYSTEMS to suit diverse 
+multiprogramming, OPERATING SYSTEMS, parallel processes, process concept, 
+es. a fundamental set of primitives allows the dynamic creation and CONTROL 
+the nucleus of a multiprogramming system 
+*********************************************************************
+Document:CACM-2372
+
+system implementation within today's languages and OPERATING SYSTEMS. 
+OPERATING SYSTEMS, access management, data banks, 
+on the implementation of security measures IN information SYSTEMS 
+security features of several existing SYSTEMS, and serves 
+*********************************************************************
+Document:CACM-2314
+
+programming languages, interactive SYSTEMS, CONTROL 
+requirements for advanced programming SYSTEMS for list processing 
+list processing SYSTEMS should be designed to 
+to the design of advanced programming SYSTEMS for 
+*********************************************************************
+Document:CACM-2320
+
+OPERATING SYSTEMS but also within user programs. 
+OPERATING SYSTEMS, concurrent processes, shared 
+programmer to CONTROL scheduling of resources among 
+structured multiprogramming 
+*********************************************************************
+Document:CACM-2558
+
+linguistic MECHANISMS which can be used to protect 
+access keys, access CONTROL authentication, 
+protection IN programming languages 
+*********************************************************************
+Document:CACM-1677
+
+storage organization IN programming SYSTEMS 
+or programming SYSTEMS: simplicity of programmed addressing, 
+CONTROL. on the basis of experience at rice, 
+CONTROL, codewords, data representation, program 
+*********************************************************************
+Document:CACM-1680
+
+retrieval OPERATING SYSTEMS, graphics, displays, man-machine 
+display unit under OPERATING system/360. adept 
+is a cataloged program that controls the standard OPERATING 
+to it, and surrendering CONTROL to the OPERATING 
+*********************************************************************
+Document:CACM-2844
+
+heaps applied to event driven MECHANISMS 
+MECHANISMS, priority queues, heaps 
+cacm july, 1976 
+*********************************************************************
+Document:CACM-2541
+
+new concept for OPERATING SYSTEMS: separation 
+design of the language, OPERATING system, 
+communication MECHANISMS enabling the construction 
+an overview of the ispl computer system design 
+*********************************************************************
+Document:CACM-1461
+
+discussion summary on OPERATING SYSTEMS 
+cacm march, 1966 
+ca660311 jb march 3, 1978 1:26 pm 
+*********************************************************************
+Document:CACM-2578
+
+error recovery, distributed CONTROL, harmonious cooperation, self-repair 
+self-stabilizing SYSTEMS IN spite of distributed CONTROL 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-2111
+
+to compilers and OPERATING SYSTEMS. these include the use of syntax 
+OPERATING SYSTEMS, diagnostics, error detection, 
+spelling correction IN SYSTEMS programs 
+is presented. by using SYSTEMS which perform spelling correction, 
+*********************************************************************
+Document:CACM-2938
+
+the complexity of reasoning about CONCURRENCY and execution 
+SYSTEMS analytically verifiable and ultimately 
+toward a discipline of real-time programming 
+*********************************************************************
+Document:CACM-1591
+
+into an OPERATING system of a large computer 
+is described. the model transferred CONTROL to the 
+OPERATING system to execute functions other than 
+teaching, and then recovered CONTROL IN order to resume 
+*********************************************************************
+Document:CACM-1462
+
+multilevel OPERATING SYSTEMS 
+OPERATING SYSTEMS. this implies that all applications-no 
+the OPERATING SYSTEMS, but at a different level. 
+*********************************************************************
+Document:CACM-1463
+
+system CONTROL over program-to-program and program-to-data 
+the employment of linkage MECHANISMS through 
+more on extensible machines 
+*********************************************************************
+Document:CACM-1728
+
+OPERATING SYSTEMS, supervisor simulation, machine 
+directed at the measurement of program OPERATING 
+behavior IN those multiprogramming SYSTEMS IN which 
+paging SYSTEMS, paging, dynamic program behavior, program 
+*********************************************************************
+Document:CACM-3026
+
+the 1100 series SYSTEMS are sperry univac's 
+large-scale main frame computer SYSTEMS. beginning 
+registers. the 1100 OPERATING system is designed 
+languages, data management SYSTEMS, 
+*********************************************************************
+Document:CACM-2036
+
+conditional job CONTROL, OPERATING SYSTEMS 
+existing time-sharing SYSTEMS is given. 
+an interactive command generating facility 
+*********************************************************************
+Document:CACM-2817
+
+IN database SYSTEMS, users access shared data 
+consistency, lock, database, CONCURRENCY, transaction 
+the notions of consistency and predicate locks IN a database system 
+*********************************************************************
+Document:CACM-2867
+
+modularization and hierarchy IN a family of OPERATING SYSTEMS 
+used IN the construction of a family of OPERATING 
+SYSTEMS. it is shown that the concepts of module and 
+*********************************************************************
+Document:CACM-0483
+
+algol 60 is defined partly by formal MECHANISMS 
+stated restrictions. it is shown that no formal MECHANISMS 
+on the nonexistence of a phrase structure grammar for algol 60 
+*********************************************************************
+Document:CACM-2317
+
+languages, OPERATING SYSTEMS, programming 
+programming SYSTEMS and languages 1965-1975 
+IN the OPERATING system area all major computer 
+SYSTEMS, and they all ran into similar 
+*********************************************************************
+Document:CACM-2936
+
+for general purpose discrete event simulation SYSTEMS. 
+simulation, time flow MECHANISMS, event 
+scanning MECHANISMS, multilinked lists 
+an efficient data structure for the simulation event set 
+*********************************************************************
+Document:CACM-1247
+
+an OPERATING environment for dynamic-recursive 
+computer programming SYSTEMS 
+system which can serve as an OPERATING environment for 
+SYSTEMS. the available services include dynamic allocation 
+*********************************************************************
+Document:CACM-2878
+
+at some of its queues is a CONTROL limit policy, 
+with a single CONTROL number for any possible queue 
+join a queue that is not filled up to the CONTROL number 
+IN this paper CONTROL numbers, as well as lower and upper 
+*********************************************************************
+Document:CACM-2319
+
+OPERATING system performance 
+with respect to OPERATING system performance 
+of an OPERATING system, an overall model of the total 
+and design the performance aspects of an OPERATING system 
+*********************************************************************
+Document:CACM-2597
+
+monitors, OPERATING SYSTEMS, scheduling, mutual 
+monitors: an OPERATING system structuring concept 
+a monitor as a method of structuring an OPERATING 
+*********************************************************************
+Document:CACM-1754
+
+dynamic storage allocation SYSTEMS 
+SYSTEMS is included as an appendix. 
+storage fragmentation, storage hierarchies, addressing MECHANISMS 
+*********************************************************************
+Document:CACM-2482
+
+deadlocks, resource allocation, OPERATING SYSTEMS, 
+based on the concept of the hierarchical OPERATING 
+multiprogramming, hierarchical SYSTEMS 
+mixed solutions for the deadlock problem 
+*********************************************************************
+Document:CACM-0059
+
+and management CONTROL SYSTEMS of the federal 
+survey of progress and trend of development 
+and use of automatic data processing IN business 
+government, as of december 1957-iii 
+*********************************************************************
+Document:CACM-0104
+
+the discrete flow SYSTEMS discussed are characterized 
+computer to simulate such SYSTEMS utilizes some 
+air traffic flow and CONTROL procedures are simulated 
+to compare the effects of alternative CONTROL decisions. 
+*********************************************************************
+Document:CACM-2740
+
+of OPERATING SYSTEMS. the project management 
+a large semaphore based OPERATING system 
+a large OPERATING system as a set of cooperating 
+and the performance are discussed, too. the OPERATING 
+*********************************************************************
+Document:CACM-1476
+
+CONTROL procedures for data communication-an asa progress report 
+functional CONTROL requirements and characteristics 
+receiving SYSTEMS interconnected by communication 
+system." this effort is primarily directed toward SYSTEMS 
+*********************************************************************
+Document:CACM-2069
+
+OPERATING SYSTEMS, memory management 
+comments on a paper by wallace and mason 
+cacm april, 1970 
+*********************************************************************
+Document:CACM-2379
+
+OPERATING SYSTEMS, system design, levels of abstraction, 
+the design of the venus OPERATING system 
+the venus OPERATING system is an experimental 
+to define the OPERATING system as simply as possible. 
+*********************************************************************
+Document:CACM-3025
+
+of implementations to presently include SYSTEMS covering 
+evolution of the hardware, OPERATING system, and languages 
+sharing computing SYSTEMS; transferring hardware 
+minicomputer/microcomputer SYSTEMS. 
+*********************************************************************
+Document:CACM-2424
+
+OPERATING SYSTEMS, data security, fault tolerance, 
+dynamic verification of OPERATING system decisions 
+of OPERATING system decisions is used on the prime system 
+construction of an OPERATING system which does not make certain 
+*********************************************************************
+Document:CACM-0084
+
+and management CONTROL SYSTEMS of the federal government, 
+survey of progress and trend of development 
+and use of automatic data processing IN business 
+as of december 1957-ii (part 2 see ca590406) 
+*********************************************************************
+Document:CACM-2629
+
+OPERATING SYSTEMS, including: (1) a hierarchical file system 
+OPERATING system for the digital equipment 
+time-sharing, OPERATING system, file system, command language, pdp-11 
+the unix time-sharing system 
+*********************************************************************
+Document:CACM-1290
+
+transparent-mode CONTROL procedures for data 
+communication CONTROL philosophy. the appearance of this 
+to the basic ascii communication CONTROL characters 
+moreover, it goes on to cover the additional CONTROL problems 
+*********************************************************************
+Document:CACM-3127
+
+portability, real time, OPERATING SYSTEMS, minicomputer 
+thoth, a portable real-time OPERATING system 
+thoth isa real-time OPERATING system which is designed to be portable 
+*********************************************************************
+Document:CACM-2321
+
+on the interface between computers and data communications SYSTEMS 
+future SYSTEMS that combine computers, digital 
+terminals connect to the communications SYSTEMS will 
+synchronization, error CONTROL, signaling, stream 
+*********************************************************************
+Document:CACM-2985
+
+the relationship of IN ternal pricing SYSTEMS 
+for computer services (chargeout SYSTEMS) and 
+information SYSTEMS is investigated. evidence is 
+indicate that the chargeout SYSTEMS characteristic 
+*********************************************************************
+Document:CACM-2151
+
+OPERATING SYSTEMS, multiprogramming SYSTEMS, time-sharing 
+software SYSTEMS is followed by a description of 
+shown how other time-sharing SYSTEMS may provide similar measuring facilities. 
+SYSTEMS, software measurement, user program 
+*********************************************************************
+Document:CACM-2849
+
+used to build SYSTEMS which can be viewed as either local 
+CONTROL. coordination of access to the ether for packet 
+with an OPERATING ethernet of 100 nodes along a 
+distributed CONTROL, distributed computing, 
+*********************************************************************
+Document:CACM-1341
+
+levels of computer SYSTEMS 
+IN building current computer SYSTEMS, we tend 
+to break them down into "levels" of CONTROL, 
+on the usefulness of future SYSTEMS, particularly 
+*********************************************************************
+Document:CACM-2621
+
+OPERATING SYSTEMS, time sharing SYSTEMS, security, cryptography 
+the protection of time sharing SYSTEMS from 
+a high security log-in procedure 
+*********************************************************************
+Document:CACM-3050
+
+SYSTEMS design education: a gaming approach 
+a hypothetical job mix is under the CONTROL of a game administrator 
+and a simulated run of the center OPERATING under 
+*********************************************************************
+Document:CACM-3183
+
+there is an emerging recognition that eft SYSTEMS have the potential to 
+on people, economic impact of eft, regulation and CONTROL of 
+eft, and evaluating and monitoring eft SYSTEMS. 
+economic impacts, regulation and CONTROL, monitoring eft 
+*********************************************************************
+Document:CACM-0618
+
+computers- the key to total SYSTEMS CONTROL: an industrial viewpoint 
+man-man-machine processes are characterized IN five 
+main types, and the markets for each type are 
+*********************************************************************
+Document:CACM-2876
+
+intentional resolution of privacy protection IN database SYSTEMS 
+dimension of privacy protection, the CONTROL over what 
+impose a certain amount of CONTROL over the internal 
+which admits such a CONTROL is developed. 
+*********************************************************************
+Document:CACM-0086
+
+and management CONTROL SYSTEMS of the federal government, as of december 1957 
+survey of progress and trend of development 
+and use of automatic data processing IN business 
+*********************************************************************
+Document:CACM-2950
+
+IN real OPERATING SYSTEMS. the policy-driven scheduler 
+OPERATING systems,processor sharing, implementation 
+a unifying approach to scheduling 
+*********************************************************************
+Document:CACM-3011
+
+SYSTEMS (mis) bear little relation to the information 
+SYSTEMS currently IN use by top management IN most us local 
+nature of these SYSTEMS, management use of computing is 
+of computing and tends to CONTROL computing decisions 
+*********************************************************************
+Document:CACM-2742
+
+improved event-scanning MECHANISMS for discrete event simulation 
+discrete event simulation, simulation, event scanning MECHANISMS 
+simulation models of large, complex "real-world" 
+*********************************************************************
+Document:CACM-1534
+
+dad, the c. OPERATING system 
+OPERATING system, dad, is described IN detail. 
+this system is designed for the CONTROL data 3600 using 
+*********************************************************************
+Document:CACM-2866
+
+CONCURRENCY, scheduling, bounded buffer, 
+proving monitors 
+interesting scheduling and sequential properties 
+*********************************************************************
+Document:CACM-2438
+
+functional arguments, multiprocessor SYSTEMS, extensible CONTROL structures 
+many CONTROL and access environment structures 
+exist at times when CONTROL is not nested within the 
+to CONTROL flow. the technique has the property that, 
+*********************************************************************
+Document:CACM-0696
+
+stations which collect and transmit company OPERATING 
+edp SYSTEMS are used to record and CONTROL the 
+an automatic data acquisition and inquiry system using disk files 
+*********************************************************************
+Document:CACM-1552
+
+software SYSTEMS involving elaborate, 
+package of the aed-1 compiler SYSTEMS allows blocks 
+handling of selected sizes, CONTROL of shattering and 
+access and CONTROL of fine internal details as well. 
+*********************************************************************
+Document:CACM-1636
+
+SYSTEMS of ordinary differential equations 
+CONTROL, two-point boundary-value problems for unstable 
+SYSTEMS arise, greatly complicating the numerical 
+invariant imbeding and the numerical integration 
+*********************************************************************
+Document:CACM-2138
+
+bliss: a language for SYSTEMS programming 
+for use IN writing production software SYSTEMS for a 
+specific machine (the pdp-10): compilers, OPERATING 
+SYSTEMS, etc. prime design goals of the design are the 
+*********************************************************************
+Document:CACM-0300
+
+a simplified merchandise CONTROL problem has 
+potential users of computing SYSTEMS. a mythical department 
+cobol: a sample problem 
+*********************************************************************
+Document:CACM-2821
+
+cobol under CONTROL 
+CONTROL structures. they do not require syntax 
+to produce and maintain large software SYSTEMS that have 
+*********************************************************************
+Document:CACM-2378
+
+OPERATING SYSTEMS, supervisors, multiprogramming, 
+an OPERATING system based on the concept of a supervisory computer 
+an OPERATING system which is organized as a 
+*********************************************************************
+Document:CACM-3141
+
+decentralized algorithms, distributed SYSTEMS, OPERATING SYSTEMS 
+an improved algorithm for decentralized extrema-finding 
+IN circular configurations of processes 
+*********************************************************************
+Document:CACM-3153
+
+the CONTROL of response times IN multi-class 
+SYSTEMS by memory allocations 
+expected response times as functions of the CONTROL parameters 
+are obtained. a way of applying the results to SYSTEMS with more 
+*********************************************************************
+Document:CACM-2888
+
+items IN business SYSTEMS have to be identified 
+system. IN business SYSTEMS associated 
+so as to CONTROL future extension and changes while maintaining 
+data, file, reference code, SYSTEMS 
+*********************************************************************
+Document:CACM-2358
+
+as experience with use of on-line OPERATING 
+SYSTEMS has grown, the need to share information 
+many contemporary SYSTEMS permit some degree of 
+since the size of main memory on contemporary SYSTEMS 
+*********************************************************************
+Document:CACM-1324
+
+are described and reviewed. the SYSTEMS range from a conversation 
+about pictures and SYSTEMS which translate from english 
+into logical calculi. SYSTEMS are classified 
+SYSTEMS which are programmed and OPERATING 
+*********************************************************************
+Document:CACM-2624
+
+virtual machine SYSTEMS have been implemented 
+SYSTEMS, e.g. cp-67 on the ibm 360/67. from previous 
+generation computer SYSTEMS, e.g. the dec pdp-10, cannot 
+OPERATING system, third generation architecture, 
+*********************************************************************
+Document:CACM-0251
+
+CONTROL SYSTEMS. the cam profile generated introduces 
+ballistic cam design 
+this paper presents a digital computer program 
+*********************************************************************
+Document:CACM-1922
+
+proposed usa standard (data communication CONTROL 
+data communication, data communication CONTROL procedures, 
+data communication error CONTROL procedures, 
+communication CONTROL procedures, communication 
+*********************************************************************
+Document:CACM-1485
+
+elementary program statement, (2) MECHANISMS for linking 
+SYSTEMS and referencing data. 
+the structure of programming languages 
+*********************************************************************
+Document:CACM-2522
+
+OPERATING SYSTEMS, supervisory SYSTEMS 
+recent research IN time-sharing paging SYSTEMS 
+SYSTEMS, resource allocation, software evaluation, 
+the design, implementation, and evaluation of a working set dispatcher 
+*********************************************************************
+Document:CACM-1923
+
+OPERATING SYSTEMS, interfaces input-output, 
+pseudofiles 
+an approach to system interfaces for high 
+*********************************************************************
+Document:CACM-1844
+
+serves as the master or CONTROL computer 
+are possible for a range of SYSTEMS sizes that 
+multiple terminal SYSTEMS, terminal oriented SYSTEMS, 
+multiple processor SYSTEMS, high availability, 
+*********************************************************************
+Document:CACM-2949
+
+computer networks, distributed CONTROL, network 
+topology, routing problem IN networks, distributed OPERATING 
+store and forward message switching, traffic CONTROL 
+a correctness proof of a topology information 
+*********************************************************************
+Document:CACM-3174
+
+OPERATING SYSTEMS, passwords, computer security 
+password security: a case history 
+this paper describes the history of the design of the password 
+*********************************************************************
+Document:CACM-1226
+
+system. IN many SYSTEMS, the selection 
+be critical to the system's OPERATING efficiency. 
+this paper provides the SYSTEMS designer with an information 
+the organization of structured files 
+*********************************************************************
+Document:CACM-1264
+
+blnsys-a 1401 OPERATING system with braille capabilities 
+blnsys is an OPERATING system designed for 
+object deck under debugging trace CONTROL, card-to-braille 
+*********************************************************************
+Document:CACM-1951
+
+OPERATING SYSTEMS, optimization models 
+from four operational multiaccess SYSTEMS, and the model is shown to 
+same distribution independent of which of the four SYSTEMS is being examined. 
+by the exponential distribution are discussed for the SYSTEMS studied. 
+*********************************************************************
+Document:CACM-2709
+
+a genealogy of CONTROL structures 
+the issue of program CONTROL structures has 
+results on CONTROL structures and explores 
+ideas on CONTROL structures are then explored. 
+*********************************************************************
+Document:CACM-1747
+
+input equipment design, OPERATING SYSTEMS, OPERATING 
+SYSTEMS, computer SYSTEMS design, input equipment, 
+three criteria for designing computing SYSTEMS to facilitate debugging 
+know or CONTROL all the influences affecting the content 
+*********************************************************************
+Document:CACM-3154
+
+algorithm = logic + CONTROL 
+and a CONTROL component, which determines the problem-solving 
+determines the meaning of the algorithm whereas the CONTROL 
+algorithm can often by improving the CONTROL component without changing 
+*********************************************************************
+Document:CACM-3072
+
+scheduling SYSTEMS for multiprogrammed- multiprocessor 
+executing on the cpu. the model SYSTEMS feature simulated 
+multiprogramming SYSTEMS, i/o system scheduling 
+computer SYSTEMS are presented. the basic CONTROL variables 
+*********************************************************************
+Document:CACM-1236
+
+OPERATING on the ibm 7094 is described. the system 
+the system is used not only to simulate an actual OPERATING 
+SYSTEMS operations and evaluation procedures. 
+the smart automatic document retrieval system-an illustration 
+*********************************************************************
+Document:CACM-2767
+
+simulation, time flow MECHANISMS, event list algorithm, 
+simulation, time flow MECHANISMS, event 
+a comparison of simulation event list algorithms 
+*********************************************************************
+Document:CACM-3014
+
+must be true at some time when CONTROL passes through 
+and the correctness of continuously OPERATING programs. 
+program transformation, continuously OPERATING programs. 
+is "sometime" sometimes better than "always"? (intermittent 
+*********************************************************************

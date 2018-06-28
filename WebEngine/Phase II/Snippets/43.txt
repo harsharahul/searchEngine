@@ -1,0 +1,633 @@
+Query:analysis and perception of shape by humans and computers  shape descriptions shape recognition by computer  two-dimensional shapes measures of circularity  shape matching
+
+Document:CACM-2569
+
+COMPUTER generation OF gamma random variates 
+with non-integral SHAPE parameters 
+when the SHAPE parameter, a, is integral, 
+COMPUTER is straightforward. there is no simple method 
+*********************************************************************
+Document:CACM-3107
+
+generating beta variates with nonintegrel SHAPE parameters 
+COMPUTER timings. it is suggested that the 
+a new rejection method is described for generating 
+*********************************************************************
+Document:CACM-2847
+
+sampling from the gamma distribution on a COMPUTER 
+wallace's recently suggested method. for large SHAPE parameter 
+this paper describes a method OF generating 
+*********************************************************************
+Document:CACM-2754
+
+measurement OF peak amplitude, duration, AND SHAPE. the 
+a syntactic algorithm for peak detection 
+in waveforms with applications to cardiography 
+*********************************************************************
+Document:CACM-2771
+
+using a COMPUTER. synthesis begins with primitive solids 
+graphics, machined components, polyhedra, SHAPE 
+the synthesis OF solids bounded BY many faces 
+*********************************************************************
+Document:CACM-3046
+
+COMPUTER generation OF gamma random variables - ii 
+gamma variates with nonintegral SHAPE parameter 
+gamma variables, rejection method, COMPUTER methods 
+*********************************************************************
+Document:CACM-3098
+
+COMPUTER generation OF gamma random variables 
+from the gamma distribution with nonintegral SHAPE 
+gamma variables, rejection method, COMPUTER methods 
+*********************************************************************
+Document:CACM-2455
+
+which imbalances up to (triangle SHAPE) is a small 
+a generalization OF avl trees 
+a generalization OF avl trees is proposed in 
+*********************************************************************
+Document:CACM-3125
+
+information or restrictions on the SHAPE OF the program graph. 
+data flow ANALYSIS, boolean systems 
+global optimization BY suppression OF partial redundancies 
+*********************************************************************
+Document:CACM-2829
+
+texture AND reflection in COMPUTER generated images 
+OF regions OF the pattern definition function. the SHAPE 
+COMPUTER graphics, graphic display, shading, hidden surface removal 
+*********************************************************************
+Document:CACM-2883
+
+SHAPE OF the contour OF an object can be embedded 
+picture processing, pattern RECOGNITION, edge 
+an application OF heuristic search methods to edge AND contour detection 
+*********************************************************************
+Document:CACM-2341
+
+adapt in size AND SHAPE to their environment. blocks 
+snobol4, data types, TWO-DIMENSIONAL mathematics, test processing, flowcharting 
+blocks-a new data type for snobol4 
+*********************************************************************
+Document:CACM-1399
+
+on top-to-bottom RECOGNITION AND left recursion 
+DESCRIPTIONS in a context-free grammar BY performing 
+the RECOGNITION according to a strongly equivalent, 
+*********************************************************************
+Document:CACM-1528
+
+three fonts OF COMPUTER drawn letters 
+detailed DESCRIPTIONS are given for three fonts 
+OF letters. letter SHAPES are entirely described 
+COMPUTERS AND cathode-ray tubes. the fonts include both 
+*********************************************************************
+Document:CACM-2113
+
+RECOGNITION, pattern RECOGNITION, MATCHING procedures, tree-structure 
+parsing, syntactic ANALYSIS, natural-language ANALYSIS, linguistic data 
+OF which processing times for large-scale MATCHING procedures 
+data involved in the MATCHING procedure, the shifting OF information 
+*********************************************************************
+Document:CACM-3149
+
+the cyclic order property OF vertices as an aid in scene ANALYSIS 
+to given TWO-DIMENSIONAL line-structure data. 
+scene ANALYSIS, cyclic order, artificial intelligence, 
+, picture processing, COMPUTER graphics, pattern RECOGNITION. 
+*********************************************************************
+Document:CACM-0204
+
+proving theorems BY pattern RECOGNITION i 
+cacm april, 1960 
+wang, h. 
+*********************************************************************
+Document:CACM-3100
+
+an interference MATCHING technique for inducing abstractions 
+the proposed method, interference MATCHING, induces abstractions 
+OF interference MATCHING are discussed, AND directions 
+MATCHING, interference, graph MATCHING, learning, 
+*********************************************************************
+Document:CACM-1260
+
+small COMPUTER. the ANALYSIS has been carried out 
+calculation it is possible to make the ANALYSIS on a 
+on an ibm 1410 COMPUTER with a 40,000 bcd core memory. 
+least-squares ANALYSIS OF resonance spectra on small COMPUTERS 
+*********************************************************************
+Document:CACM-1553
+
+contextual understanding BY COMPUTERS 
+a further development OF a COMPUTER program 
+understanding on the part OF either HUMANS or 
+*********************************************************************
+Document:CACM-2703
+
+the CIRCULARITY problem for attribute grammars 
+with the syntax OF the language. the CIRCULARITY 
+version OF knuth's CIRCULARITY testing algorithm 
+attribute grammars, CIRCULARITY problem, context-free 
+*********************************************************************
+Document:CACM-2910
+
+equivalence OF hough curve detection to template MATCHING 
+picture processing, pattern RECOGNITION, curve 
+detection, hough transformation, template MATCHING 
+*********************************************************************
+Document:CACM-2556
+
+statement ANALYSIS, syntax ANALYSIS 
+as feature extraction, approximate tree MATCHING, 
+AND strategy improvement BY feedback from the MATCHING process. 
+adaptive, linguistic pattern MATCHING, automatic 
+*********************************************************************
+Document:CACM-2339
+
+the feasibility OF translating verbal DESCRIPTIONS 
+to numerical codes in a COMPUTER program. primary emphasis 
+a reference file OF verbal DESCRIPTIONS for use BY the 
+verbal responses, COMPUTER coding, reference list, 
+*********************************************************************
+Document:CACM-1272
+
+HUMANS or COMPUTERS to produce alone. 
+AND improvement OF COMPUTER output, is exemplified 
+expansion OF COMPUTER output in such 
+processes as factor ANALYSIS. applications are described, 
+*********************************************************************
+Document:CACM-0561
+
+analytic differentiation BY COMPUTER 
+cacm june, 1962 
+hanson, j. w. 
+*********************************************************************
+Document:CACM-2303
+
+archaeology OF COMPUTERS - reminiscences, 1945-1947 
+dominated BY the first large COMPUTER eniac. 
+history OF COMPUTERS 
+*********************************************************************
+Document:CACM-2811
+
+structural pattern RECOGNITION OF carotid pulse 
+to structural pattern RECOGNITION OF carotid 
+disease. the syntax-driven waveform ANALYSIS 
+structural pattern RECOGNITION, parsing, waveform ANALYSIS, pulse waves 
+*********************************************************************
+Document:CACM-2788
+
+picture processing, pattern RECOGNITION, curve detection,line fitting 
+finding circles BY an array OF accumulators 
+cacm february, 1975 
+*********************************************************************
+Document:CACM-2402
+
+pictorial pattern RECOGNITION AND the 
+COMPUTER graphics systems coupled to powerful 
+digital COMPUTERS encourages the development OF algorithms 
+RECOGNITION techniques make possible a number OF approaches 
+*********************************************************************
+Document:CACM-2746
+
+efficient string MATCHING: an aid to bibliographic search 
+MATCHING machine from the keywords AND then using the 
+pattern MATCHING machine to process the text string 
+in a single pass. construction OF the pattern MATCHING 
+*********************************************************************
+Document:CACM-1265
+
+a number OF diverse RECOGNITION procedures 
+been made to compare RECOGNITION efficiencies for the 
+comparison OF the RECOGNITION OF more realistic 
+turing machine on the univac m-460 COMPUTER. several 
+*********************************************************************
+Document:CACM-3197
+
+structures OF standards-processing organizations in the COMPUTER area 
+the following organizational DESCRIPTIONS have been provided in order to 
+describe standardization activities pertinent to COMPUTERS AND information 
+*********************************************************************
+Document:CACM-0462
+
+COMPUTER pattern RECOGNITION techniques: electrocardiographic diagnosis 
+the use OF programmed digital COMPUTERS as general 
+pattern classification AND RECOGNITION devices 
+for the purpose OF pattern RECOGNITION. in this way 
+*********************************************************************
+Document:CACM-2903
+
+applied to two algorithms which solve pattern MATCHING problems. 
+how the fast linear pattern MATCHING algorithm OF knuth, 
+recursion elimination, pattern MATCHING algorithms, 
+improving programs BY the introduction OF recursion 
+*********************************************************************
+Document:CACM-1771
+
+programs in COMPUTER science -- a report OF the 
+acm curriculum committee on COMPUTER science 
+programs in COMPUTER science which were developed 
+BY the acm curriculum committee on COMPUTER science. 
+*********************************************************************
+Document:CACM-1769
+
+the expanding world OF COMPUTERS 
+to service. COMPUTER developments in hardware, programming, 
+front. online COMPUTERS AND time-sharing also rate high 
+are basic to all progress with the COMPUTER. this complex 
+*********************************************************************
+Document:CACM-1404
+
+ANALYSIS on a multifactor structure 
+the computational procedure for the ANALYSIS 
+with reference to the ANALYSIS OF variance. a special 
+ANALYSIS OF variance for multifactor experiments is extended 
+*********************************************************************
+Document:CACM-0002
+
+extraction OF roots BY repeated subtractions for digital COMPUTERS 
+cacm december, 1958 
+sugai, i. 
+*********************************************************************
+Document:CACM-2069
+
+markovian COMPUTER models, scheduling strategies, 
+comments on a paper BY wallace AND mason 
+cacm april, 1970 
+*********************************************************************
+Document:CACM-1836
+
+be precisely described BY a TWO-DIMENSIONAL 
+a new method for determining linear precedence 
+functions for precedence grammars 
+*********************************************************************
+Document:CACM-2880
+
+as well as some performance MEASURES. 
+a fast division technique for constant divisors 
+a fast algorithm for division BY constant divisors 
+*********************************************************************
+Document:CACM-2345
+
+DESCRIPTIONS are presented, program organization discussed, 
+education, management systems, systems ANALYSIS, 
+development, information ANALYSIS, system design 
+curriculum recommendations for graduate 
+*********************************************************************
+Document:CACM-1796
+
+index BY subject to algorithms, 1969 
+cacm december, 1969 
+this 1969 index is the first supplement to the 
+*********************************************************************
+Document:CACM-2657
+
+for the improved algorithm, the ANALYSIS is 
+an improved program-synthesizing algorithm AND its correctness 
+an improved program-synthesizing algorithm 
+*********************************************************************
+Document:CACM-2815
+
+high-level binding with low-level linkers 
+an easy to implement scheme is described BY 
+which a compiler can enforce agreement between 
+*********************************************************************
+Document:CACM-1590
+
+a COMPUTER procedure which determines pitch 
+periods BY the RECOGNITION OF the peak structure 
+normal noise level OF the COMPUTER room but were not 
+pitch period determination OF speech sounds 
+*********************************************************************
+Document:CACM-2924
+
+an interactive COMPUTER graphics approach to surface representation 
+an in teractive COMPUTER graphics method has been 
+OF a number OF SHAPES that have been separately 
+COMPUTER graphics, three-dimensional surface representation, 
+*********************************************************************
+Document:CACM-2232
+
+the width concept in pattern RECOGNITION AND the 
+precise so that COMPUTER algorithms for feature extraction 
+it to the pattern boundary radius vector, AND DESCRIPTIONS 
+linear pattern MEASURES, width functions 
+*********************************************************************
+Document:CACM-1619
+
+error-free methods for statistical computations 
+neely has discussed computational error generated 
+BY some algorithms used to compute various 
+*********************************************************************
+Document:CACM-1706
+
+AND a variant OF snobol's pattern MATCHING make up 
+structure MATCHING, recursive programming, quantifiers 
+champ-character manipulation procedures 
+*********************************************************************
+Document:CACM-1427
+
+simulation OF radioisotope scans BY COMPUTER 
+the scan is a TWO-DIMENSIONAL pattern made up OF dots. 
+written for a pdp-1 COMPUTER with auxiliary disk 
+*********************************************************************
+Document:CACM-1350
+
+grammar gs. the structural DESCRIPTIONS 
+the structural DESCRIPTIONS sd(g,x) assigned to the 
+the augmented predictive analyzer for context-free 
+languages-its relative efficiency 
+*********************************************************************
+Document:CACM-1952
+
+index BY subject to algorithms, 1970 
+cacm december, 1970 
+ca701211 jb february 9, 1978 2:50 pm 
+*********************************************************************
+Document:CACM-1660
+
+index BY subject to algorithms, 1960-1968 
+cacm december, 1968 
+ca681206 jb february 21, 1978 1:39 pm 
+*********************************************************************
+Document:CACM-3047
+
+a number OF image ANALYSIS tasks can benefit 
+we achieve the required alignment BY MATCHING the real 
+image transformation, image MATCHING, shaded images 
+using synthetic images to register real images with surface models 
+*********************************************************************
+Document:CACM-3165
+
+organization, eliminating the need for the RECOGNITION OF region boundaries. 
+computational geometry, COMPUTER cartography, automated cartography 
+approximation OF polygonal maps BY cellular maps 
+*********************************************************************
+Document:CACM-0950
+
+computations OF highly parallel COMPUTERS as can be 
+OF numerical ANALYSIS will have to be recast in a more 
+parallel methods for integrating ordinary differential equations 
+*********************************************************************
+Document:CACM-0543
+
+interpolation BY aitken (algorithm 70) 
+cacm july, 1962 
+relph, a. p. 
+*********************************************************************
+Document:CACM-0260
+
+interpolation BY aitken (algorithm 70) 
+cacm november, 1961 
+mifsud, c. j. 
+*********************************************************************
+Document:CACM-0363
+
+on approximating transcendental numbers BY continued fractions 
+cacm april, 1961 
+karst, e. 
+*********************************************************************
+Document:CACM-2523
+
+a region coloring technique for scene ANALYSIS 
+picture processing, scene ANALYSIS, edge detection 
+a method OF converting a picture into a "cartoon" 
+*********************************************************************
+Document:CACM-2308
+
+COMPUTERS AND urban society 
+this brief survey OF the use OF COMPUTERS in 
+decision makers. the COMPUTER can be, if properly 
+OF such COMPUTER usage will outweigh the costs 
+*********************************************************************
+Document:CACM-1808
+
+advanced cryptographic techniques for COMPUTERS 
+BY COMPUTERS are dealt with. special emphasis is paid 
+to the unique characteristics OF COMPUTER files 
+*********************************************************************
+Document:CACM-1176
+
+finding eigenvectors BY gaussian elimination (algorithm 270 [f2]) 
+cacm november, 1965 
+newhouse, a. 
+*********************************************************************
+Document:CACM-1078
+
+elementary functions BY continued fractions (algorithm 229) 
+cacm may, 1964 
+morelock, j. c. 
+*********************************************************************
+Document:CACM-0932
+
+matrix inversion BY gauss-jordan inversion ii (algorithm 120) 
+cacm january, 1963 
+naur, p. 
+*********************************************************************
+Document:CACM-0654
+
+language problems posed BY heavily structured data 
+cacm january, 1962 
+barnes, r. f. 
+*********************************************************************
+Document:CACM-0246
+
+least-squares fit BY orthogonal polynomials (algorithm 28) 
+cacm december, 1961 
+macmillan, d. b. 
+*********************************************************************
+Document:CACM-0209
+
+symbol manipulation BY threaded lists 
+cacm april, 1960 
+perlis, a. j. 
+*********************************************************************
+Document:CACM-0150
+
+rational interpolation BY continued fractions (algorithm 18) 
+cacm september, 1960 
+floyd, r. w. 
+*********************************************************************
+Document:CACM-0633
+
+simulation AND ANALYSIS OF biochemical systems 
+(iii. ANALYSIS AND pattern RECOGNITION) 
+cacm february, 1962 
+*********************************************************************
+Document:CACM-3143
+
+OF these ideas is illustrated BY informal DESCRIPTIONS OF 
+reasoning about arrays 
+a variety OF concepts, laws, AND notations are presented which facilitate 
+*********************************************************************
+Document:CACM-0515
+
+rational interpolation BY continued fractions (algorithm 18) 
+cacm august, 1962 
+thacher jr., h. c. 
+*********************************************************************
+Document:CACM-0176
+
+symbol manipulation BY threaded lists (corrigendum) 
+cacm june, 1960 
+perlis, a. j. 
+*********************************************************************
+Document:CACM-0126
+
+least squares fit BY orthogonal polynomials (algorithm 28) 
+cacm november, 1960 
+mackinney, j. g. 
+*********************************************************************
+Document:CACM-3055
+
+an ANALYSIS OF algorithms for the dutch national flag problem 
+algorithmic ANALYSIS, dutch national flag 
+solutions to the dutch national flag problem 
+*********************************************************************
+Document:CACM-1598
+
+least squares fit BY orthogonal polynomials (algorithm 28 [e2]) 
+cacm may, 1967 
+makinson, g. j. 
+*********************************************************************
+Document:CACM-0872
+
+adaptive numerical integration BY simpson's rule (algorithm 145) 
+cacm april, 1963 
+mckeeman, w. m. 
+*********************************************************************
+Document:CACM-0429
+
+adaptive nimerical integration BY simpson's rule (algorithm 145) 
+cacm december, 1962 
+mckeeman, w. m. 
+*********************************************************************
+Document:CACM-0297
+
+a note on fitting great circles BY least squares 
+cacm august, 1961 
+marcus, c. f. 
+*********************************************************************
+Document:CACM-1726
+
+pattern RECOGNITION, character RECOGNITION, text 
+material into COMPUTER code are experimentally 
+ANALYSIS. these areas are then rescanned at a higher 
+resolution suitable for character RECOGNITION. 
+*********************************************************************
+Document:CACM-2253
+
+manipulation, syntactic ANALYSIS, well-formed 
+index ranges for matrix calculi 
+the paper describes a scheme for symbolic 
+*********************************************************************
+Document:CACM-3057
+
+optimal his togram MATCHING BY monotone gray level transformation 
+his togram MATCHING using monotone gray level 
+optimal his togram MATCHING is presented which has time 
+optimal his togram MATCHING, gray level transformation, 
+*********************************************************************
+Document:CACM-1640
+
+generalized least squared fit BY orthogonal 
+polynomials (algorithm 296 [e2]) 
+cacm february, 1967 
+*********************************************************************
+Document:CACM-1578
+
+generalized least squares fit BY orthogonal 
+polynomials (algorithm 296 [e2]) 
+cacm june, 1967 
+*********************************************************************
+Document:CACM-1298
+
+adaptive numerical integration BY simpson's rule (algorithm 145 [d1]) 
+cacm march, 1965 
+pike, m. c. 
+*********************************************************************
+Document:CACM-2494
+
+a COMPUTER generated graphic method, which 
+scheme OF cluster ANALYSIS, is described AND illustrated. 
+BY COMPUTER printed symbols (OF character 
+COMPUTER graphics, cluster ANALYSIS, numerical 
+*********************************************************************
+Document:CACM-2030
+
+each context-sensitive ANALYSIS once AND only once. the amount OF memory 
+formal language theory, parsing, parsing algorithms, RECOGNITION algorithms 
+context-sensitive parsing 
+*********************************************************************
+Document:CACM-1045
+
+programming ANALYSIS OF variance BY sequences 
+has been found to be efficient in programming ANALYSIS 
+OF operators AND isomorphic mappings 
+*********************************************************************
+Document:CACM-2947
+
+retrieval, literary ANALYSIS, linguistic ANALYSIS, command languages 
+sitar: an interactive text processing system for small COMPUTERS 
+AND text ANALYSIS system for nontechnical users, 
+COMPUTER invoked BY a crt with microprogrammed 
+*********************************************************************
+Document:CACM-0912
+
+BY fortran for ANALYSIS OF variance 
+addressing an array yi in k-dimensions 
+cacm march, 1963 
+*********************************************************************
+Document:CACM-2966
+
+the results OF COMPUTER simulations are presented which 
+MATCHING, file searching, best match, nearest-neighbor classification 
+the choice OF reference poin ts in best-match file searching 
+*********************************************************************
+Document:CACM-2352
+
+minimax nonlinear approximation BY approximation on subsets 
+cacm may, 1972 
+dunham, c. b. 
+*********************************************************************
+Document:CACM-2024
+
+comments on a paper BY lowe 
+cacm july, 1970 
+sattley, k. 
+*********************************************************************
+Document:CACM-1799
+
+elementary functions BY continued fractions (algorithm 229 [b1]) 
+cacm december, 1969 
+bray, t. a. 
+*********************************************************************
+Document:CACM-2575
+
+searching, MATCHING, dissimilarity, hierarchy, 
+the best-match problem in document retrieval 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-0254
+
+COMPUTER conference, several people in the joint 
+for use with compilers on relatively small size COMPUTERS. 
+60 for use on small COMPUTERS is presented here. 
+smalgol-61 
+*********************************************************************
+Document:CACM-2101
+
+least squares fit BY f(x) = acos(bx+c) (algorithm 376 $e2)) 
+cacm february, 1970 
+spath, h. 
+*********************************************************************
+Document:CACM-0946
+
+suggestions on algol 60 (rome) issues - a report BY the american 
+standards association subcommittee x3.4.2 
+cacm january, 1963 
+*********************************************************************

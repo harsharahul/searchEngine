@@ -1,0 +1,676 @@
+Query:the application of fuzzy subset theory to clustering and information retrieval problems  this includes performance evaluation and automatic indexing considerations
+
+Document:CACM-2990
+
+INFORMATION RETRIEVAL, AUTOMATIC INDEXING, content 
+THE PERFORMANCE OF INFORMATION RETRIEVAL systems 
+effective INFORMATION RETRIEVAL using term accuracy 
+on measuring THE RETRIEVAL PERFORMANCE OF an average 
+*********************************************************************
+Document:CACM-2711
+
+AUTOMATIC INFORMATION RETRIEVAL, AUTOMATIC 
+a vector space model for AUTOMATIC INDEXING 
+in particular, RETRIEVAL PERFORMANCE may correlate inversely 
+in a document RETRIEVAL, or other pattern matching 
+*********************************************************************
+Document:CACM-0329
+
+as is its APPLICATION TO PROBLEMS OF AUTOMATIC 
+INDEXING AND AUTOMATIC abstracting. included in THE 
+AND linguistic techniques for THE solution OF PROBLEMS OF AUTOMATIC analysis. 
+AUTOMATIC abstracting AND INDEXING survey AND recommendations 
+*********************************************************************
+Document:CACM-1457
+
+in AUTOMATIC INFORMATION RETRIEVAL 
+AUTOMATIC INFORMATION RETRIEVAL programs require 
+manipulations TO be performed in AUTOMATIC INFORMATION 
+for THE RETRIEVAL APPLICATION are examined, 
+*********************************************************************
+Document:CACM-1032
+
+theoretical CONSIDERATIONS in INFORMATION RETRIEVAL systems 
+INFORMATION storage AND RETRIEVAL systems are composed 
+(c) file organization TO make access TO INFORMATION 
+efficient. for identification OF INFORMATION THE paper 
+*********************************************************************
+Document:CACM-1653
+
+system PERFORMANCE EVALUATION: survey AND appraisal 
+THE state OF THE art OF system PERFORMANCE 
+PROBLEMS are examined. throughput, turnaround, AND 
+OF PERFORMANCE; overhead AND cpu speed are placed in 
+*********************************************************************
+Document:CACM-2631
+
+text searching, INFORMATION THEORY, file organization, 
+direct access, INFORMATION RETRIEVAL, character 
+INFORMATION, an attempt is made TO overcome 
+RETRIEVAL, namely, THE maintenance AND use OF large 
+*********************************************************************
+Document:CACM-2451
+
+a standard INFORMATION RETRIEVAL operation is 
+tree file, INFORMATION storage AND RETRIEVAL, CLUSTERING, 
+such trees TO serve a well-specified APPLICATION. THE 
+PERFORMANCE AND that OF an intuitively attractive 
+*********************************************************************
+Document:CACM-2307
+
+AUTOMATIC INDEXING, AUTOMATIC search AND RETRIEVAL, 
+for INFORMATION RETRIEVAL AND for THE control 
+THE current role OF computers in AUTOMATIC 
+files are searched AND INFORMATION is retrieved following 
+*********************************************************************
+Document:CACM-2542
+
+is proposed. a system which integrates PERFORMANCE EVALUATION 
+a software design AND EVALUATION system 
+THE PERFORMANCE OF a proposed design is not evaluated 
+description is used as direct input TO PERFORMANCE 
+*********************************************************************
+Document:CACM-2882
+
+list, INFORMATION RETRIEVAL, database organizations, 
+a stochastic EVALUATION model for database 
+organization in data RETRIEVAL systems 
+scale data RETRIEVAL systems has been scarce due 
+*********************************************************************
+Document:CACM-2984
+
+computer system, PERFORMANCE EVALUATION, cost/utilization, system balance 
+cost/utilization: a measure OF system PERFORMANCE 
+system PERFORMANCE in terms OF a cost/utilization 
+cost is effectively utilized. THE method INCLUDES a 
+*********************************************************************
+Document:CACM-1699
+
+INFORMATION RETRIEVAL testing, INFORMATION system 
+OF mechanized INFORMATION RETRIEVAL systems, 
+OF THE research is that an INFORMATION RETRIEVAL system 
+experimental EVALUATION OF INFORMATION 
+*********************************************************************
+Document:CACM-1267
+
+PERFORMANCE OF systems used for data transmission 
+transfer rate OF INFORMATION bits -an asa tutorial 
+INFORMATION thruput as a characteristic OF 
+systems PERFORMANCE is discussed. THIS discussion 
+*********************************************************************
+Document:CACM-2575
+
+THE best-match problem in document RETRIEVAL 
+document RETRIEVAL, best match, CLUSTERING, file 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-1236
+
+THE smart AUTOMATIC document RETRIEVAL system-an illustration 
+a fully AUTOMATIC document RETRIEVAL system 
+AND search requests. THIS feature is used in THE RETRIEVAL 
+retrieve THE wanted INFORMATION. a typical search 
+*********************************************************************
+Document:CACM-2140
+
+files, INFORMATION RETRIEVAL, query, multi-attribute 
+OF file INDEXING named combined indices. THIS technique 
+permitted decreased RETRIEVAL time at THE cost 
+different fractions OF RETRIEVAL AND update. tradeoff 
+*********************************************************************
+Document:CACM-2976
+
+AND measurement, INFORMATION RETRIEVAL, 
+database, inverted file organization, database PERFORMANCE 
+approximating block accesses in database organizations 
+*********************************************************************
+Document:CACM-3169
+
+query, boolean expression, optimal EVALUATION, INFORMATION RETRIEVAL 
+note on "an optimal EVALUATION OF boolean expressions 
+in an online query system." 
+*********************************************************************
+Document:CACM-1675
+
+INFORMATION RETRIEVAL, relevance, INDEXING, classification 
+a note on a relevance estimate AND its improvement 
+in THIS paper THE effect OF iterating THE improvement 
+*********************************************************************
+Document:CACM-2561
+
+inference, inductive inference, CLUSTERING, fact RETRIEVAL, heuristics 
+a heuristic approach TO inductive inference in fact RETRIEVAL systems 
+from available INFORMATION. THE procedures make use 
+data base using nonnumerical CLUSTERING algorithms. they 
+*********************************************************************
+Document:CACM-2959
+
+within which APPLICATION experts-nonprogrammers-can 
+THE user OF sba views his APPLICATION as manipulation 
+OF INFORMATION in two-dimensional pictures OF tables, 
+he can gradually automate THIS APPLICATION by giving "examples" 
+*********************************************************************
+Document:CACM-2991
+
+CLUSTERING, INFORMATION RETRIEVAL, open addressing, open 
+CLUSTERING in THE key set is decreased by 
+lead TO improved file PERFORMANCE for secondary 
+improving THE access time for random access files 
+*********************************************************************
+Document:CACM-0891
+
+everyman's INFORMATION RETRIEVAL system 
+THE INFORMATION RETRIEVAL problem whose solution 
+TO many different types OF RETRIEVAL PROBLEMS. further,the 
+TO install an INFORMATION RETRIEVAL program in less than 
+*********************************************************************
+Document:CACM-0944
+
+trees. such trees have INFORMATION storage AND RETRIEVAL 
+properties applicable TO PROBLEMS involving 
+large quantities OF data or TO PROBLEMS where THE quantity, 
+word length AND distribution OF stored INFORMATION 
+*********************************************************************
+Document:CACM-2965
+
+query, boolean expression, INFORMATION RETRIEVAL, file organization 
+an optimal EVALUATION OF boolean expressions in an online query system 
+cacm may, 1977 
+*********************************************************************
+Document:CACM-3168
+
+query, boolean expression, INFORMATION RETRIEVAL, file organization 
+comment on "an optimal EVALUATION OF boolean 
+expressions in an online query system." 
+*********************************************************************
+Document:CACM-2217
+
+PERFORMANCE on PROBLEMS in a specific domain AND 
+experiments in AUTOMATIC learning for a multipurpose heuristic program 
+an AUTOMATIC learning capability has been developed 
+multiple's proving program (pp) uses two EVALUATION 
+*********************************************************************
+Document:CACM-2478
+
+synthesis, FUZZY educational structure 
+computer science-seminars for undergraduates 
+cacm july, 1973 
+*********************************************************************
+Document:CACM-2318
+
+THE role OF computer system models in PERFORMANCE EVALUATION 
+modeling, EVALUATION, PERFORMANCE, analytic-models, 
+computer system PERFORMANCE. THIS paper 
+methods for evaluating THE PERFORMANCE OF computer 
+*********************************************************************
+Document:CACM-2454
+
+AND quite simple TO implement. implementation CONSIDERATIONS 
+order OF EVALUATION are examined in some detail. 
+queueing THEORY, queueing networks, equilibrium 
+computational algorithms for closed queueing 
+*********************************************************************
+Document:CACM-1948
+
+computers in group THEORY: a survey 
+diverse range OF PROBLEMS in group THEORY. 
+THE most important areas OF APPLICATION at present are 
+calculus. group THEORY programs range from 
+*********************************************************************
+Document:CACM-1627
+
+APPLICATION OF level changing TO a multilevel storage organization 
+storage capacities OF certain data management AND INFORMATION 
+RETRIEVAL systems. THE concept OF level 
+changing is introduced AND its APPLICATION TO THE multilevel 
+*********************************************************************
+Document:CACM-1935
+
+AND offers new potential for INFORMATION RETRIEVAL systems. 
+binary pattern, file examination, graph THEORY, INFORMATION 
+RETRIEVAL, mathematical model, partitioning, 
+randomized binary search technique 
+*********************************************************************
+Document:CACM-3089
+
+AND system PERFORMANCE EVALUATION 
+PERFORMANCE OF rollback recovery systems under intermittent failures 
+INFORMATION processing. THE model is used TO derive THE 
+principal PERFORMANCE measures, including availability, 
+*********************************************************************
+Document:CACM-1926
+
+system. it features good PERFORMANCE, totally 
+including up TO eight columns per page, AUTOMATIC 
+text processing, INDEXING, printing, documentation, 
+description OF format, a text-processing program 
+*********************************************************************
+Document:CACM-2278
+
+binary trees, search trees, INFORMATION storage, INFORMATION RETRIEVAL 
+on foster's INFORMATION storage AND RETRIEVAL using avl trees 
+cacm september, 1972 
+*********************************************************************
+Document:CACM-1938
+
+some criteria for time-sharing system PERFORMANCE 
+makes quantitative EVALUATION OF time-sharing systems 
+quantitative time-sharing system PERFORMANCE 
+EVALUATION. 
+*********************************************************************
+Document:CACM-3134
+
+INFORMATION RETRIEVAL, inverted files, multiattribute RETRIEVAL, 
+d RETRIEVAL OF INFORMATION are described. THIS method is particularly 
+for INFORMATION storage AND RETRIEVAL 
+THIS paper describes a method for THE organization AND RETRIEVAL OF attribute 
+*********************************************************************
+Document:CACM-2288
+
+RETRIEVAL, INFORMATION RETRIEVAL, record organization, 
+file organization: THE consecutive RETRIEVAL property 
+THE consecutive RETRIEVAL property is an important 
+set. its existence enables THE design OF an INFORMATION 
+*********************************************************************
+Document:CACM-1976
+
+multi-attribute RETRIEVAL with combined indexes 
+all keys satisfying any input query derived from a SUBSET OF 
+cases, is THE same as THE secondary INDEXING method. in THE general case, 
+file organization, secondary index files, inverted files, INFORMATION 
+*********************************************************************
+Document:CACM-2598
+
+extending THE INFORMATION THEORY approach TO converting 
+in INFORMATION THEORY OF noiseless coding. THE results 
+in THIS paper perform limited search AND, accordingly, 
+THE two PROBLEMS is also used TO develop improvements 
+*********************************************************************
+Document:CACM-2258
+
+file search, scatter storage, INFORMATION RETRIEVAL 
+techniques: a fundamental PERFORMANCE study on 
+additional results on key-to-address transform 
+large existing formatted files 
+*********************************************************************
+Document:CACM-2669
+
+a simple linear model OF demand paging PERFORMANCE 
+predicting THE PERFORMANCE OF a proposed automatically 
+INFORMATION stored in THE memory. some recent 
+model combines THE effect OF THE INFORMATION 
+*********************************************************************
+Document:CACM-1652
+
+TO PROBLEMS in area such as INFORMATION RETRIEVAL, document 
+a code for non-numeric INFORMATION processing 
+THE internal INFORMATION processing operations 
+rate OF THE INFORMATION channel linking THE system AND 
+*********************************************************************
+Document:CACM-2437
+
+storage, INFORMATION RETRIEVAL, hashing analysis, 
+general PERFORMANCE analysis OF key-to-address 
+OF PERFORMANCE OF THE various key-to-address 
+average PERFORMANCE OF THE transformation methods on 
+*********************************************************************
+Document:CACM-2139
+
+compression, INFORMATION RETRIEVAL, searching 
+substring, hashing, SUBSET, signature, INFORMATION 
+implementation OF THE substring test by hashing 
+*********************************************************************
+Document:CACM-1415
+
+toward conducting AUTOMATIC RETRIEVAL OF natural 
+for improving THE PERFORMANCE OF AUTOMATIC 
+AUTOMATIC derivation OF microsentences 
+message RETRIEVAL systems, they may have practical 
+*********************************************************************
+Document:CACM-1516
+
+AUTOMATIC data compression 
+THE "INFORMATION explosion" noted in recent 
+be used with "any" body OF INFORMATION TO greatly reduce 
+THE rate OF INFORMATION transmission through a computer 
+*********************************************************************
+Document:CACM-2641
+
+a minimal spanning tree CLUSTERING method [z] (algorithm a479) 
+CLUSTERING, pattern recognition, feature 
+cacm june, 1974 
+*********************************************************************
+Document:CACM-2346
+
+INFORMATION THEORY, coding THEORY, hu-tucker 
+hu-tucker minimum redundancy alphabetic 
+coding method [z] (algorithm a428) 
+*********************************************************************
+Document:CACM-1029
+
+a procedure for AUTOMATIC EVALUATION OF total/partial 
+for THE AUTOMATIC EVALUATION AND differentiation 
+a simple AUTOMATIC derivative EVALUATION program 
+*********************************************************************
+Document:CACM-1048
+
+approximate solution OF axially symmetric PROBLEMS 
+a variety OF physical PROBLEMS in such diverse 
+fields as electrostatic field THEORY, heat 
+AND ideal fluid flow, AND stress concentration THEORY 
+*********************************************************************
+Document:CACM-2568
+
+THE problem classically titled "THE examination 
+in THE terminology OF classical network THEORY. 
+subsets such that no two members OF THE same SUBSET 
+APPLICATION OF THIS algorithm TO THE solution OF 
+*********************************************************************
+Document:CACM-2059
+
+operation research, network PROBLEMS, control THEORY, traffic PROBLEMS, etc. 
+by means OF a syntax-driven compiler. APPLICATION areas for THIS language are 
+a language for treating graphs 
+*********************************************************************
+Document:CACM-1272
+
+in AUTOMATIC abstracting, citation INDEXING, 
+editing is required whenever THE AUTOMATIC method leaves 
+are described, such as THE quick, unbiased EVALUATION 
+expanding THE editing function in language data processing 
+*********************************************************************
+Document:CACM-0696
+
+an AUTOMATIC data acquisition AND inquiry system using disk files 
+a large-scale AUTOMATIC data acquisition 
+california. THE system INCLUDES over 200 remote input 
+TO store INFORMATION required TO provide up-to-date 
+*********************************************************************
+Document:CACM-1792
+
+in programmer PERFORMANCE. methodological PROBLEMS encountered 
+online AND off line programming PERFORMANCE 
+PERFORMANCE OF programmers working under conditions 
+PERFORMANCE under controlled conditions for standard 
+*********************************************************************
+Document:CACM-2094
+
+their solution. in THIS paper THE APPLICATION TO PROBLEMS OF THIS 
+certain nonlinear minimax approximation PROBLEMS are characterize 
+d by properties which permit THE APPLICATION OF special algorithms, 
+algorithm can give satisfactory results AND, in particular, can 
+*********************************************************************
+Document:CACM-1927
+
+science, INFORMATION organization, INFORMATION RETRIEVAL, 
+INFORMATION science in a ph. computer science program 
+curriculum in THE general area OF INFORMATION 
+organization AND INFORMATION system design in a ph. 
+*********************************************************************
+Document:CACM-2268
+
+a study comparing THE PERFORMANCE OF several computer 
+procedure is described together with THE EVALUATION 
+criteria applied. a set OF test PROBLEMS on which 
+for THE particular PROBLEMS AND criteria used in 
+*********************************************************************
+Document:CACM-2265
+
+notions OF abstraction AND APPLICATION OF functions. 
+within a decidable SUBSET OF THE lambda calculus, which 
+AND eliminates all other INFORMATION. THE determination 
+program or THE constant "error". an APPLICATION 
+*********************************************************************
+Document:CACM-1173
+
+THE gier algol compiler makes use OF an AUTOMATIC 
+described. THE PERFORMANCE OF THE system is discussed, 
+THE PERFORMANCE OF a system for AUTOMATIC segmentation 
+OF programs within an algol compiler (gier 
+*********************************************************************
+Document:CACM-1194
+
+paramount in THE provision OF INFORMATION services: 
+(1) easy accessibility TO THE INFORMATION files by users 
+THE main features OF THE INFORMATION system are direct 
+user access through many facets OF document INDEXING, 
+*********************************************************************
+Document:CACM-2835
+
+use in compiler optimization. implementation CONSIDERATIONS 
+possible SUBSET OF values could be assumed by variables 
+recursion analysis for compiler optimization 
+*********************************************************************
+Document:CACM-1681
+
+remote console communication, INFORMATION RETRIEVAL, 
+mode, INFORMATION RETRIEVAL language, symbolic command language 
+easy english,a language for INFORMATION 
+RETRIEVAL through a remote typewriter console 
+*********************************************************************
+Document:CACM-1830
+
+INFORMATION RETRIEVAL, direct access memory, data base, inverted list 
+RETRIEVAL times for a packed direct access inverted file 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-2327
+
+automata THEORY, brain THEORY, network complexity, 
+toward an automata THEORY OF brains 
+development OF THE THEORY. THIS paper suggests THE ways 
+in which automata THEORY might evolve over THE 
+*********************************************************************
+Document:CACM-2107
+
+code eliminating secondary CLUSTERING 
+secondary CLUSTERING as a cause OF hash code inefficiency is discussed, AND a 
+hashing, hash code, scatter storage, calculated address, CLUSTERING, 
+THE quadratic quotient method: a hash 
+*********************************************************************
+Document:CACM-2577
+
+an on-site data management system APPLICATION in field archaeology 
+site data management, RETRIEVAL systems 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-1290
+
+for INFORMATION interchange -a tutorial 
+THIS paper gives THE CONSIDERATIONS OF task 
+upon solutions TO THE PROBLEMS OF transparency 
+moreover, it goes on TO cover THE additional control PROBLEMS 
+*********************************************************************
+Document:CACM-0397
+
+a card format for reference files in INFORMATION processing 
+a variety OF reference files in INFORMATION 
+material INCLUDES basically an index, title, source, 
+THE identification INCLUDES basically codes for a 
+*********************************************************************
+Document:CACM-2319
+
+EVALUATION, PERFORMANCE measurement, measurement, 
+operating system PERFORMANCE 
+with respect TO operating system PERFORMANCE 
+is given. while a great deal OF INFORMATION AND a large 
+*********************************************************************
+Document:CACM-2699
+
+AUTOMATIC data structure choice in a language OF very high level 
+objects INCLUDES finite sets, ordered n-tuples, AND 
+kind have been established, AUTOMATIC choice OF 
+program optimization, AUTOMATIC programming, high-level 
+*********************************************************************
+Document:CACM-1087
+
+PROBLEMS in AUTOMATIC abstracting 
+a variety OF PROBLEMS concerning THE design 
+AND operation OF an AUTOMATIC abstracting system 
+*********************************************************************
+Document:CACM-1934
+
+EVALUATION OF an arithmetic expression 
+TO a specific problem under THE THEORY OF graphs. 
+arithmetic expression, compiler design, graph THEORY, 
+on arithmetic expressions AND trees 
+*********************************************************************
+Document:CACM-2253
+
+THE paper is therefore preoccupied with "INDEXING 
+by position." THE relationship OF "INDEXING by 
+name" AND "INDEXING by position" is discussed. 
+compilation, data structures, INDEXING by name, 
+*********************************************************************
+Document:CACM-0675
+
+coding clinical laboratory data for AUTOMATIC storage AND RETRIEVAL 
+chemistry, AND hematology test results for AUTOMATIC 
+that even though many PROBLEMS remain unsolved, 
+automated INFORMATION system in THE laboratory. 
+*********************************************************************
+Document:CACM-0275
+
+dynamic storage allocation for an INFORMATION RETRIEVAL system 
+cacm october, 1961 
+sams, b. h. 
+*********************************************************************
+Document:CACM-2050
+
+INFORMATION RETRIEVAL, language analysis, text processing 
+AUTOMATIC parsing for content analysis 
+although AUTOMATIC syntactic AND semantic analysis is not yet possible for 
+*********************************************************************
+Document:CACM-1858
+
+THE algorithm INCLUDES an AUTOMATIC error control 
+an algorithm for filon quadrature 
+an algorithm for filon quadrature is described. 
+*********************************************************************
+Document:CACM-2789
+
+a minimal spanning tree CLUSTERING method (algorithm r479) 
+cacm february, 1975 
+magnuski, h. s. 
+*********************************************************************
+Document:CACM-2070
+
+a formal system for INFORMATION RETRIEVAL from files 
+cacm april, 1970 
+hsiao, d. 
+*********************************************************************
+Document:CACM-0987
+
+for INFORMATION processing on AUTOMATIC data 
+fortran vs. basic fortran (a programming language 
+processing systems) 
+*********************************************************************
+Document:CACM-2532
+
+string, substring, hashing, INFORMATION storage AND RETRIEVAL 
+on harrison's substring testing technique 
+cacm march, 1973 
+*********************************************************************
+Document:CACM-2842
+
+THEORY OF programming language semantics developed 
+by d. scott AND c. strachey. THE APPLICATION OF THE THEORY 
+AND THE underlying mathematical THEORY OF computation 
+environment, store, continuation, THEORY 
+*********************************************************************
+Document:CACM-3093
+
+AUTOMATIC error recovery for lr parsers 
+by INFORMATION which is directly AND automatically 
+obtainable from THE INFORMATION that is already present 
+programming languages, error correction, AUTOMATIC 
+*********************************************************************
+Document:CACM-2812
+
+AND PERFORMANCE EVALUATION. there are four major 
+computer-aided analysis AND design OF INFORMATION systems 
+AND PERFORMANCE evaluator. THE statement OF requirements 
+additional INFORMATION in order TO create a complete 
+*********************************************************************
+Document:CACM-1108
+
+lunar sight line measurement INFORMATION. THIS INFORMATION 
+processing CONSIDERATIONS have on THE design OF 
+APPLICATION, an optical telescope with a radial mechanical 
+digital data processor for tracking THE partially illuminated moon* 
+*********************************************************************
+Document:CACM-1911
+
+OF transformational THEORY. TO account for these phenomena 
+grammar. THIS machinery INCLUDES certain rule 
+THEORY, syntax, coordination, sentence 
+on coordination reduction AND sentence analysis 
+*********************************************************************
+Document:CACM-3048
+
+PERFORMANCE EVALUATION OF highly concurrent 
+for PERFORMANCE EVALUATION OF alternative 
+statistics needed for PERFORMANCE EVALUATION, without 
+PERFORMANCE EVALUATION, deterministic simulation, 
+*********************************************************************
+Document:CACM-2452
+
+EVALUATION AND selection OF file organization-a model AND system 
+affect file (data base) organization PERFORMANCE, 
+OF data base structure design AND EVALUATION. 
+file organization PERFORMANCE, file organization 
+*********************************************************************
+Document:CACM-1651
+
+solving rather small lp PROBLEMS. THIS latter (limited) 
+in THE code itself, but from an efficiency EVALUATION: 
+large lp PROBLEMS would doubtless benefit from 
+THE article INCLUDES examples OF input, output from a 
+*********************************************************************
+Document:CACM-2765
+
+analysis AND PERFORMANCE OF inverted data base structures 
+on PERFORMANCE. THE formulations presented are necessary 
+data base PERFORMANCE AND measurement, secondary 
+index organization, INFORMATION storage AND RETRIEVAL, query answering 
+*********************************************************************
+Document:CACM-1827
+
+PERFORMANCE monitoring, PERFORMANCE measurement, 
+PERFORMANCE monitoring in a time-sharing system 
+AND PERFORMANCE. THE overall structure OF mts is outlined 
+examples are given OF INFORMATION obtained with THE 
+*********************************************************************
+Document:CACM-2552
+
+hash code, open hash, chaining, INFORMATION RETRIEVAL, collision 
+a note on when TO chain overflow items within a direct-access table 
+cacm january, 1973 
+*********************************************************************
+Document:CACM-2453
+
+INFORMATION THEORY applied TO THE conversion 
+using ideas from INFORMATION THEORY, THIS paper 
+decision tables, optimum computer programs, INFORMATION measure 
+OF decision tables TO computer programs 
+*********************************************************************
+Document:CACM-3012
+
+THE use OF an interactive INFORMATION storage 
+AND RETRIEVAL system in medical research 
+AND RETRIEVAL system. a monitor built into THE computer 
+implementation, system use, INFORMATION storage AND RETRIEVAL system 
+*********************************************************************
+Document:CACM-3119
+
+PERFORMANCE EVALUATION, queueing models 
+simple queueing models are used TO study THE PERFORMANCE tradeoffs OF 
+THE impact OF distributions AND disciplines 
+on multiple processor systems 
+*********************************************************************
+Document:CACM-1136
+
+beginnings OF a THEORY OF INFORMATION handling* 
+cacm february, 1964 
+steel jr., t. b. 
+*********************************************************************

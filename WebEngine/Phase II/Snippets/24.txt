@@ -1,0 +1,620 @@
+Query:applied stochastic processes
+
+Document:CACM-1696
+
+and transient states of a STOCHASTIC matrix 
+with certain sequences of STOCHASTIC matrices 
+STOCHASTIC matrix, ergodic, chain identification 
+an algorithm for identifying the ergodic subchains 
+*********************************************************************
+Document:CACM-0268
+
+STOCHASTIC evaluation of a static storage allocation 
+cacm october, 1961 
+cohen, l. j. 
+*********************************************************************
+Document:CACM-0020
+
+accelerating convergence of iterative PROCESSES 
+a technique is discussed which, when APPLIED 
+to an iterative procedure for the solution of 
+*********************************************************************
+Document:CACM-1410
+
+requires the description of the STOCHASTIC 
+PROCESSES governing the user inputs and the program activity. 
+interarrival statistics for time sharing systems 
+*********************************************************************
+Document:CACM-3043
+
+distributed PROCESSES: a concurrent programming concept 
+a language concept for concurrent PROCESSES 
+PROCESSES communicate and synchronize by means of procedure 
+the paper gives several examples of distributed PROCESSES 
+*********************************************************************
+Document:CACM-3073
+
+communicating sequential PROCESSES 
+composition of communicating sequential PROCESSES is 
+this paper suggests that input and output are 
+*********************************************************************
+Document:CACM-2342
+
+interference between communicating parallel PROCESSES 
+parallel PROCESSES have been examined by 
+PROCESSES is regarded as a machine which proceeds 
+rules" by which the individual PROCESSES operate. 
+*********************************************************************
+Document:CACM-0942
+
+piece of APPLIED statistical research, involving extensive 
+PROCESSES that were required could be built 
+fortran subroutines for time series analysis 
+*********************************************************************
+Document:CACM-2376
+
+synchronization of communicating PROCESSES 
+running PROCESSES of a system communicate correctly. 
+many sending PROCESSES which deposit messages in a buffer 
+and many receiving PROCESSES which remove messages 
+*********************************************************************
+Document:CACM-2882
+
+a STOCHASTIC evaluation model for database 
+query complexity, STOCHASTIC model, monte carlo 
+organization in data retrieval systems 
+*********************************************************************
+Document:CACM-2740
+
+sequential PROCESSES. the PROCESSES synchronize by 
+semaphores). the number of parallel PROCESSES is carefully 
+cooperating PROCESSES, operating system, semaphores, 
+structuring, buffering, parallel PROCESSES, synchronizing 
+*********************************************************************
+Document:CACM-1540
+
+is more STOCHASTIC than monte carlo in nature. 
+an algorithm for class scheduling with section preference 
+an algorithm for assignment of students to classes 
+*********************************************************************
+Document:CACM-0412
+
+recursive PROCESSES and algol translation 
+cacm january, 1961 
+gray, a. a. 
+*********************************************************************
+Document:CACM-3141
+
+in circular configurations of PROCESSES 
+numbered PROCESSES arranged in a circle, in which no central 
+controller exists and the number of PROCESSES is not known a priori. 
+an improved algorithm for decentralized extrema-finding 
+*********************************************************************
+Document:CACM-1749
+
+sequential PROCESSES. these sequential PROCESSES are placed 
+sequential PROCESSES, system levels, input-output 
+the structure of the "the"-multiprogramming system 
+*********************************************************************
+Document:CACM-1194
+
+of the ir system APPLIED to its operation 
+and STOCHASTIC search through linked index terms 
+establishment of the acm repository and principles 
+*********************************************************************
+Document:CACM-3120
+
+and PROCESSES. the work of the compiler-writer becomes easier both 
+this technique has been APPLIED to the construction of an algol 
+an event-driven compiling technique 
+*********************************************************************
+Document:CACM-2320
+
+a data structure shared by concurrent PROCESSES 
+competing PROCESSES to any degree desired. these 
+operating systems, concurrent PROCESSES, shared 
+structured multiprogramming 
+*********************************************************************
+Document:CACM-2371
+
+a system of communication between PROCESSES in a 
+system is extended so that it may be used between PROCESSES 
+a system for interprocess communication 
+in a resource sharing computer network 
+*********************************************************************
+Document:CACM-1846
+
+on simulating networks of parallel PROCESSES 
+of interconnected sequential PROCESSES. briefly reviewed 
+events in separate PROCESSES is introduced. 
+simulation, parallel PROCESSES, simultaneous events, 
+*********************************************************************
+Document:CACM-0293
+
+the APPLIED mathematics laboratory of the david w. taylor model basin 
+cacm september, 1961 
+richstone, m. 
+*********************************************************************
+Document:CACM-0927
+
+linear programming APPLIED to ultraviolet absorption spectroscopy 
+cacm february, 1963 
+white, w. c. 
+*********************************************************************
+Document:CACM-2672
+
+of cognitive PROCESSES, computer music, computer 
+emotional content considered dangerous 
+cacm march, 1974 
+*********************************************************************
+Document:CACM-1748
+
+and the nature of basic operations on PROCESSES 
+is considered. some of the connections between PROCESSES 
+of independent PROCESSES are presented and compared. 
+a scheduling philosophy for multiprocessing systems 
+*********************************************************************
+Document:CACM-3128
+
+synchronization of concurrent PROCESSES requires controlling the relative 
+ordering of events in the PROCESSES. 
+abstract objects called eventcounts and sequencers, that allows PROCESSES 
+synchronization with eventcounts and sequencers 
+*********************************************************************
+Document:CACM-2504
+
+models of cognitive PROCESSES, computer music, 
+concerning music and computer composition in computational linguistics 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-2255
+
+models of cognitive PROCESSES, computer music, 
+comments on moorer's music and computer composition 
+cacm november, 1972 
+*********************************************************************
+Document:CACM-2844
+
+heaps APPLIED to event driven mechanisms 
+cacm july, 1976 
+gonnet, g. h. 
+*********************************************************************
+Document:CACM-2378
+
+small supervisor and a set of independent PROCESSES 
+active PROCESSES and manages memory, handle errors, and 
+time-sharing, cooperating PROCESSES 
+an operating system based on the concept of a supervisory computer 
+*********************************************************************
+Document:CACM-2228
+
+state from which resource allocations to certain PROCESSES 
+the situation where certain PROCESSES never receive their 
+comments on prevention of system deadlocks 
+*********************************************************************
+Document:CACM-1753
+
+virtual memory, PROCESSES, and sharing in multics 
+multics concepts of PROCESSES, address space, and virtual 
+some basic concepts involved in the design 
+*********************************************************************
+Document:CACM-2080
+
+of a hierarchy of PROCESSES as well as the communication among them. 
+multiprogramming, operating systems, parallel PROCESSES, process concept, 
+the nucleus of a multiprogramming system 
+*********************************************************************
+Document:CACM-1435
+
+problem of STOCHASTIC convergence, (2) the problem 
+design of computer simulation experiments for industrial systems 
+the aim of this paper is to provide background 
+*********************************************************************
+Document:CACM-2150
+
+independent PROCESSES from simultaneous access 
+there are two distinct classes of PROCESSES known 
+concurrent control with "readers" and "writers" 
+*********************************************************************
+Document:CACM-2742
+
+such as slow STOCHASTIC convergence. however, an additional 
+improved event-scanning mechanisms for discrete event simulation 
+simulation models of large, complex "real-world" 
+*********************************************************************
+Document:CACM-0618
+
+man-man-machine PROCESSES are characterized in five 
+computers- the key to total systems control: an industrial viewpoint 
+main types, and the markets for each type are 
+*********************************************************************
+Document:CACM-2912
+
+two techniques for transmitting messages between PROCESSES. 
+by one process and read by other PROCESSES. 
+concurrent reading and writing 
+*********************************************************************
+Document:CACM-3039
+
+PROCESSES with very little mutual interference 
+between sequential PROCESSES with minimized 
+on-the-fly garbage collection: an exercise in cooperation 
+*********************************************************************
+Document:CACM-3078
+
+of obtaining analytical solutions to markov PROCESSES 
+PROCESSES, the potential range of application of these techniques 
+analysis of the availability of computer 
+systems using computer- aided algebra 
+*********************************************************************
+Document:CACM-1441
+
+methods of numerical integration APPLIED to 
+when APPLIED to a particular system of ordinary 
+a system having trivial function evaluations 
+*********************************************************************
+Document:CACM-2920
+
+priori information about the PROCESSES, resources, operating 
+as a game between the operating system and the PROCESSES 
+game interpretation of the deadlock avoidance problem 
+*********************************************************************
+Document:CACM-1438
+
+number, is developed and APPLIED to the problem 
+a method for locating zeros of complex functions 
+a method for computing the index, or winding 
+*********************************************************************
+Document:CACM-1198
+
+PROCESSES with restricted means of communication 
+solution of a problem in concurrent programming control 
+a number of mainly independent sequential-cyclic 
+*********************************************************************
+Document:CACM-3184
+
+a large class of numerical PROCESSES in a form sufficiently concise for 
+revised report on the algorithmic language algol 60 
+the report gives a complete defining description of the international 
+*********************************************************************
+Document:CACM-2705
+
+pure and APPLIED mathematics is found similarly 
+analogies related to social aspects,pure and APPLIED 
+programming languages, natural languages, and mathematics 
+*********************************************************************
+Document:CACM-1563
+
+knight's tour is generalized and APPLIED to the 
+a method for finding hamilton paths and knight's tours 
+the use of warnsdorff's rule for finding a 
+*********************************************************************
+Document:CACM-3020
+
+by strong and walker is amplified and APPLIED to 
+removal is then APPLIED to the two major parts of this 
+systematic recursion removal 
+*********************************************************************
+Document:CACM-1892
+
+a simple STOCHASTIC model is described which 
+degree of multiprogramming in page-on-demand systems 
+offers a base for understanding the relationship 
+*********************************************************************
+Document:CACM-1135
+
+into a compiler the aspects common to all PROCESSES 
+the structural analysis of the class of PROCESSES to be represented 
+of all batch file PROCESSES. this new philosophy has 
+a general business-oriented language based on decision expressions* 
+*********************************************************************
+Document:CACM-1272
+
+PROCESSES as factor analysis. applications are described, 
+such PROCESSES as factor analysis. applications 
+expanding the editing function in language data processing 
+*********************************************************************
+Document:CACM-1541
+
+systems containing highly interactive PROCESSES 
+a language for modeling and simulating dynamic systems 
+the general objective of this language is 
+*********************************************************************
+Document:CACM-2767
+
+are tested with a set of typical STOCHASTIC 
+a comparison of simulation event list algorithms 
+four algorithms are considered which can be used 
+*********************************************************************
+Document:CACM-1673
+
+the ease with which the method can be APPLIED. 
+approximate solution of initial boundary wave 
+equation problems by boundary-value techniques 
+*********************************************************************
+Document:CACM-1235
+
+a STOCHASTIC approach to the grammatical coding of english 
+a computer program is described which will 
+assign each word in an english text to its form 
+*********************************************************************
+Document:CACM-2409
+
+wiener-hopf technique may be APPLIED. it is furthermore 
+an algorithm for the approximate solution 
+of wiener-hopf integral equations 
+*********************************************************************
+Document:CACM-2210
+
+same technique is APPLIED to transform recursively 
+must be APPLIED. the relation between the version of 
+toward automatic program synthesis 
+*********************************************************************
+Document:CACM-0825
+
+an operating computer program that PROCESSES 
+pip: a photo-interpretive program 
+for the analysis of spark-chamber data* 
+*********************************************************************
+Document:CACM-2895
+
+of communicating parallel PROCESSES is described. 
+a language for formal problem specification 
+a language for specifying the in tended behavior 
+*********************************************************************
+Document:CACM-2535
+
+time division multiplexing changes the STOCHASTIC 
+the effects of multiplexing on a computer-communications system 
+a study is made of the way in which asynchronous 
+*********************************************************************
+Document:CACM-1110
+
+APPLIED to a certain class of parabolic partial 
+a fourier series method for the numerical solution 
+of a class of parabolic partial differential 
+equations* 
+*********************************************************************
+Document:CACM-1008
+
+developed for faseb can be APPLIED to schedule 
+scheduling meetings with a computer 
+computer scheduling of papers as it was developed 
+*********************************************************************
+Document:CACM-2203
+
+key-to-address transformation methods APPLIED to 
+is APPLIED to a particular file, load factor and 
+key-to-address transform techniques: a fundamental 
+performance study on large existing formatted 
+*********************************************************************
+Document:CACM-1707
+
+which, when APPLIED to a particular upper triangular 
+generation of positive test matrices with known positive spectra 
+sufficient conditions are given for a real 
+*********************************************************************
+Document:CACM-1631
+
+recommended that suitable tests be APPLIED to all 
+testing a random number generator 
+the first 1,000,000 numbers produced by the 
+*********************************************************************
+Document:CACM-1233
+
+systems. the conventions are APPLIED to the use 
+conventions for the use of symbols in the preparation 
+of flowcharts for information processing 
+systems (a standard working paper) 
+*********************************************************************
+Document:CACM-2327
+
+of how the brain PROCESSES information. 
+toward an automata theory of brains 
+a source of ideas for automata theory-the study 
+*********************************************************************
+Document:CACM-2185
+
+determines if the algorithm should be APPLIED and 
+a note on compiling fixed point binary multiplications 
+an algorithm is developed for compiling, as 
+*********************************************************************
+Document:CACM-1383
+
+the importance of APPLIED logic in human affairs is 
+implications of the digital computer 
+for education in the mathematical sciences 
+*********************************************************************
+Document:CACM-1587
+
+applicable to iterative PROCESSES in which input 
+storage allocation in a certain iterative process 
+a method of core storage allocation in a certain 
+*********************************************************************
+Document:CACM-1886
+
+ascertained, a sequencing procedure is APPLIED which 
+APPLIED, and hence global optimal results are not 
+generation of optimal code for expressions via factorization 
+*********************************************************************
+Document:CACM-0111
+
+can be APPLIED with great reliability. both a high degree 
+on programming the numerical solution of polynomial equations 
+numerical techniques are presented for computing 
+*********************************************************************
+Document:CACM-0224
+
+of certain optimizing PROCESSES such as recursive 
+sequential formula translation 
+the syntax of an algorithmic language such 
+*********************************************************************
+Document:CACM-1382
+
+APPLIED mathematicians over the next several years, 
+desired computer impact on undergraduate mathematics 
+three matters relating to the theme of the 
+*********************************************************************
+Document:CACM-1458
+
+changes in the PROCESSES related to producing and checking 
+online programming 
+when the transition has been made from off line 
+*********************************************************************
+Document:CACM-2836
+
+is established. the method may be APPLIED to problems 
+weighted derivation trees 
+the nodes of a weighted derivation tree are associated 
+*********************************************************************
+Document:CACM-1554
+
+and APPLIED to any n-dimensional hyperobject 
+a computer technique for displaying n-dimensional hyperobjects 
+a digital computer and automatic plotter have 
+*********************************************************************
+Document:CACM-2848
+
+PROCESSES to be automated. the result of such an interview 
+synthesis of decision rules 
+decision tables can be used as an effective 
+*********************************************************************
+Document:CACM-1960
+
+PROCESSES using system primitive operations, the file-memory relationship, 
+process management and resource sharing in the multiaccess system esope 
+the main design principles of the multiaccess system esope are described. 
+*********************************************************************
+Document:CACM-2581
+
+speech recognizer. lpars PROCESSES a string of phonemes 
+a locally-organized parser for spoken input 
+this paper describes lpars, a locally-organized 
+*********************************************************************
+Document:CACM-1216
+
+the chain rule is APPLIED and the result is edited to 
+symbolic derivatives without list processing, subroutines, or recursion 
+a routine has been developed which computes and 
+*********************************************************************
+Document:CACM-1199
+
+center in terms of information nets, decision PROCESSES, 
+a computer center simulation project 
+today's computation centers are based on rapidly 
+*********************************************************************
+Document:CACM-2866
+
+these two techniques are defined, discussed, and APPLIED 
+proving monitors 
+interesting scheduling and sequential properties 
+*********************************************************************
+Document:CACM-1678
+
+catalog description of each course is APPLIED and the 
+automata, formal languages, abstract switching, 
+and computability in a ph. computer science 
+program 
+*********************************************************************
+Document:CACM-2953
+
+APPLIED to the schematic recursive procedure: 
+notes on recursion elimination 
+various methods of recursion elimination are 
+*********************************************************************
+Document:CACM-1535
+
+may be APPLIED independently. 
+a comment on index register allocation 
+a technique is presented to reduce the enumeration 
+*********************************************************************
+Document:CACM-3140
+
+social PROCESSES and proofs of theorems and programs 
+it is argued that formal verifications of 
+programs, no matter how obtained, will not play the 
+*********************************************************************
+Document:CACM-1828
+
+PROCESSES are examined; their validity is 
+synchronization in a parallel-accessed data base 
+the following problem is considered: given 
+*********************************************************************
+Document:CACM-1947
+
+flow of programs during compilation are APPLIED 
+object code optimization 
+methods of analyzing the control flow and data 
+*********************************************************************
+Document:CACM-2900
+
+three theorems which can be APPLIED a priori to indicate 
+some theorems to aid in solving the file allocation problem 
+the file allocation problem-i.e. the problem 
+*********************************************************************
+Document:CACM-2629
+
+initiate asynchronous PROCESSES; (4) system command 
+the unix time-sharing system 
+unix is a general-purpose, multi-user, interactive 
+*********************************************************************
+Document:CACM-1809
+
+need for a solid background in APPLIED mathematics. 
+numerical analysis in a ph. computer science program 
+numerical analysis is the study of methods and 
+*********************************************************************
+Document:CACM-2519
+
+psychological and information-processing PROCESSES, and 
+on the problem of communicating complex information 
+the nature of the difficulty involved in communicating 
+*********************************************************************
+Document:CACM-0095
+
+methods are APPLIED can sometimes be expanded 
+elimination of special functions from differential equations 
+a set of ordinary differential equations which 
+*********************************************************************
+Document:CACM-1518
+
+software utilization, and queueing PROCESSES. 
+an experimental model of system/360 
+the problem of predicting the performance of 
+*********************************************************************
+Document:CACM-3068
+
+program verification APPLIED to kernel architectures 
+a model for verification of data security in operating systems 
+forms a promising method for providing 
+*********************************************************************
+Document:CACM-0298
+
+above and below the mean were APPLIED to one-half 
+a 48-bit pseudo-random number generator 
+a new 48-bit pseudo-random number generator, suitable 
+*********************************************************************
+Document:CACM-3127
+
+encourages structuring programs as networks of communicating PROCESSES 
+thoth, a portable real-time operating system 
+thoth isa real-time operating system which is designed to be portable 
+*********************************************************************
+Document:CACM-3056
+
+or software used for the monitoring of experiments or PROCESSES. 
+counting large numbers of events in small registers 
+it is possible to use a small counter to keep 
+*********************************************************************
+Document:CACM-2062
+
+four different sequential sampling procedures are APPLIED 
+the application of sequential sampling 
+to simulation: an example inventory model 
+*********************************************************************
+Document:CACM-2717
+
+the users to visualize the translation PROCESSES, 
+convert: a high level translation 
+definition language for data conversion 
+*********************************************************************

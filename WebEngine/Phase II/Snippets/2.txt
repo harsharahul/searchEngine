@@ -1,0 +1,610 @@
+Query:i am interested in articles written either by prieve or udo pooch  prieve b pooch u
+
+Document:CACM-2434
+
+PRIEVE, B. g. 
+using page residency to select the working set parameter 
+denning's method for selecting the working set 
+*********************************************************************
+Document:CACM-3078
+
+POOCH, U. 
+analysis of the availability of computer 
+systems using computer- aided algebra 
+*********************************************************************
+Document:CACM-2863
+
+PRIEVE, B. g. 
+vmin-an optimal variable-space page replacement algorithm 
+a criterion for comparing variable space page 
+*********************************************************************
+Document:CACM-3129
+
+transactions. each transaction (OR job) generates a demand vector which 
+yechiali, U. 
+optimal storage allocation for serial files 
+*********************************************************************
+Document:CACM-1519
+
+I. 1900, and can handle a large number of online console 
+strauss, j. I. 
+george 3-a general purpose time sharing and operating system 
+*********************************************************************
+Document:CACM-0497
+
+gluss, B. 
+further remarks on line segment curve-fitting using dynamic programming 
+IN a recent paper, bellman showed how dynamic 
+*********************************************************************
+Document:CACM-1977
+
+rosen, j. B. 
+an interactive display for approximation BY linear programming 
+an interactive program 
+*********************************************************************
+Document:CACM-3144
+
+a model for and discussion of multi-interpreter systems 
+a multi-interpreter system is a system IN which programs execute 
+BY virtue of being interpreted BY other programs, which themselves may 
+*********************************************************************
+Document:CACM-0727
+
+on the approximate solution of delta(u)=f(u) 
+three-dimensional dirichlet problems for delta(u)=f(u), 
+fu >= 0, are treated numerically BY 
+*********************************************************************
+Document:CACM-2786
+
+kernighan, B. w. 
+a system for typesetting mathematics 
+this paper describes the design and implementation 
+*********************************************************************
+Document:CACM-1264
+
+OR braille. even though this system was WRITTEN for 
+landwehr, j. B. 
+blnsys-a 1401 operating system with braille capabilities 
+*********************************************************************
+Document:CACM-1364
+
+mathematical experimentation IN time-lag modulation 
+equations of the form du/dt = g(u(t),u(h(t))) 
+arise IN a number of scientific contexts. the 
+*********************************************************************
+Document:CACM-1012
+
+vocabularies, v and t, a many-many map, U, from v onto 
+vocabulary I, input vocabulary t, and all productions 
+formal parsing systems 
+*********************************************************************
+Document:CACM-3202
+
+a mathematical expression to be operated upon is WRITTEN IN fortran-like 
+restriction, etc.) so long as the entire expression (OR any subsequent form) 
+manipulating character sequences. programs which resulted were WRITTEN IN 
+bender, B. 
+*********************************************************************
+Document:CACM-1010
+
+dennis, j. B. 
+a multiuser computation facility for education and research 
+present-day computing facilities are limited 
+*********************************************************************
+Document:CACM-2534
+
+design and implementation of a diagnostic compiler for pl/i 
+pl/c is a compiler for a dialect for pl/i. the 
+design objective was to provide a maximum degree 
+*********************************************************************
+Document:CACM-1046
+
+IN a number of ARTICLES published during the 
+a compiler-building system developed BY brooker and morris 
+past two years, r. a. brooker and d. morris (joined 
+*********************************************************************
+Document:CACM-2194
+
+how to keep the addresses short 
+an algorithm is presented for minimizing the 
+sum of the lengths of the blocks of coding produced 
+*********************************************************************
+Document:CACM-1931
+
+arithmetic (I.) can be used effectively to bound errors 
+with straightforward use of I. IN determinant 
+I. for determinant evaluation. an application using 
+I. determinants IN a program to test a set of 
+*********************************************************************
+Document:CACM-2177
+
+graph. the graph may be represented EITHER (I) as an 
+employed, the storage (IN machine words) required 
+as 2(m+n) IN case (I), OR (n^2)/win case 
+an algorithm for the blocks and cutnodes of a graph 
+*********************************************************************
+Document:CACM-0282
+
+critically on the number of times the tape being WRITTEN 
+optimum tape-writing procedures 
+consider a magnetic tape system with a read 
+*********************************************************************
+Document:CACM-1861
+
+WRITTEN. some conclusions are drawn about future 
+arden, B. w. 
+galler, B. a. 
+the mad definition facility 
+*********************************************************************
+Document:CACM-1674
+
+one-line random number generators and their use IN combinations 
+some one-line random number generators, i.e. 
+generators requiring a single fortran instruction 
+*********************************************************************
+Document:CACM-1593
+
+a simple technique for digital division 
+a simple and economical method for digital 
+division is described. the method is suitable for 
+*********************************************************************
+Document:CACM-2250
+
+dieter, U. 
+computer methods for sampling from the exponential 
+and normal distributions (corrigendum) 
+*********************************************************************
+Document:CACM-1272
+
+doule, l. B. 
+expanding the editing function IN language data processing 
+IN automatic abstracting, citation indexing, 
+*********************************************************************
+Document:CACM-0616
+
+INTERESTED IN developing a theoretical approach to data 
+processing; (B) with interest and understanding 
+corporation; renee B. jasper, navy management office; 
+an information algebra - phase I report-language 
+*********************************************************************
+Document:CACM-1062
+
+strings from (I) input strings which have been analyzed 
+burleson, p. B. 
+symbol manipulation IN fortran-sasp I subroutines 
+*********************************************************************
+Document:CACM-3171
+
+line numbers made cheap 
+a technique is described for run-time line number administration 
+to be used for implementations of high level languages. under suitable 
+*********************************************************************
+Document:CACM-0335
+
+some numerical experiments using newton's method 
+for nonlinear parabolic and ellipticboundary-value 
+problems 
+*********************************************************************
+Document:CACM-1379
+
+a final solution to the dangling else of algol 60 and related languages 
+the dangling else problem consists of a class 
+of potential ambiguities IN algol-like conditional 
+*********************************************************************
+Document:CACM-2039
+
+shriver, B. 
+permanent function of a square matrix I and ii (algorithm 361 $g6)) 
+cacm june, 1970 
+*********************************************************************
+Document:CACM-1652
+
+mclean, j. B. 
+a code for non-numeric information processing 
+applications IN online systems 
+*********************************************************************
+Document:CACM-1553
+
+contextual understanding BY computers 
+a further development of a computer program 
+(eliza) capable of conversing IN natural language 
+*********************************************************************
+Document:CACM-2215
+
+application of game tree searching techniques 
+to sequential pattern recognition 
+a sequential pattern recognition (spr) procedure 
+*********************************************************************
+Document:CACM-1315
+
+radioisotopes is WRITTEN IN format fortran for the ibm 
+accountability for reactor-created radioisotopes is WRITTEN 
+automation of the radioisotope accountability system 
+*********************************************************************
+Document:CACM-1975
+
+a multiple-precision division algorithm 
+a generalized division algorithm for use with positive integral operands is 
+presented. depending upon the algebraic relationship of the first 
+*********************************************************************
+Document:CACM-2047
+
+incorporating origin shifts into the qr 
+algorithm for symmetric tridiagonal matrices 
+the qr iteration for the eigenvalues of a symmetric tridiagonal matrix can 
+*********************************************************************
+Document:CACM-0242
+
+notes on geometric weighted check digit verification 
+this note describes a method for utilizing 
+geometric weight modulus 11 checking digits on a 
+*********************************************************************
+Document:CACM-2572
+
+press, l. I. 
+arguments for a moratorium on the construction 
+of a community information utility 
+*********************************************************************
+Document:CACM-1867
+
+one is INTERESTED IN the ratio l(j) of the 
+on the expected lengths of sequences generated 
+IN sorting BY replacement selecting 
+*********************************************************************
+Document:CACM-2971
+
+wortman, d. B. 
+sp/k: a system for teaching computer programming 
+sp/k is a compatible subset of the pl/i language 
+*********************************************************************
+Document:CACM-1259
+
+applications of binary numbers IN computer routines 
+a binary number can be thought of as an alternate 
+form of expression for EITHER a set of letters 
+*********************************************************************
+Document:CACM-1588
+
+pl/i list processing 
+the concepts of list processing have been introduced 
+into the pl/i language. with these new 
+*********************************************************************
+Document:CACM-0047
+
+russian visit to U. computers 
+cacm november, 1959 
+zaitzeff, e. m. 
+*********************************************************************
+Document:CACM-2439
+
+be WRITTEN using standard input and output instructions 
+multiple terminals under user program 
+control IN a time-sharing environment 
+*********************************************************************
+Document:CACM-3117
+
+IN the use of computer technology BY U. police departments. this 
+the impact and use of computer technology BY the police 
+over the past decade there has been a significant growth 
+*********************************************************************
+Document:CACM-2342
+
+interference between communicating parallel processes 
+various kinds of interference between communicating 
+parallel processes have been examined BY 
+*********************************************************************
+Document:CACM-1334
+
+a computer program has been WRITTEN to generate 
+izsak, I. g. 
+mechanization of tedious algebra: the 
+newcomb operators of planetary theory 
+*********************************************************************
+Document:CACM-1154
+
+multi-tape and infinite-state automata -- a survey 
+a survey of machines which are more powerful 
+than finite automata and less powerful than general 
+*********************************************************************
+Document:CACM-2852
+
+the technology of computer center management: a 
+proposed course for graduate professional programs 
+IN computer science OR IN information systems 
+*********************************************************************
+Document:CACM-1764
+
+appreciation, organized and chaired BY elliot I. organick. 
+organick, e. I. 
+panel discussion on computer appreciation 
+*********************************************************************
+Document:CACM-3136
+
+price/performance patterns of U. computer systems 
+econometric models of the U. computer market have been developed to study 
+price/performance, grosch's law, U. computer market 
+*********************************************************************
+Document:CACM-2905
+
+to give minimal (OR almost minimal) tables for 
+perfect hashing functions: a single 
+probe retrieving method for static sets 
+*********************************************************************
+Document:CACM-3059
+
+models for parallel processing within programs: 
+application to cpu:i/o and i/o:i/o overlap 
+approximate queueing models for internal parallel 
+*********************************************************************
+Document:CACM-2304
+
+many U. histories of the digital computer 
+a western view of computer history 
+field have tended to be impersonal, with heavy 
+*********************************************************************
+Document:CACM-1821
+
+shriver, B. 
+permanent function of a square matrix I and ii (algorithm 361 [g6]) 
+cacm november, 1969 
+*********************************************************************
+Document:CACM-1877
+
+prevention of system deadlocks 
+a well-known problem IN the design of operating 
+systems is the selection of a resource allocation 
+*********************************************************************
+Document:CACM-2002
+
+and it should be fully integrable with user's program WRITTEN 
+locating, and scaling (IN the layout of multiple subplots) of 
+hirschsoln, I. 
+amesplot-a higher level data plotting software system 
+*********************************************************************
+Document:CACM-2980
+
+the editing of picture segmentations using local analysis of graphs 
+a major problem IN picture processing is the 
+elimination of the large number of spurious regions 
+*********************************************************************
+Document:CACM-2771
+
+braid, I. c. 
+the synthesis of solids bounded BY many faces 
+a technique is presented which allows a class 
+*********************************************************************
+Document:CACM-1397
+
+people INTERESTED IN programming languages designed 
+proceedings of the acm symposium on symbolic and algebraic manipulation 
+the acm symposium on symbolic and algebraic 
+*********************************************************************
+Document:CACM-3072
+
+feedback coupled resource allocation policies 
+IN the multiprogramming- multiprocessor computer 
+system 
+*********************************************************************
+Document:CACM-1542
+
+program WRITTEN IN 360 machine language. the system is described 
+a microprogrammed implementation of euler on ibm system/360 model 30 
+an experimental processing system for the algorithmic 
+*********************************************************************
+Document:CACM-1309
+
+a computer user-oriented system 
+a computer language system has been developed 
+which makes possible fast preparation of management 
+*********************************************************************
+Document:CACM-2714
+
+consider two linearly ordered sets a, B, |a|=m, 
+(n/m)] steps. if n = (2^b)m (B an integer), 
+merging with parallel processors 
+*********************************************************************
+Document:CACM-1486
+
+rules are given for transforming programs WRITTEN 
+a reprogramming machine 
+IN this paper a description is given of a model 
+*********************************************************************
+Document:CACM-2939
+
+be WRITTEN to use and implement abstractions. the 
+liskov, B. 
+abstraction mechanisms IN clu 
+*********************************************************************
+Document:CACM-0847
+
+WRITTEN for the csx-1 is described. 
+a penny-matching program 
+the logic of a penny-matching program 
+*********************************************************************
+Document:CACM-0626
+
+foster, m. B. 
+a method of representation, storage and retrieval 
+of 13 random codes IN a 4-digit number OR 16 
+random codes IN a 5-digit number 
+*********************************************************************
+Document:CACM-2352
+
+dunham, c. B. 
+minimax nonlinear approximation BY approximation on subsets 
+cacm may, 1972 
+*********************************************************************
+Document:CACM-1464
+
+using the chain feature of ibsys, links WRITTEN IN 
+an algol compiler: construction and use 
+IN relation to an elaborate operating system 
+*********************************************************************
+Document:CACM-1166
+
+a use of macros IN translation of symbolic 
+assembly language of one computer to another 
+a set of macro-operations has been prepared 
+*********************************************************************
+Document:CACM-2486
+
+computer photocomposition of technical text 
+IN computer assisted typesetting BY means of 
+photocomposition, special problems arise IN highly 
+*********************************************************************
+Document:CACM-3110
+
+assembling code for machines with span-dependent instructions 
+many modern computers contain instructions 
+whose lengths depend on the distance from a given 
+*********************************************************************
+Document:CACM-1846
+
+on simulating networks of parallel processes 
+IN which simultaneous events may occur 
+some of the problems of simulating discrete 
+*********************************************************************
+Document:CACM-0531
+
+name upon marriage, and other problems. we are INTERESTED 
+person-matching BY electronic methods 
+record linkage IN the updating of files is 
+*********************************************************************
+Document:CACM-1523
+
+majority of the code being WRITTEN IN fortran. 
+sharer, a time sharing system for the cdc 6600 
+a time sharing system embedded within the 
+*********************************************************************
+Document:CACM-1117
+
+should be considered whenever a sort is WRITTEN 
+polyphase sorting with overlapped rewind* 
+a variation of the polyphase merge technique 
+*********************************************************************
+Document:CACM-1200
+
+on reversible subroutines and computers that run backwards 
+a computer design is describe which permits 
+subroutines to be executed backward as well as 
+*********************************************************************
+Document:CACM-2219
+
+a policy-driven scheduler for a time-sharing system 
+the service received BY a process from a time-sharing 
+operating system can be characterized 
+*********************************************************************
+Document:CACM-1705
+
+WRITTEN as a derived procedure; it outputs using 
+and rounds properly. variants can easily be WRITTEN 
+a set of basic input-output procedures (algorithm 335 [15]) 
+*********************************************************************
+Document:CACM-2368
+
+an implemented graph algorithm for winning shannon switching games 
+IN this tutorial paper a computer program 
+which wins shannon switching games is described. 
+*********************************************************************
+Document:CACM-3199
+
+algem is a package of subprograms WRITTEN IN slip, fortran iv and map 7094 
+algem - an algebraic manipulator 
+ii to manipulate algebraic expressions. algem's basic algebraic operations are 
+*********************************************************************
+Document:CACM-3057
+
+optimal his togram matching BY monotone gray level transformation 
+this paper investigates the problem of optimal 
+his togram matching using monotone gray level 
+*********************************************************************
+Document:CACM-1676
+
+WRITTEN IN a high level language, which minimizes machine 
+the lrltran compiler 
+extensive software problems confront an organization 
+*********************************************************************
+Document:CACM-1530
+
+pdp-7 and I. atlas 2 computers and is intended as a 
+the ml/i macro processor 
+a general purpose macro processor called ml/i 
+*********************************************************************
+Document:CACM-1214
+
+on the ibm 7094 computer has been WRITTEN 
+some experiments IN algebraic manipulation BY computer 
+a set of subroutines to allow algebraic manipulations 
+*********************************************************************
+Document:CACM-1634
+
+goldberg, I. B. 
+27 bits are not enough for 8-digit accuracy 
+from the inequality 10^8 < 2^27, we are likely 
+*********************************************************************
+Document:CACM-3180
+
+costs of the current U. payments system 
+neither the banking industry nor 
+public policy makers have good information on the comparative costs 
+*********************************************************************
+Document:CACM-0597
+
+modular data processing systems WRITTEN IN cobol 
+cacm may, 1962 
+emery, j. c. 
+*********************************************************************
+Document:CACM-2451
+
+design of tree structures for efficient querying 
+a standard information retrieval operation is 
+to determine which records IN a data collection 
+*********************************************************************
+Document:CACM-2143
+
+smith, l. B. 
+chebyshev approximation of continuous functions 
+BY a chebyshev system of functions [e2] (algorithm 414) 
+*********************************************************************
+Document:CACM-0204
+
+proving theorems BY pattern recognition I 
+cacm april, 1960 
+wang, h. 
+*********************************************************************
+Document:CACM-2899
+
+a survey of computer science offerings IN small liberal arts colleges. 
+recent curricular development IN computer science 
+together with student IN terest IN pursuing 
+*********************************************************************
+Document:CACM-3086
+
+weide, B. 
+on the complexity of computing the measure of u[ai, bi] 
+the decision tree complexity of computing the 
+*********************************************************************
+Document:CACM-0435
+
+INTERESTED. a method employing a decision matrix 
+a decision matrix as the basis for a simple data input routine 
+currently a great deal of time and effort is 
+*********************************************************************
+Document:CACM-1930
+
+kruskal, j. B. 
+extremely portable random number generator 
+extremely portable subroutines are sometimes 
+*********************************************************************
+Document:CACM-1391
+
+a medium-scale programming system is WRITTEN 
+computer experiments IN finite algebra 
+IN mad and fap on the ibm 7094 to manipulate some 
+*********************************************************************
+Document:CACM-0397
+
+books, ARTICLES, programming terms, hardware terms, equipment, 
+a card format for reference files IN information processing 
+this paper proposes a card format suitable for 
+*********************************************************************

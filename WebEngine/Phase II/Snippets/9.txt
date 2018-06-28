@@ -1,0 +1,676 @@
+Query:security considerations in local networks network operating systems and distributed systems
+
+Document:CACM-3068
+
+OPERATING SYSTEMS, SECURITY, protection, program verification 
+a model for verification of data SECURITY IN OPERATING SYSTEMS 
+here IN terms of a general model for OPERATING SYSTEMS. 
+uncircumventably secure, shared computer SYSTEMS. a 
+*********************************************************************
+Document:CACM-2849
+
+DISTRIBUTED control, DISTRIBUTED computing, 
+ethernet: DISTRIBUTED packet switching for LOCAL computer NETWORKS 
+locally DISTRIBUTED computing stations. the packet 
+computer NETWORKS or loosely coupled multiprocessors. 
+*********************************************************************
+Document:CACM-2578
+
+multiprocessing, NETWORKS, self-stabilization, synchronization, 
+error recovery, DISTRIBUTED control, harmonious cooperation, self-repair 
+self-stabilizing SYSTEMS IN spite of DISTRIBUTED control 
+*********************************************************************
+Document:CACM-2372
+
+system implementation within today's languages AND OPERATING SYSTEMS. 
+OPERATING SYSTEMS, access management, data banks, 
+the SECURITY of an information system may be 
+one to perform much of the checking of SECURITY 
+*********************************************************************
+Document:CACM-2621
+
+OPERATING SYSTEMS, time sharing SYSTEMS, SECURITY, cryptography 
+a high SECURITY log-in procedure 
+the protection of time sharing SYSTEMS from 
+*********************************************************************
+Document:CACM-3082
+
+DISTRIBUTED SYSTEMS, computer NETWORKS, 
+time, clocks, AND the ordering of events IN a DISTRIBUTED system 
+another IN a DISTRIBUTED system is examined, AND 
+a DISTRIBUTED algorithm is given for synchronizing 
+*********************************************************************
+Document:CACM-2949
+
+topology, routing problem IN NETWORKS, DISTRIBUTED OPERATING 
+computer NETWORKS, DISTRIBUTED control, NETWORK 
+DISTRIBUTED computer NETWORK, correctness proofs, 
+main tenance protocol for a DISTRIBUTED computer 
+*********************************************************************
+Document:CACM-2951
+
+the five diverse arpa NETWORK SYSTEMS studied IN detail, 
+NETWORK time-sharing SYSTEMS as it depends on some 
+dynamic response time prediction for computer NETWORKS 
+if the ultimate aim of a computing NETWORK 
+*********************************************************************
+Document:CACM-3174
+
+OPERATING SYSTEMS, passwords, computer SECURITY 
+password SECURITY: a case history 
+SECURITY scheme on a remotely accessed time-sharing system. 
+extreme SECURITY AND ease of use. 
+*********************************************************************
+Document:CACM-1928
+
+large SYSTEMS simulation, NETWORK structures, 
+exclusive simulation of activity IN digital NETWORKS 
+AND SYSTEMS to be simulated may be combinations of synchronous 
+of NETWORK structures other than digital NETWORKS. 
+*********************************************************************
+Document:CACM-1750
+
+multiprogrammed OPERATING SYSTEMS, multiprocessor 
+OPERATING SYSTEMS, control data corporation 6600, OPERATING system with ecs 
+CONSIDERATIONS IN the design of a multiple 
+multiple computer SYSTEMS, extended core storage, 
+*********************************************************************
+Document:CACM-3137
+
+a methodology for the design of DISTRIBUTED information SYSTEMS 
+a macro model of a DISTRIBUTED information system IN presented. the model 
+various design AND OPERATING parameters on overall cost per transaction. 
+DISTRIBUTED processing, system design, cost minimization, DISTRIBUTED 
+*********************************************************************
+Document:CACM-3011
+
+management utilization of computers IN american LOCAL governments 
+SYSTEMS (mis) bear little relation to the information 
+nature of these SYSTEMS, management use of computing is 
+among LOCAL governments. management computing is most 
+*********************************************************************
+Document:CACM-2111
+
+to compilers AND OPERATING SYSTEMS. these include the use of syntax 
+OPERATING SYSTEMS, diagnostics, error detection, 
+spelling correction IN SYSTEMS programs 
+is presented. by using SYSTEMS which perform spelling correction, 
+*********************************************************************
+Document:CACM-1808
+
+SECURITY SYSTEMS, confidential information 
+relative SECURITY, costs, AND preferred methods 
+cryptographic, cryptanalysis, ciphers secrecy SYSTEMS, 
+advanced cryptographic techniques for computers 
+*********************************************************************
+Document:CACM-3141
+
+decentralized algorithms, DISTRIBUTED SYSTEMS, OPERATING SYSTEMS 
+an improved algorithm for decentralized extrema-finding 
+IN circular configurations of processes 
+*********************************************************************
+Document:CACM-3128
+
+SYSTEMS, SECURITY models, mutual exclusion, semaphores 
+correctness arguments AND also simplifies implementation IN DISTRIBUTED 
+SYSTEMS. the mechanism is defined formally, AND then several 
+process synchronization, interprocess communication, DISTRIBUTED 
+*********************************************************************
+Document:CACM-1461
+
+discussion summary on OPERATING SYSTEMS 
+cacm march, 1966 
+ca660311 jb march 3, 1978 1:26 pm 
+*********************************************************************
+Document:CACM-3076
+
+NETWORKS, NETWORK reliability, SECURITY, social values 
+SYSTEMS which automate the transfer AND recording 
+a large scale. these SYSTEMS promise both financial 
+SYSTEMS for electronic funds transfer (eft) are not 
+*********************************************************************
+Document:CACM-3158
+
+personal computing, SECURITY, privacy, NETWORKS, public-key encryption 
+secure personal computing IN an insecure NETWORK 
+a method for implementing secure personal computing IN a NETWORK 
+data to other users on the NETWORK. 
+*********************************************************************
+Document:CACM-2870
+
+of secure information flow among SECURITY classes. the 
+derived from the SECURITY classes AND justified by the semantics 
+permit concise formulations of the SECURITY requirements 
+of different existing SYSTEMS AND facilitate 
+*********************************************************************
+Document:CACM-2151
+
+OPERATING SYSTEMS, multiprogramming SYSTEMS, time-sharing 
+software SYSTEMS is followed by a description of 
+shown how other time-sharing SYSTEMS may provide similar measuring facilities. 
+SYSTEMS, software measurement, user program 
+*********************************************************************
+Document:CACM-1728
+
+OPERATING SYSTEMS, supervisor simulation, machine 
+directed at the measurement of program OPERATING 
+behavior IN those multiprogramming SYSTEMS IN which 
+paging SYSTEMS, paging, dynamic program behavior, program 
+*********************************************************************
+Document:CACM-1462
+
+multilevel OPERATING SYSTEMS 
+OPERATING SYSTEMS. this implies that all applications-no 
+the OPERATING SYSTEMS, but at a different level. 
+*********************************************************************
+Document:CACM-2988
+
+of IN teractive computer SYSTEMS which use nonpaged memories. 
+IN queueing NETWORK models of computer SYSTEMS. 
+NETWORK models, IN teractive computer SYSTEMS 
+memory management AND response time 
+*********************************************************************
+Document:CACM-2776
+
+experiences of these OPERATING NETWORKS, a number of factors 
+computer NETWORKS IN higher education: socio-economic-political factors 
+survey of computer NETWORKS IN higher education 
+conducted during 1971-73. five major AND 18 minor NETWORKS 
+*********************************************************************
+Document:CACM-2358
+
+as experience with use of on-line OPERATING 
+SYSTEMS has grown, the need to share information 
+many contemporary SYSTEMS permit some degree of 
+CONSIDERATIONS of segmentation AND sharing IN multics 
+*********************************************************************
+Document:CACM-2317
+
+languages, OPERATING SYSTEMS, programming 
+programming SYSTEMS AND languages 1965-1975 
+IN the OPERATING system area all major computer 
+SYSTEMS, AND they all ran into similar 
+*********************************************************************
+Document:CACM-2371
+
+IN a resource sharing computer NETWORK 
+the hypothetical application of the system to an existing NETWORK is discussed. 
+computer NETWORKS, resource sharing 
+DISTRIBUTED throughout a computer NETWORK. 
+*********************************************************************
+Document:CACM-2138
+
+bliss: a language for SYSTEMS programming 
+for use IN writing production software SYSTEMS for a 
+specific machine (the pdp-10): compilers, OPERATING 
+SYSTEMS, etc. prime design goals of the design are the 
+*********************************************************************
+Document:CACM-2345
+
+education, management SYSTEMS, SYSTEMS analysis, 
+management information SYSTEMS, information SYSTEMS 
+professional programs IN information SYSTEMS 
+SYSTEMS IN organizations is discussed, AND a 
+*********************************************************************
+Document:CACM-2840
+
+protection IN OPERATING SYSTEMS 
+SYSTEMS is presented AND its appropriateness 
+is argued. the "safety" problem for protection SYSTEMS 
+protection, protection system, OPERATING 
+*********************************************************************
+Document:CACM-1685
+
+NETWORK analysis, NETWORK calculation, NETWORK program 
+NETWORK generator, NETWORK assembler, activity 
+gan, a system for generating AND analyzing activity NETWORKS 
+gan, a system for generating activity NETWORKS, 
+*********************************************************************
+Document:CACM-2424
+
+OPERATING SYSTEMS, data SECURITY, fault tolerance, 
+dynamic verification of OPERATING system decisions 
+of OPERATING system decisions is used on the prime system 
+construction of an OPERATING system which does not make certain 
+*********************************************************************
+Document:CACM-2867
+
+modularization AND hierarchy IN a family of OPERATING SYSTEMS 
+used IN the construction of a family of OPERATING 
+SYSTEMS. it is shown that the concepts of module AND 
+*********************************************************************
+Document:CACM-2741
+
+saturation IN multiprogramming SYSTEMS 
+SYSTEMS is proposed. it is based on a technique of variable 
+paging SYSTEMS (i) unstable regimes of operations AND (ii) 
+which "thrashing" can set IN. 
+*********************************************************************
+Document:CACM-1247
+
+an OPERATING environment for dynamic-recursive 
+computer programming SYSTEMS 
+system which can serve as an OPERATING environment for 
+SYSTEMS. the available services include dynamic allocation 
+*********************************************************************
+Document:CACM-1324
+
+are described AND reviewed. the SYSTEMS range from a conversation 
+about pictures AND SYSTEMS which translate from english 
+into logical calculi. SYSTEMS are classified 
+SYSTEMS which are programmed AND OPERATING 
+*********************************************************************
+Document:CACM-1846
+
+on simulating NETWORKS of parallel processes 
+event SYSTEMS, particularly computer SYSTEMS, on 
+SYSTEMS are assumed to be described as a NETWORK 
+IN which simultaneous events may occur 
+*********************************************************************
+Document:CACM-3127
+
+portability, real time, OPERATING SYSTEMS, minicomputer 
+thoth, a portable real-time OPERATING system 
+thoth isa real-time OPERATING system which is designed to be portable 
+encourages structuring programs as NETWORKS of communicating processes 
+*********************************************************************
+Document:CACM-3025
+
+of implementations to presently include SYSTEMS covering 
+evolution of the hardware, OPERATING system, AND languages 
+sharing computing SYSTEMS; transferring hardware 
+technology within dec (AND elsewhere) to minicomputer 
+*********************************************************************
+Document:CACM-2407
+
+programs IN information SYSTEMS 
+SYSTEMS IN organizations is discussed, AND a 
+education, undergraduate curricula, management SYSTEMS, 
+information SYSTEMS, information analysis, 
+*********************************************************************
+Document:CACM-3148
+
+high level programming for DISTRIBUTED computing 
+to DISTRIBUTED computing at the level of general purpose programming 
+DISTRIBUTED computing, modules, messages, assertions 
+programming for DISTRIBUTED AND other loosely coupled SYSTEMS 
+*********************************************************************
+Document:CACM-2198
+
+generalized data base management SYSTEMS" 
+of generalized data base management SYSTEMS. this introduction 
+the art IN these SYSTEMS AND discusses the differences 
+host language SYSTEMS AND those found IN self-contained 
+*********************************************************************
+Document:CACM-2482
+
+deadlocks, resource allocation, OPERATING SYSTEMS, 
+based on the concept of the hierarchical OPERATING 
+multiprogramming, hierarchical SYSTEMS 
+mixed solutions for the deadlock problem 
+*********************************************************************
+Document:CACM-2522
+
+OPERATING SYSTEMS, supervisory SYSTEMS 
+recent research IN time-sharing paging SYSTEMS 
+SYSTEMS, resource allocation, software evaluation, 
+the design, implementation, AND evaluation of a working set dispatcher 
+*********************************************************************
+Document:CACM-2406
+
+as IN advanced data management SYSTEMS AND DISTRIBUTED 
+apparent. such languages will be a key SYSTEMS, as well 
+data translation, data base management SYSTEMS, 
+a data definition AND mapping language 
+*********************************************************************
+Document:CACM-2479
+
+programs IN information SYSTEMS: recommended 
+addendum on information SYSTEMS administration 
+a course on information SYSTEMS administration. 
+it is important for two reasons: (1) the SYSTEMS designer 
+*********************************************************************
+Document:CACM-1978
+
+with the advent of on-line (time-sharing) computer SYSTEMS 
+on-line SYSTEMS for general purpose mathematical problem solving 
+SYSTEMS for solving problems IN a particular area such as ordinary 
+SYSTEMS AND design CONSIDERATIONS for interactive routines. furthermore, 
+*********************************************************************
+Document:CACM-1844
+
+terminal. a crosspoint switching NETWORK allows 
+are possible for a range of SYSTEMS sizes that 
+multiple terminal SYSTEMS, terminal oriented SYSTEMS, 
+multiple processor SYSTEMS, high availability, 
+*********************************************************************
+Document:CACM-2069
+
+OPERATING SYSTEMS, memory management 
+comments on a paper by wallace AND mason 
+cacm april, 1970 
+*********************************************************************
+Document:CACM-1951
+
+OPERATING SYSTEMS, optimization models 
+from four operational multiaccess SYSTEMS, AND the model is shown to 
+same distribution independent of which of the four SYSTEMS is being examined. 
+by the exponential distribution are discussed for the SYSTEMS studied. 
+*********************************************************************
+Document:CACM-2985
+
+the relationship of IN ternal pricing SYSTEMS 
+for computer services (chargeout SYSTEMS) AND 
+information SYSTEMS is investigated. evidence is 
+indicate that the chargeout SYSTEMS characteristic 
+*********************************************************************
+Document:CACM-2624
+
+virtual machine SYSTEMS have been implemented 
+SYSTEMS, e.g. cp-67 on the ibm 360/67. from previous 
+generation computer SYSTEMS, e.g. the dec pdp-10, cannot 
+OPERATING system, third generation architecture, 
+*********************************************************************
+Document:CACM-3150
+
+programming, programming languages, programming SYSTEMS, SYSTEMS development 
+as computer technology matures, our growing ability to create large SYSTEMS is 
+SYSTEMS of the complexity called for by the tasks we attempt. just 
+intricacies of a machine's order code, higher level programming SYSTEMS 
+*********************************************************************
+Document:CACM-2080
+
+that can be extended with a hierarchy of OPERATING SYSTEMS to suit diverse 
+multiprogramming, OPERATING SYSTEMS, parallel processes, process concept, 
+the nucleus of a multiprogramming system 
+*********************************************************************
+Document:CACM-1959
+
+an interrupt based organization for management information SYSTEMS 
+for the design AND coding of large shared data base SYSTEMS. the 
+the new organization which is proposed for management information SYSTEMS. 
+management information SYSTEMS, integrated data processing, 
+*********************************************************************
+Document:CACM-2969
+
+computer NETWORKS, databases, DISTRIBUTED 
+optimal program AND data locations IN computer NETWORKS 
+of program AND data files IN a computer NETWORK 
+occur IN real heterogeneous computer NETWORKS. insights 
+*********************************************************************
+Document:CACM-3182
+
+electronic funds transfer SYSTEMS (efts) is discussed IN light 
+manual depository AND other financial service SYSTEMS - for example, 
+its continual technological advances broaden the scope of SECURITY 
+efts, computer abuse, crime, SECURITY, errors, 
+*********************************************************************
+Document:CACM-1572
+
+the simulation of time sharing SYSTEMS 
+SYSTEMS has raised a number of problems for 
+for these SYSTEMS, but appropriate software adjustments 
+must be made. unfortunately, these SYSTEMS often 
+*********************************************************************
+Document:CACM-1341
+
+programming, AND, eventually, SYSTEMS which learn. 
+levels of computer SYSTEMS 
+IN building current computer SYSTEMS, we tend 
+on the usefulness of future SYSTEMS, particularly 
+*********************************************************************
+Document:CACM-2632
+
+hydra: the kernel of a multiprocessor OPERATING system 
+hydra-the kernel of an OPERATING system for c.mmp, 
+of highly secure SYSTEMS. 
+OPERATING system, kernel, nucleus, protection, SECURITY 
+*********************************************************************
+Document:CACM-2311
+
+SYSTEMS, software SYSTEMS, SYSTEMS development 
+process, functional SYSTEMS, management SYSTEMS 
+a generational perspective of information system development 
+*********************************************************************
+Document:CACM-2852
+
+IN computer science or IN information SYSTEMS 
+adding a course on information SYSTEMS administration 
+professional programs IN information SYSTEMS. this paper 
+IN information SYSTEMS or for graduate professional 
+*********************************************************************
+Document:CACM-2320
+
+OPERATING SYSTEMS but also within user programs. 
+OPERATING SYSTEMS, concurrent processes, shared 
+structured multiprogramming 
+*********************************************************************
+Document:CACM-2882
+
+organization IN data retrieval SYSTEMS 
+scale data retrieval SYSTEMS has been scarce due 
+SYSTEMS. effectiveness of the methodology is demonstrated 
+database organizations IN data retrieval SYSTEMS. IN particular, 
+*********************************************************************
+Document:CACM-3181
+
+the introduction of eft SYSTEMS will require a coordinated educational 
+electronic funds transfer SYSTEMS, consumer education, SECURITY 
+public protection AND education with eft 
+*********************************************************************
+Document:CACM-3026
+
+the 1100 series SYSTEMS are sperry univac's 
+large-scale main frame computer SYSTEMS. beginning 
+registers. the 1100 OPERATING system is designed 
+languages, data management SYSTEMS, 
+*********************************************************************
+Document:CACM-1387
+
+solution of SYSTEMS of polynomial equations by elimination 
+IN solving SYSTEMS of polynomial equations. it is found 
+of small SYSTEMS, where it yields all solutions without 
+of large SYSTEMS of equation due to the explosive 
+*********************************************************************
+Document:CACM-2583
+
+SYSTEMS: a report from stanley house 
+SYSTEMS, regulations, social AND behavioral 
+guidelines for humanizing computerized information 
+*********************************************************************
+Document:CACM-2950
+
+IN real OPERATING SYSTEMS. the policy-driven scheduler 
+OPERATING systems,processor sharing, implementation 
+a unifying approach to scheduling 
+*********************************************************************
+Document:CACM-1912
+
+simulation of outpatient appointment SYSTEMS 
+which simulates appointment SYSTEMS employed 
+appointment SYSTEMS IN a given clinical environment. 
+*********************************************************************
+Document:CACM-1071
+
+computer-usage accounting for generalized time-sharing SYSTEMS 
+SYSTEMS requires a revision of accounting procedures 
+accounting IN generalized time-sharing SYSTEMS 
+*********************************************************************
+Document:CACM-1226
+
+system. IN many SYSTEMS, the selection 
+be critical to the system's OPERATING efficiency. 
+this paper provides the SYSTEMS designer with an information 
+the organization of structured files 
+*********************************************************************
+Document:CACM-3043
+
+microcomputer NETWORKS with DISTRIBUTED storage. 
+DISTRIBUTED processes: a concurrent programming concept 
+the paper gives several examples of DISTRIBUTED processes 
+concurrent programming, DISTRIBUTED processes, 
+*********************************************************************
+Document:CACM-1892
+
+strategies, OPERATING SYSTEMS, memory management 
+degree of multiprogramming IN page-on-demand SYSTEMS 
+SYSTEMS. the model preserves, as a key feature, the 
+*********************************************************************
+Document:CACM-2567
+
+SYSTEMS of ordinary differential equations 
+for SYSTEMS of ordinary differential equations is presented. 
+with stiff SYSTEMS of differential equations. 
+highly stiff SYSTEMS. 
+*********************************************************************
+Document:CACM-2812
+
+accurately defined SYSTEMS, SYSTEMS optimization 
+computer-aided analysis AND design of information SYSTEMS 
+was written IN ads (accurately defined SYSTEMS) 
+soda (SYSTEMS optimization AND design algorithm) 
+*********************************************************************
+Document:CACM-2738
+
+design of hierarchically structured SYSTEMS 
+structured programming SYSTEMS. it develops 
+hierarchical SYSTEMS, bottom up design, levels 
+use of the concept of transparency IN the 
+*********************************************************************
+Document:CACM-2614
+
+critical path, NETWORKS, precedence NETWORKS 
+arrow to precedence NETWORK transformation [h] (algorithm a481) 
+cacm august, 1974 
+*********************************************************************
+Document:CACM-2188
+
+an approach to the optimum design of computer graphics SYSTEMS 
+on CONSIDERATIONS such as system response time, system 
+to configure display SYSTEMS. this is accomplished by 
+design guidelines, graphic display SYSTEMS, mathematical 
+*********************************************************************
+Document:CACM-1811
+
+parallel-processor computing SYSTEMS to efficiently decrease 
+SYSTEMS are multiprocessor SYSTEMS IN which several of 
+of current IN an electrical NETWORK was written for a 
+storage interference, electrical NETWORK, simulation, 
+*********************************************************************
+Document:CACM-1680
+
+retrieval OPERATING SYSTEMS, graphics, displays, man-machine 
+display unit under OPERATING system/360. adept 
+is a cataloged program that controls the standard OPERATING 
+to it, AND surrendering control to the OPERATING 
+*********************************************************************
+Document:CACM-1484
+
+SYSTEMS are discussed, AND a dialect of algol which 
+is suitable for describing synchronous SYSTEMS is introduced. 
+a language for describing the functions of synchronous systems* 
+*********************************************************************
+Document:CACM-1196
+
+of the numerical solution of SYSTEMS of ordinary differential 
+for the solution of such SYSTEMS. a good general purpose 
+routine for the solution of such SYSTEMS furnishes 
+applications of differential equations IN general problem solving 
+*********************************************************************
+Document:CACM-2597
+
+monitors, OPERATING SYSTEMS, scheduling, mutual 
+monitors: an OPERATING system structuring concept 
+a monitor as a method of structuring an OPERATING 
+*********************************************************************
+Document:CACM-3090
+
+way "successful" automated information SYSTEMS fit 
+of computing, management information SYSTEMS, 
+sociology of computing, information SYSTEMS AND 
+service integration, urban information SYSTEMS 
+*********************************************************************
+Document:CACM-1747
+
+input equipment design, OPERATING SYSTEMS, OPERATING 
+SYSTEMS, computer SYSTEMS design, input equipment, 
+three criteria for designing computing SYSTEMS to facilitate debugging 
+processes, protection IN multiprogrammed SYSTEMS, 
+*********************************************************************
+Document:CACM-3028
+
+storage, extra codes, compilers, OPERATING SYSTEMS, 
+two SYSTEMS stand out: the mark i (developed 
+the manchester mark i AND atlas: a his torical perspective 
+*********************************************************************
+Document:CACM-2798
+
+analysis of interleaved memory SYSTEMS using blockage buffers 
+a model of interleaved memory SYSTEMS is presented, 
+interleaved memory SYSTEMS, modular memory SYSTEMS, 
+*********************************************************************
+Document:CACM-1748
+
+a scheduling philosophy for multiprocessing SYSTEMS 
+design AND analysis of multiprocessing SYSTEMS. 
+SYSTEMS is explained. some aspects of time-oriented 
+SYSTEMS 
+*********************************************************************
+Document:CACM-2730
+
+interactive programming SYSTEMS often contain 
+instruction regarding the use of the various SYSTEMS 
+interactive programming, time-sharing SYSTEMS, natural 
+interactive consulting via natural language 
+*********************************************************************
+Document:CACM-2197
+
+the merit of regional computing NETWORKS 
+computing NETWORKS. one such NETWORK has 
+learned from the operation of the NETWORK over the past 
+two years. a major impact of the NETWORK was 
+*********************************************************************
+Document:CACM-0652
+
+use of semantic structure IN information SYSTEMS 
+cacm january, 1962 
+sable, j. d. 
+*********************************************************************
+Document:CACM-0597
+
+modular data processing SYSTEMS written IN cobol 
+cacm may, 1962 
+emery, j. c. 
+*********************************************************************
+Document:CACM-2036
+
+conditional job control, OPERATING SYSTEMS 
+existing time-sharing SYSTEMS is given. 
+an interactive command generating facility 
+*********************************************************************
+Document:CACM-2995
+
+IN multiprogramming SYSTEMS (corrigendum) 
+decomposability, instabilities, AND saturation 
+cacm february, 1977 
+*********************************************************************
+Document:CACM-1938
+
+time-sharing SYSTEMS, as defined IN this article, 
+are those multiaccess SYSTEMS which permit 
+makes quantitative evaluation of time-sharing SYSTEMS 
+some criteria for time-sharing system performance 
+*********************************************************************
+Document:CACM-0322
+
+the problem of OPERATING a computer efficiently IN 
+view of the growing number of programming SYSTEMS 
+available. each of these programming SYSTEMS has been 
+operational compatibility of systems-conventions 
+*********************************************************************
+Document:CACM-0025
+
+general purpose programming SYSTEMS 
+cacm may, 1958 
+holt, a. w. 
+*********************************************************************

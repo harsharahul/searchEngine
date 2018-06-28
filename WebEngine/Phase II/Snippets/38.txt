@@ -1,0 +1,618 @@
+Query:what is the type of a module i dont want the entire literature on abstract data types here but im not sure how to phrase this to avoid it im interested in questions about how one can check that a module matches contexts in which it is used
+
+Document:CACM-1931
+
+arithmetic (I.) CAN be USED effectively TO bound errors 
+with straightforward use OF I. IN determinant 
+I. for determinant evaluation. an application using 
+I. determinants IN A program TO test A set OF 
+*********************************************************************
+Document:CACM-1588
+
+operate ON simple and complex DATA list organizations. 
+inability TO deal directly with complex DATA 
+upon THE DATA list structures. these two problems have 
+pl/i list processing 
+*********************************************************************
+Document:CACM-0497
+
+further remarks ON line segment curve-fitting using dynamic programming 
+IN A recent paper, bellman showed HOW dynamic 
+programming could be USED TO determine THE solution 
+*********************************************************************
+Document:CACM-0595
+
+unfortunately, historical DATA concerning 
+greene, I. 
+guides TO teaching cobol 
+*********************************************************************
+Document:CACM-2867
+
+DATA TYPE, address space, virtual memory 
+systems. IT IS shown THAT THE concepts OF MODULE and 
+incremental machine design, MODULE, 
+modularization and hierarchy IN A family OF operating systems 
+*********************************************************************
+Document:CACM-3059
+
+models for parallel processing within programs: 
+application TO cpu:i/o and i/o:i/o overlap 
+approximate queueing models for internal parallel 
+*********************************************************************
+Document:CACM-1323
+
+then THIS model IS USED as an "ABSTRACT object language" 
+i.e. an "ABSTRACT compiler" into THE "ABSTRACT 
+A correspondence between algol 60 and church's lambda-notation: part i* 
+*********************************************************************
+Document:CACM-2905
+
+perfect hashing functions: A single 
+probe retrieving method for static sets 
+A refinement OF hashing WHICH allows retrieval 
+*********************************************************************
+Document:CACM-1727
+
+I. although THE p(ij) are, for each I, proportional TO 
+ONE way OF estimating frequencies OF jumps IN A program 
+for THE segmentation OF A program IT IS useful 
+*********************************************************************
+Document:CACM-0452
+
+nesting OF for statement I (algorithm 137) 
+cacm november, 1962 
+dahm, d. m. 
+*********************************************************************
+Document:CACM-1606
+
+hill, I. d. 
+chi-squared integral (algorithm 299 [s15]) 
+cacm april, 1967 
+*********************************************************************
+Document:CACM-1378
+
+hill, I. d. 
+pseudo-random numbers (algorithm 266 [g5]) 
+cacm september, 1966 
+*********************************************************************
+Document:CACM-1190
+
+hill, I. d. 
+pseudo-random numbers (algorithm 266 [g5]) 
+cacm october, 1965 
+*********************************************************************
+Document:CACM-2941
+
+THE specific topics addressed are: MODULE structure 
+TYPES and TYPE coercions, THE benefits OF THE TYPE system 
+programming languages, TYPES, modules, 
+DATA structures, systems programming 
+*********************************************************************
+Document:CACM-1575
+
+hill, I. d. 
+incomplete beta ratio (algorithm 179 [s14]) 
+cacm june, 1967 
+*********************************************************************
+Document:CACM-3144
+
+A model for and discussion OF multi-interpreter systems 
+A multi-interpreter system IS A system IN WHICH programs execute 
+by virtue OF being interpreted by other programs, WHICH themselves may 
+*********************************************************************
+Document:CACM-2448
+
+reversible execution 
+cacm september, 1973 
+zelkowitz, m. v. 
+*********************************************************************
+Document:CACM-1824
+
+aparel-a parse-request language 
+aparel IS described: THIS language IS an extension 
+TO an algorithmic language (pl/i) THAT provides 
+*********************************************************************
+Document:CACM-1371
+
+hill, I. d. 
+logarithm OF gamma function (algorithm 291 [s14]) 
+cacm september, 1966 
+*********************************************************************
+Document:CACM-3057
+
+optimal his togram matching by monotone gray level transformation 
+THIS paper investigates THE problem OF optimal 
+his togram matching using monotone gray level 
+*********************************************************************
+Document:CACM-3031
+
+ABSTRACT DATA TYPES and software validation 
+OF an ABSTRACT DATA TYPE. second, semi-automatic 
+ABSTRACT DATA TYPE, correctness proof, 
+DATA TYPE, DATA structure, specification 
+*********************************************************************
+Document:CACM-3188
+
+syntactics do NOT necessary cover all OF them. ONE CAN, however, project most 
+semiotics and programming languages 
+I have based my paper ON semiotics and its three dimension. I should insert 
+*********************************************************************
+Document:CACM-2148
+
+OF programming languages, DATA structures 
+THE composition OF semantics IN algol 68 
+THE main features OF algol 68 are explained 
+*********************************************************************
+Document:CACM-1530
+
+pdp-7 and I. atlas 2 computers and IS intended as A 
+THE ml/i macro processor 
+A general purpose macro processor called ml/i 
+*********************************************************************
+Document:CACM-1850
+
+leitch, I. m. 
+generation OF permutations IN lexicographic order (algorithm 323 [g6]) 
+cacm september, 1969 
+*********************************************************************
+Document:CACM-2534
+
+design and implementation OF A diagnostic compiler for pl/i 
+pl/c IS A compiler for A dialect for pl/i. THE 
+design objective was TO provide A maximum degree 
+*********************************************************************
+Document:CACM-1407
+
+hill, I. d. 
+confidence interval for A ratio (algorithm 289 [g1]) 
+cacm july, 1966 
+*********************************************************************
+Document:CACM-1569
+
+OF A context-free PHRASE structure grammar 
+implementing phrase-structure productions IN pl/i 
+A method IS described for implementing THE productions 
+*********************************************************************
+Document:CACM-2536
+
+telecommunications using A front-end minicomputer 
+THE use OF A front-end minicomputer TO provide 
+varied remote terminal access TO A large scale 
+*********************************************************************
+Document:CACM-2473
+
+macleod, I. d. g. 
+collins, A. m. 
+hidden-line plotting program (algorithm r420) 
+*********************************************************************
+Document:CACM-2199
+
+A sparse matrix package (part I) [f4] (algorithm 408) 
+cacm april, 1971 
+mcnamee, j. m. 
+*********************************************************************
+Document:CACM-3020
+
+systematic recursion removal 
+THE recursion removal algorithm presented 
+by strong and walker IS amplified and applied TO 
+*********************************************************************
+Document:CACM-3028
+
+ferranti, manchester mark I, atlas, icl 
+THE manchester mark I and atlas: A his torical perspective 
+IN 30 years OF computer design at manchester university 
+*********************************************************************
+Document:CACM-2705
+
+flexion less, word-order based language TYPES 
+ABSTRACT constructs. by analogy with incidents 
+seen TO be high quality program LITERATURE (i.e. programs) 
+OF general utility and studies OF QUESTIONS 
+*********************************************************************
+Document:CACM-1062
+
+strings from (I) input strings WHICH have been analyzed 
+symbol manipulation IN fortran-sasp I subroutines 
+A set OF subroutines for use IN fortran are 
+*********************************************************************
+Document:CACM-1519
+
+I. 1900, and CAN handle A large number OF online console 
+strauss, j. I. 
+george 3-a general purpose time sharing and operating system 
+*********************************************************************
+Document:CACM-2470
+
+DATA TYPES out OF simper ones with THE operations OF rowing, 
+DATA TYPES. both deterministic and nondeterministic 
+languages, DATA TYPES, modes, axioms, correctness, 
+THE notions OF DATA item, function, and relation. 
+*********************************************************************
+Document:CACM-2845
+
+A buddy system variation for disk storage allocation 
+A generalization OF THE buddy system for storage 
+allocation IS described. THE set OF permitted 
+*********************************************************************
+Document:CACM-1373
+
+hill, I. d. 
+gamma function; gamma function for range 1 TO 
+2; reciprocal gamma function TO real argument; 
+gamma function; logarithm OF gamma function (algorithms 
+*********************************************************************
+Document:CACM-2713
+
+standard deviation OF DATA (corrigendum) 
+cotton, I. 
+remark ON stably updating mean and 
+*********************************************************************
+Document:CACM-0526
+
+pyle, I. c. 
+character manipulation IN fortran 
+cacm august, 1962 
+*********************************************************************
+Document:CACM-3105
+
+ABSTRACT DATA TYPES, TYPE checking, capabilities 
+languages THAT support THE notion OF ABSTRACT DATA 
+programming languages, access control, DATA TYPES, 
+A language extension for expressing constraints ON DATA access 
+*********************************************************************
+Document:CACM-2840
+
+harrison, m. A. 
+protection IN operating systems 
+A model OF protection mechanisms IN computing 
+*********************************************************************
+Document:CACM-0171
+
+digital computers IN universities (part I) 
+cacm july, 1960 
+reeves, r. f. 
+*********************************************************************
+Document:CACM-1159
+
+halpern, m. I. 
+machine independence: its technology and economics 
+A survey IS offered OF techniques for transferring 
+*********************************************************************
+Document:CACM-1012
+
+important for both natural language DATA processing 
+vocabulary I, input vocabulary t, and all productions 
+A conventional PHRASE structure grammar IS examined 
+greibach, s. A. 
+*********************************************************************
+Document:CACM-0648
+
+flores, I. 
+sorting procedures (algorithm 76) 
+cacm january, 1962 
+*********************************************************************
+Document:CACM-2219
+
+bernstein, A. j. 
+A policy-driven scheduler for A time-sharing system 
+THE service received by A process from A time-sharing 
+*********************************************************************
+Document:CACM-1458
+
+schwartz, j. I. 
+online programming 
+when THE transition has been made from off line 
+*********************************************************************
+Document:CACM-2731
+
+remark ON stably updating mean and standard deviation OF DATA 
+cotton, I. w. 
+cacm august, 1975 
+*********************************************************************
+Document:CACM-2916
+
+THE location, "I," OF THE first occurrence OF A 
+searched. thus THE algorithm has THE unusual property THAT, 
+inspected (ON THE average) decreases as A 
+I. furthermore, THE algorithm has been implemented 
+*********************************************************************
+Document:CACM-1698
+
+user, BUT rather easy TO characterize THE ENTIRE user community. 
+like any actual console, BUT THE ENTIRE collection OF 
+consoles. using THE model we answer QUESTIONS like: 
+requirements? answers TO these and similar QUESTIONS 
+*********************************************************************
+Document:CACM-0676
+
+ON THE computation OF A certain TYPE OF incompletebeta functions 
+tang, I. c. 
+cacm november, 1963 
+*********************************************************************
+Document:CACM-1974
+
+source, documentation aid, execution time usage DATA 
+neater2: A pl/i source statement reformatter 
+neater2 accepts A pl/i source program and operates ON IT TO produce 
+*********************************************************************
+Document:CACM-1343
+
+farkas, I. 
+havie integrator (algorithm 257 [d1]) 
+cacm december, 1966 
+*********************************************************************
+Document:CACM-2729
+
+comments ON A paper by t. c. chen and I. t. ho 
+smith, A. j. 
+binary coded decimal digits, decimal DATA storage, 
+DATA compression, huffman codes, variable length 
+*********************************************************************
+Document:CACM-0204
+
+proving theorems by pattern recognition I 
+cacm april, 1960 
+wang, h. 
+*********************************************************************
+Document:CACM-2956
+
+some ideas ON DATA TYPES IN high-level languages 
+notion THAT A DATA TYPE IS A set OF values together 
+THE domain OF an array as A DATA TYPE, THE need for 
+DATA TYPES, generic procedures, programming languages 
+*********************************************************************
+Document:CACM-1400
+
+blum, r. I. 
+free-text inputs TO utility routines 
+through THE use OF some rather simple techniques, 
+*********************************************************************
+Document:CACM-0760
+
+pyle, I. c. 
+dialects OF fortran 
+cacm august, 1963 
+*********************************************************************
+Document:CACM-0677
+
+WHICH have appeared previously IN THE LITERATURE. A 
+length OF strings for A merge sort 
+detailed statistics are given ON THE length 
+*********************************************************************
+Document:CACM-0584
+
+rabinowitz, I. n. 
+report ON THE algorithmic language fortran ii 
+cacm june, 1962 
+*********************************************************************
+Document:CACM-0967
+
+clausen, I. 
+complementary error function (algorithm 181 [s15]) 
+cacm december, 1964 
+*********************************************************************
+Document:CACM-0880
+
+farkas, I. 
+newton interpolation with backward divided differences 
+cacm april, 1963 
+*********************************************************************
+Document:CACM-0201
+
+bessel funtion I, series expansion (algorithm 5) 
+cacm april, 1960 
+clarke, d. s. 
+*********************************************************************
+Document:CACM-0200
+
+bessel function I, asymptotic expansion (algorithm 6) 
+cacm april, 1960 
+clarke, d. s. 
+*********************************************************************
+Document:CACM-0018
+
+schlesinger, s. I. 
+simple automatic coding systems 
+cacm july, 1958 
+*********************************************************************
+Document:CACM-2354
+
+IN A companion paper TO THIS, "I methodology 
+implementing clenshaw-curtis quadrature, 
+ii computing THE cosine transformation 
+*********************************************************************
+Document:CACM-2100
+
+barrodale, I. 
+ortho (algorithm 127 $f5)) 
+cacm february, 1970 
+*********************************************************************
+Document:CACM-2449
+
+poplawski, d. A. 
+A simple technique for structured variable lookup 
+A simple technique for THE symbol-table lookup 
+*********************************************************************
+Document:CACM-0879
+
+farkas, I. 
+newton interpolation with forward divided differences (algorithm 169) 
+cacm april, 1963 
+*********************************************************************
+Document:CACM-3072
+
+feedback coupled resource allocation policies 
+IN THE multiprogramming- multiprocessor computer 
+system 
+*********************************************************************
+Document:CACM-1301
+
+zaremba, w. A. 
+ON algol i/o conventions 
+cacm march, 1965 
+*********************************************************************
+Document:CACM-2381
+
+flores, I. 
+average binary search length for dense ordered lists (corrigendum) 
+cacm february, 1972 
+*********************************************************************
+Document:CACM-0881
+
+farkas, I. 
+calculation OF confluent divided differences (algorithm 167) 
+cacm april, 1963 
+*********************************************************************
+Document:CACM-0002
+
+sugai, I. 
+extraction OF roots by repeated subtractions for digital computers 
+cacm december, 1958 
+*********************************************************************
+Document:CACM-0951
+
+gargantini, I. 
+rational chebyshev approximations 
+TO THE bessel function integrals kis(x) 
+*********************************************************************
+Document:CACM-0749
+
+dumey, A. I. 
+note onstochastic matrices 
+cacm september, 1963 
+*********************************************************************
+Document:CACM-0210
+
+recursive functions OF symbolic expressions 
+and their computation by machine, part I 
+cacm april, 1960 
+*********************************************************************
+Document:CACM-1861
+
+language CAN define new operators and/or DATA TYPES 
+galler, b. A. 
+THE mad definition facility 
+*********************************************************************
+Document:CACM-2157
+
+flores, I. 
+average binary search length for dense ordered lists 
+cacm september, 1971 
+*********************************************************************
+Document:CACM-1450
+
+kerner, I. o. 
+simultaneous displacement OF polynomial 
+roots if real and simple (algorithm 283 [c2]) 
+*********************************************************************
+Document:CACM-1057
+
+hoffman, I. A. 
+critical path scheduling (algorithm 40) 
+cacm june, 1964 
+*********************************************************************
+Document:CACM-2380
+
+tenex, A paged time sharing system for THE pdp-10 
+tenex IS A new time sharing system implemented 
+ON dec pdp-10 augmented by special paging hardware 
+*********************************************************************
+Document:CACM-1895
+
+hill, I. d. 
+gaussian quadrature formulas (algorithm 331 [d1]) 
+cacm may, 1969 
+*********************************************************************
+Document:CACM-1881
+
+macleod, I. d. g. 
+transpose vector stored array (algorithm 302 [k2]) 
+cacm june, 1969 
+*********************************************************************
+Document:CACM-2139
+
+implementation OF THE substring test by hashing 
+A technique IS described for implementing THE 
+test WHICH determines if ONE string IS A substring 
+*********************************************************************
+Document:CACM-1890
+
+simulation OF traffic flows IN A network 
+A computer simulation program WHICH deals 
+with traffic flows IN THE network OF A large area 
+*********************************************************************
+Document:CACM-1732
+
+factorial analysis OF variance (algorithm 330 [g1]) 
+cacm june, 1968 
+oliver,i. 
+*********************************************************************
+Document:CACM-0225
+
+greenwald, I. d. 
+A techniquefor handling macro instructions (corrigendum) 
+cacm february, 1960 
+*********************************************************************
+Document:CACM-0043
+
+greenwald, I. d. 
+A technique for handling macro instructions 
+cacm november, 1959 
+*********************************************************************
+Document:CACM-2582
+
+reference. THE DATA THE method operates upon are extracted from 
+IT IS shown THAT, except IN some special cases, THE 
+interactive text editor and THE file system MODULE 
+LITERATURE. 
+*********************************************************************
+Document:CACM-1166
+
+A use OF macros IN translation OF symbolic 
+assembly language OF ONE computer TO another 
+A set OF macro-operations has been prepared 
+*********************************************************************
+Document:CACM-3177
+
+IN THIS paper we show HOW TO divide DATA d into 
+shamir, A. 
+HOW TO share A secret 
+*********************************************************************
+Document:CACM-1582
+
+hill, I. d. 
+joyce, s. A. 
+gauss (algorithm 209 [s15]) 
+*********************************************************************
+Document:CACM-3142
+
+WHAT TYPE OF errors occur? HOW easily are they corrected? WHAT 
+from such DATA? results show THAT with THE present state OF THE 
+average contacts with different TYPES OF accounts experience ONE 
+consumer difficulties with computerized transactions: 
+*********************************************************************
+Document:CACM-0188
+
+berezin, I. s. 
+THE department OF computer mathematics at moscow state university 
+cacm june, 1960 
+*********************************************************************
+Document:CACM-2145
+
+aramaki, I. 
+kazuhiko, A. 
+automation OF etching-pattern layout 
+*********************************************************************
+Document:CACM-3056
+
+counting large numbers OF events IN small registers 
+IT IS possible TO use A small counter TO keep 
+approximate counts OF large numbers. THE resulting 
+*********************************************************************
+Document:CACM-1585
+
+hill, I. d. 
+joyce, s. A. 
+normal curve integral (algorithm 304 [s15]) 
+*********************************************************************

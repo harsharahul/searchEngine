@@ -1,0 +1,665 @@
+Query:i am interested in distributed algorithms - concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest include fault-tolerance and techniques for understanding the correctness of these algorithms
+
+Document:CACM-3043
+
+DISTRIBUTED PROCESSES: a CONCURRENT programming concept 
+PROCESSES COMMUNICATE AND SYNCHRONIZE BY means OF procedure 
+CONCURRENT programming, DISTRIBUTED PROCESSES, 
+a language concept FOR CONCURRENT PROCESSES 
+*********************************************************************
+Document:CACM-2912
+
+CONCURRENT reading AND writing 
+one process at a time can modify THE data, but CONCURRENT 
+theorems are proved, AND some ALGORITHMS are presented 
+to illustrate their use. THESE INCLUDE a solution 
+*********************************************************************
+Document:CACM-2903
+
+improving PROGRAMS BY THE introduction OF recursion 
+applied to two ALGORITHMS WHICH solve pattern matching problems. 
+BY USING recursion IN troduction, ALGORITHMS 
+recursive ALGORITHMS IN WHICH no stack operations 
+*********************************************************************
+Document:CACM-3141
+
+decentralized ALGORITHMS, DISTRIBUTED systems, operating systems 
+IN circular configurations OF PROCESSES 
+numbered PROCESSES arranged IN a circle, IN WHICH no central 
+controller exists AND THE number OF PROCESSES is not known a priori. 
+*********************************************************************
+Document:CACM-2902
+
+ALGORITHMS. simple ALGORITHMS operating on memory ordered 
+35 dynamic memory allocation ALGORITHMS when used 
+to service simulation PROGRAMS as represented BY 18 
+fragmentation. ALGORITHMS main taining separate 
+*********************************************************************
+Document:CACM-2111
+
+spelling correction IN systems PROGRAMS 
+several specialized TECHNIQUES are shown FOR efficiently 
+incorporating spelling correction ALGORITHMS IN 
+to compilers AND operating systems. THESE INCLUDE THE use OF syntax 
+*********************************************************************
+Document:CACM-0270
+
+TECHNIQUES FOR storage allocation ALGORITHMS 
+cacm october, 1961 
+kelley jr., j. e. 
+*********************************************************************
+Document:CACM-0371
+
+remarks on ALGORITHMS 2 AND 3, algorithm 15 AND ALGORITHMS 25 AND 26 
+cacm march, 1961 
+wilkinson, j. h. 
+*********************************************************************
+Document:CACM-2890
+
+on quadratic adaptive routing ALGORITHMS 
+THE optimal MESSAGE routing AND THE other to illustrate 
+routing ALGORITHMS, adaptive routing, quadratic routing, 
+DISTRIBUTED network, computer network, MESSAGE switching 
+*********************************************************************
+Document:CACM-1551
+
+on compiling ALGORITHMS FOR arithmetic expressions 
+this paper deals with ALGORITHMS concerning arithmetic 
+ALGORITHMS generate an object code WHICH minimizes 
+nakata, I. 
+*********************************************************************
+Document:CACM-3128
+
+synchronization OF CONCURRENT PROCESSES requires controlling THE relative 
+ordering OF events IN THE PROCESSES. 
+abstract objects called eventcounts AND sequencers, that allows PROCESSES 
+to protection mechanisms IN THE system is explained; IN PARTICULAR, 
+*********************************************************************
+Document:CACM-2949
+
+a CORRECTNESS proof OF a topology information 
+main tenance protocol FOR a DISTRIBUTED computer 
+IN order FOR THE nodes OF a DISTRIBUTED computer 
+network to COMMUNICATE, each node must have 
+*********************************************************************
+Document:CACM-2657
+
+an improved program-synthesizing algorithm AND its CORRECTNESS 
+IN 1969. THE CORRECTNESS OF THE improved algorithm 
+program-synthesizing ALGORITHMS, theorem proving, 
+*********************************************************************
+Document:CACM-2865
+
+verification, CONCURRENT PROCESSES, synchronization, 
+verifying properties OF parallel PROGRAMS: an axiomatic approach 
+OF properties OF parallel PROGRAMS is presented. 
+hoare has given a set OF axioms FOR partial CORRECTNESS, 
+*********************************************************************
+Document:CACM-2950
+
+OF time-invariant ALGORITHMS, WHICH INCLUDE most 
+scheduling ALGORITHMS based on an abstract model 
+priority. various classes OF scheduling ALGORITHMS 
+are defined AND related to existing ALGORITHMS. a 
+*********************************************************************
+Document:CACM-2325
+
+OF computation, ALGORITHMS, continuous ALGORITHMS 
+OF continuous ALGORITHMS. four OF THE components 
+complexity), synthesis AND analysis OF ALGORITHMS, 
+analysis OF error, PROGRAMS AND program libraries. 
+*********************************************************************
+Document:CACM-1796
+
+index BY subject to ALGORITHMS, 1969 
+index BY subject to ALGORITHMS, 1960 1968 (comm. 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-2674
+
+scan conversion ALGORITHMS FOR a cell organized raster display 
+to INCLUDE general graphics. two fundamentally different 
+scan conversion ALGORITHMS WHICH have been 
+AND THE other to interactive applications. THE ALGORITHMS 
+*********************************************************************
+Document:CACM-1924
+
+carefully designed matrix ALGORITHMS can lead to 
+multiplication, AND inversion ALGORITHMS shows 
+manipulation ALGORITHMS is also studied as a function 
+matrix ALGORITHMS, array processing, paging ALGORITHMS, 
+*********************************************************************
+Document:CACM-1952
+
+index BY subject to ALGORITHMS, 1970 
+cacm december, 1970 
+ca701211 jb february 9, 1978 2:50 pm 
+*********************************************************************
+Document:CACM-1660
+
+index BY subject to ALGORITHMS, 1960-1968 
+cacm december, 1968 
+ca681206 jb february 21, 1978 1:39 pm 
+*********************************************************************
+Document:CACM-2273
+
+from decision tables are described. THE ALGORITHMS 
+entry tables. THE ALGORITHMS are based on THE 
+BY instantly marking rules WHICH are not applicable (ALGORITHMS 
+tested (algorithm 2). THE new ALGORITHMS combine to a 
+*********************************************************************
+Document:CACM-1397
+
+people INTERESTED IN programming languages designed 
+strings, IN their applications, AND IN ALGORITHMS FOR 
+FOR several INTEREST groups. THE conference was sponsored 
+BY THE acm special INTEREST committee on symbolic 
+*********************************************************************
+Document:CACM-3006
+
+anomalies with variable partition paging ALGORITHMS 
+AND paging ALGORITHMS, an increase IN mean memory allocation 
+two paging ALGORITHMS, are examined IN terms OF their 
+ALGORITHMS, virtual memory, working set, page 
+*********************************************************************
+Document:CACM-2376
+
+synchronization OF communicating PROCESSES 
+many sending PROCESSES WHICH deposit messages IN a buffer 
+AND many receiving PROCESSES WHICH remove messages 
+THE same MESSAGE frame IN THE buffer nor will they run into a deadlock. 
+*********************************************************************
+Document:CACM-2863
+
+replacement ALGORITHMS is presented. an optimum 
+AND THE page partitioning replacement ALGORITHMS 
+on five virtual memory PROGRAMS are presented to demonstrate 
+realizable variable space ALGORITHMS. 
+*********************************************************************
+Document:CACM-2417
+
+four combinatorial ALGORITHMS [g6] (algorithm a466) 
+cacm november, 1973 
+ehrlich, g. 
+*********************************************************************
+Document:CACM-2263
+
+ALGORITHMS 
+two new ALGORITHMS FOR deriving optimal AND 
+one OF THE ALGORITHMS, called THE optimum-finding algorithm, 
+produce THE optimum flowchart. THE ALGORITHMS are first 
+*********************************************************************
+Document:CACM-1619
+
+BY some ALGORITHMS used to compute various 
+error-free methods FOR statistical computations 
+neely has discussed computational error generated 
+*********************************************************************
+Document:CACM-2226
+
+further evidence FOR THE analysis OF ALGORITHMS 
+summarized BY gue et al, with two ALGORITHMS FOR THE 
+THE ALGORITHMS as a suboptimizer is indicated. 
+operations research, integer programming, zero-one variables, ALGORITHMS 
+*********************************************************************
+Document:CACM-2276
+
+DISTRIBUTED random numbers into exponentially 
+AND normally DISTRIBUTED quantities. THE most efficient 
+AND speed, with some new ALGORITHMS. a number OF procedures 
+shorter ALGORITHMS AND faster but space consuming 
+*********************************************************************
+Document:CACM-2454
+
+computational ALGORITHMS FOR closed queueing 
+THE computational ALGORITHMS are based on two-dimensional 
+iterative TECHNIQUES WHICH are highly efficient 
+networks with exponential servers 
+*********************************************************************
+Document:CACM-2342
+
+interference between communicating parallel PROCESSES 
+parallel PROCESSES have been examined BY 
+subproblems, IN THE form OF parallel PROGRAMS, AND informal 
+proofs OF CORRECTNESS have been given FOR 
+*********************************************************************
+Document:CACM-1623
+
+OF INTEREST IN AREAS other than circuit analysis. 
+command. IN PARTICULAR, it made extensive use OF THE 
+THE use OF programming TECHNIQUES IN formac than with 
+may be INTERESTED IN THE problem because it is stated 
+*********************************************************************
+Document:CACM-2830
+
+a practitioner's guide to addressing ALGORITHMS (corrigendum) 
+cacm september, 1976 
+severance, d. g. 
+*********************************************************************
+Document:CACM-1948
+
+THE most important AREAS OF application at present are 
+calculus. group theory PROGRAMS range from 
+simple combinatorial or numerical PROGRAMS to large 
+more important ALGORITHMS IN use are described AND contrasted, 
+*********************************************************************
+Document:CACM-3132
+
+experiments with some ALGORITHMS that find 
+than a noncentral hyperplane. six ALGORITHMS FOR finding central 
+three ALGORITHMS WHICH are defined IN THE paper are found to be 
+central solutions FOR pattern classification 
+*********************************************************************
+Document:CACM-2324
+
+programming TECHNIQUES. it is forecast that 
+programming, management science, operations research, ALGORITHMS 
+ALGORITHMS to demonstrate WHICH TECHNIQUES are best FOR specific problems. 
+management science: a view from nonlinear programming 
+*********************************************************************
+Document:CACM-2007
+
+ALGORITHMS policy/revised august 1970 
+cacm august, 1970 
+ca700814 jb february 10, 1978 3:12 pm 
+*********************************************************************
+Document:CACM-2884
+
+permutation enumeration: four new permutation ALGORITHMS 
+classical permutation enumeration ALGORITHMS encounter 
+on n marks. four new ALGORITHMS have THE attribute 
+two OF THE ALGORITHMS produce THE next permutation 
+*********************************************************************
+Document:CACM-2860
+
+a practitioner's guide to addressing ALGORITHMS 
+design OF record addressing ALGORITHMS, AND discusses 
+overflow TECHNIQUES, loading factors, 
+TECHNIQUES, hashing functions, synonym resolution, 
+*********************************************************************
+Document:CACM-2283
+
+thinning ALGORITHMS on rectangular, hexagonal, AND triangular arrays 
+IN this report three thinning ALGORITHMS are 
+results produced BY each OF THE ALGORITHMS are presented 
+AND THE relative performances OF THE ALGORITHMS 
+*********************************************************************
+Document:CACM-1342
+
+transportation problem (ALGORITHMS 293 [h]) 
+cacm december, 1966 
+bayer, g. 
+*********************************************************************
+Document:CACM-2904
+
+are discussed. THESE ALGORITHMS should fit well into an 
+integrated package OF local optimization ALGORITHMS. 
+an algorithm FOR reduction OF operator strength 
+*********************************************************************
+Document:CACM-2094
+
+algorithm can give satisfactory results AND, IN PARTICULAR, can 
+d BY properties WHICH permit THE application OF special ALGORITHMS, 
+mainly based on THE exchange ALGORITHMS OF remes (1934, 1935), FOR 
+on an algorithm FOR nonlinear minimax approximation 
+*********************************************************************
+Document:CACM-2579
+
+ALGORITHMS that eliminate redundant computations, AND 
+used register allocation TECHNIQUES, AND presents evidence 
+is significantly better than THESE other TECHNIQUES. 
+register allocation via usage counts 
+*********************************************************************
+Document:CACM-2627
+
+WHICH extend AND generalize THE ALGORITHMS known FOR 
+presenting AND analyzing new ALGORITHMS it is shown 
+time, sequencing ALGORITHMS, optimal scheduling 
+ALGORITHMS, deterministic scheduling models 
+*********************************************************************
+Document:CACM-2289
+
+solution OF graph problems is THE determination OF ALGORITHMS 
+serial. IN PARTICULAR, several parallelized 
+ALGORITHMS are presented FOR THE solution OF certain 
+THESE ALGORITHMS exhibit a computation time that IN 
+*********************************************************************
+Document:CACM-3166
+
+four ALGORITHMS FOR THE numerical computation 
+are analyzed. two OF THE ALGORITHMS are well-known IN THE statistical 
+AND computational literature; THE other two are new ALGORITHMS 
+"accuracy." each OF THE four ALGORITHMS is analyzed FOR THE conditions 
+*********************************************************************
+Document:CACM-2146
+
+various dispersion ALGORITHMS FOR THE polyphase 
+new dispersion ALGORITHMS with more straightforward 
+logic are presented. OF THE simple dispersion ALGORITHMS 
+less reading AND writing than most ALGORITHMS IN 
+*********************************************************************
+Document:CACM-2208
+
+storage AREAS. when an entry is to be filed IN 
+place THE entry into one OF THESE AREAS. if this 
+other AREAS IN THE first-level store may have space 
+storage AREAS into WHICH THE first-level store is divided 
+*********************************************************************
+Document:CACM-3148
+
+high level programming FOR DISTRIBUTED computing 
+programming FOR DISTRIBUTED AND other loosely coupled systems 
+is a problem OF growing INTEREST. this paper describes an approach 
+to DISTRIBUTED computing at THE level OF general purpose programming 
+*********************************************************************
+Document:CACM-2819
+
+two ALGORITHMS FOR encoding a string differ 
+substrings OF THE file. four new ALGORITHMS FOR this 
+parameters IN THE ALGORITHMS are optimized to obtain 
+codes, n-gram encoding, comparison OF ALGORITHMS 
+*********************************************************************
+Document:CACM-2679
+
+FOR six acm ALGORITHMS: quicksort (no. 64), 
+402). ALGORITHMS 271 AND 402 are refinements OF algorithm 
+claims. OF all THESE ALGORITHMS, quickersort requires 
+some performance tests OF "quicksort" AND descendants 
+*********************************************************************
+Document:CACM-2630
+
+two ALGORITHMS are presented that construct 
+IN a directed graph. THESE ALGORITHMS generalize THE floyd 
+on computing sets OF shortest paths IN a graph 
+*********************************************************************
+Document:CACM-1953
+
+exponential integral ei(x) (ALGORITHMS 385 $s13)) 
+cacm december, 1970 
+redish, k. a. 
+*********************************************************************
+Document:CACM-2505
+
+AND adjacent transposition ALGORITHMS 
+reflection-free permutations, rosary permutations, 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-2767
+
+a comparison OF simulation event list ALGORITHMS 
+four ALGORITHMS are considered WHICH can be used 
+simulation system. two OF THE ALGORITHMS are new, one 
+notices, AND another uses an indexed linear list. THE ALGORITHMS 
+*********************************************************************
+Document:CACM-1886
+
+THE factors. IN order to make THESE TECHNIQUES 
+necessarily generated. THE factorization ALGORITHMS 
+factorization ALGORITHMS, code optimization, sequencing 
+generation OF optimal code FOR expressions via factorization 
+*********************************************************************
+Document:CACM-2317
+
+OF THE world's production PROGRAMS are written AND will 
+is a great deal OF theoretical INTEREST IN algol 68 
+have contributed greatly to a better UNDERSTANDING 
+INCLUDE THE increased INTEREST IN THE development OF 
+*********************************************************************
+Document:CACM-2368
+
+ALGORITHMS. THE two players IN a shannon switching game, 
+graph ALGORITHMS, graph processing, shannon switching 
+games, demonstration PROGRAMS, game theory, spinning trees 
+an implemented graph algorithm FOR winning shannon switching games 
+*********************************************************************
+Document:CACM-3151
+
+points, real-time ALGORITHMS, on-line ALGORITHMS. 
+an optimal real-time algorithm FOR planar convex hulls 
+an algorithm is described FOR THE construction IN real-time OF THE 
+*********************************************************************
+Document:CACM-1122
+
+a note on some compiling ALGORITHMS 
+two compiling generators FOR arithmetic expressions 
+are discussed: one presently IN use IN 
+*********************************************************************
+Document:CACM-2646
+
+this paper presents THE background AND ALGORITHMS 
+THESE ALGORITHMS are restricted to classes 
+OF PROGRAMS with predictable behavior. while THE methods 
+a model FOR masking rotational latency BY dynamic disk allocation 
+*********************************************************************
+Document:CACM-1873
+
+accelerating lp ALGORITHMS 
+phase OF lp ALGORITHMS. other lp applications are indicated. 
+it is shown how a novel method FOR computing 
+*********************************************************************
+Document:CACM-2272
+
+a family OF sorting ALGORITHMS is proposed, 
+ALGORITHMS, sorting BY replacement selection, expected string length 
+sorting BY natural selection 
+*********************************************************************
+Document:CACM-2520
+
+good, d. I. 
+proof OF ALGORITHMS, greatest common divisor, 
+greatest common divisor OF n integers AND multipliers (algorithm c386) 
+*********************************************************************
+Document:CACM-2692
+
+a new family OF clipping ALGORITHMS is described. 
+THESE ALGORITHMS are able to clip polygons 
+lie outside THE volume. IN two dimensions THE ALGORITHMS 
+any newly-cut edge or edges. THE ALGORITHMS easily handle 
+*********************************************************************
+Document:CACM-2362
+
+matrix ALGORITHMS, linear equations, fortran, 
+linear equation solver [f4] (algorithm a423) 
+cacm april, 1972 
+*********************************************************************
+Document:CACM-2871
+
+logical analysis OF PROGRAMS 
+PROGRAMS are incomplete IN that intermediate 
+PROGRAMS are not treated. as a unified solution to 
+logical analysis OF PROGRAMS BY USING invariants WHICH 
+*********************************************************************
+Document:CACM-3143
+
+reasoning about arrays. THE basic concepts INCLUDE intervals AND their 
+ALGORITHMS FOR binary search AND merging, AND BY a short formal proof. 
+reasoning about arrays 
+*********************************************************************
+Document:CACM-0409
+
+problems AND to provide intercommunication between PROGRAMS 
+as well as ALGORITHMS defined on THESE data sets. both 
+data AND ALGORITHMS may be expressed IN a family 
+cl-1, an environment FOR a compiler 
+*********************************************************************
+Document:CACM-1609
+
+schedule can be obtained. known ALGORITHMS FOR carrying 
+USING THESE TECHNIQUES are given. THESE 
+scheduling university course examinations BY computer 
+*********************************************************************
+Document:CACM-2828
+
+hierarchical geometric models FOR visible surface ALGORITHMS 
+TECHNIQUES are possible. first, THE range OF complexity 
+visible surface ALGORITHMS, hidden surface ALGORITHMS, 
+*********************************************************************
+Document:CACM-2142
+
+picture. three ALGORITHMS are described (all USING 
+this problem. THE ALGORITHMS are applicable IN a large 
+mathematical programming, monte carlo TECHNIQUES, optimization, 
+reconstruction OF pictures from their projections 
+*********************************************************************
+Document:CACM-2306
+
+ancient babylonian ALGORITHMS 
+OF greatest INTEREST from THE standpoint OF computer 
+THE early origins OF mathematics are discussed, 
+*********************************************************************
+Document:CACM-1771
+
+given FOR undergraduate PROGRAMS. graduate PROGRAMS IN computer 
+PROGRAMS IN computer science -- a report OF THE 
+PROGRAMS IN computer science WHICH were developed 
+a classification OF THE subject AREAS contained 
+*********************************************************************
+Document:CACM-2389
+
+a computer language AND a set OF PROGRAMS within 
+according to a variety OF constraints. THE ALGORITHMS 
+AND THE search ALGORITHMS are detailed. 
+automated design, architecture, heuristic PROGRAMS, space planning 
+*********************************************************************
+Document:CACM-3075
+
+fast parallel sorting ALGORITHMS 
+parallel processing, sorting, ALGORITHMS, bucket sort 
+a parallel bucket-sort algorithm is presented 
+*********************************************************************
+Document:CACM-1172
+
+conversion OF limited-entry decision tables to computer PROGRAMS 
+OF conditions. ALGORITHMS that can efficiently convert 
+THE tables into computer PROGRAMS will extend 
+two such ALGORITHMS, based on work done BY m. s. 
+*********************************************************************
+Document:CACM-2320
+
+a data structure shared BY CONCURRENT PROCESSES 
+operating systems, CONCURRENT PROCESSES, shared 
+OF PROGRAMS AND permits a large class OF time-dependent 
+competing PROCESSES to any degree desired. THESE 
+*********************************************************************
+Document:CACM-2913
+
+attenuate them, an UNDERSTANDING OF THESE defects leads 
+to hidden-surface ALGORITHMS is discussed, AND an implementation 
+THE aliasing problem IN computer-generated shaded images 
+*********************************************************************
+Document:CACM-1529
+
+ALGORITHMS. IN THE course OF THE analysis, a substructure 
+relative performance OF THE two ALGORITHMS AND to their 
+decomposition programming an analysis OF matrix substructure 
+*********************************************************************
+Document:CACM-2973
+
+two ALGORITHMS are presented FOR sorting n^2 
+n). THE ALGORITHMS OF this paper are shown to be optimal 
+sorting on a mesh-connected parallel computer 
+*********************************************************************
+Document:CACM-1392
+
+OF mathematical expression manipulation ALGORITHMS 
+formac expand AND differentiation ALGORITHMS, a 
+IN THE design OF ALGORITHMS FOR manipulating 
+experience with formac algorithm design 
+*********************************************************************
+Document:CACM-1877
+
+WHICH could have been safely granted. ALGORITHMS 
+THE ALGORITHMS are both necessary AND sufficient 
+to prevent deadlock. THE ALGORITHMS have been successfully used IN THE THE system. 
+prevention OF system deadlocks 
+*********************************************************************
+Document:CACM-1440
+
+root routines. THESE approximations INCLUDE 
+OF primary INTEREST on ibm system/360. 
+starting approximations FOR square root calculation on ibm system/360 
+*********************************************************************
+Document:CACM-0804
+
+exponentiation OF series (ALGORITHMS 134) 
+cacm july, 1963 
+thacher jr., h. c. 
+*********************************************************************
+Document:CACM-2267
+
+ALGORITHMS to reveal properties OF floating-point arithmetic 
+two ALGORITHMS are presented IN THE form OF 
+fortran subroutines. each subroutine computes 
+*********************************************************************
+Document:CACM-2216
+
+uniformly DISTRIBUTED branching ratios, AND 
+therefore is applicable to a family OF sorting ALGORITHMS 
+USING more advanced ALGORITHMS IN THE family makes 
+on THE probability distribution OF THE values OF binary trees 
+*********************************************************************
+Document:CACM-3055
+
+an analysis OF ALGORITHMS FOR THE dutch national flag problem 
+ALGORITHMS given BY dijkstra are shown to have an expected number 
+solutions to THE dutch national flag problem 
+*********************************************************************
+Document:CACM-2942
+
+pattern implementation, ALGORITHMS IN pascal 
+an algol-based implementation OF snobol 4 patterns 
+cacm july, 1977 
+*********************************************************************
+Document:CACM-2838
+
+ALGORITHMS FOR recovering discarded list structures IN 
+needs to wait on THE collector. THESE TECHNIQUES 
+parallel processing, real time, data structures, analysis OF ALGORITHMS 
+analysis OF an algorithm FOR real time garbage collection 
+*********************************************************************
+Document:CACM-1373
+
+gamma function; logarithm OF gamma function (ALGORITHMS 
+hill, I. d. 
+gamma function; gamma function FOR range 1 to 
+2; reciprocal gamma function to real argument; 
+*********************************************************************
+Document:CACM-1592
+
+ALGORITHMS were evaluated-some proposed BY 
+other writers, some BY THE author. THESE TECHNIQUES 
+string similarity AND misspellings 
+*********************************************************************
+Document:CACM-2365
+
+THE efficiency OF conventional fortran PROGRAMS 
+matrix ALGORITHMS, linear equations, fortran, 
+matrix computations with fortran AND paging 
+*********************************************************************
+Document:CACM-1957
+
+THE list set generator is defined AND ALGORITHMS 
+THE list set generator: a construct FOR evaluating set expressions 
+FOR its use are given. THE list set generator is 
+*********************************************************************
+Document:CACM-1145
+
+FOR. THE situation is similar to that prevailing 
+IN AREAS such as game-playing AND theorem-proving, where 
+practical ALGORITHMS are unknown (FOR THE interesting 
+successful TECHNIQUES are available. git-graph 
+*********************************************************************
+Document:CACM-2716
+
+THE basic idea is to employ automatic programming TECHNIQUES 
+response time AND space utilization BY: (1) performing 
+ALGORITHMS FOR implementing THE operators 
+optimizing THE performance OF a relational algebra database interface 
+*********************************************************************
+Document:CACM-1854
+
+WHICH are prime examples OF PROGRAMS with CONCURRENT 
+unreliability OF PROGRAMS making use OF it. a programming 
+OF THE interrupt AND permits THE specification OF CONCURRENT 
+OF parallel PROCESSES. a set OF routines 
+*********************************************************************

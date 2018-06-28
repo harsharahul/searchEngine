@@ -1,0 +1,631 @@
+Query:semantics of programming languages including abstract specifications of data types denotational semantics and proofs of correctness  hoare a dijkstra e   university of massachusetts amherst ma 01003
+
+Document:CACM-2295
+
+OF PROGRAMMING LANGUAGES, DATA structures 
+PROGRAMMING primitives, PROGRAMMING LANGUAGES, 
+comment on the composition OF SEMANTICS in algol 68 
+algol, SEMANTICS, recursive composition, design 
+*********************************************************************
+Document:CACM-2732
+
+SEMANTICS, PROGRAMMING language SEMANTICS, 
+DIJKSTRA, E. w. 
+PROGRAMMING LANGUAGES, sequencing primitives, program 
+CORRECTNESS proof, derivation OF programs, 
+*********************************************************************
+Document:CACM-2192
+
+recursion, induction, CORRECTNESS, PROOFS, compiler CORRECTNESS 
+for PROGRAMMING LANGUAGES. 
+AND thus applicable in PROOFS about interpreters 
+another recursion induction principle 
+*********************************************************************
+Document:CACM-2842
+
+the DENOTATIONAL SEMANTICS OF PROGRAMMING LANGUAGES 
+SEMANTICS, PROGRAMMING language, applicative, imperative, 
+theory OF PROGRAMMING language SEMANTICS developed 
+to model classes OF PROGRAMMING language features 
+*********************************************************************
+Document:CACM-2326
+
+OF computer programs, INCLUDING CORRECTNESS, termination, AND equivalence. 
+verification techniques, SEMANTICS OF PROGRAMMING 
+SEMANTICS OF computer programs are defined in terms 
+LANGUAGES, least fix points, recursive programs, 
+*********************************************************************
+Document:CACM-2470
+
+LANGUAGES, DATA TYPES, modes, axioms, CORRECTNESS, 
+DATA TYPES out OF simper ones with the operations OF rowing, 
+DATA TYPES. both deterministic AND nondeterministic 
+fen-an axiomatic basis for program SEMANTICS 
+*********************************************************************
+Document:CACM-2411
+
+SEMANTICS OF PROGRAMMING LANGUAGES, structured PROGRAMMING. 
+wegner, E. 
+PROGRAMMING language design, proof OF programs, 
+tree-structured programs 
+*********************************************************************
+Document:CACM-2148
+
+OF PROGRAMMING LANGUAGES, DATA structures 
+PROGRAMMING primitives, PROGRAMMING LANGUAGES, 
+the composition OF SEMANTICS in algol 68 
+algol, SEMANTICS, recursive composition, design 
+*********************************************************************
+Document:CACM-3188
+
+semiotics AND PROGRAMMING LANGUAGES 
+at this point that language has many aspects AND that pragmatics, SEMANTICS AND 
+i have based my paper on semiotics AND its three dimension. i should insert 
+*********************************************************************
+Document:CACM-2178
+
+A language extension for graph processing AND its formal SEMANTICS 
+A simple PROGRAMMING language "extension," 
+graspe consists OF A type OF directed graph DATA structure 
+SEMANTICS). the definition OF graspe here is solely in 
+*********************************************************************
+Document:CACM-1471
+
+PROGRAMMING SEMANTICS for multiprogrammed computations 
+the SEMANTICS are defined for A number OF meta-instructions 
+vanhorn, E. c. 
+*********************************************************************
+Document:CACM-0949
+
+syntax AND SEMANTICS in the PROGRAMMING LANGUAGES. 
+vandoni, c. E. 
+integer AND signed constants in algol 
+*********************************************************************
+Document:CACM-2703
+
+for INCLUDING the SEMANTICS OF A context-free language 
+problem for A grammar is to determine whether the SEMANTICS 
+time, SEMANTICS 
+the intrinsically exponential complexity OF 
+*********************************************************************
+Document:CACM-2264
+
+CORRECTNESS, PROGRAMMING LANGUAGES, SEMANTICS 
+derived SEMANTICS for some PROGRAMMING language constructs 
+the constructs OF A simple PROGRAMMING language 
+to make the proof rigorous. CORRECTNESS OF the 
+*********************************************************************
+Document:CACM-2940
+
+LANGUAGES, PROGRAMMING methodology, PROOFS OF CORRECTNESS, TYPES, verification 
+OF ABSTRACT DATA TYPES. in this paper the abstraction techniques 
+abstraction AND representation, ABSTRACT DATA TYPES, 
+decomposition, program SPECIFICATIONS, PROGRAMMING 
+*********************************************************************
+Document:CACM-1138
+
+formalism in PROGRAMMING languages* 
+iverson, k. E. 
+cacm february, 1964 
+*********************************************************************
+Document:CACM-2155
+
+for describing the SEMANTICS OF DATA structures. 
+toward an understanding OF DATA structures 
+be part OF A PROGRAMMING language, which allows A 
+programmer who has expressed the SEMANTICS OF an algorithm 
+*********************************************************************
+Document:CACM-0065
+
+DIJKSTRA, E. w. 
+perlis, j. A. 
+algol sub-committee report - extensions 
+*********************************************************************
+Document:CACM-2256
+
+further comments on dijkstra's concurrent PROGRAMMING control problem 
+eisenberg, m. A. 
+critical section, concurrent PROGRAMMING control, multiprocessing 
+*********************************************************************
+Document:CACM-3186
+
+DIJKSTRA, E. w. 
+go to statement considerd harmful 
+cacm march, 1968 
+*********************************************************************
+Document:CACM-2558
+
+protection in PROGRAMMING LANGUAGES 
+protection, TYPES, environments,trademarks, seals, 
+linguistic mechanisms which can be used to protect 
+*********************************************************************
+Document:CACM-2943
+
+ashcrof, E. A. 
+can be written AND PROOFS OF programs carried out. 
+the PROOFS are particularly easy to follow AND straightforward 
+for the special lucid functions. as A PROGRAMMING 
+*********************************************************************
+Document:CACM-3198
+
+microprogramming, emulators AND PROGRAMMING LANGUAGES 
+on formalizing syntax AND then on SEMANTICS. 
+the problem we have been concerned with is that OF converting language to 
+*********************************************************************
+Document:CACM-0309
+
+HOARE, c. A. r. 
+partition (algorithm 63) 
+cacm july, 1961 
+*********************************************************************
+Document:CACM-0308
+
+HOARE, c. A. r. 
+quicksort (algorithm 64) 
+cacm july, 1961 
+*********************************************************************
+Document:CACM-0307
+
+HOARE, c. A. r. 
+find (algorithm 65) 
+cacm july, 1961 
+*********************************************************************
+Document:CACM-2796
+
+HOARE, c. A. r. 
+monitors: an operating system structuring concept (corrigendum) 
+cacm february, 1975 
+*********************************************************************
+Document:CACM-2112
+
+are used to describe the syntax AND left-context sensitive SEMANTICS for 
+context-free LANGUAGES. A formal procedure is given for deriving from 
+A set OF translation equations the SPECIFICATIONS for A pushdown translator. 
+expression, context-free LANGUAGES, translation, recognizers, 
+*********************************************************************
+Document:CACM-2661
+
+education, PROGRAMMING LANGUAGES, simulators 
+ideal teaching machines-a solution to the pedagogic language problem 
+cacm april, 1974 
+*********************************************************************
+Document:CACM-2573
+
+computer PROGRAMMING as an art 
+knuth, d. E. 
+cacm december, 1974 
+*********************************************************************
+Document:CACM-2743
+
+savage, j. E. 
+straus, E. 
+merge sorting, computational complexity, DATA 
+sorting x + y 
+*********************************************************************
+Document:CACM-3133
+
+ABSTRACT DATA structure for the representation OF clauses, we provide A 
+semantic network is provided with A precise SEMANTICS, 
+deliyanni, A. 
+logic PROGRAMMING 
+*********************************************************************
+Document:CACM-0394
+
+multiple PROGRAMMING DATA processing 
+cacm february, 1961 
+ryle, b. l. 
+*********************************************************************
+Document:CACM-0265
+
+in symbolic LANGUAGES AND for use within fortran 
+low level language subroutines for use within fortran 
+this paper describes some subroutines, coded 
+*********************************************************************
+Document:CACM-2173
+
+stable marriage problem, UNIVERSITY entrance 
+three procedures for the stable marriage problem [h] (algorithm 411) 
+cacm july, 1971 
+*********************************************************************
+Document:CACM-2906
+
+DATA processing, structured PROGRAMMING, modular PROGRAMMING, 
+A very high level PROGRAMMING language for DATA processing applications 
+in recent years, very high-level LANGUAGES 
+is such A language, one aimed at business DATA processing 
+*********************************************************************
+Document:CACM-3031
+
+ABSTRACT DATA TYPES AND software validation 
+ABSTRACT DATA type, CORRECTNESS proof, 
+OF an ABSTRACT DATA type. second, semi-automatic 
+such PROOFS OF CORRECTNESS AND to derive an immediate 
+*********************************************************************
+Document:CACM-2815
+
+complex DATA TYPES in separately compiled modules. 
+high-level binding with low-level linkers 
+an easy to implement scheme is described by 
+*********************************************************************
+Document:CACM-0249
+
+specification LANGUAGES for mechanical LANGUAGES 
+AND their processors*-a baker's dozen 
+cacm december, 1961 
+*********************************************************************
+Document:CACM-0529
+
+regression AND coded patterns in DATA editing 
+robison, d. E. 
+aroian, l. A. 
+*********************************************************************
+Document:CACM-3105
+
+ABSTRACT DATA TYPES, type checking, capabilities 
+PROGRAMMING LANGUAGES, access control, DATA TYPES, 
+paper shows how to extend PROGRAMMING LANGUAGES 
+LANGUAGES that support the notion OF ABSTRACT DATA 
+*********************************************************************
+Document:CACM-0857
+
+some typical file structures, INCLUDING some 
+sorting nonredundant files-techniques used in the fact compiler 
+called "non-redundant," are examined,and the 
+*********************************************************************
+Document:CACM-2704
+
+structured PROGRAMMING, on conditions, PROGRAMMING 
+LANGUAGES 
+exception handling: issues AND A proposed notation 
+*********************************************************************
+Document:CACM-0987
+
+fortran vs. basic fortran (A PROGRAMMING language 
+for information processing on automatic DATA 
+processing systems) 
+*********************************************************************
+Document:CACM-1043
+
+technique with real-time DATA extraction 
+real-time PROGRAMMING systems by interrupting the users 
+specified DATA. the extracted DATA is later edited, 
+listing the associated DATA with its high-level 
+*********************************************************************
+Document:CACM-0618
+
+main TYPES, AND the markets for each type are 
+computers- the key to total systems control: an industrial viewpoint 
+man-man-machine processes are characterized in five 
+*********************************************************************
+Document:CACM-2576
+
+PROGRAMMING, DATA structures 
+A simple technique for representing strings in fortran iv 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-1466
+
+discussion summary on graphical LANGUAGES 
+cacm march, 1966 
+ca660306 jb march 3, 1978 1:46 pm 
+*********************************************************************
+Document:CACM-0463
+
+on ambiguity in phrase structure LANGUAGES 
+cacm october, 1962 
+floyd, r. w. 
+*********************************************************************
+Document:CACM-1496
+
+A formal SEMANTICS for computer LANGUAGES 
+A large class OF computer LANGUAGES. this meta-language 
+feldman, j. A. 
+AND its application in A compiler-compiler 
+*********************************************************************
+Document:CACM-3103
+
+ABSTRACT DATA TYPES, automatic PROGRAMMING, DATA 
+DATA TYPES such as sets AND lists, programmer 
+thus the programs produced using ABSTRACT TYPES were 
+for ABSTRACT TYPES from A library OF implementations 
+*********************************************************************
+Document:CACM-1923
+
+level LANGUAGES using basic input/output support 
+high level LANGUAGES, command language 
+pseudofiles 
+*********************************************************************
+Document:CACM-2886
+
+attribute grammars, SEMANTICS OF PROGRAMMING LANGUAGES, 
+use for the definition OF PROGRAMMING LANGUAGES 
+assures that the SEMANTICS OF any program can be evaluated 
+OF A given PROGRAMMING language to the left-to-right 
+*********************************************************************
+Document:CACM-1781
+
+the writing OF translators OF PROGRAMMING LANGUAGES 
+writing systems, metacompiler, syntax, SEMANTICS, 
+translator writing systems 
+*********************************************************************
+Document:CACM-1323
+
+this paper describes how some OF the SEMANTICS 
+first A model for computer LANGUAGES AND compute behavior 
+then this model is used as an "ABSTRACT object language" 
+i.e. an "ABSTRACT compiler" into the "ABSTRACT 
+*********************************************************************
+Document:CACM-1922
+
+DATA communication, DATA communication control procedures, 
+DATA link, DATA link control procedures, DATA link establishment/termination 
+proposed usa standard (DATA communication control 
+DATA communication establishment/termination 
+*********************************************************************
+Document:CACM-3196
+
+84-character keyboard INCLUDING alphabetical upper AND lower case for good 
+the reactive typewriter program 
+readability. if the machine is restricted to only A single case, the lower case 
+*********************************************************************
+Document:CACM-1757
+
+DATA code for calendar date for machine-to-machine 
+DATA interchange* (proposed usa standard) 
+usa standard, DATA code, calendar date, machine-to-machine 
+DATA interchange, recording calendar 
+*********************************************************************
+Document:CACM-2677
+
+bosten, n. E. 
+battiste, E. l. 
+incomplete beta ratio (algorithm r179) 
+*********************************************************************
+Document:CACM-0795
+
+ferguson, h. E. 
+berner, E. 
+debugging systems at the source language level 
+*********************************************************************
+Document:CACM-1102
+
+mechanical LANGUAGES: A course specification 
+cacm april, 1964 
+gorn, s. 
+*********************************************************************
+Document:CACM-1914
+
+matrix scaling by integer PROGRAMMING (algorithm 348 [f1]) 
+integer PROGRAMMING, linear algebra, mathematical 
+PROGRAMMING, matrix condition, matrix scaling 
+*********************************************************************
+Document:CACM-2265
+
+PROGRAMMING LANGUAGES, syntax, SEMANTICS, compiler 
+most current PROGRAMMING LANGUAGES treat computation 
+OF the type-wise CORRECTNESS or incorrectness 
+type checking, TYPES, lambda calculus, models for 
+*********************************************************************
+Document:CACM-2616
+
+SEMANTICS, theory OF PROGRAMMING, systems analysis 
+on the conversion OF programs to decision tables: method AND objectives 
+the problems OF converting programs to decision 
+*********************************************************************
+Document:CACM-2975
+
+remark on uniform insertion in structured DATA structures 
+DATA structures, directed graphs, uniform insertion 
+cacm april, 1977 
+*********************************************************************
+Document:CACM-2331
+
+an integer PROGRAMMING problem (algorithm r397) 
+integer PROGRAMMING, change-making problem 
+cacm june, 1972 
+*********************************************************************
+Document:CACM-1863
+
+minit algorithm for linear PROGRAMMING (algorithm 333 [h]) 
+linear PROGRAMMING, dual simplex method, primal problem, dual problem 
+cacm july, 1969 
+*********************************************************************
+Document:CACM-1729
+
+minit algorithm for linear PROGRAMMING (algorithm 333 [h]) 
+linear PROGRAMMING, dual simplex method, primal problem, dual problem 
+cacm june, 1968 
+*********************************************************************
+Document:CACM-2599
+
+checkpoint, job failure, operations, PROGRAMMING 
+checkpoint, random failure, operations, PROGRAMMING 
+first order approximation to the optimum checkpoint interval 
+*********************************************************************
+Document:CACM-0628
+
+grau, A. A. 
+for use with algorithmic LANGUAGES 
+on A floating-point number representation 
+*********************************************************************
+Document:CACM-3077
+
+conventional PROGRAMMING LANGUAGES are growing 
+forms, functional forms, PROGRAMMING LANGUAGES, 
+can PROGRAMMING be liberated from the von neumann 
+OF PROGRAMMING inherited from their common ancestor-the 
+*********************************************************************
+Document:CACM-0155
+
+fredkin, E. 
+trie memory 
+cacm september, 1960 
+*********************************************************************
+Document:CACM-2237
+
+schuegraf, E. 
+bandsolve (algorithm r195) 
+cacm december, 1972 
+*********************************************************************
+Document:CACM-0110
+
+ferguson, d. E. 
+fibonaccian searching 
+cacm december, 1960 
+*********************************************************************
+Document:CACM-0775
+
+hennion, p. E. 
+interpolation, differentiation, AND integration (algorithm 77) 
+cacm august, 1963 
+*********************************************************************
+Document:CACM-0684
+
+hennion, p. E. 
+interpolation, differentiation, AND integration (algorithm 77) 
+cacm november, 1963 
+*********************************************************************
+Document:CACM-0641
+
+hennion, p. E. 
+interpolation, differentiation, AND integration (algorithm 77) 
+cacm february, 1962 
+*********************************************************************
+Document:CACM-0746
+
+wasscher, E. j. 
+steep1 (algorithm 203) 
+cacm september, 1963 
+*********************************************************************
+Document:CACM-0745
+
+wasscher, E. j. 
+steep2 (algorithm 204) 
+cacm september, 1963 
+*********************************************************************
+Document:CACM-0739
+
+wasscher, E. j. 
+minifun (algorithm 129) 
+cacm september, 1963 
+*********************************************************************
+Document:CACM-0562
+
+whittier, v. E. 
+avint (algorithm 77) 
+cacm june, 1962 
+*********************************************************************
+Document:CACM-0422
+
+grench, r. E. 
+combination (algorithm 94) 
+cacm december, 1962 
+*********************************************************************
+Document:CACM-0420
+
+phillips, E. s. 
+perm (algorithm 115) 
+cacm december, 1962 
+*********************************************************************
+Document:CACM-1321
+
+wirth, n. E. 
+outreal n (algorithm [i5]) 
+cacm february, 1965 
+*********************************************************************
+Document:CACM-1296
+
+wasscher, E. j. 
+ative (algorithm 205 [e4]) 
+cacm march, 1965 
+*********************************************************************
+Document:CACM-0844
+
+fedako,j. E. 
+1410 fortran edit feature 
+cacm june, 1963 
+*********************************************************************
+Document:CACM-0766
+
+fletcher, w. E. 
+xy-move plotting (algorithm 162) 
+cacm august, 1963 
+*********************************************************************
+Document:CACM-0725
+
+mccormick, E. m. 
+group participation computer demonstration 
+cacm october, 1963 
+*********************************************************************
+Document:CACM-0680
+
+irons, E. t. 
+an error-correcting parse algorithm 
+cacm november, 1963 
+*********************************************************************
+Document:CACM-0649
+
+peck, j. E. l. 
+factors (algorithm 75) 
+cacm january, 1962 
+*********************************************************************
+Document:CACM-0410
+
+clark, E. 
+the clip translator 
+cacm january, 1961 
+*********************************************************************
+Document:CACM-0197
+
+knuth, d. E. 
+an imaginary number system 
+cacm april, 1960 
+*********************************************************************
+Document:CACM-0169
+
+holmstrom, j. E. 
+the multilingual terminology project 
+cacm july, 1960 
+*********************************************************************
+Document:CACM-0009
+
+conway, m. E. 
+proposal for an uncol 
+cacm october, 1958 
+*********************************************************************
+Document:CACM-2238
+
+schuegraf, E. 
+least squares surface fit (algorithm r176) 
+cacm december, 1972 
+*********************************************************************
+Document:CACM-2026
+
+ng, E. w. 
+exponential integral (algorithm 385 $s13)) 
+cacm july, 1970 
+*********************************************************************
+Document:CACM-1140
+
+irons, E. t. 
+"structural connections" in formal language* 
+cacm february, 1964 
+*********************************************************************
+Document:CACM-0909
+
+conway, m. E. 
+arithmetizing declarations (corrigendum) 
+cacm march, 1963 
+*********************************************************************
+Document:CACM-0901
+
+clark, E. s. 
+difference expression coefficients (algorithm 79) 
+cacm march, 1963 
+*********************************************************************
+Document:CACM-0885
+
+fettis, h. E. 
+modified hankel function (algorithm 163) 
+cacm april, 1963 
+*********************************************************************

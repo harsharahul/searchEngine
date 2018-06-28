@@ -1,0 +1,649 @@
+Query:articles on text formatting systems including what you see is what you get systems  examples tnroff scribe bravo
+
+Document:CACM-3142
+
+agement packages INCLUDING poor software IS indicated. while most 
+management SYSTEMS may be adequate, results of the survey raise 
+errors, SYSTEMS errors, billing errors, management SYSTEMS, consumers 
+consumer difficulties with computerized transactions: 
+*********************************************************************
+Document:CACM-2876
+
+intentional resolution of privacy protection in database SYSTEMS 
+SYSTEMS IS understood to be the control over 
+resolution IS demonstrated by several EXAMPLES, and its realization 
+*********************************************************************
+Document:CACM-0195
+
+WHAT IS a code? 
+cacm may, 1960 
+patterson, g. w. 
+*********************************************************************
+Document:CACM-0248
+
+a panel discussion ON "WHAT IS proprietary 
+WHAT IS proprietary in mathematical programming?-impressions 
+of a panel discussion 
+*********************************************************************
+Document:CACM-3179
+
+overview of the eft symposium 
+it IS increasingly recognized that large-scale technologies such as eft 
+have the potential for aiding in the solution of current societal problems. 
+*********************************************************************
+Document:CACM-2909
+
+WHAT can we do about the unnecessary diversity 
+of notation for syntactic definitions? 
+cacm november, 1977 
+*********************************************************************
+Document:CACM-2572
+
+group of ultimate users in SYSTEMS design, 
+arguments for a moratorium ON the construction 
+of a community information utility 
+*********************************************************************
+Document:CACM-2312
+
+ON the present and future of scientific computation 
+a pessimistic forecast IS given of WHAT can be 
+expected to happen in the application of computers 
+*********************************************************************
+Document:CACM-3011
+
+SYSTEMS (mis) bear little relation to the information 
+SYSTEMS currently in use by top management in most us local 
+nature of these SYSTEMS, management use of computing IS 
+management utilization of computers in american local governments 
+*********************************************************************
+Document:CACM-0718
+
+an experiment in automatic verification of programs 
+how effective IS a compiler at replacing explicit 
+verification, and WHAT IS the cost of this 
+*********************************************************************
+Document:CACM-2871
+
+most present SYSTEMS for verification of computer 
+to check simultaneously for correctness (INCLUDING 
+logical analysis of programs 
+*********************************************************************
+Document:CACM-1248
+
+ON the automatic simplification of computer programs 
+presented in this paper IS the problem of writing 
+a program which would examine any other program 
+*********************************************************************
+Document:CACM-1908
+
+SYSTEMS conducted at mit IS described in this paper. 
+two such SYSTEMS for WHAT may well be the predominant user 
+cost for usage of the two computer SYSTEMS; however, 
+time-sharing and batch-processing: an experimental 
+*********************************************************************
+Document:CACM-2341
+
+printable output. a variety of graphical problems (INCLUDING 
+mathematical-equation formation, and TEXT justification 
+language independenthat IS, blocks require 
+character manipulation, output FORMATTING, string 
+*********************************************************************
+Document:CACM-1698
+
+a statistical model for console behavior in multiuser computers 
+the ability of a computer system to communicate 
+with the outside world efficiently IS as important 
+*********************************************************************
+Document:CACM-2989
+
+empirical evaluation of some features 
+of instruction set processor architectures 
+this paper presents methods for empirical evaluation 
+*********************************************************************
+Document:CACM-1926
+
+TEXT editing, FORMATTING, frequency dictionary, 
+free-form input, very flexible FORMATTING capabilities 
+INCLUDING up to eight columns per page, automatic 
+TEXT processing, indexing, printing, documentation, 
+*********************************************************************
+Document:CACM-2864
+
+IS supported by EXAMPLES taken from actual 
+modeling of program behavior and memory management in virtual memory SYSTEMS. 
+characteristics of program localities 
+*********************************************************************
+Document:CACM-0084
+
+and management control SYSTEMS of the federal government, 
+survey of progress and trend of development 
+and use of automatic data processing in business 
+as of december 1957-ii (part 2 SEE ca590406) 
+*********************************************************************
+Document:CACM-2541
+
+new concept for operating SYSTEMS: separation 
+an overview of the ispl computer system design 
+this paper explores the advantages of the concurrent 
+*********************************************************************
+Document:CACM-1383
+
+implications of the digital computer 
+for education in the mathematical sciences 
+the digital computer has profoundly altered the 
+*********************************************************************
+Document:CACM-3173
+
+a psychology of learning basic 
+this paper addresses the question: WHAT does a person know 
+following learning of basic programming? several underlying conceptual 
+*********************************************************************
+Document:CACM-2764
+
+an intelligent analyzer and understander of english 
+the paper describes a working analysis and generation 
+program for natural language, which handles 
+*********************************************************************
+Document:CACM-2835
+
+recursion analysis for compiler optimization 
+a relatively simple method for the detection 
+of recursive use of procedures IS presented for 
+*********************************************************************
+Document:CACM-3065
+
+right brother trees 
+insertion and deletion are provided for the 
+class of right (or one-sided) brother trees which 
+*********************************************************************
+Document:CACM-1001
+
+copyright aspects of computer usage 
+this paper IS concerned with the question of 
+WHAT constitutes infringement of a copyright ON 
+*********************************************************************
+Document:CACM-2583
+
+SYSTEMS: a report from stanley house 
+SYSTEMS, regulations, social and behavioral 
+guidelines for humanizing computerized information 
+*********************************************************************
+Document:CACM-2987
+
+EXAMPLES. it IS shown that the poin ts of intersection 
+representation of many-sided polygons 
+and polygonal lines for rapid processing 
+*********************************************************************
+Document:CACM-2882
+
+organization in data retrieval SYSTEMS 
+scale data retrieval SYSTEMS has been scarce due 
+INCLUDING inverted list, threaded list, and cellular 
+SYSTEMS. effectiveness of the methodology IS demonstrated 
+*********************************************************************
+Document:CACM-1413
+
+a vision of technology and education 
+educational technology IS currently quite 
+fashionable. here, as in many other branches or 
+*********************************************************************
+Document:CACM-2519
+
+ON the problem of communicating complex information 
+the nature of the difficulty involved in communicating 
+mathematical results between scientists 
+*********************************************************************
+Document:CACM-2479
+
+programs in information SYSTEMS: recommended 
+addendum ON information SYSTEMS administration 
+a course ON information SYSTEMS administration. 
+it IS important for two reasons: (1) the SYSTEMS designer 
+*********************************************************************
+Document:CACM-3150
+
+programming, programming languages, programming SYSTEMS, SYSTEMS development 
+as computer technology matures, our growing ability to create large SYSTEMS IS 
+SYSTEMS of the complexity called for by the tasks we attempt. just 
+intricacies of a machine's order code, higher level programming SYSTEMS 
+*********************************************************************
+Document:CACM-1625
+
+ON the automatic simplification of source-language programs 
+methods of simplification that can be applied 
+automatically to programs written in an algol-like 
+*********************************************************************
+Document:CACM-2738
+
+design of hierarchically structured SYSTEMS 
+structured programming SYSTEMS. it develops 
+a number of EXAMPLES from hardware and software 
+hierarchical SYSTEMS, bottom up design, levels 
+*********************************************************************
+Document:CACM-2345
+
+education, management SYSTEMS, SYSTEMS analysis, 
+management information SYSTEMS, information SYSTEMS 
+professional programs in information SYSTEMS 
+SYSTEMS in organizations IS discussed, and a 
+*********************************************************************
+Document:CACM-1828
+
+synchronization in a parallel-accessed data base 
+the following problem IS considered: given 
+a data base which can be manipulated simultaneously 
+*********************************************************************
+Document:CACM-2988
+
+methodology for INCLUDING accurately the effects 
+in queueing network models of computer SYSTEMS. 
+of in teractive computer SYSTEMS which use nonpaged memories. 
+network models, in teractive computer SYSTEMS 
+*********************************************************************
+Document:CACM-1196
+
+of the numerical solution of SYSTEMS of ordinary differential 
+for the solution of such SYSTEMS. a good general purpose 
+routine for the solution of such SYSTEMS furnishes 
+a number of EXAMPLES are discussed in detail. 
+*********************************************************************
+Document:CACM-2985
+
+the relationship of in ternal pricing SYSTEMS 
+for computer services (chargeout SYSTEMS) and 
+information SYSTEMS IS investigated. evidence IS 
+indicate that the chargeout SYSTEMS characteristic 
+*********************************************************************
+Document:CACM-2927
+
+lists yields an algorithm of O(N) arithmetic 
+and the bit complexity to O(N logn log log logn). 
+a storage requirement IS described using O(N logn/log logn) bits as well. 
+some new upper bounds ON the generation of prime numbers 
+*********************************************************************
+Document:CACM-2407
+
+programs in information SYSTEMS 
+SYSTEMS in organizations IS discussed, and a 
+education, undergraduate curricula, management SYSTEMS, 
+information SYSTEMS, information analysis, 
+*********************************************************************
+Document:CACM-3089
+
+performance of rollback recovery SYSTEMS under intermittent failures 
+principal performance measures, INCLUDING availability, 
+database reliability, file SYSTEMS, checkpoints, recovery 
+*********************************************************************
+Document:CACM-2852
+
+in computer science or in information SYSTEMS 
+adding a course ON information SYSTEMS administration 
+professional programs in information SYSTEMS. this paper 
+in information SYSTEMS or for graduate professional 
+*********************************************************************
+Document:CACM-2314
+
+requirements for advanced programming SYSTEMS for list processing 
+list processing SYSTEMS should be designed to 
+to the design of advanced programming SYSTEMS for 
+SYSTEMS are highlighted: good interactive 
+*********************************************************************
+Document:CACM-2165
+
+general relativity and the application of algebraic manipulative SYSTEMS 
+algebra SYSTEMS to problems of general relativity 
+INCLUDING the derivation of the field equations, the 
+*********************************************************************
+Document:CACM-0633
+
+simulation and analysis of biochemical SYSTEMS 
+(iii. analysis and pattern recognition) 
+cacm february, 1962 
+*********************************************************************
+Document:CACM-1747
+
+SYSTEMS, computer SYSTEMS design, input equipment, 
+three criteria for designing computing SYSTEMS to facilitate debugging 
+of a virtual computer are explained. EXAMPLES of applications 
+processes, protection in multiprogrammed SYSTEMS, 
+*********************************************************************
+Document:CACM-1341
+
+levels of computer SYSTEMS 
+in building current computer SYSTEMS, we tend 
+ON the usefulness of future SYSTEMS, particularly 
+programming, and, eventually, SYSTEMS which learn. 
+*********************************************************************
+Document:CACM-2375
+
+performance INCLUDING system oriented and individual 
+SYSTEMS, response time, rotational delay, 
+units, time-sharing SYSTEMS, waiting time 
+a comparative analysis of disk scheduling policies 
+*********************************************************************
+Document:CACM-1616
+
+in the main TEXT of the paper [comm. acm 9, 
+coordinate SYSTEMS are listed. 
+tensor calculations ON computer: appendix 
+*********************************************************************
+Document:CACM-2812
+
+accurately defined SYSTEMS, SYSTEMS optimization 
+computer-aided analysis and design of information SYSTEMS 
+was written in ads (accurately defined SYSTEMS) 
+soda (SYSTEMS optimization and design algorithm) 
+*********************************************************************
+Document:CACM-1097
+
+conversion between number SYSTEMS IS presented 
+an algorithm for converting integers from base a to base b 
+a little known, simple algorithm for integer 
+*********************************************************************
+Document:CACM-0104
+
+the discrete flow SYSTEMS discussed are characterized 
+computer to simulate such SYSTEMS utilizes some 
+digital simulation of discrete flow systems* 
+*********************************************************************
+Document:CACM-1959
+
+an interrupt based organization for management information SYSTEMS 
+for the design and coding of large shared data base SYSTEMS. the 
+the new organization which IS proposed for management information SYSTEMS. 
+management information SYSTEMS, integrated data processing, 
+*********************************************************************
+Document:CACM-1470
+
+compared and evaluated. many EXAMPLES, frequently from 
+programs, organizing SYSTEMS, and referencing 
+the structure of programming languages 
+*********************************************************************
+Document:CACM-2151
+
+operating SYSTEMS, multiprogramming SYSTEMS, time-sharing 
+software SYSTEMS IS followed by a description of 
+shown how other time-sharing SYSTEMS may provide similar measuring facilities. 
+SYSTEMS, software measurement, user program 
+*********************************************************************
+Document:CACM-2111
+
+spelling correction in SYSTEMS programs 
+to compilers and operating SYSTEMS. these include the use of syntax 
+IS presented. by using SYSTEMS which perform spelling correction, 
+operating SYSTEMS, diagnostics, error detection, 
+*********************************************************************
+Document:CACM-2311
+
+SYSTEMS, software SYSTEMS, SYSTEMS development 
+process, functional SYSTEMS, management SYSTEMS 
+a generational perspective of information system development 
+*********************************************************************
+Document:CACM-1461
+
+discussion summary ON operating SYSTEMS 
+cacm march, 1966 
+ca660311 jb march 3, 1978 1:26 pm 
+*********************************************************************
+Document:CACM-2305
+
+the "plankalkul" of konrad zuse: a forerunner 
+of today's programming languages 
+plankalkul was an attempt by korrad zuse in 
+*********************************************************************
+Document:CACM-1267
+
+performance of SYSTEMS used for data transmission 
+SYSTEMS performance IS discussed. this discussion 
+that affect information thruput, and some EXAMPLES 
+transfer rate of information bits -an asa tutorial 
+*********************************************************************
+Document:CACM-1572
+
+the simulation of time sharing SYSTEMS 
+SYSTEMS has raised a number of problems for 
+for these SYSTEMS, but appropriate software adjustments 
+must be made. unfortunately, these SYSTEMS often 
+*********************************************************************
+Document:CACM-2372
+
+ON the implementation of security measures in information SYSTEMS 
+security features of several existing SYSTEMS, and serves 
+system implementation within today's languages and operating SYSTEMS. 
+operating SYSTEMS, access management, data banks, 
+*********************************************************************
+Document:CACM-2580
+
+a method for composing simple traditional music by computer 
+a method IS described for composing musical 
+rounds by computer. this method uses some music 
+*********************************************************************
+Document:CACM-0300
+
+potential users of computing SYSTEMS. a mythical department 
+cobol: a sample problem 
+a simplified merchandise control problem has 
+*********************************************************************
+Document:CACM-1844
+
+are possible for a range of SYSTEMS sizes that 
+multiple terminal SYSTEMS, terminal oriented SYSTEMS, 
+multiple processor SYSTEMS, high availability, 
+SYSTEMS, modular computer-sharing SYSTEMS, graphics, 
+*********************************************************************
+Document:CACM-1435
+
+design of computer simulation experiments for industrial SYSTEMS 
+SYSTEMS. although major emphasis IS placed ON analysis 
+the aim of this paper IS to provide background 
+*********************************************************************
+Document:CACM-2522
+
+operating SYSTEMS, supervisory SYSTEMS 
+recent research in time-sharing paging SYSTEMS 
+SYSTEMS, resource allocation, software evaluation, 
+the design, implementation, and evaluation of a working set dispatcher 
+*********************************************************************
+Document:CACM-3068
+
+a model for verification of data security in operating SYSTEMS 
+uncircumventably secure, shared computer SYSTEMS. a 
+here in terms of a general model for operating SYSTEMS. 
+operating SYSTEMS, security, protection, program verification 
+*********************************************************************
+Document:CACM-2859
+
+interference in multiprocessor computer SYSTEMS with interleaved memory 
+of program behavior and simulations of SYSTEMS 
+INCLUDING those more nearly like real SYSTEMS 
+*********************************************************************
+Document:CACM-1457
+
+data structures, INCLUDING linear TEXT, sparse matrices, 
+SYSTEMS are first briefly reviewed. a variety 
+data manipulation and programming problems 
+in automatic information retrieval 
+*********************************************************************
+Document:CACM-2138
+
+bliss: a language for SYSTEMS programming 
+for use in writing production software SYSTEMS for a 
+SYSTEMS, etc. prime design goals of the design are the 
+by which to cope with the evolutionary nature of SYSTEMS 
+*********************************************************************
+Document:CACM-2198
+
+generalized data base management SYSTEMS" 
+of generalized data base management SYSTEMS. this introduction 
+the art in these SYSTEMS and discusses the differences 
+host language SYSTEMS and those found in self-contained 
+*********************************************************************
+Document:CACM-1912
+
+simulation of outpatient appointment SYSTEMS 
+which simulates appointment SYSTEMS employed 
+appointment SYSTEMS in a given clinical environment. 
+*********************************************************************
+Document:CACM-1748
+
+a scheduling philosophy for multiprocessing SYSTEMS 
+design and analysis of multiprocessing SYSTEMS. 
+SYSTEMS IS explained. some aspects of time-oriented 
+SYSTEMS 
+*********************************************************************
+Document:CACM-1071
+
+computer-usage accounting for generalized time-sharing SYSTEMS 
+SYSTEMS requires a revision of accounting procedures 
+accounting in generalized time-sharing SYSTEMS 
+*********************************************************************
+Document:CACM-1462
+
+multilevel operating SYSTEMS 
+operating SYSTEMS. this implies that all applications-no 
+the operating SYSTEMS, but at a different level. 
+*********************************************************************
+Document:CACM-1387
+
+solution of SYSTEMS of polynomial equations by elimination 
+in solving SYSTEMS of polynomial equations. it IS found 
+of small SYSTEMS, where it yields all solutions without 
+of large SYSTEMS of equation due to the explosive 
+*********************************************************************
+Document:CACM-3025
+
+of implementations to presently include SYSTEMS covering 
+sharing computing SYSTEMS; transferring hardware 
+minicomputer/microcomputer SYSTEMS. 
+the evolution of the dec system 10 
+*********************************************************************
+Document:CACM-3090
+
+way "successful" automated information SYSTEMS fit 
+of computing, management information SYSTEMS, 
+sociology of computing, information SYSTEMS and 
+service integration, urban information SYSTEMS 
+*********************************************************************
+Document:CACM-0855
+
+memory SYSTEMS for efficient sorting and other 
+of data ON bryant disc file memory SYSTEMS for 
+characteristics of bryant disc file SYSTEMS ON the bendix 
+organization and structure of dataon disk file 
+*********************************************************************
+Document:CACM-2624
+
+virtual machine SYSTEMS have been implemented 
+SYSTEMS, e.g. cp-67 ON the ibm 360/67. from previous 
+generation computer SYSTEMS, e.g. the dec pdp-10, cannot 
+formal requirements for virtualizable third generation architectures 
+*********************************************************************
+Document:CACM-2567
+
+SYSTEMS of ordinary differential equations 
+for SYSTEMS of ordinary differential equations IS presented. 
+with stiff SYSTEMS of differential equations. 
+it IS, in general, second order except for the case 
+*********************************************************************
+Document:CACM-1518
+
+modern computer SYSTEMS IS formidable. one general 
+an experimental model of system/360 
+the problem of predicting the performance of 
+*********************************************************************
+Document:CACM-0987
+
+processing SYSTEMS) 
+fortran vs. basic fortran (a programming language 
+for information processing ON automatic data 
+*********************************************************************
+Document:CACM-3072
+
+scheduling SYSTEMS for multiprogrammed- multiprocessor 
+computer SYSTEMS are presented. the basic control variables 
+executing ON the cpu. the model SYSTEMS feature simulated 
+multiprogramming SYSTEMS, i/o system scheduling 
+*********************************************************************
+Document:CACM-3119
+
+ON multiple processor SYSTEMS 
+multiple processor SYSTEMS. issues considered include the impact of cpu 
+the impact of distributions and disciplines 
+*********************************************************************
+Document:CACM-0435
+
+compiler languages, multiprogram executive SYSTEMS, 
+incorporating new ideas into existing SYSTEMS. it 
+IS presented for the handling of a standard SYSTEMS 
+a decision matrix as the basis for a simple data input routine 
+*********************************************************************
+Document:CACM-2629
+
+operating SYSTEMS, INCLUDING: (1) a hierarchical file system 
+100 subsystems INCLUDING a dozen languageshis 
+the unix time-sharing system 
+*********************************************************************
+Document:CACM-1324
+
+SYSTEMS which are programmed and operating 
+are described and reviewed. the SYSTEMS range from a conversation 
+about pictures and SYSTEMS which translate from english 
+into logical calculi. SYSTEMS are classified 
+*********************************************************************
+Document:CACM-1728
+
+behavior in those multiprogramming SYSTEMS in which 
+paging SYSTEMS, paging, dynamic program behavior, program 
+behavior, virtual memory SYSTEMS, single-level 
+operating SYSTEMS, supervisor simulation, machine 
+*********************************************************************
+Document:CACM-1164
+
+emulation of large SYSTEMS 
+SYSTEMS ON ibm system/360. 
+the conversion problem and a new technique 
+*********************************************************************
+Document:CACM-2741
+
+saturation in multiprogramming SYSTEMS 
+SYSTEMS IS proposed. it IS based ON a technique of variable 
+paging SYSTEMS (i) unstable regimes of operations and (ii) 
+decomposability, instabilities, and 
+*********************************************************************
+Document:CACM-2955
+
+buddy SYSTEMS 
+any of a class of buddy SYSTEMS for dynamic storage 
+two algorithms are presented for implementing 
+*********************************************************************
+Document:CACM-1484
+
+SYSTEMS are discussed, and a dialect of algol which 
+IS suitable for describing synchronous SYSTEMS IS introduced. 
+a language for describing the functions of synchronous systems* 
+*********************************************************************
+Document:CACM-2621
+
+the protection of time sharing SYSTEMS from 
+operating SYSTEMS, time sharing SYSTEMS, security, cryptography 
+a high security log-in procedure 
+*********************************************************************
+Document:CACM-2390
+
+a proposal for a computer-based interactive scientific community 
+because of the problems created by the explosion 
+of papers in the mathematical sciences and 
+*********************************************************************
+Document:CACM-2947
+
+sitar: an interactive TEXT processing system for small computers 
+sitar, a low-cost in teractive TEXT handling 
+and TEXT analysis system for nontechnical users, 
+search and retrieval SYSTEMS, but has several 
+*********************************************************************
+Document:CACM-2798
+
+analysis of interleaved memory SYSTEMS using blockage buffers 
+a model of interleaved memory SYSTEMS IS presented, 
+interleaved memory SYSTEMS, modular memory SYSTEMS, 
+*********************************************************************

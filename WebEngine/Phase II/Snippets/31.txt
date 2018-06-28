@@ -1,0 +1,656 @@
+Query:id like to find articles describing the use of singular value decomposition in digital image processing  applications include finding approximations to the original image and restoring images that are subject to noise an article on the subject is h andrews and c patterson outer product expansions and their uses in digital image processing american mathematical  andrews h patterson c
+
+Document:CACM-3047
+
+IMAGE transformation, IMAGE matching, shaded IMAGES 
+OF such IMAGES with DIGITAL terrain models. IN addition, 
+we illustrate THE technique using landsat IMAGES AND DIGITAL terrain models. 
+a number OF IMAGE analysis tasks can benefit 
+*********************************************************************
+Document:CACM-1686
+
+mathematics, IMAGE PROCESSING 
+optical AND DIGITAL holography ARE reviewed. 
+THE MATHEMATICAL model AND computational techniques 
+OF THE authors' DIGITAL holographic process ARE discussed, 
+*********************************************************************
+Document:CACM-2065
+
+IMAGE PROCESSING, biomedical IMAGE PROCESSING, on-line IMAGE PROCESSING, 
+semiautomatic IMAGE PROCESSING, data structure, structure operators, 
+karyotyping, karyotyping, list PROCESSING picture PROCESSING 
+a programming system for THE on-line analysis OF biomedical IMAGES 
+*********************************************************************
+Document:CACM-2370
+
+recognition,and IMAGE PROCESSING ARE presented. 
+terminal, IMAGE PROCESSING, pattern recognition 
+AN experimental laboratory for pattern recognition AND signal PROCESSING 
+DIGITAL computer, dot-mode AND vector displays, 
+*********************************************************************
+Document:CACM-2142
+
+approximation, biomedical IMAGE PROCESSING, efficient 
+encoding, IMAGE PROCESSING, linear programming, 
+gray levels OF a DIGITAL picture at THE individual 
+AND THE problem IS TO FIND THE "most representative" 
+*********************************************************************
+Document:CACM-1327
+
+IS based ON THE creation OF a binary IMAGE 
+a binary IMAGE OF a given set OF input conditions 
+can also be created. this data IMAGE IS used TO scan 
+THE decision table IMAGE TO arrive at THE proper 
+*********************************************************************
+Document:CACM-2283
+
+triangular arrays, IMAGE PROCESSING, skeleton 
+TO IMAGE irregularities AND NOISE, yet it will yield 
+a thinned IMAGE with AN overall reduced number OF 
+thinning algorithms ON rectangular, hexagonal, AND triangular arrays 
+*********************************************************************
+Document:CACM-1144
+
+manipulation OF THE DIGITAL IMAGE OF THE nuclear 
+DIGITAL computer determination OF alpha source activity 
+it IS believed THAT THE technique, using a DIGITAL computer, 
+has many USES AND APPLICATIONS IN THE field 
+*********************************************************************
+Document:CACM-3013
+
+TO one OF THE standard DIGITAL APPROXIMATIONS TO THE gradient. 
+IMAGE PROCESSING, pattern recognition, edge detection 
+some new methods OF detecting step edges IN DIGITAL pictures 
+IS similar TO THE DIGITAL laplacian, but USES THE max, rather 
+*********************************************************************
+Document:CACM-2529
+
+pattern reconstruction, IMAGE reconstruction, 
+data compression, picture PROCESSING 
+binary pattern reconstruction from projections [z] (algorithm a445) 
+*********************************************************************
+Document:CACM-2528
+
+pattern reconstruction, IMAGE reconstruction, 
+data compression, picture PROCESSING 
+binary pattern reconstruction from projections [z] (algorithm r445) 
+*********************************************************************
+Document:CACM-2125
+
+contour from a digitized IMAGE IS illustrated. 
+THE IMAGE ARE first obtained by a modified ledley algorithm IN one 
+IMAGE scan. a minimal perimeter polygon subjected TO specified constraints 
+digitized IMAGE, connection tree, minimal polygon, 
+*********************************************************************
+Document:CACM-3015
+
+biomedical IMAGE PROCESSING, IMAGE reconstruction, 
+relaxation methods for IMAGE reconstruction 
+THE problem OF recovering AN IMAGE (a function 
+IN this paper, it IS shown THAT, for a consistent 
+*********************************************************************
+Document:CACM-2826
+
+OF AN IMAGE. this control sequence IS then used 
+TO drive AN IMAGE sequence through THE same movement. 
+THE simplicity OF THE stick figure IMAGE encourages 
+IMAGE sequence THAT require enhancement. 
+*********************************************************************
+Document:CACM-2421
+
+memory buffer area IS used TO accumulate THE binary IMAGE 
+THE next portion. because OF THE list PROCESSING 
+IMAGE AND only a slight increase IN execution time over 
+barrett, r. C. 
+*********************************************************************
+Document:CACM-2211
+
+computer installation. THE scanned IMAGE IS stored 
+fast graphical interaction. a scanned IMAGE OF 
+scanned-display computer graphics 
+*********************************************************************
+Document:CACM-1891
+
+THE projected video IMAGES OF AN object, 
+thus creating a superimposed IMAGE ON THE screen. optical 
+separation IS achieved by viewing THE IMAGE 
+three-dimensional computer display 
+*********************************************************************
+Document:CACM-1741
+
+generating a binary IMAGE OF THE desired display IN a 
+computer. THE IMAGE IS written ON a rotating drum 
+must compute any IMAGE TO be displayed. also, THE "pointing" 
+display, tv display console, DIGITAL tv display, 
+*********************************************************************
+Document:CACM-0674
+
+ANDREWS, a. C. 
+application OF ibm 1620 edp methods TO THE calculation 
+OF THE formation constants OF complex 
+irons 
+*********************************************************************
+Document:CACM-2231
+
+THE ORIGINAL pattern f? IN this paper we give a characterization 
+pattern reconstruction, IMAGE reconstruction, data 
+THE reconstruction OF binary patterns from THEIR projections 
+*********************************************************************
+Document:CACM-2674
+
+TO INCLUDE general graphics. two fundamentally different 
+IS most suitable TO non-interactive APPLICATIONS 
+AND THE other TO interactive APPLICATIONS. THE algorithms 
+barrett, r. C. 
+*********************************************************************
+Document:CACM-2004
+
+half-tone computer graphics, line-scan IMAGE PROCESSING, 
+a procedure for generation OF three-dimensional 
+half-toned computer graphics presentations 
+*********************************************************************
+Document:CACM-0195
+
+PATTERSON, g. w. 
+what IS a code? 
+cacm may, 1960 
+*********************************************************************
+Document:CACM-2687
+
+organization TO INCLUDE general graphics. THE feasibility 
+barrett, r. C. 
+IMAGE, dot generation, matrix displays 
+a cell organized raster display for line drawings 
+*********************************************************************
+Document:CACM-1424
+
+a mapping from black diagrams OF DIGITAL circuits 
+with a list PROCESSING program written for THE control 
+automatic analysis OF electronic DIGITAL circuits using list PROCESSING 
+*********************************************************************
+Document:CACM-2415
+
+PATTERSON, t. n. l. 
+algorithm for automatic numerical integration 
+over a finite interval [d1] (algorithm a468) 
+*********************************************************************
+Document:CACM-0606
+
+TO signal coincidence IN DIGITAL design 
+kaiser, C. j. 
+a method for eliminating ambiguity due 
+*********************************************************************
+Document:CACM-1543
+
+OF application OF DIGITAL computers beyond THE 
+numerical data PROCESSING stage AND reducing THE need for 
+symbolic MATHEMATICAL computation, a method has been 
+devised whereby a DIGITAL computer can be used TO 
+*********************************************************************
+Document:CACM-1929
+
+IMAGES from computers AND microfilm plotters 
+DIGITAL computers ARE widely used for THE 
+PROCESSING OF information AND data OF all kinds, 
+output from DIGITAL computers IS THE microfilm plotter. 
+*********************************************************************
+Document:CACM-2130
+
+ramamoorthy ARE SUBJECT TO limitations THAT arise when THE preferred 
+lowe, t. C. 
+SUBJECT OF this paper. segmentation techniques proposed by C. v. 
+automatic segmentation OF cyclic program structures 
+*********************************************************************
+Document:CACM-1108
+
+DIGITAL data processor for tracking THE partially illuminated moon* 
+data PROCESSING portion OF THE system IS presented 
+PROCESSING considerations have ON THE design OF 
+AN optical sensor, DIGITAL computer AND tracker 
+*********************************************************************
+Document:CACM-2689
+
+lucas, H. C. jr. 
+report generation, automated systems design, data PROCESSING, management 
+a crt report generating system 
+*********************************************************************
+Document:CACM-0104
+
+DIGITAL simulation OF discrete flow systems* 
+items along interacting channels. programing a DIGITAL 
+storage capacities AND PROCESSING rates. IN THE other, 
+moore, C. j. 
+*********************************************************************
+Document:CACM-1839
+
+SINGULAR VALUE DECOMPOSITION OF a complex 
+goulub, g. H. 
+SINGULAR values, matrix DECOMPOSITION, 
+matrix (algorithm 358 [f1, 4,5]) 
+*********************************************************************
+Document:CACM-0533
+
+corrupted with correlated NOISE (OF a known form) 
+stationary NOISE with a prescribed auto-covariance 
+function by DIGITAL methods. THE need for such a technique 
+data PROCESSING AND engineering systems, where inputs 
+*********************************************************************
+Document:CACM-0973
+
+THE basis OF skin potential measurements. a MATHEMATICAL 
+AND high-speed DIGITAL computers, IS 
+collier, C. 
+kagiwada, H. 
+*********************************************************************
+Document:CACM-0931
+
+systematic mistake analysis OF DIGITAL computer programs 
+miller, j. C. 
+maloney, C. j. 
+*********************************************************************
+Document:CACM-2788
+
+FINDING circles by AN array OF accumulators 
+kimme, C. 
+picture PROCESSING, pattern recognition, curve detection,line fitting 
+*********************************************************************
+Document:CACM-2188
+
+PROCESSING between THE graphics processor AND its supporting 
+data PROCESSING system. THE work reported 
+means OF a MATHEMATICAL model OF a computer driven 
+SUBJECT TO a cost constraint, IS found 
+*********************************************************************
+Document:CACM-2051
+
+AND USES list PROCESSING techniques TO sort AND count them. 
+chosen cutoff point). THE ARTICLE explains THE usefulness, 
+language PROCESSING, comparative method, historical linguistics, diachronic 
+correspondence, regular correspondence, list PROCESSING 
+*********************************************************************
+Document:CACM-1588
+
+pl/i list PROCESSING 
+THE concepts OF list PROCESSING have been introduced 
+OF pl/i. THE basic concepts OF list PROCESSING AND 
+lawson jr., H. w. 
+*********************************************************************
+Document:CACM-0415
+
+THE USE OF DIGITAL computers IN western germany 
+schuff, H. k. 
+cacm december, 1962 
+*********************************************************************
+Document:CACM-1952
+
+index by SUBJECT TO algorithms, 1970 
+cacm december, 1970 
+ca701211 jb february 9, 1978 2:50 pm 
+*********************************************************************
+Document:CACM-1660
+
+index by SUBJECT TO algorithms, 1960-1968 
+cacm december, 1968 
+ca681206 jb february 21, 1978 1:39 pm 
+*********************************************************************
+Document:CACM-1659
+
+SUBJECT areas contained IN computational linguistics 
+computational linguistics, MATHEMATICAL linguistics, 
+language AND computer, language data PROCESSING, 
+computational linguistics IN a ph. computer science program 
+*********************************************************************
+Document:CACM-1919
+
+singleton, r. C. 
+sorting, minimal storage sorting, DIGITAL computer sorting 
+AN efficient algorithm for sorting with 
+minimal storage (algorithm 347 [m1]) 
+*********************************************************************
+Document:CACM-1796
+
+index by SUBJECT TO algorithms, 1969 
+index by SUBJECT TO algorithms, 1960 1968 (comm. 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-2041
+
+harrison, w. C. 
+sorting, minimal storage sorting, DIGITAL computer sorting 
+shellsort (algorithm 201 $m1)) 
+*********************************************************************
+Document:CACM-2050
+
+all OF AN unrestricted natural language text, some APPLICATIONS, OF which 
+produce correct AND unambiguous identification OF THE SUBJECT AND 
+content analysis, parsing, syntactic analysis, natural language PROCESSING, 
+information retrieval, language analysis, text PROCESSING 
+*********************************************************************
+Document:CACM-1428
+
+shock iii, AN online DIGITAL computer system 
+shubin, H. 
+weil, m. H. 
+shock iii, a computer system as AN aid 
+*********************************************************************
+Document:CACM-1440
+
+root routines. these APPROXIMATIONS INCLUDE 
+starting APPROXIMATIONS for square root calculation ON ibm system/360 
+several starting APPROXIMATIONS for square 
+fike, C. t. 
+*********************************************************************
+Document:CACM-1261
+
+modeling AND simulation OF DIGITAL networks 
+DIGITAL network IS modeled as a set OF time-dependent 
+DESCRIBING THE input-output relationship 
+system as a DIGITAL network simulator IS discussed AN 
+*********************************************************************
+Document:CACM-2663
+
+lucas, H. C. jr. 
+larreche, j. C. 
+a study OF computer USE IN a graduate school OF business 
+*********************************************************************
+Document:CACM-1571
+
+THE data PROCESSING laboratory OF THE brain 
+with a highly sophisticated DIGITAL computing 
+it IS anticipated THAT, with THE accumulation 
+biological scientist AND THE DIGITAL computer. 
+*********************************************************************
+Document:CACM-2367
+
+it easier TO initiate courses ON this SUBJECT. 
+morgan, H. l. 
+shaw, a. C. 
+computers AND society: a proposed course for computer scientists 
+*********************************************************************
+Document:CACM-1196
+
+APPLICATIONS OF differential equations IN general problem solving 
+a large class OF problems leading TO DIGITAL 
+computer PROCESSING can be formulated IN terms 
+a powerful tool for PROCESSING many problems. this IS 
+*********************************************************************
+Document:CACM-0597
+
+modular data PROCESSING systems written IN cobol 
+emery, j. C. 
+cacm may, 1962 
+*********************************************************************
+Document:CACM-1700
+
+ON a test search OF 33,000 SUBJECT index entries. a search 
+time, THE logical PRODUCT (using THE AND operation) 
+SUBJECT index entries estimated TO average 60 characters 
+hutton, f. C. 
+*********************************************************************
+Document:CACM-0605
+
+PROCESSING techniques TO tabulate AND make motion pictures 
+IS assigned a DIGITAL identification giving points OF 
+computer simulation OF city traffic 
+*********************************************************************
+Document:CACM-2721
+
+DIGITAL simulation, MATHEMATICAL modeling, plankton 
+THE DIGITAL simulation OF river plankton population dynamics 
+IN THE columbia river was made based ON APPROXIMATIONS 
+AND, specifically, revealed THE importance OF THE annual 
+*********************************************************************
+Document:CACM-2054
+
+AN on-line DIGITAL computer PROCESSING system IS considered IN which AN 
+AN on-line computer PROCESSING system 
+elder, H. a. 
+ON THE feasibility OF voice input TO 
+*********************************************************************
+Document:CACM-2824
+
+duong-kien, C. 
+hoffmann, H. j. 
+AN improvement TO martin's algorithm for 
+computation OF linear precedence functions 
+*********************************************************************
+Document:CACM-2910
+
+stockman, g. C. 
+picture PROCESSING, pattern recognition, curve 
+equivalence OF hough curve detection TO template matching 
+*********************************************************************
+Document:CACM-0615
+
+vector IS THE SUBJECT OF this paper. it IS noted 
+hellerman, H. 
+addressing multidimensional arrays 
+*********************************************************************
+Document:CACM-1927
+
+computer science program. THE SUBJECT area IS 
+PROCESSING 
+information science IN a ph. computer science program 
+*********************************************************************
+Document:CACM-0078
+
+THAT sequential computers, be they DIGITAL or 
+VALUE problems, AND some MATHEMATICAL process 
+(compensating for machine imperfection IS, 
+note IS TO establish a MATHEMATICAL framework or 
+*********************************************************************
+Document:CACM-0171
+
+DIGITAL computers IN universities (part i) 
+cacm july, 1960 
+reeves, r. f. 
+*********************************************************************
+Document:CACM-2643
+
+character sets IN a DIGITAL computer while retaining 
+string PROCESSING, spatial multiplexing 
+THE minimization OF spatially-multiplexed character sets 
+*********************************************************************
+Document:CACM-1384
+
+THE MATHEMATICAL requirements for AN undergraduate 
+program IN computer science ARE a SUBJECT 
+requirements ARE essentially THE same as THE MATHEMATICAL 
+should assure THE student OF a broad MATHEMATICAL 
+*********************************************************************
+Document:CACM-3059
+
+models for parallel PROCESSING within programs: 
+PROCESSING by individual programs IN a multiprogrammed 
+IS developed by network DECOMPOSITION. THE 
+multiprogramming, parallel PROCESSING, queueing 
+*********************************************************************
+Document:CACM-1957
+
+a construct which may be added TO a list PROCESSING system or any 
+shapiro, s. C. 
+set manipulating, list PROCESSING, set 
+generation, sets, lists, file PROCESSING 
+*********************************************************************
+Document:CACM-0175
+
+equations using a general purpose DIGITAL 
+anderson, w. H. 
+THE solution OF simultaneous ordinary differential 
+computer 
+*********************************************************************
+Document:CACM-0657
+
+information structures for PROCESSING AND retrieving 
+sams, b. H. 
+cacm january, 1962 
+*********************************************************************
+Document:CACM-3198
+
+for this purpose IS language AND therefore we ARE preoccupied with THE SUBJECT 
+microprogramming, emulators AND programming languages 
+THE problem we have been concerned with IS THAT OF converting language TO 
+*********************************************************************
+Document:CACM-0894
+
+TO USE with DIGITAL computers. for factors OF 
+luther, H. a. 
+AN iterative factorization technique for polynomials 
+*********************************************************************
+Document:CACM-0986
+
+proposed amendment TO proposed AMERICAN standard 
+for information PROCESSING 
+ON specification for general-purpose paper cards 
+*********************************************************************
+Document:CACM-2614
+
+arrow TO precedence network transformation [H] (algorithm a481) 
+crandall, k. C. 
+cacm august, 1974 
+*********************************************************************
+Document:CACM-2893
+
+computers as AN innovation IN AMERICAN local governments 
+computers AND electronic data PROCESSING ARE 
+OF AMERICAN local government. this paper establishes THAT 
+OF THEIR automated APPLICATIONS. THE 
+*********************************************************************
+Document:CACM-1664
+
+MATHEMATICAL physics by symbolic manipulation 
+a method IS described whereby a DIGITAL computer 
+can be used TO derive THE equations OF MATHEMATICAL 
+howard, j. C. 
+*********************************************************************
+Document:CACM-2302
+
+gotlieb, C. C. 
+has been THE SUBJECT OF extensive study by economists, sociologists, 
+computers AND employment 
+*********************************************************************
+Document:CACM-1945
+
+SUBJECT matter related TO programming as well as programming 
+outline for a sequence OF courses IS included, AND SUBJECT 
+THE role OF programming IN a ph. computer science program 
+*********************************************************************
+Document:CACM-2993
+
+AND minimizing AN objective function SUBJECT 
+kotiah, t. C. t. 
+occurrences OF cycling AND other phenomena 
+arising IN a class OF linear programming models 
+*********************************************************************
+Document:CACM-1921
+
+singleton, r. C. 
+DIGITAL filtering, permutation 
+AN algol convolution procedure based ON THE 
+fast fourier transform (algorithm 345 [c6]) 
+*********************************************************************
+Document:CACM-1837
+
+singleton, r. C. 
+DIGITAL filtering, permutation 
+AN algol convolution procedure based ON THE 
+fast fourier transform (algorithm 345 [c6]) 
+*********************************************************************
+Document:CACM-0185
+
+possesses simultaneous PROCESSING abilities, 
+(or any subset OF it), SUBJECT TO external constraints 
+multiprogram scheduling parts 1 AND 2. introduction AND theory* 
+*********************************************************************
+Document:CACM-2840
+
+whether a SUBJECT can acquire a particular right TO 
+protection IN operating systems 
+a model OF protection mechanisms IN computing 
+*********************************************************************
+Document:CACM-0333
+
+design OF AN improved* transmission/data PROCESSING code 
+smith jr., H. j. 
+cacm may, 1961 
+*********************************************************************
+Document:CACM-2362
+
+moler, C. b. 
+paged memory, virtual memory, array PROCESSING 
+linear equation solver [f4] (algorithm a423) 
+*********************************************************************
+Document:CACM-1846
+
+a conventional DIGITAL computer ARE dealt with. THE 
+problems. THE technique will either FIND a method OF 
+TO be possible TO FIND a solution by extending 
+picture PROCESSING, computer system simulation 
+*********************************************************************
+Document:CACM-2534
+
+OF diagnostic assistance IN a batch PROCESSING environment. 
+design AND implementation OF a diagnostic compiler for pl/i 
+pl/c IS a compiler for a dialect for pl/i. THE 
+*********************************************************************
+Document:CACM-1432
+
+OF alphanumeric information ON a DIGITAL graph 
+cohn, C. e. 
+incorporation OF nonstandard input/output devices into fortran systems 
+*********************************************************************
+Document:CACM-3040
+
+for a combinatorial search problem: FINDING 
+values for a set OF variables SUBJECT TO a set OF constraints. 
+synthesizing constraint expressions 
+*********************************************************************
+Document:CACM-1489
+
+IN business data PROCESSING systems, it IS 
+data, documentation AND decision tables 
+necessary TO be able TO define AND document data, 
+*********************************************************************
+Document:CACM-1195
+
+AND IS now operational for PROCESSING THE 
+system ON AN ibm 1401-7090 combined data PROCESSING 
+THE output for optimization OF PROCESSING ON THE 
+donaghey, C. e. 
+*********************************************************************
+Document:CACM-2994
+
+a linear algorithm for incremental DIGITAL display OF circular arcs 
+display device such as a cathode ray tube, DIGITAL 
+generation, incremental DIGITAL plotting, raster 
+*********************************************************************
+Document:CACM-0922
+
+thacher jr., H. C. 
+multint (algorithm 32) 
+cacm february, 1963 
+*********************************************************************
+Document:CACM-0178
+
+thacher jr., H. C. 
+rootfinder (algorithm) 
+cacm june, 1960 
+*********************************************************************
+Document:CACM-0531
+
+IS a laborious operation which IS SUBJECT TO various 
+by USE OF a DIGITAL computer (honeywell 800). here 
+person-matching by electronic methods 
+*********************************************************************
+Document:CACM-0900
+
+thacher jr., H. C. 
+ancestor (algorithm 79) 
+cacm march, 1963 
+*********************************************************************
+Document:CACM-0871
+
+thacher jr., H. C. 
+psif (algorithm 147) 
+cacm april, 1963 
+*********************************************************************

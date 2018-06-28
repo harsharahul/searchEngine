@@ -1,0 +1,643 @@
+Query:computational complexity intractability class-complete reductions algorithms and efficiency
+
+Document:CACM-2337
+
+sorting, COMPUTATIONAL COMPLEXITY, COMPUTATIONAL combinatorics 
+a sorting problem AND its COMPLEXITY 
+ALGORITHMS is given. one new algorithm for 
+*********************************************************************
+Document:CACM-3086
+
+COMPUTATIONAL COMPLEXITY, COMPUTATIONAL models, 
+on the COMPLEXITY of computing the measure of u[ai, bi] 
+the decision tree COMPLEXITY of computing the 
+discussing the effects of the COMPUTATIONAL model on 
+*********************************************************************
+Document:CACM-2325
+
+of computation, ALGORITHMS, continuous ALGORITHMS 
+of continuous ALGORITHMS. four of the components 
+(finite precision number systems, COMPUTATIONAL 
+COMPLEXITY), synthesis AND analysis of ALGORITHMS, 
+*********************************************************************
+Document:CACM-2997
+
+COMPUTATIONAL COMPLEXITY, convex hull, optimal ALGORITHMS, 
+log n) operations. the presented ALGORITHMS use the "divide 
+least o(n log n) operations, the time COMPLEXITY of the 
+proposed ALGORITHMS is optimal within a multiplicative 
+*********************************************************************
+Document:CACM-2837
+
+concrete COMPUTATIONAL COMPLEXITY, upper bounds, 
+COMPLEXITY vi(n) of the i-th selection problem 
+selection problem, ALGORITHMS, comparison problems, 
+new upper bounds for selection 
+*********************************************************************
+Document:CACM-2927
+
+COMPUTATIONAL COMPLEXITY, sieve, prime number generation, 
+given an integer n, what is the COMPUTATIONAL 
+COMPLEXITY of finding all the primes less than 
+COMPLEXITY. this upper bound is shown to be equivalent 
+*********************************************************************
+Document:CACM-2932
+
+COMPLEXITY of computations 
+the framework for research in the theory of COMPLEXITY 
+in tractable problems, probabilistic ALGORITHMS 
+COMPLEXITY of computations, algebraic COMPLEXITY, 
+*********************************************************************
+Document:CACM-2743
+
+merge sorting, COMPUTATIONAL COMPLEXITY, data 
+sorting x + y 
+cacm june, 1975 
+*********************************************************************
+Document:CACM-2950
+
+scheduling ALGORITHMS based on an abstract model 
+priority. various classes of scheduling ALGORITHMS 
+are defined AND related to existing ALGORITHMS. a 
+criterion for the implementation EFFICIENCY of an 
+*********************************************************************
+Document:CACM-3131
+
+focus is a number system AND supporting COMPUTATIONAL 
+ALGORITHMS especially useful for microcomputer control AND other 
+speed with hardware arithmetic for many applications. ALGORITHMS 
+number representation, logarithmic arithmetic, COMPUTATIONAL 
+*********************************************************************
+Document:CACM-2706
+
+COMPUTATIONAL COMPLEXITY, polynomial completeness, 
+a note on the set basis problem related 
+to the compaction of character sets 
+*********************************************************************
+Document:CACM-2454
+
+COMPUTATIONAL ALGORITHMS for closed queueing 
+the COMPUTATIONAL ALGORITHMS are based on two-dimensional 
+networks with exponential servers 
+*********************************************************************
+Document:CACM-2226
+
+further evidence for the analysis of ALGORITHMS 
+the purpose of this note is to report COMPUTATIONAL 
+summarized by gue et al, with two ALGORITHMS for the 
+the ALGORITHMS as a suboptimizer is indicated. 
+*********************************************************************
+Document:CACM-2936
+
+recently ALGORITHMS have been presented for the 
+of commonly used simple linked list ALGORITHMS. in this 
+published ALGORITHMS. first, the new algorithm's 
+AND second, its worst-case COMPLEXITY is o( 
+*********************************************************************
+Document:CACM-3162
+
+COMPUTATIONAL COMPLEXITY, linear time, worst case, string matching, periodicity 
+on improving the worst case running time 
+of the boyer-moore string matching algorithm 
+*********************************************************************
+Document:CACM-2110
+
+compilers, COMPUTATIONAL COMPLEXITY 
+to be superior to the top-down AND bottom-up ALGORITHMS studied by griffiths 
+an efficient context-free parsing algorithm 
+*********************************************************************
+Document:CACM-1309
+
+reports, regardless of COMPUTATIONAL COMPLEXITY or format 
+processing through any COMPUTATIONAL sequence, 
+a computer user-oriented system 
+*********************************************************************
+Document:CACM-2645
+
+two languages for estimating program EFFICIENCY 
+the EFFICIENCY of computer programs are presented. 
+the program whose EFFICIENCY one wishes to estimate is written 
+language AND to output results estimating its EFFICIENCY. 
+*********************************************************************
+Document:CACM-2784
+
+selection, COMPUTATIONAL COMPLEXITY, medians, tournaments, quantiles 
+expected time bounds for selection 
+a new selection algorithm is presented which 
+*********************************************************************
+Document:CACM-3018
+
+cover, edge clique cover, COMPUTATIONAL COMPLEXITY, 
+problem is established which allows ALGORITHMS 
+ALGORITHMS which always produce solutions 
+covering edges by cliques with regard to 
+*********************************************************************
+Document:CACM-1658
+
+analysis of ALGORITHMS for the zero-one programming problem 
+of several existing ALGORITHMS for the 
+zero-one programming problem. COMPUTATIONAL experience 
+requirements of several of the ALGORITHMS are compared 
+*********************************************************************
+Document:CACM-2828
+
+hierarchical geometric models for visible surface ALGORITHMS 
+techniques are possible. first, the range of COMPLEXITY 
+the visible COMPLEXITY of any given scene is kept within 
+time potentially grows linearly with the visible COMPLEXITY of the scene. 
+*********************************************************************
+Document:CACM-3166
+
+four ALGORITHMS for the numerical computation 
+are analyzed. two of the ALGORITHMS are well-known in the statistical 
+"accuracy." each of the four ALGORITHMS is analyzed for the conditions 
+ALGORITHMS will provide accurate answers for many problems, but two 
+*********************************************************************
+Document:CACM-2702
+
+COMPUTATIONAL COMPLEXITY, context-free grammars, 
+on the COMPLEXITY of lr(k) testing 
+is considered. the time COMPLEXITY of this problem 
+the COMPLEXITY of the problem depends very strongly 
+*********************************************************************
+Document:CACM-1619
+
+neely has discussed COMPUTATIONAL error generated 
+by some ALGORITHMS used to compute various 
+error-free methods for statistical computations 
+*********************************************************************
+Document:CACM-1659
+
+COMPUTATIONAL linguistics in a ph. computer science program 
+course curriculum on COMPUTATIONAL linguistics in 
+subject areas contained in COMPUTATIONAL linguistics 
+a basic bibliography in COMPUTATIONAL linguistics 
+*********************************************************************
+Document:CACM-2903
+
+applied to two ALGORITHMS which solve pattern matching problems. 
+by using recursion in troduction, ALGORITHMS 
+recursive ALGORITHMS in which no stack operations 
+occur. these ALGORITHMS are then subjected to a second 
+*********************************************************************
+Document:CACM-2216
+
+therefore is applicable to a family of sorting ALGORITHMS 
+using more advanced ALGORITHMS in the family makes 
+only minor REDUCTIONS in the expected sorting effort, 
+on the probability distribution of the values of binary trees 
+*********************************************************************
+Document:CACM-2703
+
+grammars, COMPUTATIONAL COMPLEXITY, exponential 
+the intrinsically exponential COMPLEXITY of 
+the circularity problem for attribute grammars 
+*********************************************************************
+Document:CACM-3151
+
+points, real-time ALGORITHMS, on-line ALGORITHMS. 
+COMPUTATIONAL geometry, convex hull, planar set of 
+an optimal real-time algorithm for planar convex hulls 
+*********************************************************************
+Document:CACM-2251
+
+in terms of EFFICIENCY AND computation COMPLEXITY. 
+weighted increment linear search for scatter tables 
+a new linear search for hash tables whose increment 
+*********************************************************************
+Document:CACM-2679
+
+for six acm ALGORITHMS: quicksort (no. 64), 
+402). ALGORITHMS 271 AND 402 are refinements of algorithm 
+claims. of all these ALGORITHMS, quickersort requires 
+sorting, in-place sorting, sorting EFFICIENCY, 
+*********************************************************************
+Document:CACM-2986
+
+COMPUTATIONAL COMPLEXITY, sparse relation, boolean 
+a grammer. the heart of the ALGORITHMS is a general 
+operations on sparse relations 
+*********************************************************************
+Document:CACM-3163
+
+ly known insertion ALGORITHMS of hirschberg AND kosaraju, which require 
+time o(log 2n). moreover, the o(log n) COMPLEXITY is optimal. earlier 
+COMPLEXITY than insertion. furthermore, it can now be concluded 
+the insertion AND deletion ALGORITHMS for oshb trees appear much 
+*********************************************************************
+Document:CACM-2953
+
+stacks, trees, sorting ALGORITHMS, COMPUTATIONAL 
+with tree traversal AND sorting ALGORITHMS. each method 
+notes on recursion elimination 
+*********************************************************************
+Document:CACM-2365
+
+the EFFICIENCY of conventional fortran programs 
+matrix ALGORITHMS, linear equations, fortran, 
+matrix computations with fortran AND paging 
+*********************************************************************
+Document:CACM-3055
+
+an analysis of ALGORITHMS for the dutch national flag problem 
+ALGORITHMS given by dijkstra are shown to have an expected number 
+is shown to have expected swap COMPLEXITY 5/9n. 
+*********************************************************************
+Document:CACM-1462
+
+of responsibility between levels leads to greater EFFICIENCY AND 
+less logical COMPLEXITY, while actually 
+multilevel operating systems 
+*********************************************************************
+Document:CACM-3110
+
+np-complete, COMPUTATIONAL COMPLEXITY. 
+assembling code for machines with span-dependent instructions 
+many modern computers contain instructions 
+*********************************************************************
+Document:CACM-3070
+
+system processors. the accuracy AND EFFICIENCY of the 
+the result AND COMPUTATIONAL costs of the hybrid model of 
+hybrid simulation models of computer systems 
+*********************************************************************
+Document:CACM-3007
+
+COMPLEXITY of computations (corrigendum) 
+cacm march, 1978 
+rabin, m. 
+*********************************************************************
+Document:CACM-0895
+
+a COMPUTATIONAL extension of the variate difference method 
+presented here is a COMPUTATIONAL extension 
+of the variate difference method as developed by 
+*********************************************************************
+Document:CACM-2033
+
+layout, retrieval trade-offs, retrieval EFFICIENCY, storage EFFICIENCY 
+in this paper trade-offs among certain COMPUTATIONAL factors 
+the COMPUTATIONAL factors considered are the size of the hash area 
+conjunction with the new methods AND, when necessary, by using some 
+*********************************************************************
+Document:CACM-2499
+
+dynamically adjust its allocation ALGORITHMS to 
+gain EFFICIENCY. allocation of resources is closely connected 
+ALGORITHMS, these are not arbitrary accounting 
+monitor, executive, multiprogramming, EFFICIENCY, 
+*********************************************************************
+Document:CACM-2766
+
+the best previous bounded workspace copying ALGORITHMS 
+list processing, copying, linear time, space COMPLEXITY 
+copying cyclic list structures in linear time using bounded workspace 
+*********************************************************************
+Document:CACM-3037
+
+in unit time). the method has the same arithmetic COMPLEXITY 
+primes, ALGORITHMS, data structures 
+a linear sieve algorithm for finding prime numbers 
+*********************************************************************
+Document:CACM-2855
+
+ALGORITHMS for the same problem. some variations 
+list moving, list copying, lisp, space COMPLEXITY, constant workspace 
+an efficient list-moving algorithm using constant workspace 
+*********************************************************************
+Document:CACM-0164
+
+a short study of notation EFFICIENCY 
+cacm august, 1960 
+smith jr., h. j. 
+*********************************************************************
+Document:CACM-0267
+
+some proposals for improving the EFFICIENCY of algol 60 
+cacm november, 1961 
+wilkes, m. v. 
+*********************************************************************
+Document:CACM-3032
+
+nodes of a network. ALGORITHMS for accomplishing 
+this list of ALGORITHMS we add (6) reverse path 
+it can be implemented in existing networks with less COMPLEXITY 
+reverse path forwarding of broadcast packets 
+*********************************************************************
+Document:CACM-2749
+
+in the simulation of some systems when COMPUTATIONAL 
+EFFICIENCY is of sufficient importance. 
+significant event simulation 
+*********************************************************************
+Document:CACM-1957
+
+the list set generator is defined AND ALGORITHMS 
+EFFICIENCY derives from evaluating the expression as a whole AND 
+the list set generator: a construct for evaluating set expressions 
+*********************************************************************
+Document:CACM-0117
+
+an estimation of the relative EFFICIENCY of two internal sorting methods 
+cacm november, 1960 
+nagler, h. 
+*********************************************************************
+Document:CACM-2746
+
+finite state machines, COMPUTATIONAL COMPLEXITY. 
+efficient string matching: an aid to bibliographic search 
+this paper describes a simple, efficient algorithm 
+*********************************************************************
+Document:CACM-3040
+
+of backtrack tree search EFFICIENCY. an algorithm 
+backtrack, combinatorial ALGORITHMS, constraint 
+synthesizing constraint expressions 
+*********************************************************************
+Document:CACM-2508
+
+increasing the EFFICIENCY of quicksort (algorithm r402) 
+cacm may, 1973 
+wheeler, r. e. 
+*********************************************************************
+Document:CACM-2892
+
+of each level are summarized. then the line EFFICIENCY 
+some measurements of line EFFICIENCY for the arpanet are 
+performance evaluation AND EFFICIENCY, resource sharing 
+a study of line overhead in the arpanet 
+*********************************************************************
+Document:CACM-1969
+
+increasing the EFFICIENCY of quicksort (algorithm 402 $m1)) 
+cacm november, 1970 
+van emden, m. h. 
+*********************************************************************
+Document:CACM-2289
+
+in the array. the chief COMPUTATIONAL advantage 
+solution of graph problems is the determination of ALGORITHMS 
+ALGORITHMS are presented for the solution of certain 
+these ALGORITHMS exhibit a computation time that in 
+*********************************************************************
+Document:CACM-2524
+
+corresponding search ALGORITHMS, which are intended 
+are presented which compare the EFFICIENCY of the methods. 
+some approaches to best-match file searching 
+*********************************************************************
+Document:CACM-0149
+
+a decision rule for improved EFFICIENCY in solving 
+linear programming problems with the simplex 
+algorithm 
+*********************************************************************
+Document:CACM-2771
+
+added together or subtracted. two ALGORITHMS to 
+COMPUTATIONAL geometry, computer-aided design, 
+the synthesis of solids bounded by many faces 
+*********************************************************************
+Document:CACM-2938
+
+with increasing COMPLEXITY of reasoning 
+the COMPLEXITY of reasoning about concurrency AND execution 
+toward a discipline of real-time programming 
+*********************************************************************
+Document:CACM-1465
+
+EFFICIENCY dictates that the overall effectiveness 
+be based on fixed conventions to preserve EFFICIENCY 
+program translation viewed as a general data processing problem 
+*********************************************************************
+Document:CACM-2665
+
+two new ALGORITHMS are presented for list structure 
+list processing, copying, marking, space COMPLEXITY 
+copying list structures using bounded workspace 
+*********************************************************************
+Document:CACM-1708
+
+a note on the EFFICIENCY of a lisp computation in a paged machine 
+EFFICIENCY of paged computation 
+the problem of the use of two levels of storage 
+*********************************************************************
+Document:CACM-1886
+
+EFFICIENCY of the object code produced by first factoring 
+necessarily generated. the factorization ALGORITHMS 
+factorization ALGORITHMS, code optimization, sequencing 
+generation of optimal code for expressions via factorization 
+*********************************************************************
+Document:CACM-1947
+
+to transforming the program to improve object time EFFICIENCY. 
+compilers, data flow analysis, dominance, EFFICIENCY, 
+object code optimization 
+*********************************************************************
+Document:CACM-2457
+
+powerful inductive methods COMPUTATIONAL induction 
+recursive programs, least fixed point, COMPUTATIONAL 
+inductive methodsfor proving properties of programs 
+*********************************************************************
+Document:CACM-1491
+
+the sequence of corresponding syntactic REDUCTIONS 
+euler: a generalization algol, AND its formal definition: part i* 
+a method for defining programming languages is 
+*********************************************************************
+Document:CACM-2504
+
+concerning music AND computer composition in COMPUTATIONAL linguistics 
+cacm may, 1973 
+mcmorrow, c. h. 
+*********************************************************************
+Document:CACM-1899
+
+round-off errors, COMPUTATIONAL stability 
+simplex method procedure employing lu decomposition (algorithm 350 [h]) 
+cacm may, 1969 
+*********************************************************************
+Document:CACM-2884
+
+permutation enumeration: four new permutation ALGORITHMS 
+classical permutation enumeration ALGORITHMS encounter 
+on n marks. four new ALGORITHMS have the attribute 
+two of the ALGORITHMS produce the next permutation 
+*********************************************************************
+Document:CACM-0371
+
+remarks on ALGORITHMS 2 AND 3, algorithm 15 AND ALGORITHMS 25 AND 26 
+cacm march, 1961 
+wilkinson, j. h. 
+*********************************************************************
+Document:CACM-2931
+
+in the EFFICIENCY of decision methods have become available 
+through the developments in COMPLEXITY theory. 
+logic AND programming languages 
+*********************************************************************
+Document:CACM-3150
+
+systems of the COMPLEXITY called for by the tasks we attempt. just 
+ALGORITHMS, towards the description of the properties of the packages 
+beyond programming languages 
+*********************************************************************
+Document:CACM-3165
+
+the new organization is further illustrated by the outline of ALGORITHMS 
+COMPUTATIONAL geometry, computer cartography, automated cartography 
+approximation of polygonal maps by cellular maps 
+*********************************************************************
+Document:CACM-2569
+
+the EFFICIENCY of the rejection method is shown to 
+be better than the EFFICIENCY of johnk's method. 
+of accuracy AND EFFICIENCY: (1) when a is less than 
+computer generation of gamma random variates 
+*********************************************************************
+Document:CACM-1404
+
+COMPUTATIONAL aspects of multiple covariance 
+the COMPUTATIONAL procedure for the analysis 
+analysis on a multifactor structure 
+*********************************************************************
+Document:CACM-2126
+
+respect to EFFICIENCY, flexibility, AND utility 
+experience with an extensible language 
+an operational extensible language system is described. 
+*********************************************************************
+Document:CACM-1350
+
+languages-its relative EFFICIENCY 
+with two other parsing ALGORITHMS: a selective 
+upon several criteria of EFFICIENCY, covering core-storage 
+the augmented predictive analyzer for context-free 
+*********************************************************************
+Document:CACM-3006
+
+anomalies with variable partition paging ALGORITHMS 
+AND paging ALGORITHMS, an increase in mean memory allocation 
+two paging ALGORITHMS, are examined in terms of their 
+ALGORITHMS, virtual memory, working set, page 
+*********************************************************************
+Document:CACM-1551
+
+on compiling ALGORITHMS for arithmetic expressions 
+this paper deals with ALGORITHMS concerning arithmetic 
+ALGORITHMS generate an object code which minimizes 
+*********************************************************************
+Document:CACM-2902
+
+ALGORITHMS. simple ALGORITHMS operating on memory ordered 
+35 dynamic memory allocation ALGORITHMS when used 
+fragmentation. ALGORITHMS main taining separate 
+well. ALGORITHMS employing power-of-two block sizes 
+*********************************************************************
+Document:CACM-3154
+
+component only affects its EFFICIENCY. the EFFICIENCY of an 
+algorithm = logic + control 
+an algorithm can be regarded as consisting of a logic component, 
+*********************************************************************
+Document:CACM-2863
+
+replacement ALGORITHMS is presented. an optimum 
+AND the page partitioning replacement ALGORITHMS 
+realizable variable space ALGORITHMS. 
+page replacement ALGORITHMS, optimal page replacement 
+*********************************************************************
+Document:CACM-2283
+
+thinning ALGORITHMS on rectangular, hexagonal, AND triangular arrays 
+in this report three thinning ALGORITHMS are 
+results produced by each of the ALGORITHMS are presented 
+AND the relative performances of the ALGORITHMS 
+*********************************************************************
+Document:CACM-2035
+
+tape ALGORITHMS to minimize the limitations of the small memory. techniques 
+display editing, display oriented system, filing ALGORITHMS, lap6, 
+layering, linc, man-machine communication, on-line editing, on-line EFFICIENCY, 
+conversational access to a 2048-word machine 
+*********************************************************************
+Document:CACM-2273
+
+two ALGORITHMS for generating computer programs 
+from decision tables are described. the ALGORITHMS 
+entry tables. the ALGORITHMS are based on the 
+by instantly marking rules which are not applicable (ALGORITHMS 
+*********************************************************************
+Document:CACM-2146
+
+various dispersion ALGORITHMS for the polyphase 
+new dispersion ALGORITHMS with more straightforward 
+logic are presented. of the simple dispersion ALGORITHMS 
+less reading AND writing than most ALGORITHMS in 
+*********************************************************************
+Document:CACM-2628
+
+over the sltf discipline. the COMPUTATIONAL requirements 
+discipline are shown to be comparable to sltf ALGORITHMS. 
+minimal-total-processing time drum AND disk scheduling disciplines 
+*********************************************************************
+Document:CACM-1796
+
+index by subject to ALGORITHMS, 1969 
+index by subject to ALGORITHMS, 1960 1968 (comm. 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-2916
+
+bibliographic search, COMPUTATIONAL COMPLEXITY, 
+a fast string searching algorithm 
+an algorithm is presented that searches for 
+*********************************************************************
+Document:CACM-0598
+
+the cobol librarian - a key to object program EFFICIENCY 
+many answers to the question "how may a cobol 
+compiler be forced into the generation of an 
+*********************************************************************
+Document:CACM-3064
+
+the familiar problem of event scheduling EFFICIENCY 
+of providing EFFICIENCY AND flexibility as scheduled 
+event manipulation for discrete simulations 
+requiring large numbers of events 
+*********************************************************************
+Document:CACM-2882
+
+the impact of query COMPLEXITY is analyzed. 
+query COMPLEXITY, stochastic model, monte carlo 
+a stochastic evaluation model for database 
+organization in data retrieval systems 
+*********************************************************************
+Document:CACM-1924
+
+carefully designed matrix ALGORITHMS can lead to 
+multiplication, AND inversion ALGORITHMS shows 
+manipulation ALGORITHMS is also studied as a function 
+matrix ALGORITHMS, array processing, paging ALGORITHMS, 
+*********************************************************************
+Document:CACM-1265
+
+ALGORITHMS for producing grammars equivalent to 
+the increase in recognition EFFICIENCY they afford 
+on the relative efficiencies of context-free grammar recognizers 
+*********************************************************************
+Document:CACM-2819
+
+two ALGORITHMS for encoding a string differ 
+substrings of the file. four new ALGORITHMS for this 
+parameters in the ALGORITHMS are optimized to obtain 
+codes, n-gram encoding, comparison of ALGORITHMS 
+*********************************************************************
+Document:CACM-2170
+
+COMPUTATIONAL physics, quantum electrodynamics 
+applications of symbol manipulation in theoretical physics 
+this paper surveys the applications of symbolic 
+*********************************************************************

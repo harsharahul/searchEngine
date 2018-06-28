@@ -1,0 +1,637 @@
+Query:dictionary construction and accessing methods for fast retrieval of words or lexical items or morphologically related information hashing or indexing methods are usually applied to english spelling or natural language problems
+
+Document:CACM-0144
+
+simple terminal equipments. since ENGLISH WORDS form only 
+present METHODS ARE inefficient when computer systems 
+representations OF entire WORDS OR common phrases (rather 
+other benefits accrue in code AND LANGUAGE translation 
+*********************************************************************
+Document:CACM-0028
+
+request FOR METHODS OR programs 
+cacm april, 1958 
+corley, h. p. t. 
+*********************************************************************
+Document:CACM-0944
+
+trees. such trees have INFORMATION storage AND RETRIEVAL 
+properties applicable TO PROBLEMS involving 
+large quantities OF data OR TO PROBLEMS where the quantity, 
+word length AND distribution OF stored INFORMATION 
+*********************************************************************
+Document:CACM-1112
+
+a technique FOR computer detection AND correction OF SPELLING errors* 
+which cannot be found in a DICTIONARY has at most 
+input word is compared TO the DICTIONARY again, testing 
+each time TO see if the WORDS match-assuming 
+*********************************************************************
+Document:CACM-2476
+
+LANGUAGE theory, context-free grammars 
+equivalence between and/or graphs AND context-free grammars 
+cacm july, 1973 
+*********************************************************************
+Document:CACM-1888
+
+tridiagonal AND so ARE easily solved by relaxation OR other standard METHODS. 
+boundary value PROBLEMS, differential equations, 
+iterative METHODS, nonlinear equations, spline functions 
+spline function METHODS FOR nonlinear boundary-value PROBLEMS 
+*********************************************************************
+Document:CACM-1700
+
+card peekaboo, FOR NATURAL LANGUAGE searching 
+RETRIEVAL METHODS has been mated with the 
+peekaboo, superimposed coding, NATURAL LANGUAGE 
+the "peekaboo" idea from punched card INFORMATION 
+*********************************************************************
+Document:CACM-1462
+
+monitors which handle PROBLEMS similar TO those OF 
+operate under (OR, more precisely, on top OF) the standard 
+multilevel operating systems 
+*********************************************************************
+Document:CACM-1818
+
+associated legendre functions OF the first kind 
+FOR real OR imaginary arguments (algorithm 47 
+[s16]) 
+*********************************************************************
+Document:CACM-1264
+
+OR OF executing programs may be in either ENGLISH 
+blnsys-a 1401 operating system with braille capabilities 
+blnsys is an operating system designed FOR 
+*********************************************************************
+Document:CACM-1235
+
+WORDS AND frequently occurring LEXICAL WORDS. some suffix 
+a stochastic approach TO the grammatical coding OF ENGLISH 
+assign each word in an ENGLISH text TO its form 
+through the use OF a small DICTIONARY OF function 
+*********************************************************************
+Document:CACM-1488
+
+programming decision tables in fortran, cobol OR algol 
+a simple broad-based approach FOR programming 
+decision tables in fortran OR cobol is developed 
+*********************************************************************
+Document:CACM-1456
+
+storage AND RETRIEVAL OF aspects OF meaning in directed graph structures 
+the contexts in which it has been used TO define other WORDS. 
+examples OF METHODS OF inputting INFORMATION 
+AND answering simple ENGLISH questions ARE given. an 
+*********************************************************************
+Document:CACM-3138
+
+givens transformations AND APPLIED TO lp PROBLEMS 
+updating an orthogonal decomposition OF a matrix OF column (OR row) vectors. 
+the fundamental idea is TO add a column (OR row) analogous 
+a column (OR row) is dropped by a formal scaling with the 
+*********************************************************************
+Document:CACM-1152
+
+floating-point arithmetic with 84-bit numbers 
+a classic AND straightforward technique is 
+presented which is not limited TO the size OR type 
+*********************************************************************
+Document:CACM-2194
+
+paper demonstrates that a wide class OF PROBLEMS OF 
+this type can be formulated as covering PROBLEMS 
+how TO keep the addresses short 
+*********************************************************************
+Document:CACM-1519
+
+a common command LANGUAGE. the system includes 
+george 3-a general purpose time sharing AND operating system 
+an operating system is described which will 
+*********************************************************************
+Document:CACM-2711
+
+automatic INFORMATION RETRIEVAL, automatic 
+a vector space model FOR automatic INDEXING 
+in a document RETRIEVAL, OR other pattern matching 
+(search requests), it appears that the best INDEXING 
+*********************************************************************
+Document:CACM-0617
+
+perform its calculations OR data processing FAST 
+poseidon 
+any computer that forms part OF a control system-whether 
+*********************************************************************
+Document:CACM-3113
+
+optimal conversion OF extended-entry 
+decision tables with general cost criteria 
+a general dynamic programming algorithm FOR converting 
+*********************************************************************
+Document:CACM-1650
+
+each previously requiring different METHODS. the programming 
+a unifying computational method FOR the 
+analysis OF complete factorial experiments 
+*********************************************************************
+Document:CACM-2484
+
+data base, data-base management, INFORMATION RETRIEVAL, 
+a note on INFORMATION organization AND storage 
+NATURAL FOR us TO view the process OF designing a data 
+in this general CONSTRUCTION method; namely, a set OF 
+*********************************************************************
+Document:CACM-3158
+
+secure personal computing in an insecure network 
+a method FOR implementing secure personal computing in a network 
+with one OR more central facilities is proposed. the method employs a 
+*********************************************************************
+Document:CACM-1402
+
+OF additional INFORMATION as in interpolation METHODS. 
+partial step integration 
+a partial step integration equation is derived 
+*********************************************************************
+Document:CACM-0719
+
+push variable field ITEMS down into such stacks 
+advantages over machines with fixed-length WORDS. 
+variable width stacks 
+*********************************************************************
+Document:CACM-0544
+
+ber OR bei function (algorithm 57) 
+cacm july, 1962 
+relph, a. p. 
+*********************************************************************
+Document:CACM-0344
+
+ber OR bei function (algorithm 57) 
+cacm april, 1961 
+herndon, j. r. 
+*********************************************************************
+Document:CACM-0510
+
+ber OR bei function (algorithm 57) 
+cacm august, 1962 
+thacher jr., h. c. 
+*********************************************************************
+Document:CACM-1287
+
+vector coupling OR clebsch-gordan coefficients (algorithm 252 [z]) 
+cacm april, 1965 
+gunn, j. h. 
+*********************************************************************
+Document:CACM-1216
+
+the chain rule is APPLIED AND the result is edited TO 
+operator into an "algebraic" programming LANGUAGE. 
+symbolic derivatives without list processing, subroutines, OR recursion 
+*********************************************************************
+Document:CACM-1413
+
+will become the actual AND, if so, on what time 
+a vision OF technology AND education 
+educational technology is currently quite 
+*********************************************************************
+Document:CACM-1272
+
+expanding the editing function in LANGUAGE data processing 
+in automatic abstracting, citation INDEXING, 
+OF text in LANGUAGE processing operations, 
+*********************************************************************
+Document:CACM-1999
+
+optimal starting approximations FOR generating 
+square root FOR slow OR no divide 
+on machine with slow OR no division, it is preferable TO 
+*********************************************************************
+Document:CACM-3196
+
+the reactive typewriter program 
+84-character keyboard including alphabetical upper AND lower case FOR good 
+readability. if the machine is restricted TO only a single case, the lower case 
+*********************************************************************
+Document:CACM-2059
+
+a LANGUAGE FOR treating graphs 
+a LANGUAGE FOR the representation OF graph is described, AND the formulation OF 
+ARE represented by linked lists. the LANGUAGE is syntactically defined 
+by means OF a syntax-driven compiler. application areas FOR this LANGUAGE ARE 
+*********************************************************************
+Document:CACM-2998
+
+which governs word frequencies in NATURAL languages; poin ters 
+cdrs (OR cars) ARE placed in consecutive memory 
+INFORMATION content OF a car-cdr pair in the programs 
+an empirical study OF list structure in lisp 
+*********************************************************************
+Document:CACM-2771
+
+the synthesis OF solids bounded by many faces 
+a technique is presented which allows a class 
+OF solid objects TO be synthesized AND stored 
+*********************************************************************
+Document:CACM-1554
+
+AND APPLIED TO any n-dimensional hyperobject 
+a computer technique FOR displaying n-dimensional hyperobjects 
+a digital computer AND automatic plotter have 
+*********************************************************************
+Document:CACM-2989
+
+this paper presents METHODS FOR empirical evaluation 
+the METHODS ARE based on analysis OF traces OF program 
+PROBLEMS ARE briefly discussed. experimental 
+empirical evaluation OF some features 
+*********************************************************************
+Document:CACM-2078
+
+PROBLEMS involving the arrangement OF objects in two- 
+ARE called space planning PROBLEMS. the representational 
+representations FOR space planning 
+*********************************************************************
+Document:CACM-2267
+
+by the machine on which it is run. the METHODS ARE 
+languages, philosophy OF LANGUAGE design 
+algorithms TO reveal properties OF floating-point arithmetic 
+*********************************************************************
+Document:CACM-3056
+
+counting large numbers OF events in small registers 
+it is possible TO use a small counter TO keep 
+approximate counts OF large numbers. the resulting 
+*********************************************************************
+Document:CACM-0626
+
+a method OF representation, storage AND RETRIEVAL 
+OF 13 random codes in a 4-digit number OR 16 
+random codes in a 5-digit number 
+*********************************************************************
+Document:CACM-1084
+
+provides FOR: many-to-one encodings, right OR left 
+on declaring arbitrarily coded alphabets 
+the inability OF existing programming languages 
+*********************************************************************
+Document:CACM-3034
+
+in the condition stub OF the decision table (OR 
+detection OF logical errors in decision table programs 
+in this paper an algorithm TO detect logical 
+*********************************************************************
+Document:CACM-0778
+
+associated legendre functions OF the first kind 
+FOR real OR imaginary arguments (algorithm 47) 
+cacm august, 1963 
+*********************************************************************
+Document:CACM-2127
+
+NATURAL LANGUAGE question-answering systems: 1969 
+answering questions from NATURAL LANGUAGE subsets in small scale 
+question-answering, NATURAL LANGUAGE, artificial intelligence,language 
+recent experiments in programming NATURAL 
+*********************************************************************
+Document:CACM-1259
+
+applications OF binary numbers in computer routines 
+a binary number can be thought OF as an alternate 
+form OF expression FOR either a set OF letters 
+*********************************************************************
+Document:CACM-1309
+
+a computer LANGUAGE system has been developed 
+which makes possible FAST preparation OF management 
+a computer user-oriented system 
+*********************************************************************
+Document:CACM-0354
+
+associated legendre functions OF the first kind 
+FOR real OR imaginary arguments (algorithm 47) 
+cacm april, 1961 
+*********************************************************************
+Document:CACM-2900
+
+three theorems which can be APPLIED a priori TO indicate 
+that certain sites should (OR should not) be 
+some theorems TO aid in solving the file allocation problem 
+*********************************************************************
+Document:CACM-2486
+
+photocomposition, special PROBLEMS arise in highly 
+solutions TO several OF these PROBLEMS have been 
+devised in the INFORMATION system OF the american institute 
+i.e. WORDS OR formulas placed partly at the end OF 
+*********************************************************************
+Document:CACM-0078
+
+remarks on the practical solution OF characteristic value PROBLEMS 
+analog, solve initial value PROBLEMS, rather than boundary 
+value PROBLEMS, AND some mathematical process 
+a number OF other papers have APPLIED particular 
+*********************************************************************
+Document:CACM-2994
+
+a linear algorithm FOR incremental digital display OF circular arcs 
+circular arcs can be drawn on an incremental 
+display device such as a cathode ray tube, digital 
+*********************************************************************
+Document:CACM-2846
+
+INFORMATION RETRIEVAL systems. it has the same underlying 
+RETRIEVAL time, measured in terms OF bit inspections 
+improvement in storage requirements AND RETRIEVAL time 
+structure, AND then several METHODS OF its use 
+*********************************************************************
+Document:CACM-2753
+
+AND NATURAL resource management. these space planning 
+solutions FOR PROBLEMS involving topological 
+be easily updated. dps has been APPLIED TO 50 PROBLEMS. 
+METHODS used TO achieve it: task-specific INFORMATION, 
+*********************************************************************
+Document:CACM-1886
+
+compiled, METHODS ARE presented FOR increasing the 
+ascertained, a sequencing procedure is APPLIED which 
+INFORMATION is computed in the correct sequence AND factors 
+APPLIED, AND hence global optimal results ARE not 
+*********************************************************************
+Document:CACM-1988
+
+LANGUAGE processor, compiler-compiler 
+a formalism FOR translator interactions 
+a formalism is presented FOR describing the actions 
+*********************************************************************
+Document:CACM-2517
+
+work on decision table translation using METHODS 
+OF these METHODS under various possible conventions 
+AND the single-rule (OR action set) convention in decision tale usage. 
+some comments on the use OF ambiguous decision 
+*********************************************************************
+Document:CACM-1930
+
+(1967)sing their METHODS, fourier analysis is APPLIED 
+extremely portable random number generator 
+extremely portable subroutines ARE sometimes 
+*********************************************************************
+Document:CACM-1725
+
+ordered lists, ordered INFORMATION RETRIEVAL, 
+an efficient method OF ordered RETRIEVAL OF binary 
+WORDS from an associative memory, as described 
+WORDS from the memory. lewin proves that, FOR the readout 
+*********************************************************************
+Document:CACM-1527
+
+through questions posed in NATURAL LANGUAGE 
+sentences OF a NATURAL LANGUAGE. it 
+expressible as a set OF sentences in a NATURAL LANGUAGE, 
+the automatic RETRIEVAL OF certain segments OF 
+*********************************************************************
+Document:CACM-2439
+
+in any LANGUAGE available on the system. this 
+multiple terminals under user program 
+control in a time-sharing environment 
+*********************************************************************
+Document:CACM-0096
+
+spherical bessel functions ARE investigated. these METHODS 
+on computing radiation integrals 
+the relative merit AND cost OF four ways OF 
+*********************************************************************
+Document:CACM-2953
+
+various METHODS OF recursion elimination ARE 
+APPLIED TO the schematic recursive procedure: 
+notes on recursion elimination 
+*********************************************************************
+Document:CACM-1438
+
+number, is developed AND APPLIED TO the problem 
+a method FOR locating zeros OF complex functions 
+a method FOR computing the index, OR winding 
+*********************************************************************
+Document:CACM-1035
+
+characteristics OF the fortran cep LANGUAGE 
+the fortran cep languages differs from fortran 
+ii mainly because: (1) it extends the variety 
+*********************************************************************
+Document:CACM-3046
+
+a, a > 1. this method is similar TO other METHODS given 
+than these METHODS FOR a> 2. the core storage requirements 
+METHODS. the computational times FOR the proposed 
+gamma variables, rejection method, computer METHODS 
+*********************************************************************
+Document:CACM-1379
+
+a final solution TO the dangling else OF algol 60 AND RELATED languages 
+the dangling else problem consists OF a class 
+OF potential ambiguities in algol-like conditional 
+*********************************************************************
+Document:CACM-1315
+
+in the forcom programming LANGUAGE. a minimum 
+automation OF the radioisotope accountability system 
+the radioisotope service OF the veterans administration 
+*********************************************************************
+Document:CACM-1975
+
+a multiple-precision division algorithm 
+a generalized division algorithm FOR use with positive integral operands is 
+presented. depending upon the algebraic relationship OF the first 
+*********************************************************************
+Document:CACM-3087
+
+dialogue, query generation, INFORMATION RETRIEVAL, NATURAL LANGUAGE programming 
+an ENGLISH LANGUAGE question answering system 
+in programming NATURAL LANGUAGE systems FOR limited domains, 
+question answering, relational database, NATURAL LANGUAGE, 
+*********************************************************************
+Document:CACM-0070
+
+CONSTRUCTION OF a set OF test matrices 
+this paper develops the equations AND properties 
+OF a set OF test matrices which ARE useful 
+*********************************************************************
+Document:CACM-1483
+
+a comparison OF the fortran LANGUAGE 
+in each implementation. only those ITEMS which ARE 
+implementation FOR several computers 
+*********************************************************************
+Document:CACM-2091
+
+pdel-a LANGUAGE FOR partial differential equations 
+conventional computer METHODS available TO solve 
+continuous system PROBLEMS characterized by partial 
+has been designed; a practical translator FOR the LANGUAGE has also 
+*********************************************************************
+Document:CACM-0095
+
+METHODS ARE APPLIED can sometimes be expanded 
+elimination OF special functions from differential equations 
+a set OF ordinary differential equations which 
+*********************************************************************
+Document:CACM-2002
+
+d in a way such that the user could supply the minimum OF INFORMATION, 
+amesplot-a higher level data plotting software system 
+amesplot is an extensible software system designed TO make the display OF 
+*********************************************************************
+Document:CACM-2852
+
+in computer science OR in INFORMATION systems 
+adding a course on INFORMATION systems administration 
+professional programs in INFORMATION systems. this paper 
+in INFORMATION systems OR FOR graduate professional 
+*********************************************************************
+Document:CACM-1592
+
+the METHODS were clearly unsatisfactory, some gave 
+string similarity AND misspellings 
+the problem OF programming a computer TO determine 
+*********************************************************************
+Document:CACM-1523
+
+sharer, a time sharing system FOR the cdc 6600 
+a time sharing system embedded within the 
+standard batch processing system FOR the cdc 6600 
+*********************************************************************
+Document:CACM-1087
+
+PROBLEMS in automatic abstracting 
+a variety OF PROBLEMS concerning the design 
+AND operation OF an automatic abstracting system 
+*********************************************************************
+Document:CACM-2500
+
+a practical approach TO managing resources AND avoiding deadlocks 
+resource scheduling AND allocation can be expensive 
+with regard TO time AND space in multiprogramming 
+*********************************************************************
+Document:CACM-1197
+
+finding zeros OF a polynomial by the q-d algorithm 
+a method which finds simultaneously all the zeros 
+OF a polynomial, developed by h. rutishauser, 
+*********************************************************************
+Document:CACM-3129
+
+transactions. each transaction (OR job) generates a demand vector which 
+optimal storage allocation FOR serial files 
+a computer system uses several serial files. the files reside on a 
+*********************************************************************
+Document:CACM-2905
+
+HASHING, HASHING METHODS, hash coding, direct addressing, 
+perfect HASHING functions: a single 
+a refinement OF HASHING which allows RETRIEVAL 
+is considered. given a set i OF identifiers, two METHODS 
+*********************************************************************
+Document:CACM-2683
+
+current METHODS FOR mechanical program verification 
+METHODS which derive loop predicates from boundary conditions 
+(2) extraction METHODS which use input predicates AND 
+the synthesis OF loop predicates 
+*********************************************************************
+Document:CACM-1051
+
+multiword list ITEMS 
+WORDS as elements OF a list. this report describes the 
+use OF two OR more consecutive WORDS as one element. 
+OF standard list structures with single-word ITEMS, the 
+*********************************************************************
+Document:CACM-1630
+
+computer representation OF planar regions by their skeletons 
+any region can be regarded as a union OF maximal 
+neighborhoods OF its points, AND can be specified 
+*********************************************************************
+Document:CACM-1162
+
+an assembly LANGUAGE FOR reprogramming 
+complete reprogramming OF compiler LANGUAGE programs 
+is seldom necessary. it is assembly LANGUAGE 
+is, from assembly LANGUAGE TO machine LANGUAGE. 
+*********************************************************************
+Document:CACM-2153
+
+experiments with an automated instructional system FOR numerical METHODS 
+course in numerical METHODS. each instructional unit 
+METHODS, cai, instructional systems 
+*********************************************************************
+Document:CACM-1711
+
+PROBLEMS. focus is also on trouble spots in contracting 
+INFORMATION is given on patents, copyrights AND 
+OF using copyrighted material in INFORMATION storage 
+AND RETRIEVAL systems, including the pending 
+*********************************************************************
+Document:CACM-1977
+
+an interactive display FOR approximation by linear programming 
+an interactive program 
+with a graphical display has been developed FOR the approximation OF 
+*********************************************************************
+Document:CACM-1001
+
+copyright aspects OF computer usage 
+this paper is concerned with the question OF 
+what constitutes infringement OF a copyright on 
+*********************************************************************
+Document:CACM-1486
+
+in the LANGUAGE AND FOR rearranging the ITEMS in the 
+ITEMS could help a user TO solve his PROBLEMS, AND about 
+LANGUAGE AND has a library FOR storing the user's ITEMS. 
+a reprogramming machine 
+*********************************************************************
+Document:CACM-1154
+
+in this category ARE as closely RELATED TO 
+multi-tape AND infinite-state automata -- a survey 
+a survey OF machines which ARE more powerful 
+*********************************************************************
+Document:CACM-2572
+
+arguments FOR a moratorium on the CONSTRUCTION 
+OF a community INFORMATION utility 
+design AND desirability OF computerized community INFORMATION 
+community INFORMATION utilities ARE examined in this 
+*********************************************************************
+Document:CACM-2229
+
+METHODS. both METHODS ARE described here, AND the relationship 
+CONSTRUCTION OF rational AND negative powers OF a formal series 
+some METHODS ARE described FOR the generation 
+*********************************************************************
+Document:CACM-3101
+
+METHODS OF argument transmission in the source 
+LANGUAGE itself. the resulting procedure mechanism,which 
+is part OF the sl5 programming LANGUAGE, is 
+well suited TO goal-oriented PROBLEMS AND TO other PROBLEMS 
+*********************************************************************
+Document:CACM-1408
+
+ACCESSING FOR drums so defined. this is shown TO 
+specific use, the METHODS underlying it have more general applicability. 
+the eschenbach drum scheme 
+*********************************************************************
+Document:CACM-1457
+
+in automatic INFORMATION RETRIEVAL 
+automatic INFORMATION RETRIEVAL programs require 
+facilities TO aid in INFORMATION RETRIEVAL. 
+data manipulation AND programming PROBLEMS 
+*********************************************************************

@@ -1,0 +1,664 @@
+Query:find all descriptions of file handling in operating systems based on multiple processes and message passing
+
+Document:CACM-3141
+
+decentralized algorithms, distributed SYSTEMS, OPERATING SYSTEMS 
+IN circular configurations OF PROCESSES 
+numbered PROCESSES arranged IN a circle, IN which no central 
+controller exists AND the number OF PROCESSES is not known a priori. 
+*********************************************************************
+Document:CACM-2378
+
+OPERATING SYSTEMS, supervisors, multiprogramming, 
+an OPERATING system BASED ON the concept OF a supervisory computer 
+an OPERATING system which is organized as a 
+small supervisor AND a set OF independent PROCESSES 
+*********************************************************************
+Document:CACM-2629
+
+OPERATING SYSTEMS, including: (1) a hierarchical FILE system 
+OPERATING system for the digital equipment 
+FILE, device, AND inter-process i/o; (3) the ability to 
+initiate asynchronous PROCESSES; (4) system command 
+*********************************************************************
+Document:CACM-0243
+
+a binary-coded MESSAGE. the MESSAGE itself is arranged 
+n-dimensional codes for detecting AND correcting MULTIPLE errors 
+for detecting AND correcting MULTIPLE errors IN 
+array. the PROCESSES OF encoding AND error detection 
+*********************************************************************
+Document:CACM-2080
+
+multiprogramming, OPERATING SYSTEMS, parallel PROCESSES, process concept, 
+that can be extended with a hierarchy OF OPERATING SYSTEMS to suit diverse 
+OF a hierarchy OF PROCESSES as well as the communication among them. 
+process communication, MESSAGE buffering, process 
+*********************************************************************
+Document:CACM-1135
+
+a general business-oriented language BASED ON decision expressions* 
+a structure, BASED ON identifying AND incorporating 
+into a compiler the aspects common to ALL PROCESSES 
+the structural analysis OF the class OF PROCESSES to be represented 
+*********************************************************************
+Document:CACM-1750
+
+multiprogrammed OPERATING SYSTEMS, multiprocessor 
+MULTIPLE computer SYSTEMS, extended core storage, 
+OPERATING SYSTEMS, control data corporation 6600, OPERATING system with ecs 
+considerations IN the design OF a MULTIPLE 
+*********************************************************************
+Document:CACM-2740
+
+a large semaphore BASED OPERATING system 
+OF OPERATING SYSTEMS. the project management 
+cooperating PROCESSES, OPERATING system, semaphores, 
+sequential PROCESSES. the PROCESSES synchronize by 
+*********************************************************************
+Document:CACM-0409
+
+BASED ON a master FILE concept AND has provisions 
+for accepting, storing, AND retrieving both DESCRIPTIONS 
+OF distinct data DESCRIPTIONS AND the content AND 
+use OF such DESCRIPTIONS are discussed IN some detail. 
+*********************************************************************
+Document:CACM-1846
+
+ON simulating networks OF parallel PROCESSES 
+event SYSTEMS, particularly computer SYSTEMS, ON 
+SYSTEMS are assumed to be described as a network 
+OF interconnected sequential PROCESSES. briefly reviewed 
+*********************************************************************
+Document:CACM-2688
+
+inverted FILE, MULTIPLE key hashing 
+attribute BASED FILE organization IN a paged memory environment 
+analyses that cost AND proposes a method called MULTIPLE 
+*********************************************************************
+Document:CACM-2522
+
+OPERATING SYSTEMS, supervisory SYSTEMS 
+the system resources to the PROCESSES competing for them. 
+recent research IN time-sharing paging SYSTEMS 
+AND are source allocation strategy BASED ON 
+*********************************************************************
+Document:CACM-2184
+
+FILE, OPERATING system, programming language, functions, 
+ON the meaning OF names IN programming SYSTEMS 
+language AND the FILE names OF an OPERATING system. 
+regarded as the abstraction BASED upon the first two terms OF 
+*********************************************************************
+Document:CACM-2320
+
+OPERATING SYSTEMS, concurrent PROCESSES, shared 
+OPERATING SYSTEMS but also within user programs. 
+a data structure shared by concurrent PROCESSES 
+competing PROCESSES to any degree desired. these 
+*********************************************************************
+Document:CACM-1854
+
+a basis for the construction OF OPERATING SYSTEMS, 
+OF parallel PROCESSES. a set OF routines 
+computer organization, FILE HANDLING, pl360 
+ON multiprogramming, machine coding, AND computer organization 
+*********************************************************************
+Document:CACM-1462
+
+multilevel OPERATING SYSTEMS 
+OPERATING SYSTEMS. this implies that ALL applications-no 
+the OPERATING SYSTEMS, but at a different level. 
+operate under (or, more precisely, ON top OF) the standard 
+*********************************************************************
+Document:CACM-3157
+
+the basic approach is to FIND a termination function that maps 
+are difficult to FIND AND are OF a complexity out 
+over a given well-founded set s are sets that admit MULTIPLE occurrences 
+ordering is used to prove the termination OF production SYSTEMS, 
+*********************************************************************
+Document:CACM-2376
+
+synchronization OF communicating PROCESSES 
+running PROCESSES OF a system communicate correctly. 
+many sending PROCESSES which deposit messages IN a buffer 
+AND many receiving PROCESSES which remove messages 
+*********************************************************************
+Document:CACM-2266
+
+an algorithm is described BASED ON newton's 
+to the zeros is guaranteed. MULTIPLE zeros AND 
+a highly parallel algorithm for approximating 
+ALL zeros OF a polynomial with only real zeros 
+*********************************************************************
+Document:CACM-2833
+
+algorithms are designed to work well IN SYSTEMS 
+which use MULTIPLE levels OF storage, AND large virtual 
+to reference counts, AND a MULTIPLE reference 
+an efficient, incremental, automatic garbage collector 
+*********************************************************************
+Document:CACM-3127
+
+portability, real time, OPERATING SYSTEMS, minicomputer 
+thoth, a portable real-time OPERATING system 
+thoth isa real-time OPERATING system which is designed to be portable 
+encourages structuring programs as networks OF communicating PROCESSES 
+*********************************************************************
+Document:CACM-1749
+
+sequential PROCESSES. these sequential PROCESSES are placed 
+OPERATING system, multiprogramming system, system 
+sequential PROCESSES, system levels, input-output 
+the structure OF the "the"-multiprogramming system 
+*********************************************************************
+Document:CACM-2160
+
+canonical structure IN attribute BASED FILE organization 
+a new FILE structure for attribute BASED retrieval 
+organization being proposed is BASED ON the atoms 
+FILE, key words, multilist, queries, searches 
+*********************************************************************
+Document:CACM-1753
+
+virtual memory, PROCESSES, AND sharing IN multics 
+OF the multics OPERATING system are introduced. 
+multics concepts OF PROCESSES, address space, AND virtual 
+*********************************************************************
+Document:CACM-2379
+
+OPERATING SYSTEMS, system design, levels OF abstraction, 
+the design OF the venus OPERATING system 
+the venus OPERATING system is an experimental 
+to define the OPERATING system as simply as possible. 
+*********************************************************************
+Document:CACM-1461
+
+discussion summary ON OPERATING SYSTEMS 
+cacm march, 1966 
+ca660311 jb march 3, 1978 1:26 pm 
+*********************************************************************
+Document:CACM-2168
+
+list tracing IN SYSTEMS allowing MULTIPLE cell-types 
+list-processing SYSTEMS have each allowed the 
+list-processing, storage allocation, lisp, slip, BASED storage, pointers 
+*********************************************************************
+Document:CACM-2482
+
+deadlocks, resource allocation, OPERATING SYSTEMS, 
+multiprogramming, hierarchical SYSTEMS 
+BASED ON the concept OF the hierarchical OPERATING 
+mixed solutions for the deadlock problem 
+*********************************************************************
+Document:CACM-2345
+
+education, management SYSTEMS, SYSTEMS analysis, 
+management information SYSTEMS, information SYSTEMS 
+professional programs IN information SYSTEMS 
+SYSTEMS IN organizations is discussed, AND a 
+*********************************************************************
+Document:CACM-2424
+
+OPERATING SYSTEMS, data security, fault tolerance, 
+dynamic verification OF OPERATING system decisions 
+OF OPERATING system decisions is used ON the prime system 
+construction OF an OPERATING system which does not make certain 
+*********************************************************************
+Document:CACM-1226
+
+system. IN many SYSTEMS, the selection 
+be critical to the system's OPERATING efficiency. 
+this paper provides the SYSTEMS designer with an information 
+the organization OF structured files 
+*********************************************************************
+Document:CACM-2339
+
+the feasibility OF translating verbal DESCRIPTIONS 
+a reference FILE OF verbal DESCRIPTIONS for use by the 
+computer-assigned codes from verbal responses 
+*********************************************************************
+Document:CACM-2524
+
+a FILE to FIND a key which is closest to a given 
+some approaches to best-match FILE searching 
+the problem OF searching the set OF keys IN 
+*********************************************************************
+Document:CACM-2317
+
+languages, OPERATING SYSTEMS, programming 
+programming SYSTEMS AND languages 1965-1975 
+IN the OPERATING system area ALL major computer 
+SYSTEMS, AND they ALL ran into similar 
+*********************************************************************
+Document:CACM-2174
+
+has been extended to FIND ALL the stable marriage assignments. 
+the stable marriage problem 
+the original work OF gale AND shapley ON an assignment 
+*********************************************************************
+Document:CACM-1514
+
+ON the expected gain from adjust ing matched term retrieval SYSTEMS 
+a FILE adjustment procedure BASED ON maximizing 
+term retrieval SYSTEMS. the expected gain AND its probability 
+OF: (1) the prior proportion OF omitted terms, AND (2) the 
+*********************************************************************
+Document:CACM-3119
+
+ON MULTIPLE processor SYSTEMS 
+MULTIPLE processor SYSTEMS. issues considered include the impact OF cpu 
+the impact OF distributions AND disciplines 
+*********************************************************************
+Document:CACM-2622
+
+IN many computer OPERATING SYSTEMS a user authenticates 
+by anyone attempting to intrude. the scheme is BASED 
+OPERATING system security, security, authentication, 
+a user authentication scheme not requiring secrecy IN the computer 
+*********************************************************************
+Document:CACM-1032
+
+theoretical considerations IN information retrieval SYSTEMS 
+information storage AND retrieval SYSTEMS are composed 
+OF the FILE BASED ON its history AND past 
+*********************************************************************
+Document:CACM-1736
+
+MESSAGE format, data transmission, MESSAGE headings 
+heading format for data transmission (a usaai tutorial -- standards) 
+cacm june, 1968 
+*********************************************************************
+Document:CACM-0696
+
+stations which collect AND transmit company OPERATING 
+edp SYSTEMS are used to record AND control the 
+an automatic data acquisition AND inquiry system using disk files 
+*********************************************************************
+Document:CACM-2890
+
+network are constructed, one to FIND 
+the optimal MESSAGE routing AND the other to illustrate 
+distributed network, computer network, MESSAGE switching 
+ON quadratic adaptive routing algorithms 
+*********************************************************************
+Document:CACM-0855
+
+memory SYSTEMS for efficient sorting AND other 
+OF data ON bryant disc FILE memory SYSTEMS for 
+characteristics OF bryant disc FILE SYSTEMS ON the bendix 
+organization AND structure OF dataon disk FILE 
+*********************************************************************
+Document:CACM-3148
+
+programming for distributed AND other loosely coupled SYSTEMS 
+languages. BASED ON primitive notions OF module, MESSAGE, 
+high level programming for distributed computing 
+*********************************************************************
+Document:CACM-2949
+
+ON any computer network. it is BASED ON baran's "hot 
+topology, routing problem IN networks, distributed OPERATING 
+store AND forward MESSAGE switching, traffic control 
+a correctness proof OF a topology information 
+*********************************************************************
+Document:CACM-3039
+
+PROCESSES with very little mutual interference 
+OPERATING con-currently with the processor devoted to the 
+between sequential PROCESSES with minimized 
+on-the-fly garbage collection: an exercise IN cooperation 
+*********************************************************************
+Document:CACM-2950
+
+IN real OPERATING SYSTEMS. the policy-driven scheduler 
+scheduling algorithms BASED ON an abstract model 
+OPERATING systems,processor sharing, implementation 
+a unifying approach to scheduling 
+*********************************************************************
+Document:CACM-2407
+
+programs IN information SYSTEMS 
+SYSTEMS IN organizations is discussed, AND a 
+DESCRIPTIONS are presented. program organization 
+education, undergraduate curricula, management SYSTEMS, 
+*********************************************************************
+Document:CACM-1961
+
+an efficient search algorithm to FIND the elementary circuits OF a graph 
+which uses an exhaustive search to FIND ALL OF the elementary 
+circuits OF a graph. the algorithm can be easily modified to FIND ALL 
+*********************************************************************
+Document:CACM-3134
+
+BASED information SYSTEMS, using the normal multiplication table as a directory 
+ALL OF which possess a particular set OF attributes (AND possibly 
+are described. for a certain class OF information SYSTEMS, 
+with a more economical space requirement than conventional SYSTEMS. 
+*********************************************************************
+Document:CACM-2452
+
+BASED ON these estimates, an appropriate FILE 
+evaluation AND selection OF FILE organization-a model AND system 
+this work first discusses the factors that 
+*********************************************************************
+Document:CACM-3002
+
+one; several types OF FILE SYSTEMS may be derived from 
+library routines' storage at a large scale OPERATING 
+a record AND FILE partitioning model 
+*********************************************************************
+Document:CACM-2704
+
+exception HANDLING: issues AND a proposed notation 
+the requirements exception HANDLING language 
+to highlight exception HANDLING issues by showing 
+*********************************************************************
+Document:CACM-2357
+
+an on-line system OPERATING as part OF a normal 
+multiplexer, implementation effort, OPERATING overhead, 
+user reactions, remote terminals, OPERATING system 
+mux, a simple approach to on-line computing 
+*********************************************************************
+Document:CACM-1922
+
+procedures, data communication MESSAGE transfer procedures, 
+MESSAGE transfer procedures, communication error 
+procedures, link MESSAGE transfer procedures, link error 
+procedures, data link MESSAGE 
+*********************************************************************
+Document:CACM-1698
+
+BASED ON the properties OF this community 
+how many PROCESSES are suspended waiting for console 
+are needed IN certain aspects OF OPERATING system 
+statistical models for input-output, OPERATING 
+*********************************************************************
+Document:CACM-2217
+
+AND implemented for use with the MULTIPLE 
+evaluation functions for pp. a MULTIPLE regression 
+written for PASSING data between the learning program 
+intelligence, problem-solving, adaptive, lisp, MULTIPLE regression, resolution 
+*********************************************************************
+Document:CACM-2947
+
+sitar, a low-cost IN teractive text HANDLING 
+search AND retrieval SYSTEMS, but has several 
+a function, a FILE, AND a search template 
+sitar: an interactive text processing system for small computers 
+*********************************************************************
+Document:CACM-3068
+
+a model for verification OF data security IN OPERATING SYSTEMS 
+here IN terms OF a general model for OPERATING SYSTEMS. 
+OPERATING SYSTEMS, security, protection, program verification 
+uncircumventably secure, shared computer SYSTEMS. a 
+*********************************************************************
+Document:CACM-1517
+
+OF economic SYSTEMS. we first turn to a hypothetical firm, 
+by selecting one OF five OPERATING plans, where each 
+plan are subjected to an f-test, two MULTIPLE comparison 
+methods, AND a MULTIPLE ranking method. we 
+*********************************************************************
+Document:CACM-2138
+
+bliss: a language for SYSTEMS programming 
+for use IN writing production software SYSTEMS for a 
+specific machine (the pdp-10): compilers, OPERATING 
+SYSTEMS, etc. prime design goals OF the design are the 
+*********************************************************************
+Document:CACM-2342
+
+OPERATING SYSTEMS, parallel PROCESSES 
+interference between communicating parallel PROCESSES 
+parallel PROCESSES have been examined by 
+PROCESSES is regarded as a machine which proceeds 
+*********************************************************************
+Document:CACM-1199
+
+today's computation centers are BASED ON rapidly 
+SYSTEMS. it is difficult, therefore, to base decisions 
+center IN terms OF information nets, decision PROCESSES, 
+a computer center simulation project 
+*********************************************************************
+Document:CACM-2582
+
+is particularly suited to those SYSTEMS where primary memory 
+it is BASED ON the concept OF critical working set, a 
+OF an OPERATING system have shown its substantial superiority 
+improving locality by critical working sets 
+*********************************************************************
+Document:CACM-2069
+
+OPERATING SYSTEMS, memory management 
+comments ON a paper by wallace AND mason 
+cacm april, 1970 
+*********************************************************************
+Document:CACM-2358
+
+as experience with use OF on-line OPERATING 
+SYSTEMS has grown, the need to share information 
+many contemporary SYSTEMS permit some degree OF 
+since the size OF main memory ON contemporary SYSTEMS 
+*********************************************************************
+Document:CACM-2920
+
+priori information about the PROCESSES, resources, OPERATING 
+OPERATING system, multiprogramming, time-sharing, 
+as a game between the OPERATING system AND the PROCESSES 
+game interpretation OF the deadlock avoidance problem 
+*********************************************************************
+Document:CACM-1748
+
+a scheduling philosophy for multiprocessing SYSTEMS 
+design AND analysis OF multiprocessing SYSTEMS. 
+AND the nature OF basic operations ON PROCESSES 
+is considered. some OF the connections between PROCESSES 
+*********************************************************************
+Document:CACM-2750
+
+storage SYSTEMS is usually BASED ON qualitative, 
+IN such a situation, we must FIND a set OF assumptions 
+a cost oriented algorithm for data set allocation IN storage hierarchies 
+*********************************************************************
+Document:CACM-1680
+
+retrieval OPERATING SYSTEMS, graphics, displays, man-machine 
+display unit under OPERATING system/360. adept 
+is a cataloged program that controls the standard OPERATING 
+to it, AND surrendering control to the OPERATING 
+*********************************************************************
+Document:CACM-1844
+
+MULTIPLE terminal SYSTEMS, terminal oriented SYSTEMS, 
+MULTIPLE processor SYSTEMS, high availability, 
+are possible for a range OF SYSTEMS sizes that 
+SYSTEMS, modular computer-sharing SYSTEMS, graphics, 
+*********************************************************************
+Document:CACM-3132
+
+experiments with some algorithms that FIND 
+set. the traditional methods FIND a hyperplane which separates ALL 
+central solutions for pattern classification 
+*********************************************************************
+Document:CACM-1959
+
+for the design AND coding OF large shared data base SYSTEMS. the 
+AND the newly introduced concept OF "FILE tagging," which is the 
+the new organization which is proposed for management information SYSTEMS. 
+management information SYSTEMS, integrated data processing, 
+*********************************************************************
+Document:CACM-1677
+
+storage organization IN programming SYSTEMS 
+or programming SYSTEMS: simplicity OF programmed addressing, 
+HANDLING 
+*********************************************************************
+Document:CACM-3021
+
+funds transfer" SYSTEMS. a MESSAGE is 
+keys, since a MESSAGE can be enciphered using 
+only he can decipher the MESSAGE, since 
+a MESSAGE can be "signed" using a privately held 
+*********************************************************************
+Document:CACM-3026
+
+the 1100 series SYSTEMS are sperry univac's 
+large-scale main frame computer SYSTEMS. beginning 
+is BASED ON a 36-bit word, ones complement structure 
+registers. the 1100 OPERATING system is designed 
+*********************************************************************
+Document:CACM-1264
+
+blnsys-a 1401 OPERATING system with braille capabilities 
+blnsys is an OPERATING system designed for 
+jobs may be batched, so that card HANDLING AND lost 
+*********************************************************************
+Document:CACM-2288
+
+retrieval system BASED ON the consecutive 
+FILE organization: the consecutive retrieval property 
+the consecutive retrieval property is an important 
+*********************************************************************
+Document:CACM-3023
+
+debugging AND monitoring, error HANDLING, AND input/output 
+computer SYSTEMS, architecture, instruction 
+sets, virtual storage, error HANDLING 
+architecture OF the ibm system/370 
+*********************************************************************
+Document:CACM-1728
+
+OPERATING SYSTEMS, supervisor simulation, machine 
+directed at the measurement OF program OPERATING 
+behavior IN those multiprogramming SYSTEMS IN which 
+paging SYSTEMS, paging, dynamic program behavior, program 
+*********************************************************************
+Document:CACM-2777
+
+OPERATING SYSTEMS, co-operating processes,process 
+ON a solution to the cigarette smoker's 
+problem (without conditional statements) 
+*********************************************************************
+Document:CACM-0296
+
+a note ON MULTIPLE precision arithmetic 
+cacm august, 1961 
+cox, a. g. 
+*********************************************************************
+Document:CACM-2819
+
+to FIND an optimal set OF codes for representing 
+substrings OF the FILE. four new algorithms for this 
+experiments IN text FILE compression 
+*********************************************************************
+Document:CACM-0618
+
+computers- the key to total SYSTEMS control: an industrial viewpoint 
+man-man-machine PROCESSES are characterized IN five 
+main types, AND the markets for each type are 
+*********************************************************************
+Document:CACM-1786
+
+introduced is a hash coding method BASED ON 
+method OF HANDLING collisions is discussed. known as 
+an improved hash code for scatter storage 
+*********************************************************************
+Document:CACM-3058
+
+number OF records. MULTIPLE level AND variable 
+jump searching: a fast sequential search technique 
+when sequential FILE structures must be used 
+*********************************************************************
+Document:CACM-3037
+
+it is also easily extended to FIND the prime 
+a linear sieve algorithm for finding prime numbers 
+a new algorithm is presented for finding ALL 
+*********************************************************************
+Document:CACM-2002
+
+elements may be combined into a system BASED ON simple modules is demonstrated. 
+SYSTEMS or other attributes OF the plot. this enables plots OF any 
+OF plots from MULTIPLE, independent, self-contained subplots is described. 
+locating, AND scaling (IN the layout OF MULTIPLE subplots) OF 
+*********************************************************************
+Document:CACM-2966
+
+by the proper choice AND location OF MULTIPLE reference poin ts. 
+the choice OF reference poin ts IN best-match FILE searching 
+improvements to the exhaustive search method 
+*********************************************************************
+Document:CACM-0825
+
+an OPERATING computer program that PROCESSES 
+pip: a photo-interpretive program 
+for the analysis OF spark-chamber data* 
+*********************************************************************
+Document:CACM-0858
+
+drive to a single-reel FILE AND two drives to each multiple-reel FILE. 
+a tape FILE merge pattern generator 
+a routine is presented which specifies the 
+*********************************************************************
+Document:CACM-2009
+
+simpson's rule for MULTIPLE integration (algorithm 233 $d1)) 
+numerical integration, MULTIPLE integration, simpson's rule 
+cacm august, 1970 
+*********************************************************************
+Document:CACM-2128
+
+by means OF a method for efficiently HANDLING dynamically changing segmented 
+slicing, scheduling, conversational SYSTEMS, 
+interactive SYSTEMS 
+a processor allocation method for time-sharing 
+*********************************************************************
+Document:CACM-0492
+
+BASED ON the calculation OF an address from 
+analysis OF a FILE addressing method 
+this paper presents a new FILE addressing method 
+*********************************************************************
+Document:CACM-2438
+
+a model AND stack implementation OF MULTIPLE environments 
+by PASSING control explicitly to one another. a multiprocessor 
+functional arguments, multiprocessor SYSTEMS, extensible control structures 
+*********************************************************************
+Document:CACM-1388
+
+a procedure for numerically solving SYSTEMS 
+generate symbolic solutions. the procedure is BASED 
+automast: automatic mathematical analysis AND symbolic translation 
+*********************************************************************
+Document:CACM-2307
+
+PROCESSES has not been fulfilled. a new dynamic document 
+BASED ON user needs, AND for a continuous 
+dynamic document processing 
+*********************************************************************
+Document:CACM-2542
+
+this system is BASED ON a simple, high level language 
+OPERATING system development, language processing 
+supervisory SYSTEMS, debugging, program maintenance, 
+a software design AND evaluation system 
+*********************************************************************
+Document:CACM-1747
+
+input equipment design, OPERATING SYSTEMS, OPERATING 
+SYSTEMS, computer SYSTEMS design, input equipment, 
+three criteria for designing computing SYSTEMS to facilitate debugging 
+SYSTEMS design, multiprogramming, multiprogrammed 
+*********************************************************************
+Document:CACM-3114
+
+single FILE. the algorithm can also be used to generate 
+the differences between itself AND a given "datum" FILE, 
+a technique for isolating differences between files 
+*********************************************************************

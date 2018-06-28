@@ -1,0 +1,664 @@
+Query:what does type compatibility mean in languages that allow programmer defined types  you might want to restrict this to extensible languages that allow definition of abstract data types or programmer-supplied definitions of operators like
+
+Document:CACM-2651
+
+programmer-defined DATA TYPES DATA TYPES and generic 
+DATA TYPE DEFINITION, DATA description language, compilation 
+the treatment OF DATA TYPES IN el1 
+set OF DATA TYPES and associated operations IN a manner 
+*********************************************************************
+Document:CACM-2940
+
+OF ABSTRACT DATA TYPES. IN THIS paper the abstraction techniques 
+abstraction and representation, ABSTRACT DATA TYPES, 
+the alphard "form" provides the PROGRAMMER with 
+are extended from simple DATA representation 
+*********************************************************************
+Document:CACM-3105
+
+ABSTRACT DATA TYPES, TYPE checking, capabilities 
+programming LANGUAGES, access control, DATA TYPES, 
+LANGUAGES THAT support the notion OF ABSTRACT DATA 
+a language extension for expressing constraints on DATA access 
+*********************************************************************
+Document:CACM-1861
+
+language can define new OPERATORS and/or DATA TYPES 
+mad, DEFINITIONS, OPERATORS, macros, higher level language 
+the mad DEFINITION facility 
+one OF the first DEFINITION facilities for 
+*********************************************************************
+Document:CACM-2956
+
+notion THAT a DATA TYPE is a set OF values together 
+the domain OF an array as a DATA TYPE, the need for 
+some ideas on DATA TYPES IN high-level LANGUAGES 
+DATA TYPES, generic procedures, programming LANGUAGES 
+*********************************************************************
+Document:CACM-2958
+
+ABSTRACT DATA TYPE, correctness proof, DATA TYPE, 
+ABSTRACT DATA TYPES can play a significant role 
+for the specification OF ABSTRACT DATA TYPES. among 
+ABSTRACT DATA TYPES and the development OF DATA structures 
+*********************************************************************
+Document:CACM-3103
+
+ABSTRACT DATA TYPES, automatic programming, DATA 
+purpose implementation for an ABSTRACT TYPE. 
+thus the programs produced using ABSTRACT TYPES were 
+for ABSTRACT TYPES from a library OF implementations 
+*********************************************************************
+Document:CACM-2470
+
+LANGUAGES, DATA TYPES, modes, axioms, correctness, 
+DATA TYPES out OF simper ones with the operations OF rowing, 
+DATA TYPES. both deterministic and nondeterministic 
+the notions OF DATA item, function, and relation. 
+*********************************************************************
+Document:CACM-2957
+
+knowledge representation, DATA DEFINITION language 
+DATA abstraction, relational database, DATA TYPE, 
+objects into a higher-level object. a new DATA 
+TYPE, called aggregation, is developed which, under 
+*********************************************************************
+Document:CACM-2078
+
+requirements for THIS problem area are DEFINED and compared with current 
+computer graphic LANGUAGES. four alternative DATA structures 
+THAT ALLOW automated space planning are described and compared. 
+automated design, DATA structures, computer graphics, computer-aided 
+*********************************************************************
+Document:CACM-2941
+
+programming LANGUAGES, TYPES, modules, 
+for mesa and similar programming LANGUAGES are suggested. 
+TYPES and TYPE coercions, the benefits OF the TYPE system 
+DATA structures, systems programming 
+*********************************************************************
+Document:CACM-1614
+
+new DATA TYPES and OPERATORS TO the language. 
+a proposal for DEFINITIONS IN algol 
+DEFINITIONS may occur IN any block heading and terminate 
+the behavior OF existing OPERATORS may be redefined. 
+*********************************************************************
+Document:CACM-2705
+
+programming LANGUAGES, natural LANGUAGES, and mathematics 
+mathematics and natural LANGUAGES. the split between 
+IN programming. the development OF natural LANGUAGES toward 
+flexion less, word-order based language TYPES 
+*********************************************************************
+Document:CACM-2254
+
+dynamic partitioning for array LANGUAGES 
+are DEFINED for different TYPES OF arrays, so 
+a nearly arbitrary manner. these DEFINITIONS are 
+the value OF partitioning for array LANGUAGES. 
+*********************************************************************
+Document:CACM-2265
+
+TYPE checking, TYPES, lambda calculus, models for 
+a model for TYPE checking 
+most current programming LANGUAGES treat computation 
+TYPE checking. THIS paper attempts TO isolate 
+*********************************************************************
+Document:CACM-2082
+
+TYPES and identifiers IN the resulting structure TO trigger the automatic 
+formation OF questions TO the PROGRAMMER, whose answers will 
+and retrieval facilities so THAT other programmers who WANT 
+which is cross-indexed IN various ways by syntactic TYPES 
+*********************************************************************
+Document:CACM-1678
+
+automata, formal LANGUAGES, ABSTRACT switching, 
+describe as automata, formal LANGUAGES, ABSTRACT 
+science program, automata, formal LANGUAGES, 
+and computability IN a ph. computer science 
+*********************************************************************
+Document:CACM-2558
+
+protection IN programming LANGUAGES 
+protection, TYPES, environments,trademarks, seals, 
+linguistic mechanisms which can be used TO protect 
+*********************************************************************
+Document:CACM-1835
+
+OF DATA TYPES. several novel and powerful features 
+LANGUAGES programming LANGUAGES, student programming 
+the iitran programming language 
+*********************************************************************
+Document:CACM-1703
+
+accommodating standards and identification OF programming LANGUAGES 
+reliable identification OF programming LANGUAGES 
+interactive language, and its related family OF LANGUAGES. 
+accessible TO the user TO ALLOW local variations 
+*********************************************************************
+Document:CACM-1693
+
+constructing (within the language) new DATA TYPES as 
+are not basic; they are special TYPES OF procedures. 
+implicitly DEFINED by usage IN other declarations. as 
+gpl, a truly general purpose language 
+*********************************************************************
+Document:CACM-3031
+
+ABSTRACT DATA TYPES and software validation 
+OF an ABSTRACT DATA TYPE. second, semi-automatic 
+ABSTRACT DATA TYPE, correctness proof, 
+DATA TYPE, DATA structure, specification 
+*********************************************************************
+Document:CACM-1902
+
+is made for testing with PROGRAMMER-SUPPLIED DATA 
+different LANGUAGES, including assembly language. 
+and for final runs with system-supplied DATA. exercises 
+programs, and no special recognition OF exercises by the OPERATORS is necessary. 
+*********************************************************************
+Document:CACM-2785
+
+been extended TO ALLOW the PROGRAMMER explicitly 
+glypnir is one OF the earliest existing LANGUAGES 
+glypnir-a programming language for illiac iv 
+*********************************************************************
+Document:CACM-2732
+
+constructs THAT ALLOW nondeterministic program components 
+programming LANGUAGES, sequencing primitives, program 
+guarded commands, nondeterminacy and formal derivation OF programs 
+*********************************************************************
+Document:CACM-2699
+
+LANGUAGES, set-theoretic LANGUAGES, DATA 
+automatic DATA structure choice IN a language OF very high level 
+optimizer uses techniques which ALLOW relations OF inclusion 
+DATA structures becomes possible. the methods employed 
+*********************************************************************
+Document:CACM-1783
+
+byan in-and-out conversion we MEAN THAT a floating-point 
+base TO ALLOW such in-and-out conversions TO return 
+in-and-out conversions 
+*********************************************************************
+Document:CACM-2603
+
+LANGUAGES and deterministic LANGUAGES 
+the class OF reducing transition LANGUAGES 
+simple precedence LANGUAGES. IN THIS paper THIS 
+result is extended, showing THAT, IN fact, the first class 
+*********************************************************************
+Document:CACM-1098
+
+a comparison OF list-processing computer LANGUAGES 
+programming LANGUAGES which, among them, exhibit all the 
+LANGUAGES. important common features OF list-processing 
+four LANGUAGES under consideration are detailed: 
+*********************************************************************
+Document:CACM-2406
+
+most DATA DEFINITION LANGUAGES concentrate on the declaration 
+DATA DEFINITION LANGUAGES which describe both the logical 
+"generalized" DATA DEFINITION LANGUAGES are also 
+DATA DEFINITION language, DATA and storage structure, 
+*********************************************************************
+Document:CACM-1626
+
+be enough core memory TO contain all the DATA 
+and allows for complete COMPATIBILITY between compiled 
+OF virtual memory TO ALLOW address arithmetic for TYPE 
+structure OF a lisp system using two-level storage 
+*********************************************************************
+Document:CACM-2138
+
+TO ALLOW access TO all relevant hardware features OF 
+the DEFINITION OF the representation OF all 
+DATA structures IN terms OF the access algorithm for elements OF the structure. 
+programming LANGUAGES, implementation language, 
+*********************************************************************
+Document:CACM-1379
+
+a final solution TO the dangling else OF algol 60 and related LANGUAGES 
+conditional statements are DEFINED by syntax equations 
+TYPES required within the syntax equations would 
+*********************************************************************
+Document:CACM-1923
+
+level LANGUAGES using basic input/output support 
+high level LANGUAGES, command language 
+pseudofiles 
+*********************************************************************
+Document:CACM-0618
+
+main TYPES, and the markets for each TYPE are 
+computers- the key TO total systems control: an industrial viewpoint 
+man-man-machine processes are characterized IN five 
+*********************************************************************
+Document:CACM-2684
+
+since the development OF bnf, the DEFINITION 
+OF the syntax OF programming LANGUAGES has been 
+notably the COMPATIBILITY between the 
+systems IN providing a readable and complete formal DEFINITION 
+*********************************************************************
+Document:CACM-3185
+
+the humble PROGRAMMER 
+stick TO modest and elegant programming LANGUAGES, provided THAT we respect 
+we shall do a much better programming job, provided THAT we approach the 
+*********************************************************************
+Document:CACM-1112
+
+over 95 percent OF these error TYPES. 
+a technique for computer detection and correction OF spelling errors* 
+the method described assumes THAT a word 
+*********************************************************************
+Document:CACM-1200
+
+THAT using THIS concept a number OF new subroutine TYPES 
+on reversible subroutines and computers THAT run backwards 
+a computer design is describe which permits 
+*********************************************************************
+Document:CACM-1469
+
+the next 700 programming LANGUAGES 
+a family OF unimplemented computing LANGUAGES 
+OF programs (OR more generally, their physical representation). 
+the other is the choice OF the ABSTRACT 
+*********************************************************************
+Document:CACM-2305
+
+OF today's programming LANGUAGES 
+IN today's programming LANGUAGES. the investigation 
+higher programming LANGUAGES, programming, 
+the "plankalkul" OF konrad zuse: a forerunner 
+*********************************************************************
+Document:CACM-0867
+
+fitting OF broken plane segments TO surfaces z=g(x,y) DEFINED 
+over certain TYPES OF subareas OF the (x,y)-space. 
+the constraint THAT the plane segments are DEFINED 
+for any TYPE OF closed area. finally, applications 
+*********************************************************************
+Document:CACM-3101
+
+activation records (called environments) as DATA objects 
+OF the PROGRAMMER, permitting the DEFINITION OF various 
+procedures, coroutines, programming LANGUAGES, 
+the sl5 procedure mechanism 
+*********************************************************************
+Document:CACM-2717
+
+DATA conversion, DATA restructuring, DATA translation, 
+utility program, programming LANGUAGES, nonprocedural LANGUAGES 
+DEFINITION language for DATA conversion 
+translation DEFINITION language, convert, 
+*********************************************************************
+Document:CACM-1390
+
+principle which ALLOW their elaboration IN TO more 
+patterns and skeletons may be DEFINED recursively, 
+convert 
+*********************************************************************
+Document:CACM-1210
+
+TO facilitate handling OF tape files. they ALLOW 
+file-handling within fortran 
+THIS note describes some fortran subroutines 
+*********************************************************************
+Document:CACM-1491
+
+euler: a generalization algol, and its formal DEFINITION: part i* 
+a method for defining programming LANGUAGES is 
+language is DEFINED by a phrase structure syntax, 
+certain decidable classes OF LANGUAGES their unambiguity 
+*********************************************************************
+Document:CACM-2051
+
+the regular sound correspondences between genetically related LANGUAGES. 
+the investigator must arrange DATA for input by aligning pairs 
+OF the total frequency IN the DATA OF each correspondence found 
+use with a small portion OF hypothetical DATA. 
+*********************************************************************
+Document:CACM-1459
+
+requirements for real-time LANGUAGES 
+real-time LANGUAGES have different requirements 
+from other programming LANGUAGES because OF 
+*********************************************************************
+Document:CACM-0961
+
+using only fortran ii. these techniques ALLOW 
+limited bit manipulation using fortran ii 
+techniques are developed for manipulating bits 
+*********************************************************************
+Document:CACM-2937
+
+an experimental evaluation OF DATA TYPE conventions 
+DATA TYPES, experimentation, language 
+and the number OF runs containing errors shows THAT, at 
+the representation OF DATA. 
+*********************************************************************
+Document:CACM-1366
+
+technique and comparison OF LANGUAGES 
+OF some computer simulation LANGUAGES 
+must choose from available LANGUAGES OR write their 
+LANGUAGES are being developed: comparisons and 
+*********************************************************************
+Document:CACM-1002
+
+ALLOW the DEFINITION OF recursive macros. 
+DATA. the filters are constructed from a succession 
+a rapid method for digital filtering 
+*********************************************************************
+Document:CACM-2843
+
+graders, compilers, and monitor. these ALLOW the instructor 
+tools and philosophy for software education 
+THIS paper describes a set OF tools and a philosophy 
+*********************************************************************
+Document:CACM-2201
+
+facility which will ALLOW any professor TO produce 
+systems, two-dimensional LANGUAGES, crt, microfilm 
+animator: an on-line two-dimensional film animation system 
+*********************************************************************
+Document:CACM-2126
+
+programming LANGUAGES, EXTENSIBLE, compiler, bootstrapping, ambiguity 
+experience with an EXTENSIBLE language 
+an operational EXTENSIBLE language system is described. 
+*********************************************************************
+Document:CACM-1463
+
+more on EXTENSIBLE machines 
+one OF the most salient characteristics OF EXTENSIBLE 
+paper on the em concepts, and TO, finally, trace 
+various levels OF programming LANGUAGES. 
+*********************************************************************
+Document:CACM-2341
+
+blocks-a new DATA TYPE for snobol4 
+a new DATA TYPE, called a block, has been implemented 
+snobol4, DATA TYPES, two-dimensional mathematics, test processing, flowcharting 
+most programming LANGUAGES. 
+*********************************************************************
+Document:CACM-1852
+
+bootstrapping, OF processors for programming LANGUAGES is 
+programming LANGUAGES whose implementation is based 
+programming LANGUAGES, implementation techniques 
+a base for a mobile programming system 
+*********************************************************************
+Document:CACM-2815
+
+complex DATA TYPES IN separately compiled modules. 
+high-level binding with low-level linkers 
+an easy TO implement scheme is described by 
+*********************************************************************
+Document:CACM-1625
+
+and further TYPES OF automatic program improvement are suggested. 
+on the automatic simplification OF source-language programs 
+methods OF simplification THAT can be applied 
+*********************************************************************
+Document:CACM-3142
+
+WHAT TYPE OF errors occur? how easily are they corrected? WHAT 
+from such DATA? results show THAT with the present state OF the 
+art, approximately 40 percent OF individuals (OR households) having 
+average contacts with different TYPES OF accounts experience one 
+*********************************************************************
+Document:CACM-3198
+
+microprogramming, emulators and programming LANGUAGES 
+the problem we have been concerned with is THAT OF converting language TO 
+action - OR intellectual energy TO mechanical energy. the medium THAT we use 
+*********************************************************************
+Document:CACM-1470
+
+the structure OF programming LANGUAGES 
+a program can obtain DATA inputs. several alternative 
+list processing LANGUAGES, illustrate the forms 
+specification is similar TO a requirement, but the PROGRAMMER 
+*********************************************************************
+Document:CACM-0249
+
+specification LANGUAGES for mechanical LANGUAGES 
+and their processors*-a baker's dozen 
+cacm december, 1961 
+*********************************************************************
+Document:CACM-1989
+
+actions associated with the arcs OF the grammar network ALLOW for the reordering, 
+deep-structure representations OF the TYPE normally obtained from a 
+transformational analysis, and conditions on the arcs ALLOW for a 
+transition network grammars for natural language analysis 
+*********************************************************************
+Document:CACM-2264
+
+terms OF values and side-effects. a translator is DEFINED 
+a flowchart is DEFINED. a proof is constructed 
+constructing the proof, formal DEFINITIONS OF the 
+implementation involves checking THAT the DEFINITIONS derived 
+*********************************************************************
+Document:CACM-1213
+
+TYPES give the fortran PROGRAMMER control OF input/output 
+dynamic format specifications 
+the use and implementation OF two new fortran 
+*********************************************************************
+Document:CACM-3071
+
+OF the bel-petrov TYPES OF a gravitational field. 
+general relativity, bel-petrov TYPES, 
+an algorithm using symbolic techniques for the 
+bel-petrov classification OF gravitational fields 
+*********************************************************************
+Document:CACM-3066
+
+testing, employing 59 highly experienced DATA 
+errors and THAT the most effective methods (IN terms OF 
+and THAT the ability TO detect certain TYPES OF 
+a controlled experiment IN program testing 
+*********************************************************************
+Document:CACM-2314
+
+large complex symbolic DATA stores. THIS paper presents 
+efficient, and run on DATA. because OF THIS general 
+DATA communication mechanisms. interactive 
+structure model specified would ALLOW programming 
+*********************************************************************
+Document:CACM-0655
+
+it well suited TO various TYPES OF information retrieval 
+comit as an ir language 
+many OF the features THAT make comit a good 
+*********************************************************************
+Document:CACM-2299
+
+TYPES OF DATA manipulation. such a DATA structure 
+an EXTENSIBLE editor for a small machine with disk storage 
+DATA structure is employed so THAT only a small 
+*********************************************************************
+Document:CACM-1237
+
+the nature OF table-oriented programming LANGUAGES 
+and conventional DEFINITIONS. 
+conversion OF decision tables TO computer programs 
+*********************************************************************
+Document:CACM-2898
+
+PROGRAMMER TO prescribe explicitly the order IN 
+way will ALLOW concurrent evaluation. THIS paper describes 
+DATA flow programming, applicative programming 
+a conceptual framework for a nonprocedural programming language 
+*********************************************************************
+Document:CACM-2252
+
+LANGUAGES with nested statement structure 
+which applies especially TO programming LANGUAGES 
+on lines; (2) an internal DATA structure (called 
+a method for incrementally compiling 
+*********************************************************************
+Document:CACM-3188
+
+semiotics and programming LANGUAGES 
+i have based my paper on semiotics and its three dimension. i should insert 
+at THIS point THAT language has many aspects and THAT pragmatics, semantics and 
+*********************************************************************
+Document:CACM-1485
+
+the structure OF programming LANGUAGES 
+by which a program can obtain DATA inputs. several 
+frequently from list processing LANGUAGES, illustrate 
+with the suggestion THAT programming LANGUAGES 
+*********************************************************************
+Document:CACM-2632
+
+TYPES, specification OF new operations applicable 
+TO a given TYPE, sharing, and protection OF any reference 
+OF any OF the operations DEFINED with respect TO THAT 
+TYPE OF object. the mechanisms provide a coherent 
+*********************************************************************
+Document:CACM-1911
+
+LANGUAGES is considered within the frame work 
+and its inverse is given IN the form OF lisp function DEFINITIONS. 
+natural LANGUAGES, generative grammar, transformational 
+on coordination reduction and sentence analysis 
+*********************************************************************
+Document:CACM-3171
+
+TO be used for implementations OF high level LANGUAGES. under suitable 
+line number administration, diagnostic messages, ABSTRACT machine code 
+line numbers made cheap 
+*********************************************************************
+Document:CACM-2002
+
+common TO all TYPES OF DATA plots are outlined and the way IN which these 
+computer graphics, DATA potting, DATA display 
+amesplot-a higher level DATA plotting software system 
+amesplot is an EXTENSIBLE software system designed TO make the display OF 
+*********************************************************************
+Document:CACM-3006
+
+five TYPES OF anomalous behavior which may 
+a redefined. one TYPE OF anomaly, for example, concerns 
+the fact THAT, with certain reference strings 
+and paging algorithms, an increase IN MEAN memory allocation 
+*********************************************************************
+Document:CACM-1262
+
+two statements are suggested which ALLOW a PROGRAMMER 
+procedure-oriented language statements TO facilitate parallel processing 
+writing IN a procedure-oriented language 
+*********************************************************************
+Document:CACM-2710
+
+the square DATA sublanguage 
+THIS paper presents a DATA sublanguage called 
+is based on the relational model OF DATA, and is 
+LANGUAGES based on the relational calculus. facilities 
+*********************************************************************
+Document:CACM-2317
+
+and IN EXTENSIBLE LANGUAGES, but so far at least 
+programming systems and LANGUAGES 1965-1975 
+and cobol remain the LANGUAGES IN which most 
+LANGUAGES may very well become the most important 
+*********************************************************************
+Document:CACM-2857
+
+ALLOW threading OF nonrecursive lists, can replace 
+referencing lists by an edge 
+an edge reference into a list structure is a pair 
+*********************************************************************
+Document:CACM-2645
+
+two LANGUAGES for estimating program efficiency 
+two LANGUAGES enabling their users TO estimate 
+processors for the two LANGUAGES are also 
+OF the two LANGUAGES are included. the limitations OF 
+*********************************************************************
+Document:CACM-2794
+
+and multiple-output OPERATORS which 
+provides a basis for viewing the two TYPES OF representations 
+state-space, problem-reduction, and theorem proving-some relationships 
+*********************************************************************
+Document:CACM-3067
+
+DEFINED; at its operating points it minimizes aggregated 
+OF the cost structure ALLOW gws and gopt TO simulate 
+DATA from an actual system are included. 
+generalized working sets for segment reference strings 
+*********************************************************************
+Document:CACM-2316
+
+programming LANGUAGES: history and future 
+showing the chronological development OF LANGUAGES and their 
+OF 1972. key concepts other than specific LANGUAGES are discussed. 
+programming LANGUAGES, higher level LANGUAGES, 
+*********************************************************************
+Document:CACM-1282
+
+and library routines between the two LANGUAGES, it is 
+enables the PROGRAMMER TO take advantage OF the 
+the use OF fortran IN subroutines with cobol main programs 
+*********************************************************************
+Document:CACM-1869
+
+programming LANGUAGES have included explicit 
+convenience for the PROGRAMMER. however, when indirect 
+indirect addressing within function DEFINITIONS; 
+block structures, indirect addressing, and garbage collection 
+*********************************************************************
+Document:CACM-2192
+
+recursively DEFINED functions is described. it 
+for programming LANGUAGES. 
+another recursion induction principle 
+*********************************************************************
+Document:CACM-2546
+
+identification IN the limit, EXTENSIBLE LANGUAGES 
+the use OF grammatical inference for designing programming LANGUAGES 
+grammar design, language DEFINITION, inference, 
+*********************************************************************
+Document:CACM-1552
+
+changing DATA structure is dynamic storage allocation 
+any size, and special provisions ALLOW efficient 
+high level functions automatically, but also ALLOW 
+the aed free storage package 
+*********************************************************************
+Document:CACM-2389
+
+THAT language are described which ALLOW the 
+preliminary report on a system for general space planning 
+a computer language and a set OF programs within 
+*********************************************************************
+Document:CACM-3150
+
+beyond programming LANGUAGES 
+as high level LANGUAGES enabled the PROGRAMMER TO escape from the 
+shortcomings OF programming LANGUAGES as they now exist, 
+programming, programming LANGUAGES, programming systems, systems development 
+*********************************************************************
+Document:CACM-1162
+
+LANGUAGES generally provide a one-for-one translation 
+an assembly language for reprogramming 
+complete reprogramming OF compiler language programs 
+*********************************************************************
+Document:CACM-1474
+
+used TO experiment with various TYPES OF special 
+tests OF probabilistic models for propagation OF roundoff errors 
+IN any prolonged computation it is generally 
+*********************************************************************

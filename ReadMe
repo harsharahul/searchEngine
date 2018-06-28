@@ -1,0 +1,37 @@
+ReadMe
+
+This document will guide you to setup and run the system on your PC.
+The folder in which you find this Readme you will be able to see the following folder structure
+
+1> AllResults -> all the generated results along with Precision and Recall along with Metrics such as MAP and MRR for each indexing system
+2> WebEngine -> this is the folder structure in which the project runs and all the source code
+3> Report -> the Analysis report of the project
+4> Lucene -> the lucene retrival model with source
+5> ReadMe
+
+
+
+The project uses libraries such as 
+1> BeautifulSoup
+2> NLTK - natural language text processing libraries
+
+
+The WebEngine project is the one which is setup for the proejct to run,
+The output of one stage is given as the input to the next stage.
+
+step 1: The Parser is used to tokenize the raw corpus which is in the folder "cacm" and produce tokens in folder "tokens"
+step 2: the "tokens" folder is taken as input for next part where the BM25, TFIDF and Smoothed Query Likelyhood model systems read tokenize and 
+		output to respective folders the results for each queries "bm25Results", "tfidfResults", "SmoothQResults" and also this system produces 
+		results using pseudo relevance feedback on BM25 system and produces results in "PseudoRelBM25Ranking" folder
+step 3: The same tokens are taken as input for the Task-2 also which produces stopping and stemmed results for all three systems which are "BM25", "TFIDF" and "smoothedQuerylikelyhood model"
+		All the results are produced in "Task2" folder 
+step 4: The Snippet generator is in phase II folder which takes the input form the "bm25forSnippet" folder and produces snippets results for each query.
+step 5: the Evaluaton code is "metrics.py", the folder "metrics/input" takes in results for all queries for each system and then produces precision and 
+		recall in for each query and also MAP and MRR are saved in Stats.txt file.
+step 6: Phase II folder contains code for snippet generator
+
+Extra Credit:
+
+step 6: The noiseGenerator.py is used to generate the noise queries and are saved in folder "noiceQueries"
+step 7: The softQueryEngine.py reads the noise queries and does soft matching and produces output for BM25 indexing model in folder "noiceQueries/Results" 
+

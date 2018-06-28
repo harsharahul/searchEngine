@@ -1,0 +1,628 @@
+Query:setl very high level languages
+
+Document:CACM-2699
+
+automatic data structure choice in a language of VERY HIGH LEVEL 
+of VERY HIGH LEVEL whose repertoire of semantic 
+LANGUAGES, set-theoretic LANGUAGES, data 
+SETL is a set-theoretically oriented language 
+*********************************************************************
+Document:CACM-2906
+
+a VERY HIGH LEVEL programming language for data processing applications 
+VERY HIGH LEVEL language, nonprocedural language, 
+in recent years, VERY high-level LANGUAGES 
+*********************************************************************
+Document:CACM-1923
+
+HIGH LEVEL LANGUAGES, command language 
+LEVEL LANGUAGES using basic input/output support 
+an approach to system interfaces for HIGH 
+pseudofiles 
+*********************************************************************
+Document:CACM-2717
+
+convert: a HIGH LEVEL translation 
+this paper describes a HIGH LEVEL and nonprocedural 
+utility program, programming LANGUAGES, nonprocedural LANGUAGES 
+definition language for data conversion 
+*********************************************************************
+Document:CACM-3148
+
+HIGH LEVEL programming for distributed computing 
+to distributed computing at the LEVEL of general purpose programming 
+LANGUAGES. based on primitive notions of module, message, 
+of particular LANGUAGES and machines. it appears to be useful for 
+*********************************************************************
+Document:CACM-3171
+
+to be used for implementations of HIGH LEVEL LANGUAGES. under suitable 
+line numbers made cheap 
+a technique is described for run-time line number administration 
+*********************************************************************
+Document:CACM-2527
+
+implementation of HIGH LEVEL language machine 
+the statements of a HIGH LEVEL language have been 
+computer architecture, HIGH LEVEL language machine, 
+*********************************************************************
+Document:CACM-3150
+
+as HIGH LEVEL LANGUAGES enabled the programmer to escape from the 
+beyond programming LANGUAGES 
+intricacies of a machine's order code, higher LEVEL programming systems 
+shortcomings of programming LANGUAGES as they now exist, 
+*********************************************************************
+Document:CACM-1872
+
+formulas of VERY HIGH degree (errata) 
+chebyshev interpolation and quadrature 
+cacm july, 1969 
+*********************************************************************
+Document:CACM-2716
+
+refines the HIGH LEVEL query specification supplied by 
+data manipulation language, VERY HIGH LEVEL language 
+optimizing the performance of a relational algebra database interface 
+*********************************************************************
+Document:CACM-2316
+
+programming LANGUAGES, higher LEVEL LANGUAGES, 
+of programming LANGUAGES (= higher LEVEL LANGUAGES). 
+programming LANGUAGES: history and future 
+showing the chronological development of LANGUAGES and their 
+*********************************************************************
+Document:CACM-1903
+
+chebyshev interpolation and quadrature formulas of VERY HIGH degree 
+cacm may, 1969 
+salzer, h. e. 
+*********************************************************************
+Document:CACM-0724
+
+work, and mostfind their jobs offer HIGH LEVEL of professional 
+HIGH percentage of programmers have apparently 
+by participants: LANGUAGES, personnel, various specific 
+a profile of the programmer 
+*********************************************************************
+Document:CACM-3077
+
+use HIGH LEVEL programs to build still higher LEVEL 
+conventional programming LANGUAGES are growing 
+defects at the most basic LEVEL cause them to be both 
+ones in a style not possible in conventional LANGUAGES. 
+*********************************************************************
+Document:CACM-2198
+
+programming LANGUAGES. the problem of HIGH LEVEL interrogation 
+problem of catering to a HIGH volume of transactions 
+LEVEL of user. the use of cobol as a basis for 
+data base management systems, programming LANGUAGES, 
+*********************************************************************
+Document:CACM-2091
+
+convenient, easy to learn and to use, HIGH LEVEL problem oriented 
+pdel-a language for partial differential equations 
+conventional computer methods available to solve 
+*********************************************************************
+Document:CACM-2246
+
+this language at a HIGH LEVEL or a low LEVEL, and 
+portable software, LEVEL of language, machine 
+levels of language for portable software 
+*********************************************************************
+Document:CACM-0281
+
+family of VERY fast, HIGH precision and eminently 
+putting a hex on e^x 
+recent notes on approximate natural antilogy 
+*********************************************************************
+Document:CACM-2320
+
+representation of multiprogramming in a HIGH 
+LEVEL language. the notation used explicitly associates 
+structured multiprogramming, programming LANGUAGES, 
+structured multiprogramming 
+*********************************************************************
+Document:CACM-1860
+
+a HIGH LEVEL programming language for large, 
+an algol-based associative language 
+complex associative structures has been designed 
+*********************************************************************
+Document:CACM-3080
+
+in a HIGH LEVEL language are correctly translated 
+to a low LEVEL language is described. a primary use of 
+generation. the low LEVEL language programs need not 
+LEVEL language programs. the examples demonstrate 
+*********************************************************************
+Document:CACM-1627
+
+application of LEVEL changing to a multilevel storage organization 
+retrieval systems. the concept of LEVEL 
+a technique for organizing the devices of a computer 
+*********************************************************************
+Document:CACM-2317
+
+programming systems and LANGUAGES 1965-1975 
+and cobol remain the LANGUAGES in which most 
+and in extensible LANGUAGES, but so far at least 
+LANGUAGES may VERY well become the most important 
+*********************************************************************
+Document:CACM-2705
+
+programming LANGUAGES, natural LANGUAGES, and mathematics 
+mathematics and natural LANGUAGES. the split between 
+in programming. the development of natural LANGUAGES toward 
+of the history of artificial, auxiliary LANGUAGES it 
+*********************************************************************
+Document:CACM-1835
+
+LANGUAGES programming LANGUAGES, student programming 
+systems, language design, HIGH school programs, 
+the iitran programming language 
+*********************************************************************
+Document:CACM-0265
+
+low LEVEL language subroutines for use within fortran 
+in symbolic LANGUAGES and for use within fortran 
+this paper describes some subroutines, coded 
+*********************************************************************
+Document:CACM-2081
+
+suitable for a HIGH LEVEL algorithmic language for mathematical programming. 
+matrix sequences, programming LANGUAGES, 
+some complete calculi for matrices 
+*********************************************************************
+Document:CACM-1861
+
+higher LEVEL LANGUAGES is described. users of the 
+mad, definitions, operators, macros, higher LEVEL language 
+the mad definition facility 
+*********************************************************************
+Document:CACM-0205
+
+macro instruction extensions of compiler LANGUAGES 
+macroinstruction compilers constructed from 
+a small set of functions can be made extremely 
+*********************************************************************
+Document:CACM-3185
+
+stick to modest and elegant programming LANGUAGES, provided that we respect 
+the humble programmer 
+we shall do a much better programming job, provided that we approach the 
+*********************************************************************
+Document:CACM-2003
+
+description of the features of the two HIGH LEVEL user oriented 
+LANGUAGES, operating at different levels, on which the interaction 
+criteria provide sufficient generality to extend the use of the two LANGUAGES 
+an interactive software system for computers-aided 
+*********************************************************************
+Document:CACM-2034
+
+stage2 is the second LEVEL of a bootstrap sequence which 
+programming LANGUAGES, implementation techniques 
+the mobile programming system: stage2 
+*********************************************************************
+Document:CACM-2873
+
+user oriented LANGUAGES. lg has been specifically designed 
+interactive programming, problem oriented LANGUAGES, 
+lg: a language for analytic geometry 
+*********************************************************************
+Document:CACM-1552
+
+HIGH LEVEL functions automatically, but also allow 
+the aed free storage package 
+the most fundamental underlying problem in sophisticated 
+*********************************************************************
+Document:CACM-2898
+
+a conceptual framework for a HIGH LEVEL programming 
+a conceptual framework for a nonprocedural programming language 
+a sequential programming language forces the 
+*********************************************************************
+Document:CACM-1179
+
+language programs are processed at VERY HIGH speeds. 
+pufft-the purdue university fast fortran translator 
+a core resident, compile-and-go system designed 
+*********************************************************************
+Document:CACM-2593
+
+which accepts commands (in a relatively HIGH LEVEL language 
+a back-end computer for data base management 
+it is proposed that the data base management 
+*********************************************************************
+Document:CACM-0321
+
+parts of algol present in other compiler LANGUAGES: how 
+imposed by other compiling LANGUAGES have finally 
+algol 60 confidential 
+*********************************************************************
+Document:CACM-2826
+
+a HIGH LEVEL of interaction during the design stage. 
+interactive skeleton techniques for enhancing 
+motion dynamics in key frame animation 
+*********************************************************************
+Document:CACM-0731
+
+for imbeding in higher LEVEL LANGUAGES capable 
+symmetric list processor 
+a list processing system in which each list 
+*********************************************************************
+Document:CACM-1642
+
+storage: LEVEL 1, several times larger than 
+the main memory and quite fast; and LEVEL 2, 
+many times larger and slower than LEVEL 1. 
+time sharing on a computer with a small memory 
+*********************************************************************
+Document:CACM-3057
+
+optimal his togram matching by monotone gray LEVEL transformation 
+his togram matching using monotone gray LEVEL 
+between the gray LEVEL his togram of the transformed 
+optimal his togram matching, gray LEVEL transformation, 
+*********************************************************************
+Document:CACM-1472
+
+description of a HIGH capacity, fast 
+because of the low turnaround times achieved, the HIGH 
+turnaround university computing center 
+*********************************************************************
+Document:CACM-1676
+
+written in a HIGH LEVEL language, which minimizes machine 
+the lrltran compiler 
+extensive software problems confront an organization 
+*********************************************************************
+Document:CACM-0795
+
+debugging systems at the source language LEVEL 
+cacm august, 1963 
+ferguson, h. e. 
+*********************************************************************
+Document:CACM-2603
+
+LANGUAGES and deterministic LANGUAGES 
+the class of reducing transition LANGUAGES 
+simple precedence LANGUAGES. in this paper this 
+context free LANGUAGES. 
+*********************************************************************
+Document:CACM-2398
+
+at the system LEVEL shows how students can mix the advantages 
+in education, extended LANGUAGES, interactive 
+teacher/student authored cai using the newbasic system 
+*********************************************************************
+Document:CACM-3123
+
+employment characteristics of doctoral LEVEL computer scientists 
+cacm february, 1979 
+fairley, r. 
+*********************************************************************
+Document:CACM-0249
+
+specification LANGUAGES for mechanical LANGUAGES 
+and their processors*-a baker's dozen 
+cacm december, 1961 
+*********************************************************************
+Document:CACM-1459
+
+requirements for real-time LANGUAGES 
+real-time LANGUAGES have different requirements 
+from other programming LANGUAGES because of 
+*********************************************************************
+Document:CACM-2651
+
+coercion, generic functions, extensible LANGUAGES, 
+the treatment of data types in el1 
+in constructing a general purpose programming 
+*********************************************************************
+Document:CACM-3101
+
+three separate components at the source-language LEVEL. 
+procedures, coroutines, programming LANGUAGES, 
+the sl5 procedure mechanism 
+*********************************************************************
+Document:CACM-0048
+
+a HIGH degree of redundancy is used, permitting 
+shift-register code for indexing applications 
+in this communication the use of a shift-register 
+*********************************************************************
+Document:CACM-1710
+
+list structure, set LANGUAGES, modeling, graphics 
+asp-a ring implemented associative structure package 
+asp is a general purpose associative data 
+*********************************************************************
+Document:CACM-2867
+
+LEVEL do not coincide in a hierarchy of functions. 
+lowest system LEVEL. 
+modularization and hierarchy in a family of operating systems 
+*********************************************************************
+Document:CACM-1098
+
+a comparison of list-processing computer LANGUAGES 
+programming LANGUAGES which, among them, exhibit all the 
+LANGUAGES. important common features of list-processing 
+LANGUAGES are reviewed: forms of data structures 
+*********************************************************************
+Document:CACM-1046
+
+a compiler-building system developed by brooker and morris 
+in a number of articles published during the 
+past two years, r. a. brooker and d. morris (joined 
+*********************************************************************
+Document:CACM-1703
+
+accommodating standards and identification of programming LANGUAGES 
+reliable identification of programming LANGUAGES 
+interactive language, and its related family of LANGUAGES. 
+to other programming LANGUAGES and computer services. 
+*********************************************************************
+Document:CACM-2542
+
+this system is based on a simple, HIGH LEVEL language 
+a software design and evaluation system 
+a critical failure of current software system 
+*********************************************************************
+Document:CACM-2842
+
+the denotational semantics of programming LANGUAGES 
+this paper is a tutorial introduction to the 
+theory of programming language semantics developed 
+*********************************************************************
+Document:CACM-1145
+
+might require 40 years of running time on a VERY HIGH 
+git-a heuristic program for testing pairs 
+of directed line graphs for isomorphism* 
+*********************************************************************
+Document:CACM-1223
+
+HIGH speed compilation of efficient object code 
+is applicable to most algebraic LANGUAGES. 
+a three-pass compiler with the following properties 
+*********************************************************************
+Document:CACM-1366
+
+technique and comparison of LANGUAGES 
+of some computer simulation LANGUAGES 
+must choose from available LANGUAGES or write their 
+LANGUAGES are being developed: comparisons and 
+*********************************************************************
+Document:CACM-2922
+
+on one LEVEL (the attempt LEVEL), deferring the coordination 
+choice LEVEL). the feasibility of recognizing these two 
+to be managed at the choice LEVEL is a free of contexts. 
+two-level control structure for nondeterministic programming 
+*********************************************************************
+Document:CACM-1769
+
+LANGUAGES are particularly effective over the entire 
+front. online computers and time-sharing also rate HIGH 
+problem-oriented LANGUAGES, data communication, 
+the expanding world of computers 
+*********************************************************************
+Document:CACM-2295
+
+programming primitives, programming LANGUAGES, 
+of programming LANGUAGES, data structures 
+comment on the composition of semantics in algol 68 
+*********************************************************************
+Document:CACM-1788
+
+toward a general processor for programming LANGUAGES 
+way of implementing a higher LEVEL programming 
+many efforts have been made to develop a better 
+*********************************************************************
+Document:CACM-1462
+
+the operating systems, but at a different LEVEL. 
+sometimes, still a third or even a fourth such LEVEL 
+multilevel operating systems 
+*********************************************************************
+Document:CACM-1073
+
+a fast procedure for generating exponential random variables 
+a VERY fast method for generating exponential 
+random variables in a digital computer is outlined. 
+*********************************************************************
+Document:CACM-1466
+
+discussion summary on graphical LANGUAGES 
+cacm march, 1966 
+ca660306 jb march 3, 1978 1:46 pm 
+*********************************************************************
+Document:CACM-1678
+
+automata, formal LANGUAGES, abstract switching, 
+describe as automata, formal LANGUAGES, abstract 
+science program, automata, formal LANGUAGES, 
+and computability in a ph. computer science 
+*********************************************************************
+Document:CACM-1138
+
+formalism in programming languages* 
+cacm february, 1964 
+iverson, k. e. 
+*********************************************************************
+Document:CACM-1102
+
+mechanical LANGUAGES: a course specification 
+cacm april, 1964 
+gorn, s. 
+*********************************************************************
+Document:CACM-1852
+
+bootstrapping, of processors for programming LANGUAGES is 
+programming LANGUAGES whose implementation is based 
+programming LANGUAGES, implementation techniques 
+a base for a mobile programming system 
+*********************************************************************
+Document:CACM-1142
+
+an extension of algol-like LANGUAGES 
+cacm february, 1964 
+rose, g. f. 
+*********************************************************************
+Document:CACM-2814
+
+roster of programming LANGUAGES for 1974-75 
+cacm december, 1976 
+sammet, j. e. 
+*********************************************************************
+Document:CACM-0463
+
+on ambiguity in phrase structure LANGUAGES 
+cacm october, 1962 
+floyd, r. w. 
+*********************************************************************
+Document:CACM-2406
+
+most data definition LANGUAGES concentrate on the declaration 
+data definition LANGUAGES which describe both the logical 
+apparent. such LANGUAGES will be a key systems, as well 
+"generalized" data definition LANGUAGES are also 
+*********************************************************************
+Document:CACM-1306
+
+a class of unambiguous computer LANGUAGES 
+means of designing computer LANGUAGES which would be completely 
+discussed in this paper is the concept of 
+*********************************************************************
+Document:CACM-1188
+
+from using a design language at a higher LEVEL 
+just as a computer user can benefit from a higher LEVEL 
+an algol-like computer design language 
+*********************************************************************
+Document:CACM-1720
+
+master's LEVEL computer science curricula 
+the results of a survey of the course work done 
+by master's degree candidates at 25 us universities 
+*********************************************************************
+Document:CACM-0651
+
+a survey of LANGUAGES and systems for information retrieval 
+cacm january, 1962 
+grems, m. 
+*********************************************************************
+Document:CACM-0920
+
+toward better documentation of programming LANGUAGES 
+cacm march, 1963 
+yngve, v. h. 
+*********************************************************************
+Document:CACM-0762
+
+some remarks on the syntax of symbolic programming LANGUAGES 
+cacm august, 1963 
+diforino, a. c. 
+*********************************************************************
+Document:CACM-3041
+
+of the tree and HIGH search speed. unlike 
+median split trees: a fast lookup technique for frequently occuring keys 
+split trees are a new technique for searching sets 
+*********************************************************************
+Document:CACM-0628
+
+for use with algorithmic LANGUAGES 
+on a floating-point number representation 
+cacm march, 1962 
+*********************************************************************
+Document:CACM-2645
+
+two LANGUAGES for estimating program efficiency 
+two LANGUAGES enabling their users to estimate 
+processors for the two LANGUAGES are also 
+of the two LANGUAGES are included. the limitations of 
+*********************************************************************
+Document:CACM-1425
+
+LANGUAGES with only two formation rules 
+diagrams, this becomes true at a semantical LEVEL due 
+flow diagrams, turing machines and 
+*********************************************************************
+Document:CACM-1115
+
+randomized binary searching with tree structure 
+a more efficient method of using tree structures 
+is proposed, which utilizers both plus and 
+*********************************************************************
+Document:CACM-3130
+
+elementary LEVEL topics and courses, and intermediate LEVEL courses. 
+curriculum '78 - recommendations for the 
+undergraduate program in computer science 
+*********************************************************************
+Document:CACM-0479
+
+of reaching the next LEVEL for polyphase merge is shown and proved. 
+a dispersion pass algorithm for the polyphase merge 
+this paper presents a new manner of dispersing 
+*********************************************************************
+Document:CACM-1485
+
+the structure of programming LANGUAGES 
+frequently from list processing LANGUAGES, illustrate 
+with the suggestion that programming LANGUAGES 
+*********************************************************************
+Document:CACM-2493
+
+however, the HIGH cost of a reorganization prohibits 
+optimum data base reorganization points 
+in certain data base organization schemes the 
+*********************************************************************
+Document:CACM-1496
+
+a formal semantics for computer LANGUAGES 
+a large class of computer LANGUAGES. this meta-language 
+and its application in a compiler-compiler 
+*********************************************************************
+Document:CACM-1467
+
+future through the use of interactive graphical LANGUAGES. 
+well as the use of new graphical LANGUAGES. 
+a graphical servicesystem with variable syntax 
+*********************************************************************
+Document:CACM-2782
+
+high-level LANGUAGES, philosophy of language design 
+a reply to gentleman and marovich 
+cacm march, 1975 
+*********************************************************************
+Document:CACM-2765
+
+systems in a hierarchical LEVEL by LEVEL framework 
+analysis and performance of inverted data base structures 
+the need to envision and architecture data base 
+*********************************************************************
+Document:CACM-2708
+
+HIGH quality recovery with good diagnostic information 
+practical syntactic error recovery 
+this paper describes a recovery scheme for syntax 
+*********************************************************************
+Document:CACM-2928
+
+LEVEL of multiprogramming in the system and to bill 
+primary memory requirement, virtual memory, LEVEL 
+hardware estimation of a process' primary memory requirements 
+*********************************************************************
+Document:CACM-3119
+
+service disciplines and distributions, LEVEL of multiprogramming, 
+the impact of distributions and disciplines 
+on multiple processor systems 
+*********************************************************************

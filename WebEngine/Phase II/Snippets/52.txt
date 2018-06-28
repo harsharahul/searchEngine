@@ -1,0 +1,627 @@
+Query:modelling and simulation in agricultural ecosystems
+
+Document:CACM-2721
+
+the digital SIMULATION of river plankton population dynamics 
+mathematical model for AND the digital SIMULATION 
+SIMULATION parameters were varied illustrating the 
+of the accuracy of the SIMULATION methods, a SIMULATION 
+*********************************************************************
+Document:CACM-2749
+
+significant event SIMULATION 
+this paper compares a new method of SIMULATION 
+the model aids IN choosing between the two SIMULATION 
+IN the SIMULATION of some systems when computational 
+*********************************************************************
+Document:CACM-1928
+
+SIMULATION, logical SIMULATION, digital SIMULATION, 
+exclusive SIMULATION of activity IN digital networks 
+exclusive SIMULATION of activity, an event-scheduling 
+as the event queue grows IN length, AND a SIMULATION 
+*********************************************************************
+Document:CACM-2767
+
+a comparison of SIMULATION event list algorithms 
+SIMULATION system. two of the algorithms are new, one 
+IN use with current SIMULATION languages. the most 
+SIMULATION, time flow mechanisms, event list algorithm, 
+*********************************************************************
+Document:CACM-3070
+
+hybrid SIMULATION models of computer systems 
+of a hybrid SIMULATION model IN which both 
+discrete-event SIMULATION AND analytic techniques are 
+computer system, discrete-event SIMULATION is used 
+*********************************************************************
+Document:CACM-1366
+
+part is devoted to computer SIMULATION AND SIMULATION 
+of some computer SIMULATION languages 
+language is chosenore AND more computer SIMULATION 
+SIMULATION are discussed with special attention being 
+*********************************************************************
+Document:CACM-1870
+
+some techniques for using pseudorandom numbers IN computer SIMULATION 
+IN SIMULATION programming are described. 
+random numbers, SIMULATION, boolean algebra, bit manipulation 
+*********************************************************************
+Document:CACM-2742
+
+discrete event SIMULATION, SIMULATION, event scanning mechanisms 
+improved event-scanning mechanisms for discrete event SIMULATION 
+SIMULATION models of large, complex "real-world" 
+*********************************************************************
+Document:CACM-3051
+
+a comparison of heaps AND the tl structure for the SIMULATION event set 
+none 
+cacm october, 1978 
+*********************************************************************
+Document:CACM-2902
+
+dynamic memory allocation IN computer SIMULATION 
+to service SIMULATION programs as represented by 18 
+memory management, programming techniques, SIMULATION, 
+SIMULATION memory management, SIMULATION techniques, 
+*********************************************************************
+Document:CACM-1890
+
+SIMULATION of traffic flows IN a network 
+a computer SIMULATION program which deals 
+SIMULATION scheme has its excellent point IN that 
+traffic SIMULATION, traffic flow, traffic network 
+*********************************************************************
+Document:CACM-1030
+
+techniques for the SIMULATION of computer logic 
+the SIMULATION of a digital computer is an 
+one major portion of a SIMULATION system. four general 
+are defined. toward greatly increased efficiency of a SIMULATION 
+*********************************************************************
+Document:CACM-3048
+
+computers by deterministic SIMULATION 
+SIMULATION is presented as a practical technique 
+deterministic SIMULATION model of a system. IN the model 
+data streams of the real system. SIMULATION of the 
+*********************************************************************
+Document:CACM-0678
+
+optimizing bit-time computer SIMULATION 
+a major component of a bit-time computer SIMULATION 
+SIMULATION. the techniques are applicable to any general-purpose computer. 
+*********************************************************************
+Document:CACM-2218
+
+was a simula based SIMULATION model reflecting 
+of the SIMULATION model are also described. 
+rotational delay minimization, SIMULATION, 
+swap volume minimization, system SIMULATION, time-sharing 
+*********************************************************************
+Document:CACM-1329
+
+SIMULATION of boolean functions IN a decimal computer 
+cacm january, 1965 
+mano, m. m. 
+*********************************************************************
+Document:CACM-0557
+
+SIMULATION of computer timing device 
+cacm july, 1962 
+ca620704 jb march 17, 1978 8:57 pm 
+*********************************************************************
+Document:CACM-2970
+
+achieving specific accuracy IN SIMULATION output analysis 
+of SIMULATION output. IN particular, it describes a 
+making a costly error IN a preliminary SIMULATION run. 
+property, sequential estimator, SIMULATION, 
+*********************************************************************
+Document:CACM-1637
+
+problems IN the statistical analysis of SIMULATION 
+of SIMULATION experiments containing autocorrelated 
+analysis as applied to SIMULATION experiments. 
+experiments: the comparison of means AND the 
+*********************************************************************
+Document:CACM-0757
+
+SIMULATION of a traffic network 
+cacm august, 1963 
+katz, j. h. 
+*********************************************************************
+Document:CACM-1207
+
+remarks on SIMULATION of boolean functions 
+cacm august, 1965 
+dodd, g. g. 
+*********************************************************************
+Document:CACM-2914
+
+for SIMULATION of paging behavior 
+needed for use by a virtual memory SIMULATION 
+between page faults, computer system SIMULATION 
+use of the lru stack depth distribution 
+*********************************************************************
+Document:CACM-1208
+
+SIMULATION of computer logic by fortran arithmetic 
+cacm august, 1965 
+weingarten, f. w. 
+*********************************************************************
+Document:CACM-1380
+
+simula-an algol-based SIMULATION language 
+system description also serves as a source language SIMULATION 
+this paper is an introduction to simula, a 
+*********************************************************************
+Document:CACM-1912
+
+SIMULATION of outpatient appointment systems 
+SIMULATION, scheduling, appointment system, outpatient 
+an experimental computer program is described 
+*********************************************************************
+Document:CACM-2062
+
+to SIMULATION: an example inventory model 
+to the analysis of data generated by a computer SIMULATION 
+SIMULATION, inventory models, sequential 
+the application of sequential sampling 
+*********************************************************************
+Document:CACM-0238
+
+SIMULATION AND analysis of biochemical systems 
+cacm december, 1961 
+garfinkel, d. 
+*********************************************************************
+Document:CACM-2936
+
+an efficient data structure for the SIMULATION event set 
+for general purpose discrete event SIMULATION systems. 
+SIMULATION, time flow mechanisms, event 
+*********************************************************************
+Document:CACM-2725
+
+a comparison of SIMULATION event list algorithms (corrigendum) 
+cacm august, 1975 
+vaucher, j. c. 
+*********************************************************************
+Document:CACM-2798
+
+carlo SIMULATION is discussed. the simulations investigate 
+conflict buffer, SIMULATION, monte carolo SIMULATION 
+analysis of interleaved memory systems using blockage buffers 
+*********************************************************************
+Document:CACM-0643
+
+SIMULATION AND analysis of biochemcial systems 
+(ii. solution of differential equations) 
+cacm january, 1962 
+*********************************************************************
+Document:CACM-1812
+
+random number generation, monte carlo, SIMULATION 
+more on fortran random number generators 
+cacm november, 1969 
+*********************************************************************
+Document:CACM-3064
+
+SIMULATION, discrete systems SIMULATION, discrete 
+event SIMULATION, time-flow mechanisms 
+event manipulation for discrete simulations 
+requiring large numbers of events 
+*********************************************************************
+Document:CACM-2057
+
+distribution, frequency distribution, SIMULATION, monte carlo 
+random vectors uniform IN solid angle (algorithm 381 $g5)) 
+cacm may, 1970 
+*********************************************************************
+Document:CACM-0633
+
+SIMULATION AND analysis of biochemical systems 
+(iii. analysis AND pattern recognition) 
+cacm february, 1962 
+*********************************************************************
+Document:CACM-3061
+
+searching, dynamic reordering, SIMULATION 
+simulations of dynamic sequential search algorithms 
+none 
+*********************************************************************
+Document:CACM-2844
+
+discrete event SIMULATION, event-scanning 
+heaps applied to event driven mechanisms 
+cacm july, 1976 
+*********************************************************************
+Document:CACM-2261
+
+be useful to SIMULATION practitioners. 
+SIMULATION, monte carlo, probability, statistics, 
+an approximate method for generating symmetric random variables 
+*********************************************************************
+Document:CACM-1572
+
+the SIMULATION of time sharing systems 
+development of a comprehensive SIMULATION model 
+the SIMULATION is demonstrated by a study of the 
+*********************************************************************
+Document:CACM-1894
+
+random number generator, SIMULATION, probability 
+normal random deviates (algorithm 334 [g5]) 
+cacm may, 1969 
+*********************************************************************
+Document:CACM-0104
+
+digital SIMULATION of discrete flow systems* 
+a discussion of two SIMULATION studies that illustrate 
+the discrete flow systems discussed are characterized 
+*********************************************************************
+Document:CACM-1716
+
+random number generator, SIMULATION, probability 
+normal random deviates (algorithm 334 [g5]) 
+cacm july, 1968 
+*********************************************************************
+Document:CACM-2549
+
+SIMULATION, monte carlo 
+random deviates from the dipole distribution [g5] (algorithm a441) 
+cacm january, 1973 
+*********************************************************************
+Document:CACM-2344
+
+on the optimization of performance of time-sharing systems by SIMULATION 
+a SIMULATION model of a time-sharing system 
+is made between the results of the SIMULATION 
+time-sharing, SIMULATION studies, optimization, 
+*********************************************************************
+Document:CACM-1427
+
+SIMULATION of radioisotope scans by computer 
+the SIMULATION of the output of any quantum-limited system. 
+IN radioisotope scanning, a field which is assuming 
+*********************************************************************
+Document:CACM-1805
+
+of itself AND its co-residents AND SIMULATION has 
+an alternative to SIMULATION, a simulation-tested iterative 
+productivity, prediction, multiprogramming, SIMULATION, 
+productivity of multiprogrammed computers-progress 
+*********************************************************************
+Document:CACM-2349
+
+gaussian density, gaussian distribution, SIMULATION, 
+generation of random correlated normal variables [g5] (algorithm a425) 
+cacm may, 1972 
+*********************************************************************
+Document:CACM-1261
+
+modeling AND SIMULATION of digital networks 
+the SIMULATION of digital networks on a digital 
+computer provides the engineer with an effective 
+*********************************************************************
+Document:CACM-1680
+
+computer operations such as SIMULATION, programming, AND 
+AND compilers, SIMULATION models, mathematical 
+programming, SIMULATION, modeling, information 
+a general-purpose display processing AND tutorial system 
+*********************************************************************
+Document:CACM-1752
+
+AND the results of comparative SIMULATION 
+of all the system resources. SIMULATION results relative 
+task scheduling, paging, system SIMULATION, 
+resource management for a medium scale time-sharing operating system 
+*********************************************************************
+Document:CACM-1435
+
+design of computer SIMULATION experiments for industrial systems 
+of computer SIMULATION experiments for industrial 
+the aim of this paper is to provide background 
+*********************************************************************
+Document:CACM-2911
+
+this paper reports SIMULATION data showing 
+that may be violated frequently. on the basis of the SIMULATION 
+fifty-percent rule, first-fit, SIMULATION 
+anomalous behavior of the fifty-percent 
+*********************************************************************
+Document:CACM-1728
+
+storage, one-level storage, operating system SIMULATION, 
+operating systems, supervisor SIMULATION, machine 
+further experimental data on the behavior 
+of programs IN a paging environment 
+*********************************************************************
+Document:CACM-2882
+
+discusses a SIMULATION model of a data retrieval 
+SIMULATION 
+a stochastic evaluation model for database 
+organization IN data retrieval systems 
+*********************************************************************
+Document:CACM-1288
+
+of introducing SIMULATION AND other list-processing 
+clp-the cornell list processor 
+presented IN this paper are the highlights of 
+*********************************************************************
+Document:CACM-2077
+
+arrow's paradox, cyclical majority, SIMULATION, 
+the cyclical majority problem 
+the problem of the cyclical majority is presented AND some new, simulated 
+*********************************************************************
+Document:CACM-3107
+
+beta variates, random numbers, SIMULATION 
+generating beta variates with nonintegrel shape parameters 
+a new rejection method is described for generating 
+*********************************************************************
+Document:CACM-2951
+
+on a network. analytical, SIMULATION, AND statistical performance 
+network, anlytic modeling, SIMULATION, benchmark jobs, system measurement 
+dynamic response time prediction for computer networks 
+*********************************************************************
+Document:CACM-2272
+
+SIMULATION results are presented, AND various 
+sorting by natural selection 
+a family of sorting algorithms is proposed, 
+*********************************************************************
+Document:CACM-2829
+
+the areas of texture SIMULATION AND lighting models. 
+permitting the SIMULATION of the mirror reflections. 
+texture AND reflection IN computer generated images 
+*********************************************************************
+Document:CACM-2262
+
+methods by discussion AND by SIMULATION. 
+garbage collection for virtual memory computer systems 
+IN list processing there is typically a growing 
+*********************************************************************
+Document:CACM-1846
+
+SIMULATION, parallel processes, simultaneous events, 
+picture processing, computer system SIMULATION 
+on simulating networks of parallel processes 
+IN which simultaneous events may occur 
+*********************************************************************
+Document:CACM-2375
+
+both analytical AND SIMULATION results are obtained. 
+scheduling policies, seek time, SIMULATION, storage 
+a comparative analysis of disk scheduling policies 
+*********************************************************************
+Document:CACM-0605
+
+computer SIMULATION of city traffic 
+IN simulating traffic flow on city streets, 
+the national bureau of standards has used data 
+*********************************************************************
+Document:CACM-2435
+
+SIMULATION, fibonacci, fragmentation 
+a class of dynamic memory allocation algorithms 
+anew dynamic memory allocation algorithm, the 
+*********************************************************************
+Document:CACM-2542
+
+analysis AND SIMULATION routines. using the performance 
+modeling, system integration, SIMULATION 
+a software design AND evaluation system 
+*********************************************************************
+Document:CACM-1541
+
+aspects of SIMULATION studies. the ability to represent 
+a language for modeling AND simulating dynamic systems 
+the general objective of this language is 
+*********************************************************************
+Document:CACM-1653
+
+when using them. analysis, SIMULATION, AND synthesis are 
+system performance evaluation: survey AND appraisal 
+the state of the art of system performance 
+*********************************************************************
+Document:CACM-1165
+
+better than traditional SIMULATION. the emulator 
+the spectra 70/45 emulator for the rca 301 
+the rca 301 emulator system is supplied with 
+*********************************************************************
+Document:CACM-1199
+
+a computer center SIMULATION project 
+today's computation centers are based on rapidly 
+changing technologies of hardware AND software 
+*********************************************************************
+Document:CACM-2955
+
+comparative SIMULATION results are also presented 
+buddy systems 
+two algorithms are presented for implementing 
+*********************************************************************
+Document:CACM-1253
+
+quikscript is a SIMULATION language based on 
+quikscript-a simscript- like language for the g-20 
+simscript AND programmed entirely IN an algebraic 
+*********************************************************************
+Document:CACM-1484
+
+these descriptions can be used for SIMULATION 
+a language for describing the functions of synchronous systems* 
+before the design of a system is started, the 
+*********************************************************************
+Document:CACM-1811
+
+SIMULATION runs demonstrate the efficient solution 
+storage interference, electrical network, SIMULATION, 
+a case study IN programming for parallel-processors 
+*********************************************************************
+Document:CACM-2734
+
+allocation have not been consistent. through SIMULATION, 
+large requests. results of SIMULATION experiments 
+on the external storage fragmentation produced 
+by first-fit AND best-fit allocation strategies 
+*********************************************************************
+Document:CACM-1856
+
+a SIMULATION program AND theory of language 
+SIMULATION, human memory SIMULATION, computer 
+the teachable language comprehender: 
+*********************************************************************
+Document:CACM-2686
+
+SIMULATION, monte carlo, probability, statistics, 
+an approximate method for generating asymmetric random variables 
+tukey's lambda distribution is generalized 
+*********************************************************************
+Document:CACM-1426
+
+a SIMULATION of hospital admission policy 
+a study is described which simulates different 
+admission policies of a large specialized hospital. 
+*********************************************************************
+Document:CACM-1518
+
+technique which can ease this problem is macroscopic SIMULATION. 
+an experimental model of system/360 
+the problem of predicting the performance of 
+*********************************************************************
+Document:CACM-2276
+
+SIMULATION, numerical analysis 
+computer methods for sampling from 
+the exponential AND normal distributions 
+*********************************************************************
+Document:CACM-1933
+
+function, SIMULATION, prime factorization, primitive roots 
+coding the lehmer pseudo-random number generator 
+an algorithm AND coding technique is presented 
+*********************************************************************
+Document:CACM-2918
+
+trace-driven SIMULATION, queueing theory, shared 
+multiprocessor memory organization AND memory interference 
+the structure of shared memory IN a multiprocessor 
+*********************************************************************
+Document:CACM-1234
+
+macro-language. a technique of SIMULATION at 
+the structure of yet another algol compiler 
+a high-speed "top down" method of syntax analysis 
+*********************************************************************
+Document:CACM-1674
+
+random number generation, monte carlo, SIMULATION 
+one-line random number generators AND their use IN combinations 
+some one-line random number generators, i.e. 
+*********************************************************************
+Document:CACM-2652
+
+paper describes the use of SIMULATION techniques 
+reduction of compilation costs through language contraction 
+programming languages tailored to particular 
+*********************************************************************
+Document:CACM-3042
+
+an extensive set of SIMULATION runs, is close to that 
+power trees 
+the new class of pk trees is presented, where 
+*********************************************************************
+Document:CACM-2105
+
+SIMULATION program, graphical input-output sampled data systems 
+an interactive computer system using graphical flowchart input 
+an interactive computer system operational on a graphical computer terminal is 
+*********************************************************************
+Document:CACM-1166
+
+by generating calls to i/o SIMULATION subroutines. 
+a use of macros IN translation of symbolic 
+assembly language of one computer to another 
+*********************************************************************
+Document:CACM-2091
+
+problem oriented or digital SIMULATION language, 
+pdel-a language for partial differential equations 
+conventional computer methods available to solve 
+*********************************************************************
+Document:CACM-2967
+
+with the software SIMULATION illustrates the advantages 
+a comparison of hardware AND software associative 
+memories IN the context of computer graphics 
+*********************************************************************
+Document:CACM-2862
+
+model, SIMULATION of replacement algorithm 
+analysis of the pff replacement algorithm via a semi-markov model 
+an analytical model is presented to estimate 
+*********************************************************************
+Document:CACM-1711
+
+regulations, SIMULATION, income tax, copyrights, patents, 
+when your computer needs a lawyer 
+possible liability for negligence, for other 
+*********************************************************************
+Document:CACM-1845
+
+with a large overlaid trajectory SIMULATION program; 
+loader standardization for overlay programs 
+the overlay capability is described for four 
+*********************************************************************
+Document:CACM-2535
+
+AND, consequently, affects the performance 
+performance. analytical AND SIMULATION results are 
+the effects of multiplexing on a computer-communications system 
+*********************************************************************
+Document:CACM-2859
+
+interleaved memory, trace driven SIMULATION 
+interference IN multiprocessor computer systems with interleaved memory 
+this paper analyzes the memory interference 
+*********************************************************************
+Document:CACM-2890
+
+network node. SIMULATION results are presented 
+on quadratic adaptive routing algorithms 
+two analytic models of a store-and-forward communications 
+*********************************************************************
+Document:CACM-2452
+
+SIMULATION, data base, access time, storage 
+evaluation AND selection of file organization-a model AND system 
+this work first discusses the factors that 
+*********************************************************************
+Document:CACM-2628
+
+discipline. the results of the SIMULATION studies 
+minimal-total-processing time drum AND disk scheduling disciplines 
+this article investigates the application of 
+*********************************************************************
+Document:CACM-2596
+
+bits per block. SIMULATION results are presented which 
+a weighted buddy method for dynamic storage allocation 
+an extension of the buddy method, called the weighted 
+*********************************************************************
+Document:CACM-0675
+
+as part of a computerized hospital SIMULATION, have been 
+coding clinical laboratory data for automatic storage AND retrieval 
+a series of clinical laboratory codes have been 
+*********************************************************************

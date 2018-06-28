@@ -1,0 +1,644 @@
+Query:find all discussions of optimal implementations of sort algorithms for database management applications
+
+Document:CACM-2679
+
+FOR six acm ALGORITHMS: quicksort (no. 64), 
+402). ALGORITHMS 271 and 402 are refinements OF algorithm 
+claims. OF ALL these ALGORITHMS, quickersort requires 
+the fewest comparisons to SORT random arrays. 
+*********************************************************************
+Document:CACM-3132
+
+experiments with some ALGORITHMS that FIND 
+set. the traditional methods FIND a hyperplane which separates ALL 
+than a noncentral hyperplane. six ALGORITHMS FOR finding central 
+three ALGORITHMS which are defined in the paper are found to be 
+*********************************************************************
+Document:CACM-2674
+
+and the other to interactive APPLICATIONS. the ALGORITHMS 
+scan conversion ALGORITHMS FOR a cell organized raster display 
+scan conversion ALGORITHMS which have been 
+is most suitable to non-interactive APPLICATIONS 
+*********************************************************************
+Document:CACM-3131
+
+speed with hardware arithmetic FOR many APPLICATIONS. ALGORITHMS 
+ALGORITHMS especially useful FOR microcomputer control and other 
+signal processing APPLICATIONS. focus has the wide-ranging 
+FOR 8-bit and 16-bit IMPLEMENTATIONS OF focus are included. 
+*********************************************************************
+Document:CACM-2976
+
+approximating block accesses in DATABASE organizations 
+DATABASE, inverted file organization, DATABASE performance 
+cacm april, 1977 
+*********************************************************************
+Document:CACM-2348
+
+merge SORT algorithm [m1] (algorithm a426) 
+SORT, merge 
+cacm may, 1972 
+*********************************************************************
+Document:CACM-3112
+
+virtual memory, file or DATABASE MANAGEMENT, 
+classical IMPLEMENTATIONS OF list processing systems 
+many APPLICATIONS. 
+storage MANAGEMENT, storage allocation, lisp, cdr-coding, reference counting. 
+*********************************************************************
+Document:CACM-2964
+
+an approach to OPTIMAL design OF storage parameters in databases 
+DATABASE organization, storage parameter 
+cacm may, 1977 
+*********************************************************************
+Document:CACM-3164
+
+progressive acyclic digraphs-a tool FOR DATABASE integrity 
+this process is important in certain areas OF DATABASE implementation 
+OF actions. two pad ALGORITHMS are presented; one uses a simple 
+list processing, data structures, topological SORT, 
+*********************************************************************
+Document:CACM-3017
+
+structure FOR multiuser DATABASE APPLICATIONS. here, 
+b-trees re-examined 
+the b-tree and its variants have, with increasing 
+*********************************************************************
+Document:CACM-2716
+
+relational DATABASE, DATABASE optimization, inverted 
+optimizing the performance OF a relational algebra DATABASE interface 
+and pipelined concurrency, (3) coordinating SORT orders 
+ALGORITHMS FOR implementing the operators 
+*********************************************************************
+Document:CACM-3058
+
+size jump strategies are explored, appropriate APPLICATIONS 
+jump searching, sequential files, file MANAGEMENT, 
+search strategies, DATABASE structures, index 
+jump searching: a fast sequential search technique 
+*********************************************************************
+Document:CACM-2863
+
+page replacement ALGORITHMS, OPTIMAL page replacement 
+vmin-an OPTIMAL variable-space page replacement algorithm 
+replacement ALGORITHMS is presented. an optimum 
+and the page partitioning replacement ALGORITHMS 
+*********************************************************************
+Document:CACM-2563
+
+merge SORT algorithm (r426) 
+cacm december, 1974 
+bron, c. 
+*********************************************************************
+Document:CACM-0132
+
+math SORT (algorithm 23) 
+cacm november, 1960 
+feurzeig, w. 
+*********************************************************************
+Document:CACM-0862
+
+string distribution FOR the polyphase SORT 
+cacm may, 1963 
+malcolm jr., w. d. 
+*********************************************************************
+Document:CACM-0853
+
+the cobol SORT verb 
+cacm may, 1963 
+paterson, j. b. 
+*********************************************************************
+Document:CACM-0701
+
+shuttle SORT (algorithm 175) 
+cacm october, 1963 
+schubert, g. r. 
+*********************************************************************
+Document:CACM-0662
+
+shuttle SORT (algorithm 175) 
+cacm december, 1963 
+juelich, o. c. 
+*********************************************************************
+Document:CACM-2397
+
+optimizing the polyphase SORT (corrigendum) 
+cacm january, 1972 
+shell, d. l. 
+*********************************************************************
+Document:CACM-0307
+
+FIND (algorithm 65) 
+cacm july, 1961 
+hoare, c. a. r. 
+*********************************************************************
+Document:CACM-3037
+
+it is also easily extended to FIND the prime 
+primes, ALGORITHMS, data structures 
+a linear sieve algorithm FOR finding prime numbers 
+*********************************************************************
+Document:CACM-1191
+
+FIND precedence functions (algorithm 265 [l2]) 
+cacm october, 1965 
+wirth, n. 
+*********************************************************************
+Document:CACM-0841
+
+shuttle SORT (algorithm 175) 
+cacm june, 1963 
+shaw, c. j. 
+*********************************************************************
+Document:CACM-2816
+
+OPTIMAL reorganization OF distributed space disk files 
+in most DATABASE organizations, the cost OF accessing 
+the DATABASE will increase due to structural 
+to reorganize a DATABASE. a disk file organization 
+*********************************************************************
+Document:CACM-3087
+
+FOR a large relational DATABASE 
+large relational DATABASE OF aircraft flight and maintenance 
+DATABASE, and optimize the order OF searching relations. 
+also included are DISCUSSIONS OF important issues 
+*********************************************************************
+Document:CACM-0507
+
+partition, quicksort, FIND (algorithm 63, 64, 65) 
+cacm august, 1962 
+hillmore, j. s. 
+*********************************************************************
+Document:CACM-0776
+
+partition, quicksort, and FIND (algorithm 62, 64, & 65) 
+cacm august, 1963 
+randell, b. 
+*********************************************************************
+Document:CACM-2819
+
+to FIND an OPTIMAL set OF codes FOR representing 
+two ALGORITHMS FOR encoding a string differ 
+substrings OF the file. four new ALGORITHMS FOR this 
+parameters in the ALGORITHMS are optimized to obtain 
+*********************************************************************
+Document:CACM-3067
+
+DATABASE referencing, memory MANAGEMENT, OPTIMAL 
+a generalized OPTIMAL policy (gopt) is also 
+generalized working sets FOR segment reference strings 
+*********************************************************************
+Document:CACM-2902
+
+ALGORITHMS. simple ALGORITHMS operating on memory ordered 
+35 dynamic memory allocation ALGORITHMS when used 
+fragmentation. ALGORITHMS main taining separate 
+well. ALGORITHMS employing power-of-two block sizes 
+*********************************************************************
+Document:CACM-2263
+
+to OPTIMAL and near-optimal flowcharts: two new 
+ALGORITHMS 
+two new ALGORITHMS FOR deriving OPTIMAL and 
+one OF the ALGORITHMS, called the optimum-finding algorithm, 
+*********************************************************************
+Document:CACM-2577
+
+an on-site data MANAGEMENT system application in field archaeology 
+site data MANAGEMENT, retrieval systems 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-0857
+
+methods used in fact to SORT such files are discussed. 
+sorting nonredundant files-techniques used in the fact compiler 
+some typical file structures, including some 
+*********************************************************************
+Document:CACM-2174
+
+has been extended to FIND ALL the stable marriage assignments. 
+the stable marriage problem 
+the original work OF gale and shapley on an assignment 
+*********************************************************************
+Document:CACM-2890
+
+on quadratic adaptive routing ALGORITHMS 
+network are constructed, one to FIND 
+the OPTIMAL message routing and the other to illustrate 
+conditions FOR an OPTIMAL routing, adaptive routing tends 
+*********************************************************************
+Document:CACM-2906
+
+a very high level programming language FOR data processing APPLICATIONS 
+application development today is too labor-in tensive. 
+in recent years, very high-level languages 
+*********************************************************************
+Document:CACM-1873
+
+accelerating lp ALGORITHMS 
+phase OF lp ALGORITHMS. other lp APPLICATIONS are indicated. 
+it is shown how a novel method FOR computing 
+*********************************************************************
+Document:CACM-2797
+
+a first order approximation to the OPTIMAL 
+checkpoint interval (corrigendum) 
+cacm february, 1975 
+*********************************************************************
+Document:CACM-2586
+
+adapting OPTIMAL code generation FOR arithmetic 
+expressions to the instruction sets available 
+on present-day computers (errata) 
+*********************************************************************
+Document:CACM-2345
+
+education, MANAGEMENT systems, systems analysis, 
+MANAGEMENT information systems, information systems 
+curriculum recommendations FOR graduate 
+professional programs in information systems 
+*********************************************************************
+Document:CACM-2257
+
+a note on OPTIMAL doubly-chained trees 
+cacm november, 1972 
+kennedy, s. 
+*********************************************************************
+Document:CACM-3075
+
+parallel processing, sorting, ALGORITHMS, bucket SORT 
+fast parallel sorting ALGORITHMS 
+is also presented to SORT n numbers in time o(k log 
+*********************************************************************
+Document:CACM-2900
+
+OF finding the OPTIMAL set OF network sites at 
+aids to finding OPTIMAL, or near-optimal, solutions are 
+included in an OPTIMAL allocation. 
+file allocation, computer networks, distributed data MANAGEMENT 
+*********************************************************************
+Document:CACM-1831
+
+a comment on OPTIMAL tree structures 
+cacm october, 1969 
+stanfel, l. e. 
+*********************************************************************
+Document:CACM-3057
+
+OPTIMAL his togram matching by monotone gray level transformation 
+this paper investigates the problem OF OPTIMAL 
+is to FIND a transformed digital picture OF 
+OPTIMAL his togram matching is presented which has time 
+*********************************************************************
+Document:CACM-3011
+
+MANAGEMENT utilization OF computers in american local governments 
+traditional concepts OF MANAGEMENT information 
+systems currently in use by top MANAGEMENT in most us local 
+APPLICATIONS. despite the unsophisticated 
+*********************************************************************
+Document:CACM-2289
+
+solution OF graph problems is the determination OF ALGORITHMS 
+ALGORITHMS are presented FOR the solution OF certain 
+direct APPLICATIONS to wire routing, pert chart analysis, 
+these ALGORITHMS exhibit a computation time that in 
+*********************************************************************
+Document:CACM-3156
+
+we present a parallel algorithm which uses n2 processors to FIND the connected 
+the algorithm can be used to FIND the transitive closure 
+graph theory, parallel processing, ALGORITHMS, 
+computing connected components on parallel computers 
+*********************************************************************
+Document:CACM-0049
+
+scientific and business APPLICATIONS (oracle curve plotter) 
+cacm october, 1959 
+fike, c. t. 
+*********************************************************************
+Document:CACM-2689
+
+report generation, automated systems design, data processing, MANAGEMENT 
+a crt report generating system 
+cacm january, 1974 
+*********************************************************************
+Document:CACM-2495
+
+adapting OPTIMAL code generation FOR arithmetic 
+expressions to the instruction sets available 
+on present-day computers 
+*********************************************************************
+Document:CACM-2957
+
+DATABASE abstractions: aggregation 
+important in DATABASE design. a top-down 
+methodology FOR DATABASE design is described which separates 
+data abstraction, relational DATABASE, data type, 
+*********************************************************************
+Document:CACM-3033
+
+which can be used to FIND both OPTIMAL and quasi OPTIMAL 
+OPTIMAL decision table conversion has been 
+to produce good, quasi OPTIMAL solutions. the branch-and-bound 
+decision table, OPTIMAL decision table conversion, 
+*********************************************************************
+Document:CACM-1961
+
+an efficient search algorithm to FIND the elementary circuits OF a graph 
+which uses an exhaustive search to FIND ALL OF the elementary 
+circuits OF a graph. the algorithm can be easily modified to FIND ALL 
+*********************************************************************
+Document:CACM-2973
+
+two ALGORITHMS are presented FOR sorting n^2 
+n). the ALGORITHMS OF this paper are shown to be OPTIMAL 
+sorting on a mesh-connected parallel computer 
+*********************************************************************
+Document:CACM-2583
+
+humanization, social implication, MANAGEMENT, information 
+guidelines FOR humanizing computerized information 
+systems: a report from stanley house 
+*********************************************************************
+Document:CACM-0371
+
+remarks on ALGORITHMS 2 and 3, algorithm 15 and ALGORITHMS 25 and 26 
+cacm march, 1961 
+wilkinson, j. h. 
+*********************************************************************
+Document:CACM-1886
+
+generation OF OPTIMAL code FOR expressions via factorization 
+applied, and hence global OPTIMAL results are not 
+necessarily generated. the factorization ALGORITHMS 
+factorization ALGORITHMS, code optimization, sequencing 
+*********************************************************************
+Document:CACM-2856
+
+condition) are created. an OPTIMAL program (with 
+an OPTIMAL decision tree from which a program can 
+an OPTIMAL program is increased substantially, 
+permitting generation OF OPTIMAL programs FOR decision 
+*********************************************************************
+Document:CACM-2069
+
+operating systems, memory MANAGEMENT 
+comments on a paper by wallace and mason 
+cacm april, 1970 
+*********************************************************************
+Document:CACM-1724
+
+a generalized partial pass block SORT 
+the design OF a partial pass block SORT with 
+pass column SORT by ashenhurst and the amphisbaenic 
+a block SORT with internal sorts, and to the 
+*********************************************************************
+Document:CACM-3085
+
+matrices in the OPTIMAL order is presented. an 
+o(n) algorithm to FIND an order OF computation which 
+takes less than 25 percent longer than the OPTIMAL 
+yields the OPTIMAL order or an order which 
+*********************************************************************
+Document:CACM-2959
+
+describe and execute their APPLICATIONS on a computer. 
+the information. the query-by-example DATABASE language 
+data flow, forms flow, data abstraction, DATABASE, 
+the system FOR business automation (sba): programming language 
+*********************************************************************
+Document:CACM-1796
+
+index by subject to ALGORITHMS, 1969 
+index by subject to ALGORITHMS, 1960 1968 (comm. 
+cacm december, 1969 
+*********************************************************************
+Document:CACM-0860
+
+a comparison between the polyphase and oscillating SORT techniques 
+SORT techniques is developed FOR computer 
+a comparison between the oscillating and polyphase 
+*********************************************************************
+Document:CACM-1999
+
+OPTIMAL starting approximations FOR generating 
+the classical heron scheme. the problem OF OPTIMAL initial 
+approximants is considered, and some OPTIMAL polynomial initial 
+square root, newton-raphson iteration, OPTIMAL approximants 
+*********************************************************************
+Document:CACM-2627
+
+time, sequencing ALGORITHMS, OPTIMAL scheduling 
+which extend and generalize the ALGORITHMS known FOR 
+presenting and analyzing new ALGORITHMS it is shown 
+ALGORITHMS, deterministic scheduling models 
+*********************************************************************
+Document:CACM-0457
+
+quantum mechanical integrals over ALL slater-type integrals 
+cacm november, 1962 
+browne, j. c. 
+*********************************************************************
+Document:CACM-2181
+
+the acm committee on computer education FOR MANAGEMENT, 
+improving computer education FOR MANAGEMENT. to provide 
+gives a summary OF the DISCUSSIONS; a condensation 
+FOR improving computer education FOR MANAGEMENT, 
+*********************************************************************
+Document:CACM-0270
+
+techniques FOR storage allocation ALGORITHMS 
+cacm october, 1961 
+kelley jr., j. e. 
+*********************************************************************
+Document:CACM-2691
+
+comments on the ALGORITHMS OF verhelst FOR the 
+decision table, flowcharting, preprocessor, OPTIMAL programs, search 
+conversion OF limited-entry decision tables to 
+flowcharts 
+*********************************************************************
+Document:CACM-2007
+
+ALGORITHMS policy/revised august 1970 
+cacm august, 1970 
+ca700814 jb february 10, 1978 3:12 pm 
+*********************************************************************
+Document:CACM-1952
+
+index by subject to ALGORITHMS, 1970 
+cacm december, 1970 
+ca701211 jb february 9, 1978 2:50 pm 
+*********************************************************************
+Document:CACM-1660
+
+index by subject to ALGORITHMS, 1960-1968 
+cacm december, 1968 
+ca681206 jb february 21, 1978 1:39 pm 
+*********************************************************************
+Document:CACM-2997
+
+computational complexity, convex hull, OPTIMAL ALGORITHMS, 
+proposed ALGORITHMS is OPTIMAL within a multiplicative 
+log n) operations. the presented ALGORITHMS use the "divide 
+convex hulls OF finite sets OF poin ts in two and three dimensions 
+*********************************************************************
+Document:CACM-1342
+
+transportation problem (ALGORITHMS 293 [h]) 
+cacm december, 1966 
+bayer, g. 
+*********************************************************************
+Document:CACM-2142
+
+and the problem is to FIND the "most representative" 
+picture. three ALGORITHMS are described (ALL using 
+this problem. the ALGORITHMS are applicable in a large 
+reconstruction OF pictures from their projections 
+*********************************************************************
+Document:CACM-0856
+
+using random access drum memory. the SORT program 
+SORT, applicable to a variety OF record statements. 
+sorting with large volume, random access, drum storage 
+*********************************************************************
+Document:CACM-3032
+
+nodes OF a network. ALGORITHMS FOR accomplishing 
+this list OF ALGORITHMS we add (6) reverse path 
+because it is not OPTIMAL according to metrics developed 
+reverse path forwarding OF broadcast packets 
+*********************************************************************
+Document:CACM-2146
+
+optimizing the polyphase SORT 
+various dispersion ALGORITHMS FOR the polyphase 
+new dispersion ALGORITHMS with more straightforward 
+logic are presented. OF the simple dispersion ALGORITHMS 
+*********************************************************************
+Document:CACM-2417
+
+four combinatorial ALGORITHMS [g6] (algorithm a466) 
+cacm november, 1973 
+ehrlich, g. 
+*********************************************************************
+Document:CACM-2830
+
+a practitioner's guide to addressing ALGORITHMS (corrigendum) 
+cacm september, 1976 
+severance, d. g. 
+*********************************************************************
+Document:CACM-2833
+
+ALGORITHMS are designed to work well in systems 
+storage MANAGEMENT, garbage collection, lisp 
+an efficient, incremental, automatic garbage collector 
+*********************************************************************
+Document:CACM-1953
+
+exponential integral ei(x) (ALGORITHMS 385 $s13)) 
+cacm december, 1970 
+redish, k. a. 
+*********************************************************************
+Document:CACM-2337
+
+ALGORITHMS is given. one new algorithm FOR 
+fewest comparisons is proved OPTIMAL with this 
+a sorting problem and its complexity 
+*********************************************************************
+Document:CACM-2748
+
+amenable to machine independent IMPLEMENTATIONS. 
+indirect threaded code 
+an efficient arrangement FOR interpretive code 
+*********************************************************************
+Document:CACM-2817
+
+the notions OF consistency and predicate locks in a DATABASE system 
+in DATABASE systems, users access shared data 
+rather than a physical subset OF the DATABASE. 
+consistency, lock, DATABASE, concurrency, transaction 
+*********************************************************************
+Document:CACM-2505
+
+and adjacent transposition ALGORITHMS 
+reflection-free permutations, rosary permutations, 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-2593
+
+a back-end computer FOR data base MANAGEMENT 
+it is proposed that the data base MANAGEMENT 
+data MANAGEMENT system, xdms, is described and certain 
+data base MANAGEMENT, information retrieval, computer 
+*********************************************************************
+Document:CACM-2450
+
+the design OF scheduling and paging ALGORITHMS. although 
+in the hope that workers in the field might FIND experimental 
+empirical working set behavior 
+*********************************************************************
+Document:CACM-3177
+
+OF robust key MANAGEMENT schemes FOR cryptographic systems 
+cryptography, key MANAGEMENT, interpolation 
+how to share a secret 
+*********************************************************************
+Document:CACM-2362
+
+matrix ALGORITHMS, linear equations, fortran, 
+linear equation solver [f4] (algorithm a423) 
+cacm april, 1972 
+*********************************************************************
+Document:CACM-2017
+
+the experimental SORT programs and analysis OF the performance 
+broad guidelines FOR writing SORT programs FOR a paging environment. 
+performance evaluation, memory MANAGEMENT 
+sorting in a paging environment 
+*********************************************************************
+Document:CACM-1752
+
+resource MANAGEMENT FOR a medium scale time-sharing operating system 
+OF the task scheduling and paging ALGORITHMS that were implemented, 
+are given by tracing the development OF the ALGORITHMS 
+time-sharing, operating systems, resource MANAGEMENT, 
+*********************************************************************
+Document:CACM-2944
+
+used to FIND actions that cancel when the code is executed 
+MANAGEMENT 
+shifting garbage collection overhead to compile time 
+*********************************************************************
+Document:CACM-2324
+
+MANAGEMENT science: a view from nonlinear programming 
+ALGORITHMS to demonstrate which techniques are best FOR specific problems. 
+programming, MANAGEMENT science, operations research, ALGORITHMS 
+*********************************************************************
+Document:CACM-2272
+
+a family OF sorting ALGORITHMS is proposed, 
+implications and further APPLICATIONS are discussed. 
+ALGORITHMS, sorting by replacement selection, expected string length 
+sorting by natural selection 
+*********************************************************************
+Document:CACM-2882
+
+DATABASE architecture, DATABASE performance and 
+a stochastic evaluation model FOR DATABASE 
+be organized under several DATABASE organizations, 
+DATABASE organizations in data retrieval systems. in particular, 
+*********************************************************************
+Document:CACM-2750
+
+an OPTIMAL solution to this allocation problem, 
+in such a situation, we must FIND a set OF assumptions 
+a cost oriented algorithm FOR data set allocation in storage hierarchies 
+*********************************************************************

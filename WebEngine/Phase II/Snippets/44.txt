@@ -1,0 +1,644 @@
+Query:texture analysis by computer digitized texture analysis  texture synthesis perception of texture
+
+Document:CACM-2829
+
+the areas OF TEXTURE simulation and lighting models. 
+modeled in a similar manner to the TEXTURE mapping 
+and then added to the intensity obtained from the TEXTURE 
+COMPUTER graphics, graphic display, shading, hidden surface removal 
+*********************************************************************
+Document:CACM-2523
+
+a region coloring technique for scene ANALYSIS 
+textured regions is described. TEXTURE edges in the 
+picture processing, scene ANALYSIS, edge detection 
+*********************************************************************
+Document:CACM-2325
+
+complexity), SYNTHESIS and ANALYSIS OF algorithms, 
+numerical mathematics and COMPUTER science 
+numerical mathematics is viewed as the ANALYSIS 
+ANALYSIS OF error, programs and program libraries. 
+*********************************************************************
+Document:CACM-2825
+
+tables, data ANALYSIS, discriminant ANALYSIS, 
+the bmd and bmdp series OF statistical COMPUTER programs 
+factor ANALYSIS, graphics, outliers, regression, time series, transformations 
+ANALYSIS OF variance, cluster ANALYSIS, contingency 
+*********************************************************************
+Document:CACM-1404
+
+ANALYSIS on a multifactor structure 
+the computational procedure for the ANALYSIS 
+with reference to the ANALYSIS OF variance. a special 
+ANALYSIS OF variance for multifactor experiments is extended 
+*********************************************************************
+Document:CACM-2494
+
+a COMPUTER generated graphic method, which 
+scheme OF cluster ANALYSIS, is described and illustrated. 
+BY COMPUTER printed symbols (OF character 
+COMPUTER graphics, cluster ANALYSIS, numerical 
+*********************************************************************
+Document:CACM-1679
+
+digital spectrum ANALYSIS, fourier ANALYSIS 
+fast fourier transform, time series ANALYSIS, digital 
+filtering, spectral ANALYSIS, real-time spectrum 
+analyzers, fourier ANALYSIS, discrete fourier transform, 
+*********************************************************************
+Document:CACM-1260
+
+small COMPUTER. the ANALYSIS has been carried out 
+least-squares ANALYSIS OF resonance spectra on small computers 
+calculation it is possible to make the ANALYSIS on a 
+on an ibm 1410 COMPUTER with a 40,000 bcd core memory. 
+*********************************************************************
+Document:CACM-1823
+
+factorial ANALYSIS OF variance (algorithm [g1]) 
+factorial variance ANALYSIS, variance, statistical ANALYSIS 
+cacm november, 1969 
+*********************************************************************
+Document:CACM-1732
+
+factorial ANALYSIS OF variance (algorithm 330 [g1]) 
+factorial variance ANALYSIS, variance, statistical ANALYSIS 
+cacm june, 1968 
+*********************************************************************
+Document:CACM-1801
+
+ANALYSIS OF variance for balanced experiments (algorithm 367 [g2]) 
+ANALYSIS OF variance, ANALYSIS OF covariance, regression 
+ANALYSIS, experimental design, balanced 
+*********************************************************************
+Document:CACM-2719
+
+mechanical program ANALYSIS 
+OF such ANALYSIS, and describes a system, 
+program ANALYSIS, describes the operation OF metric, explains 
+manipulation, programming languages, ANALYSIS 
+*********************************************************************
+Document:CACM-1809
+
+numerical ANALYSIS is the study OF methods and 
+and emphasis. the numerical ANALYSIS program 
+in the COMPUTER science department should emphasize an 
+awareness OF the problems OF COMPUTER implementation 
+*********************************************************************
+Document:CACM-1855
+
+ANALYSIS, parsing, ANALYSIS procedure, recognition 
+a program for the syntactic ANALYSIS OF english sentences 
+OF english words and that it pursues all ANALYSIS paths 
+and an outline account is given OF the ANALYSIS procedure. 
+*********************************************************************
+Document:CACM-1002
+
+since much OF the COMPUTER time spent in time-series 
+ANALYSIS is used for multiplications, 
+be useful in the on line, real-time ANALYSIS OF biological 
+implementing both the SYNTHESIS OF these filters, and 
+*********************************************************************
+Document:CACM-1802
+
+ANALYSIS OF variance, ANALYSIS OF covariance, 
+regression ANALYSIS, experimental design, matrix 
+regression using certain direct product matrices (algorithm 366 [g2]) 
+*********************************************************************
+Document:CACM-1780
+
+harmonic ANALYSIS for symmetrically 
+harmonic ANALYSIS, cosine series, sine series, function 
+distributed data (algorithm 320 [c6]) 
+*********************************************************************
+Document:CACM-2050
+
+automatic parsing for content ANALYSIS 
+although automatic syntactic and semantic ANALYSIS is not yet possible for 
+content ANALYSIS is one, do not have such a stringent coverage requirement. 
+this provides a degree OF coverage for content ANALYSIS variables which 
+*********************************************************************
+Document:CACM-1782
+
+a numerical integration formula useful in fourier ANALYSIS 
+is useful in fourier ANALYSIS to improve accuracy 
+for numerical fourier ANALYSIS is given. 
+numerical integration, fourier ANALYSIS, integration 
+*********************************************************************
+Document:CACM-0633
+
+simulation and ANALYSIS OF biochemical systems 
+(iii. ANALYSIS and pattern recognition) 
+cacm february, 1962 
+*********************************************************************
+Document:CACM-0525
+
+a COMPUTER technique for handling ANALYSIS OF variance 
+cacm august, 1962 
+howell, j. r. 
+*********************************************************************
+Document:CACM-1989
+
+transition network grammars for natural language ANALYSIS 
+the use OF augmented transition network grammars for the ANALYSIS 
+transformational ANALYSIS, and conditions on the arcs allow for a 
+advantage OF this model for natural language ANALYSIS are discussed 
+*********************************************************************
+Document:CACM-2923
+
+high-level data flow ANALYSIS 
+in termediate text, high-level data flow ANALYSIS 
+the parse tree. the need for high-level flow ANALYSIS 
+OF high-level data flow ANALYSIS that allows free use 
+*********************************************************************
+Document:CACM-0931
+
+systematic mistake ANALYSIS OF digital COMPUTER programs 
+cacm february, 1963 
+miller, j. c. 
+*********************************************************************
+Document:CACM-1669
+
+harmonic ANALYSIS, spectral ANALYSIS, orthogonal polynomials, 
+algol procedures for the fast fourier transform (algorithm 338 [c6]) 
+cacm november, 1968 
+*********************************************************************
+Document:CACM-1507
+
+a multiprogramming environment for online data acquis ition and ANALYSIS 
+an experimental system for acquis ition and ANALYSIS 
+and characteristics OF a general data ANALYSIS scheme. 
+*********************************************************************
+Document:CACM-2286
+
+automatic error ANALYSIS for determining precision 
+on a COMPUTER which performs variable-precision floating-point 
+error ANALYSIS technique is given for determining, directly 
+error ANALYSIS, interval arithmetic, precision control 
+*********************************************************************
+Document:CACM-1668
+
+fourier series, harmonic ANALYSIS, spectral 
+ANALYSIS, orthogonal polynomials, orthogonal transformation, 
+an algol procedure for the fast fourier transform 
+with arbitrary factors (algorithm 339 [c6]) 
+*********************************************************************
+Document:CACM-0461
+
+coding OF medical case history data for COMPUTER ANALYSIS 
+cacm october, 1962 
+lipkin, m. 
+*********************************************************************
+Document:CACM-1045
+
+programming ANALYSIS OF variance BY sequences 
+has been found to be efficient in programming ANALYSIS 
+OF operators and isomorphic mappings 
+*********************************************************************
+Document:CACM-1917
+
+harmonic ANALYSIS, spectral ANALYSIS, orthogonal polynomials, 
+an algol procedure for the fast fourier transform 
+with arbitrary factors (algorithm 339 [c6]) 
+*********************************************************************
+Document:CACM-2812
+
+computer-aided ANALYSIS and design OF information systems 
+ANALYSIS for the design and development OF an 
+OF applications software design, COMPUTER selection 
+computer-aided ANALYSIS, information systems, logical 
+*********************************************************************
+Document:CACM-1921
+
+harmonic ANALYSIS, spectral ANALYSIS, orthogonal polynomials, 
+an algol convolution procedure based on the 
+fast fourier transform (algorithm 345 [c6]) 
+*********************************************************************
+Document:CACM-1837
+
+harmonic ANALYSIS, spectral ANALYSIS, orthogonal polynomials, 
+an algol convolution procedure based on the 
+fast fourier transform (algorithm 345 [c6]) 
+*********************************************************************
+Document:CACM-1141
+
+bounded context syntactic ANALYSIS 
+cacm february, 1964 
+floyd, r. w. 
+*********************************************************************
+Document:CACM-0912
+
+BY fortran for ANALYSIS OF variance 
+addressing an array yi in k-dimensions 
+cacm march, 1963 
+*********************************************************************
+Document:CACM-2877
+
+a program data flow ANALYSIS procedure 
+can be exposed and codified BY the static ANALYSIS 
+program optimization, data flow ANALYSIS, 
+*********************************************************************
+Document:CACM-2871
+
+logical ANALYSIS OF programs 
+most present systems for verification OF COMPUTER 
+logical ANALYSIS OF programs BY using invariants which 
+logical ANALYSIS, invariants, program verification, 
+*********************************************************************
+Document:CACM-1104
+
+an undergraduate curriculum in numerical ANALYSIS 
+cacm april, 1964 
+forsythe, g. e. 
+*********************************************************************
+Document:CACM-0167
+
+combining algol statement ANALYSIS with validity checking 
+cacm july, 1960 
+mcisaac, p. 
+*********************************************************************
+Document:CACM-1435
+
+design OF COMPUTER simulation experiments for industrial systems 
+OF COMPUTER simulation experiments for industrial 
+systems. although major emphasis is placed on ANALYSIS 
+OF data ANALYSIS are considered-multiple ranking procedures, 
+*********************************************************************
+Document:CACM-0631
+
+automatic-programming-language translation through syntactical analysis* 
+cacm march, 1962 
+ledley, r. 
+*********************************************************************
+Document:CACM-0085
+
+error ANALYSIS in floating point arithmetic 
+cacm may, 1959 
+carr iii, j. w. 
+*********************************************************************
+Document:CACM-3069
+
+a practical interprocedural data flow ANALYSIS algorithm 
+a new interprocedural data flow ANALYSIS algorithm 
+data flow ANALYSIS, global flow ANALYSIS, optimization, 
+*********************************************************************
+Document:CACM-2739
+
+for the COMPUTER ANALYSIS OF natural language 
+the restriction language for COMPUTER grammars OF natural language 
+to be a valid sentence ANALYSIS. as the coverage OF the 
+ANALYSIS. the language is used in the current 
+*********************************************************************
+Document:CACM-0974
+
+ANALYSIS feasible on the ibm 7090 
+a technique is presented for the automatic ANALYSIS 
+OF long series heart cycles via a digital COMPUTER. 
+a technique for reading gapless tapes makes electrocardiograph 
+*********************************************************************
+Document:CACM-1683
+
+syntax ANALYSIS, precedence ANALYSIS, simple precedence 
+syntactic ANALYSIS, boolean matrices, relations 
+boolean matrix methods for the detection OF simple precedence grammars 
+*********************************************************************
+Document:CACM-0533
+
+digital SYNTHESIS OF correlated stationary noise 
+corrupted with correlated noise (OF a known form) 
+in terms OF exact harmonic ANALYSIS. in practice, discrete 
+harmonic ANALYSIS as presented in the third 
+*********************************************************************
+Document:CACM-0826
+
+remarks on fortran subroutines for time series ANALYSIS 
+cacm june, 1963 
+bennett, c. m. 
+*********************************************************************
+Document:CACM-2310
+
+language ANALYSIS in the humanities 
+the use OF the COMPUTER in the language-oriented 
+as desirable. the implications OF the COMPUTER 
+as to language ANALYSIS in the humanities will be the 
+*********************************************************************
+Document:CACM-1916
+
+ANALYSIS OF boolean program models for time-shared, paged environments 
+OF sequences OF COMPUTER instructions. such techniques 
+information is also contained. ANALYSIS OF these models 
+page loading; during execution, the ANALYSIS may be 
+*********************************************************************
+Document:CACM-3149
+
+the cyclic order property OF vertices as an aid in scene ANALYSIS 
+scene ANALYSIS, cyclic order, artificial intelligence, 
+, picture processing, COMPUTER graphics, pattern recognition. 
+*********************************************************************
+Document:CACM-0329
+
+their contents to other machines for ANALYSIS, this report 
+presents a new concept in automatic ANALYSIS: 
+report is a summary OF automatic ANALYSIS studies 
+and linguistic techniques for the solution OF problems OF automatic ANALYSIS. 
+*********************************************************************
+Document:CACM-1424
+
+automatic ANALYSIS OF electronic digital circuits using list processing 
+carry out circuit ANALYSIS. 
+a mapping from black diagrams OF digital circuits 
+*********************************************************************
+Document:CACM-0464
+
+syntactic ANALYSIS BY digital COMPUTER 
+a corresponding subroutine that enables a COMPUTER 
+to perform syntactic ANALYSIS. the input to this 
+results OF the syntactic ANALYSIS in a tabular form. several 
+*********************************************************************
+Document:CACM-2221
+
+comment on the conversion OF decision tables to COMPUTER programs 
+decision tables, diagnostic aids, system ANALYSIS, business applications 
+cacm january, 1971 
+*********************************************************************
+Document:CACM-1034
+
+an automated data system ANALYSIS technique is 
+ANALYSIS and using the results, and the lack OF a technique 
+its lifetime. the ANALYSIS is geared to determining workload, 
+autosate 
+*********************************************************************
+Document:CACM-2701
+
+flow ANALYSIS (abstract only--complete paper jacm 
+a new algorithm for global flow ANALYSIS on 
+global flow ANALYSIS, data flow, code optimization, 
+ANALYSIS, information propagation, flow graph, reducibility, 
+*********************************************************************
+Document:CACM-2437
+
+general performance ANALYSIS OF key-to-address 
+this paper presents a new approach to the ANALYSIS 
+methods. using this ANALYSIS, methods with the same overall 
+storage, information retrieval, hashing ANALYSIS, 
+*********************************************************************
+Document:CACM-2505
+
+permutation, permutation generation, scheduling, combinatorial ANALYSIS 
+reflection-free permutations, rosary permutations, 
+and adjacent transposition algorithms 
+*********************************************************************
+Document:CACM-2947
+
+retrieval, literary ANALYSIS, linguistic ANALYSIS, command languages 
+and text ANALYSIS system for nontechnical users, 
+COMPUTER invoked BY a crt with microprogrammed 
+sitar: an interactive text processing system for small computers 
+*********************************************************************
+Document:CACM-2735
+
+discrimination in the employment OF women in the COMPUTER industry 
+programmers, systems ANALYSIS, keypunch operators, 
+cacm july, 1975 
+*********************************************************************
+Document:CACM-1709
+
+a modification OF efroymson's technique for stepwise regression ANALYSIS 
+additional storage allows the ANALYSIS OF problems containing 
+the ANALYSIS OF problems containing the same number 
+statistical COMPUTER programs, curve fitting 
+*********************************************************************
+Document:CACM-2798
+
+ANALYSIS OF interleaved memory systems using blockage buffers 
+and the ANALYSIS OF the model BY monte 
+memory performance ANALYSIS, blockage buffer, 
+*********************************************************************
+Document:CACM-1014
+
+machine controls for ANALYSIS OF variance 
+a major problem in using the ANALYSIS OF variance, 
+to the COMPUTER to handle the bulk OF work involved 
+to get the COMPUTER to do this is described. 
+*********************************************************************
+Document:CACM-0238
+
+simulation and ANALYSIS OF biochemical systems 
+cacm december, 1961 
+garfinkel, d. 
+*********************************************************************
+Document:CACM-1529
+
+decomposition programming an ANALYSIS OF matrix substructure 
+algorithms. in the course OF the ANALYSIS, a substructure 
+a petroleum blending problem was analyzed in order 
+*********************************************************************
+Document:CACM-2831
+
+ANALYSIS OF the pff replacement algorithm 
+via a semi-markov model (corrigendum) 
+cacm september, 1976 
+*********************************************************************
+Document:CACM-2407
+
+information systems, information ANALYSIS, 
+system design, systems ANALYSIS 
+curriculum recommendations for undergraduate 
+programs in information systems 
+*********************************************************************
+Document:CACM-1365
+
+performing mathematical ANALYSIS. it is an extension 
+OF fortran iv which permits the use OF the COMPUTER 
+estimation, tensor ANALYSIS, and generation OF the coefficients 
+the ANALYSIS phase in certain production programming. 
+*********************************************************************
+Document:CACM-1653
+
+when using them. ANALYSIS, simulation, and SYNTHESIS are 
+system performance evaluation: survey and appraisal 
+the state OF the art OF system performance 
+*********************************************************************
+Document:CACM-3055
+
+an ANALYSIS OF algorithms for the dutch national flag problem 
+algorithmic ANALYSIS, dutch national flag 
+solutions to the dutch national flag problem 
+*********************************************************************
+Document:CACM-2447
+
+an error ANALYSIS for some bivariate cubatures 
+use OF sard kernels. numerical results and COMPUTER 
+sard kernels for certain bivariate cubatures 
+*********************************************************************
+Document:CACM-2634
+
+correlation, regression, factor ANALYSIS, one-way ANALYSIS OF variance 
+several hundred college and university COMPUTER 
+an evaluation OF statistical software in the social sciences 
+*********************************************************************
+Document:CACM-0643
+
+simulation and ANALYSIS OF biochemcial systems 
+(ii. solution OF differential equations) 
+cacm january, 1962 
+*********************************************************************
+Document:CACM-1325
+
+remote, on-line, real-time COMPUTER diagnosis 
+COMPUTER diagnosis OF clinical electrocardiograms. 
+matched filters, the development OF three dimensional pattern ANALYSIS, 
+the ANALYSIS OF parallel electrocardiographer-computer 
+*********************************************************************
+Document:CACM-1637
+
+problems in the statistical ANALYSIS OF simulation 
+research is continued into statistical ANALYSIS 
+ANALYSIS as applied to simulation experiments. 
+experiments: the comparison OF means and the 
+*********************************************************************
+Document:CACM-2671
+
+memories, interleaving, derangements, rencontres, combinatorial ANALYSIS 
+a note on a combinatorial problem OF burnett and coffman 
+cacm march, 1974 
+*********************************************************************
+Document:CACM-2835
+
+recursion ANALYSIS for compiler optimization 
+this ANALYSIS can also be used to determine what 
+a relatively simple method for the detection 
+*********************************************************************
+Document:CACM-2025
+
+factorial ANALYSIS OF variance; (algorithms 332,344,351,359) 
+student's t-distribution; jacobi polynomials; 
+modified romberg quadrature; 
+*********************************************************************
+Document:CACM-2556
+
+statement ANALYSIS, syntax ANALYSIS 
+adaptive correction OF program statements 
+a method OF analyzing statements in a programming 
+*********************************************************************
+Document:CACM-2824
+
+syntax ANALYSIS, precedence functions, boolean matrices 
+an improvement to martin's algorithm for 
+computation OF linear precedence functions 
+*********************************************************************
+Document:CACM-1911
+
+on coordination reduction and sentence ANALYSIS 
+to the syntactic ANALYSIS problem for this 
+syntactic ANALYSIS, grammar testing program, 
+*********************************************************************
+Document:CACM-1927
+
+information science in a ph. COMPUTER science program 
+COMPUTER science program. the subject area is 
+data retrieval, language ANALYSIS, information 
+*********************************************************************
+Document:CACM-1632
+
+programming the tabular method OF ANALYSIS 
+the ease OF programming the tabular method OF ANALYSIS 
+OF variance for factorial experiments 
+*********************************************************************
+Document:CACM-0284
+
+for systems ANALYSIS problems. this algorithm 
+system ANALYSIS studies. however, its application 
+manipulation OF algebraic expressions 
+*********************************************************************
+Document:CACM-0726
+
+a general program for the ANALYSIS OF 
+may be programmed for any digital COMPUTER. 
+square and rectangular lattice designs 
+*********************************************************************
+Document:CACM-2944
+
+requires global flow ANALYSIS to be performed on the 
+garbage collection, global flow ANALYSIS, list processing, 
+shifting garbage collection overhead to compile time 
+*********************************************************************
+Document:CACM-2176
+
+followed BY an ANALYSIS OF the improvement to be expected 
+over more conventional allocation. this ANALYSIS 
+ANALYSIS OF a completely different distribution 
+buffer allocation in merge-sorting 
+*********************************************************************
+Document:CACM-2605
+
+a precise numerical ANALYSIS program 
+numerical ANALYSIS problems to any specified accuracy, 
+a description is given OF a program for computing 
+*********************************************************************
+Document:CACM-2820
+
+checking and most semantic ANALYSIS is performed as 
+edited. ANALYSIS is performed character BY character. 
+error correction, interpreters, debugging, COMPUTER 
+assisted instruction, COMPUTER science education 
+*********************************************************************
+Document:CACM-2446
+
+ANALYSIS OF skew representations OF the symmetric group (algorithm a455) 
+cacm september, 1973 
+hunter, d. b. 
+*********************************************************************
+Document:CACM-2937
+
+language. ANALYSIS OF the number OF errors 
+detailed ANALYSIS OF the errors made BY the subjects 
+an experimental evaluation OF data type conventions 
+*********************************************************************
+Document:CACM-1272
+
+and improvement OF COMPUTER output, is exemplified 
+expansion OF COMPUTER output in such 
+processes as factor ANALYSIS. applications are described, 
+such processes as factor ANALYSIS. applications 
+*********************************************************************
+Document:CACM-0721
+
+description and ANALYSIS OF the american standards association (asa). 
+report on proposed american standard flowchart 
+symbols for information processing 
+*********************************************************************
+Document:CACM-2811
+
+disease. the syntax-driven waveform ANALYSIS 
+structural pattern recognition, parsing, waveform ANALYSIS, pulse waves 
+structural pattern recognition OF carotid pulse 
+waves using a general waveform parsing system 
+*********************************************************************
+Document:CACM-2127
+
+and logical ANALYSIS OF english strings. it is concluded 
+ANALYSIS and logical inference are seen to be effective beginnings 
+OF entirely different approaches to semantic ANALYSIS and questions answering. 
+natural language question-answering systems: 1969 
+*********************************************************************
+Document:CACM-2387
+
+a simple ANALYSIS OF some computer-economic factors 
+computers, COMPUTER management, economies OF scale 
+maximum computing power and cost factors in the centralization problem 
+*********************************************************************
+Document:CACM-3194
+
+and those OF chemical ANALYSIS are pointed out. 
+a non-heuristic program for proving elementary logical theorems 
+the paper discusses problems involved in designing a device capable OF 
+*********************************************************************
+Document:CACM-1515
+
+a COMPUTER system for inference execution and data retrieval 
+logical ANALYSIS OF large collections OF factual data. 
+this paper presents a rand project concerned 
+*********************************************************************

@@ -1,0 +1,663 @@
+Query:computer performance evaluation techniques using pattern recognition and clustering       la    70803
+
+Document:CACM-2641
+
+CLUSTERING, PATTERN RECOGNITION, feature 
+a minimal spanning tree CLUSTERING method [z] (algorithm a479) 
+cacm june, 1974 
+*********************************************************************
+Document:CACM-0462
+
+COMPUTER PATTERN RECOGNITION TECHNIQUES: electrocardiographic diagnosis 
+for the purpose of PATTERN RECOGNITION. in this way 
+PATTERN classification AND RECOGNITION devices 
+comparisons between machine AND human PERFORMANCE 
+*********************************************************************
+Document:CACM-2215
+
+to sequential PATTERN RECOGNITION 
+a sequential PATTERN RECOGNITION (spr) procedure 
+sequential PATTERN RECOGNITION, game tree searching, 
+application of game tree searching TECHNIQUES 
+*********************************************************************
+Document:CACM-2019
+
+PATTERN RECOGNITION, character RECOGNITION, normalization, 
+normalization TECHNIQUES for hand printed numerals 
+family of PATTERN standardization 
+TECHNIQUES based on geometrical projection is applied to a file of 
+*********************************************************************
+Document:CACM-1653
+
+system PERFORMANCE EVALUATION: survey AND appraisal 
+the state of the art of system PERFORMANCE 
+of PERFORMANCE; overhead AND cpu speed are placed in 
+presented as three levels of approach to EVALUATION, 
+*********************************************************************
+Document:CACM-2402
+
+pictorial PATTERN RECOGNITION AND the 
+RECOGNITION TECHNIQUES make possible a number of approaches 
+PATTERN RECOGNITION algorithms is hindered by the fact 
+pictorial PATTERN RECOGNITION, phase problem, 
+*********************************************************************
+Document:CACM-2811
+
+structural PATTERN RECOGNITION of carotid pulse 
+to structural PATTERN RECOGNITION of carotid 
+structural PATTERN RECOGNITION, parsing, waveform analysis, pulse waves 
+waves USING a general waveform parsing system 
+*********************************************************************
+Document:CACM-2318
+
+modeling, EVALUATION, PERFORMANCE, analytic-models, 
+the role of COMPUTER system models in PERFORMANCE EVALUATION 
+COMPUTER system PERFORMANCE. this paper 
+methods for evaluating the PERFORMANCE of COMPUTER 
+*********************************************************************
+Document:CACM-2370
+
+an experimental laboratory for PATTERN RECOGNITION AND signal processing 
+terminal, image processing, PATTERN RECOGNITION 
+digital COMPUTER, dot-mode AND vector displays, 
+*********************************************************************
+Document:CACM-0204
+
+proving theorems by PATTERN RECOGNITION i 
+cacm april, 1960 
+wang, h. 
+*********************************************************************
+Document:CACM-2894
+
+of COMPUTER PERFORMANCE, instead of the more 
+a methodology for interactive COMPUTER service measurement 
+COMPUTER service is described. its primary 
+frequently used in ternal system measurement TECHNIQUES. 
+*********************************************************************
+Document:CACM-2232
+
+the width concept in PATTERN RECOGNITION AND the 
+PATTERN width at a given angle 
+that the PATTERN feature "width as a function 
+precise so that COMPUTER algorithms for feature extraction 
+*********************************************************************
+Document:CACM-1726
+
+PATTERN RECOGNITION, character RECOGNITION, text 
+preliminary investigation of TECHNIQUES 
+material into COMPUTER code are experimentally 
+for which some PERFORMANCE figures are obtained, is thought 
+*********************************************************************
+Document:CACM-0633
+
+(iii. analysis AND PATTERN RECOGNITION) 
+simulation AND analysis of biochemical systems 
+cacm february, 1962 
+*********************************************************************
+Document:CACM-2984
+
+COMPUTER system, PERFORMANCE EVALUATION, cost/utilization, system balance 
+cost/utilization: a measure of system PERFORMANCE 
+a method is presented for evaluating COMPUTER 
+system PERFORMANCE in terms of a cost/utilization 
+*********************************************************************
+Document:CACM-2991
+
+CLUSTERING in the key set is decreased by 
+to locate a record. the combined effects of these TECHNIQUES 
+lead to improved file PERFORMANCE for secondary 
+hashing, hashing TECHNIQUES, hashing methods, hash 
+*********************************************************************
+Document:CACM-2788
+
+picture processing, PATTERN RECOGNITION, curve detection,line fitting 
+finding circles by an array of accumulators 
+cacm february, 1975 
+*********************************************************************
+Document:CACM-2231
+
+compression, PATTERN RECOGNITION, integral geometry 
+of a finite binary PATTERN f, can we construct 
+the original PATTERN f? in this paper we give a characterization 
+patterns. it is shown that an unambiguous PATTERN can 
+*********************************************************************
+Document:CACM-2910
+
+picture processing, PATTERN RECOGNITION, curve 
+equivalence of hough curve detection to template matching 
+cacm november, 1977 
+*********************************************************************
+Document:CACM-3089
+
+AND system PERFORMANCE EVALUATION 
+PERFORMANCE of rollback recovery systems under intermittent failures 
+principal PERFORMANCE measures, including availability, 
+procedures, checking TECHNIQUES, reliability 
+*********************************************************************
+Document:CACM-2319
+
+EVALUATION, PERFORMANCE measurement, measurement, 
+operating system PERFORMANCE 
+with respect to operating system PERFORMANCE 
+AND design the PERFORMANCE aspects of an operating system 
+*********************************************************************
+Document:CACM-2542
+
+is proposed. a system which integrates PERFORMANCE EVALUATION 
+a software design AND EVALUATION system 
+the PERFORMANCE of a proposed design is not evaluated 
+description is used as direct input to PERFORMANCE 
+*********************************************************************
+Document:CACM-2980
+
+picture processing, PATTERN RECOGNITION, segmentation, region editing 
+TECHNIQUES. such regions have been eliminated 
+the editing of picture segmentations USING local analysis of graphs 
+*********************************************************************
+Document:CACM-2494
+
+a COMPUTER generated aid for cluster analysis 
+a COMPUTER generated graphic method, which 
+by COMPUTER printed symbols (of character 
+the plots, applied to a data matrix before CLUSTERING 
+*********************************************************************
+Document:CACM-3132
+
+PATTERN RECOGNITION, PATTERN classification, linear discriminants, central 
+in two-class PATTERN RECOGNITION, it is a standard 
+central solutions for PATTERN classification 
+experiments with some algorithms that find 
+*********************************************************************
+Document:CACM-2054
+
+speech RECOGNITION, word RECOGNITION, pattern-matching, PATTERN 
+an on-line COMPUTER processing system 
+an on-line digital COMPUTER processing system is considered in which an 
+ordinary telephone is the complete terminal device, input to the COMPUTER 
+*********************************************************************
+Document:CACM-2310
+
+PATTERN RECOGNITION, PATTERN generation, 
+the use of the COMPUTER in the language-oriented 
+as desirable. the implications of the COMPUTER 
+a student to write a composition) the COMPUTER 
+*********************************************************************
+Document:CACM-2437
+
+general PERFORMANCE analysis of key-to-address 
+of PERFORMANCE of the various key-to-address 
+average PERFORMANCE of the transformation methods on 
+PERFORMANCE can be classified AND key distributions 
+*********************************************************************
+Document:CACM-1938
+
+some criteria for time-sharing system PERFORMANCE 
+makes quantitative EVALUATION of time-sharing systems 
+quantitative time-sharing system PERFORMANCE 
+EVALUATION. 
+*********************************************************************
+Document:CACM-2829
+
+texture AND reflection in COMPUTER generated images 
+onto the surface. the intensity of the PATTERN at each 
+of regions of the PATTERN definition function. the shape 
+USING these new TECHNIQUES are included. 
+*********************************************************************
+Document:CACM-3070
+
+PERFORMANCE EVALUATION, simulation, queueing 
+hybrid simulation models of COMPUTER systems 
+discrete-event simulation AND analytic TECHNIQUES are 
+COMPUTER system, discrete-event simulation is used 
+*********************************************************************
+Document:CACM-3048
+
+PERFORMANCE EVALUATION of highly concurrent 
+for PERFORMANCE EVALUATION of alternative 
+statistics needed for PERFORMANCE EVALUATION, without 
+PERFORMANCE EVALUATION, deterministic simulation, 
+*********************************************************************
+Document:CACM-2849
+
+ethernet: distributed packet switching for local COMPUTER networks 
+COMPUTER networks or loosely coupled multiprocessors. 
+USING packet address RECOGNITION. design principles 
+kilometer of coaxial cable. a model for estimating PERFORMANCE 
+*********************************************************************
+Document:CACM-2107
+
+code eliminating secondary CLUSTERING 
+secondary CLUSTERING as a cause of hash code inefficiency is discussed, AND a 
+hashing, hash code, scatter storage, calculated address, CLUSTERING, 
+the quadratic quotient method: a hash 
+*********************************************************************
+Document:CACM-1931
+
+interval arithmetic determinant EVALUATION 
+EVALUATION. computational results show the accuracy 
+i. for determinant EVALUATION. an application USING 
+determinant EVALUATION, chebyshev system, 
+*********************************************************************
+Document:CACM-2990
+
+the PERFORMANCE of information retrieval systems 
+ways. much of the published EVALUATION work is based 
+on measuring the retrieval PERFORMANCE of an average 
+study, retrieval EVALUATION is based on optimizing the 
+*********************************************************************
+Document:CACM-1908
+
+on-line vs off-line PERFORMANCE, decision-making PERFORMANCE, 
+USING time-sharing AND batch-processing COMPUTER 
+who, as nonprogrammers, are USING the COMPUTER as an 
+cost for usage of the two COMPUTER systems; however, 
+*********************************************************************
+Document:CACM-3149
+
+, picture processing, COMPUTER graphics, PATTERN RECOGNITION. 
+the cyclic order property of vertices as an aid in scene analysis 
+a cyclic-order property is defined for bodies bounded by smooth-curved faces. 
+*********************************************************************
+Document:CACM-2268
+
+a comparative study of COMPUTER programs 
+a study comparing the PERFORMANCE of several COMPUTER 
+procedure is described together with the EVALUATION 
+rational extrapolation showed the best PERFORMANCE. 
+*********************************************************************
+Document:CACM-3119
+
+PERFORMANCE EVALUATION, queueing models 
+simple queueing models are used to study the PERFORMANCE tradeoffs of 
+the impact of distributions AND disciplines 
+on multiple processor systems 
+*********************************************************************
+Document:CACM-2902
+
+dynamic memory allocation in COMPUTER simulation 
+this paper investigates the PERFORMANCE of 
+test cases. algorithm PERFORMANCE was measured in 
+memory management, programming TECHNIQUES, simulation, 
+*********************************************************************
+Document:CACM-3135
+
+three-dimensional PATTERN RECOGNITION, chemical 
+an algorithm for detecting occurrences of a three-dimensional PATTERN of 
+presented uses the geometric structure of the PATTERN to define 
+detection of three-dimensional patterns of atoms in chemical structures 
+*********************************************************************
+Document:CACM-0893
+
+significance arithmetic on a digital COMPUTER 
+examples include power series EVALUATION, linear equations 
+solution, determinant EVALUATION AND matrix 
+*********************************************************************
+Document:CACM-0961
+
+TECHNIQUES are developed for manipulating bits 
+USING only fortran ii. these TECHNIQUES allow 
+limited bit manipulation USING fortran ii 
+*********************************************************************
+Document:CACM-2561
+
+data base USING nonnumerical CLUSTERING algorithms. they 
+inference, inductive inference, CLUSTERING, fact retrieval, heuristics 
+a heuristic approach to inductive inference in fact retrieval systems 
+*********************************************************************
+Document:CACM-2746
+
+consists of constructing a finite state PATTERN 
+PATTERN matching machine to process the text string 
+in a single pass. construction of the PATTERN matching 
+made by the PATTERN matching machine in 
+*********************************************************************
+Document:CACM-3078
+
+analysis of the availability of COMPUTER 
+of a COMPUTER system constructed of unreliable 
+algebraic manipulation TECHNIQUES. a major purpose of 
+processes, the potential range of application of these TECHNIQUES 
+*********************************************************************
+Document:CACM-2789
+
+a minimal spanning tree CLUSTERING method (algorithm r479) 
+cacm february, 1975 
+magnuski, h. s. 
+*********************************************************************
+Document:CACM-0851
+
+TECHNIQUES 
+new TECHNIQUES for sorting fixed-length records 
+the TECHNIQUES have been implemented on a sylvania 
+9400 COMPUTER system with 32,000 fixed-length words 
+*********************************************************************
+Document:CACM-2344
+
+effect on system PERFORMANCE. system PERFORMANCE 
+on the optimization of PERFORMANCE of time-sharing systems by simulation 
+a measure of system PERFORMANCE is used to ascertain which 
+in the measure of system PERFORMANCE can be obtained by 
+*********************************************************************
+Document:CACM-2711
+
+in a document retrieval, or other PATTERN matching 
+in particular, retrieval PERFORMANCE may correlate inversely 
+typical EVALUATION results are shown, demonstrating 
+a vector space model for automatic indexing 
+*********************************************************************
+Document:CACM-1030
+
+the simulation of a digital COMPUTER is an 
+integral part of most COMPUTER design automation 
+systems. the EVALUATION of the boolean functions which 
+characterize the COMPUTER being simulated constitutes 
+*********************************************************************
+Document:CACM-1870
+
+value. TECHNIQUES for making use of such "numbers" 
+some TECHNIQUES for USING pseudorandom numbers in COMPUTER simulation 
+an algorithm is described by which uniform pseudorandom 
+*********************************************************************
+Document:CACM-2720
+
+analytical TECHNIQUES. USING standard queueing 
+disk drive hierarchies, system EVALUATION, input/output, 
+optimal balancing of i/o requests to disks 
+*********************************************************************
+Document:CACM-2258
+
+TECHNIQUES: a fundamental PERFORMANCE study on 
+hashing, hashing TECHNIQUES, hashing methods, hash 
+additional results on key-to-address transform 
+large existing formatted files 
+*********************************************************************
+Document:CACM-1050
+
+on operating program USING these TECHNIQUES. 
+a parts breakdown technique USING list structures 
+list structured parts breakdown is proposed 
+*********************************************************************
+Document:CACM-2400
+
+picture processing, PATTERN RECOGNITION, line detection, 
+use of the hough transformation todetect lines AND curves in pictures 
+hough has proposed an interesting AND computationally 
+*********************************************************************
+Document:CACM-3136
+
+price/performance patterns of u. COMPUTER systems 
+econometric models of the u. COMPUTER market have been developed to study 
+the relationships between system price AND hardware PERFORMANCE. single 
+purpose COMPUTER systems. the other market is the developing one 
+*********************************************************************
+Document:CACM-2452
+
+EVALUATION AND selection of file organization-a model AND system 
+affect file (data base) organization PERFORMANCE, 
+of data base structure design AND EVALUATION. 
+file organization PERFORMANCE, file organization 
+*********************************************************************
+Document:CACM-2903
+
+applied to two algorithms which solve PATTERN matching problems. 
+how the fast linear PATTERN matching algorithm of knuth, 
+recursion elimination, PATTERN matching algorithms, 
+improving programs by the introduction of recursion 
+*********************************************************************
+Document:CACM-1805
+
+equipment EVALUATION, hardware, EVALUATION, 
+a mode of COMPUTER operation in which two or more 
+PERFORMANCE, time sharing, time slicing 
+productivity of multiprogrammed computers-progress 
+*********************************************************************
+Document:CACM-2882
+
+a stochastic EVALUATION model for database 
+database architecture, database PERFORMANCE AND 
+EVALUATION, invented list, threaded list, cellular 
+organization in data retrieval systems 
+*********************************************************************
+Document:CACM-2545
+
+the notion of a discrete PATTERN is formalized 
+AND certain properties deduced. a PATTERN is 
+patterns, snobol4, PATTERN theory, parsing, PATTERN matching, 
+string processing, PATTERN implementation 
+*********************************************************************
+Document:CACM-1827
+
+PERFORMANCE monitoring, PERFORMANCE measurement, 
+PERFORMANCE monitoring in a time-sharing system 
+AND PERFORMANCE. the overall structure of mts is outlined 
+program behavior, PERFORMANCE data, multiprogramming 
+*********************************************************************
+Document:CACM-2634
+
+an EVALUATION of statistical software in the social sciences 
+several hundred college AND university COMPUTER 
+AND the results are summarized as to cost AND PERFORMANCE. 
+*********************************************************************
+Document:CACM-1785
+
+scatter storage TECHNIQUES 
+scatter storage TECHNIQUES as a method for 
+most useful variants of the TECHNIQUES are documented. 
+*********************************************************************
+Document:CACM-2575
+
+document retrieval, best match, CLUSTERING, file 
+the best-match problem in document retrieval 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-0436
+
+EVALUATION of polynomials by COMPUTER 
+cacm december, 1962 
+knuth, d. e. 
+*********************************************************************
+Document:CACM-1792
+
+online AND off line programming PERFORMANCE 
+PERFORMANCE of programmers working under conditions 
+of on-line AND off line access to a COMPUTER. these 
+PERFORMANCE under controlled conditions for standard 
+*********************************************************************
+Document:CACM-2974
+
+hash address, primary CLUSTERING, index, 
+comment on weighted increment linear search for scatter tables 
+cacm april, 1977 
+*********************************************************************
+Document:CACM-2251
+
+practically eliminates primary CLUSTERING at a very low cost. 
+storage, hash table, key, hash address, CLUSTERING, 
+weighted increment linear search for scatter tables 
+*********************************************************************
+Document:CACM-2451
+
+TECHNIQUES. on the other hand, it is potentially 
+PERFORMANCE AND that of an intuitively attractive 
+tree file, information storage AND retrieval, CLUSTERING, 
+design of tree structures for efficient querying 
+*********************************************************************
+Document:CACM-0827
+
+sorting TECHNIQUES USING an ibm 1401 with 
+disk file sorting 
+a random access storage device are evaluated. 
+*********************************************************************
+Document:CACM-2113
+
+RECOGNITION, PATTERN RECOGNITION, matching procedures, tree-structure 
+the multistore parser for hierarchical syntactic structures 
+a syntactic parser is described for hierarchical concatenation patterns 
+*********************************************************************
+Document:CACM-2401
+
+one for each PATTERN, is presented. this procedure 
+any PATTERN, regardless of the complexity of 
+a PATTERN, are reviewed AND discussed. an analogy with a 
+on shrinking binary picture patterns 
+*********************************************************************
+Document:CACM-2862
+
+the PERFORMANCE of the page fault frequency (pff) 
+of the PERFORMANCE of the replacement algorithm 
+the PERFORMANCE of the pff algorithm. 
+analysis of the pff replacement algorithm via a semi-markov model 
+*********************************************************************
+Document:CACM-1992
+
+CLUSTERING, search, symbol table, keys, table look-up 
+comment on bell's quadratic quotient method for hash code searching 
+cacm september, 1970 
+*********************************************************************
+Document:CACM-2529
+
+binary PATTERN reconstruction from projections [z] (algorithm a445) 
+PATTERN reconstruction, image reconstruction, 
+cacm march, 1973 
+*********************************************************************
+Document:CACM-2528
+
+binary PATTERN reconstruction from projections [z] (algorithm r445) 
+PATTERN reconstruction, image reconstruction, 
+cacm march, 1973 
+*********************************************************************
+Document:CACM-2716
+
+optimizing the PERFORMANCE of a relational algebra database interface 
+the basic idea is to employ automatic programming TECHNIQUES 
+PERFORMANCE of a particular user query is described. 
+*********************************************************************
+Document:CACM-2669
+
+a simple linear model of demand paging PERFORMANCE 
+predicting the PERFORMANCE of a proposed automatically 
+reference PATTERN with the effect of the automatic management 
+PERFORMANCE measurement, multilevel memory 
+*********************************************************************
+Document:CACM-1427
+
+simulation of radioisotope scans by COMPUTER 
+the scan is a two-dimensional PATTERN made up of dots. 
+written for a pdp-1 COMPUTER with auxiliary disk 
+*********************************************************************
+Document:CACM-1265
+
+a number of diverse RECOGNITION procedures 
+been made to compare RECOGNITION efficiencies for the 
+comparison of the RECOGNITION of more realistic 
+turing machine on the univac m-460 COMPUTER. several 
+*********************************************************************
+Document:CACM-2375
+
+head disks are compared USING the PERFORMANCE 
+another meaningful measure of PERFORMANCE, showing possible 
+PERFORMANCE including system oriented AND individual 
+PERFORMANCE two-policy algorithm are discussed. 
+*********************************************************************
+Document:CACM-2942
+
+patterns snobol 4, PATTERN matching, string processing, 
+PATTERN implementation, algorithms in pascal 
+an algol-based implementation of snobol 4 patterns 
+*********************************************************************
+Document:CACM-2741
+
+multiprogramming, paging, PERFORMANCE EVALUATION, 
+behavior AND evaluate the PERFORMANCE of computing 
+decomposability, instabilities, AND 
+saturation in multiprogramming systems 
+*********************************************************************
+Document:CACM-1935
+
+binary PATTERN, file examination, graph theory, information 
+probabilistic method, random sequencing, search TECHNIQUES, tree structures 
+randomized binary search technique 
+*********************************************************************
+Document:CACM-2571
+
+hasp, os/360, dispatching, scheduling, modeling, PERFORMANCE EVALUATION 
+of the monitor in improving system PERFORMANCE. a 
+an analytic model of the hasp execution task monitor 
+*********************************************************************
+Document:CACM-2812
+
+AND PERFORMANCE EVALUATION. there are four major 
+analysis consists of a set of procedures AND COMPUTER 
+of applications software design, COMPUTER selection 
+AND PERFORMANCE evaluator. the statement of requirements 
+*********************************************************************
+Document:CACM-1399
+
+on top-to-bottom RECOGNITION AND left recursion 
+the RECOGNITION according to a strongly equivalent, 
+a procedure is given for obtaining structural 
+*********************************************************************
+Document:CACM-1526
+
+COMPUTER system USING a page on demand strategy 
+PERFORMANCE (measured by the average usage of 
+multiprogramming under a page on demand strategy 
+*********************************************************************
+Document:CACM-0678
+
+executed on the "host" COMPUTER. TECHNIQUES are 
+optimizing bit-time COMPUTER simulation 
+a major component of a bit-time COMPUTER simulation 
+compiler so as to optimize bit-time COMPUTER 
+*********************************************************************
+Document:CACM-2109
+
+to avoid the CLUSTERING usually encountered when hash address collisions 
+CLUSTERING, scatter storage, file searching, file 
+the use of quadratic residue research 
+*********************************************************************
+Document:CACM-2883
+
+picture processing, PATTERN RECOGNITION, edge 
+an application of heuristic search methods to edge AND contour detection 
+this paper presents a method for detecting edges 
+*********************************************************************
+Document:CACM-1534
+
+of the system. the TECHNIQUES found useful in the development 
+made of the validity of various design decisions. PERFORMANCE 
+dad, the c. operating system 
+*********************************************************************
+Document:CACM-2892
+
+PERFORMANCE EVALUATION AND efficiency, resource sharing 
+arpanet, COMPUTER communication networks, interprocess 
+a study of line overhead in the arpanet 
+*********************************************************************
+Document:CACM-1527
+
+sentences. this procedure makes use of a sentence RECOGNITION 
+is possible to make use of a RECOGNITION device of this 
+questions in the normal situation. since the RECOGNITION 
+the grammar for this set of sentences, sentence RECOGNITION 
+*********************************************************************
+Document:CACM-2018
+
+of the CLUSTERING experienced with a linear search method. the simple 
+hash code, CLUSTERING, collisions 
+full table quadratic searching for scatter storage 
+*********************************************************************
+Document:CACM-2203
+
+key-to-address transform TECHNIQUES: a fundamental 
+PERFORMANCE study on large existing formatted 
+method take on different values. the PERFORMANCE of 
+hashing, hashing TECHNIQUES, hashing methods, hash 
+*********************************************************************
+Document:CACM-1543
+
+COMPUTER formulation of the equations of motion USING tensor notation 
+types of COMPUTER problems. by the use of tensor calculus 
+AND a COMPUTER language designed to facilitate 
+devised whereby a digital COMPUTER can be used to 
+*********************************************************************

@@ -1,0 +1,638 @@
+Query:graph theoretic algorithms applicable to sparse matrices
+
+Document:CACM-2695
+
+a GRAPH THEORETIC algorithm which examines an arbitrary 
+eigenvalues, GRAPH, bandwidth, SPARSE matrix 
+in numerical linear algebra. consider the class of SPARSE 
+MATRICES which can be tridiagonalized using 
+*********************************************************************
+Document:CACM-2986
+
+operations on SPARSE relations 
+various computations on relations, boolean MATRICES, 
+a grammer. the heart of the ALGORITHMS is a general 
+an expression whose operands are SPARSE relations and 
+*********************************************************************
+Document:CACM-2769
+
+although it executes faster for SPARSE MATRICES 
+matrix, directed GRAPH, digraph, boolean 
+a modification of warshall's algorithm for 
+the transitive closure of binary relations 
+*********************************************************************
+Document:CACM-2780
+
+SPARSE MATRICES, triangular factorization, elements 
+on computing certain elements of the inverse of a SPARSE matrix 
+a recursive algorithm for computing the inverse 
+*********************************************************************
+Document:CACM-2630
+
+in a directed GRAPH. these ALGORITHMS generalize the floyd 
+on computing sets of shortest paths in a GRAPH 
+two ALGORITHMS are presented that construct 
+the shortest path between every pair of vertices in a directed GRAPH. 
+*********************************************************************
+Document:CACM-2490
+
+graphs,analysis of ALGORITHMS, GRAPH manipulation 
+efficient ALGORITHMS for GRAPH manipulation [h] (algorithm a447) 
+efficient ALGORITHMS are presented for partitioning 
+a GRAPH into connected components, biconnected 
+*********************************************************************
+Document:CACM-2368
+
+GRAPH ALGORITHMS, GRAPH processing, shannon switching 
+an implemented GRAPH algorithm for winning shannon switching games 
+is a good example of the implementation of GRAPH 
+ALGORITHMS. the two players in a shannon switching game, 
+*********************************************************************
+Document:CACM-2506
+
+a SPARSE matrix package (algorithm r408) 
+matrix, SPARSE matrix, matrix manipulation, fortran standards 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-2199
+
+a SPARSE matrix package (part i) [f4] (algorithm 408) 
+matrix, SPARSE matrix, matrix manipulation 
+cacm april, 1971 
+*********************************************************************
+Document:CACM-2289
+
+cellular arrays for the solution of GRAPH problems 
+of many GRAPH problems. for example, the adjacency 
+matrix of a GRAPH is easily mapped onto an array; 
+ALGORITHMS are presented for the solution of certain 
+*********************************************************************
+Document:CACM-2484
+
+can be represented by a tree or GRAPH, it is quite 
+base as that of constructing a tree or a GRAPH. 
+a general method for constructing such a tree or a GRAPH 
+different relations and ALGORITHMS results in different 
+*********************************************************************
+Document:CACM-2442
+
+a SPARSE matrix package (algorithm r408) 
+cacm september, 1973 
+lawrence, e. e. 
+*********************************************************************
+Document:CACM-3152
+
+in order TO multiply MATRICES while minimizing 
+rather than TO use the best known ALGORITHMS which leave the 
+MATRICES stored in row-(or column-)oriented form. an efficient 
+for multiplication of MATRICES given in row-oriented form by adapting 
+*********************************************************************
+Document:CACM-1457
+
+data structures, including linear text, SPARSE MATRICES, 
+data manipulation and programming problems 
+in automatic information retrieval 
+*********************************************************************
+Document:CACM-3176
+
+storing a SPARSE table 
+the problem of storing and searching large SPARSE tables is ubiquitous in 
+SPARSE matrix, table compression, table lookup 
+*********************************************************************
+Document:CACM-2273
+
+by instantly marking rules which are not APPLICABLE (ALGORITHMS 
+two ALGORITHMS for generating computer programs 
+from decision tables are described. the ALGORITHMS 
+entry tables. the ALGORITHMS are based on the 
+*********************************************************************
+Document:CACM-2081
+
+some complete calculi for MATRICES 
+the paper investigates how the special structure of MATRICES can be described 
+superfluous operations. sequences of MATRICES (and sequences of sequences 
+of MATRICES) are considered, and matrix operators areext 
+*********************************************************************
+Document:CACM-1787
+
+use of transition MATRICES in compiling 
+an ALGORITHMS is described which constructs 
+transition MATRICES, compilation, translation, 
+*********************************************************************
+Document:CACM-3156
+
+components of an undirected GRAPH with n vertices in time o(log2n). an 
+GRAPH theory, parallel processing, ALGORITHMS, 
+computing connected components on parallel computers 
+*********************************************************************
+Document:CACM-2405
+
+system of linear equations, almost tridiagonal matrix, SPARSE matrix 
+linear systems with almost tridiagonal matrix [f4] (algorithm a470) 
+cacm december, 1973 
+*********************************************************************
+Document:CACM-2877
+
+possibly "reach" each node of the control flow GRAPH 
+"live" on each edge of the GRAPH. the procedure uses 
+flow graphs, ALGORITHMS, compilers 
+a program data flow analysis procedure 
+*********************************************************************
+Document:CACM-0661
+
+elements of SPARSE multi-dimensional arrays are 
+indexing and the lambda-notation 
+some methods of indexing sequentially stored 
+*********************************************************************
+Document:CACM-1963
+
+condition numbers of pei MATRICES 
+MATRICES, condition numbers, pei MATRICES, eigenvectors, eigenvalues 
+cacm november, 1970 
+*********************************************************************
+Document:CACM-1047
+
+generation of test MATRICES by similarity transformations 
+a method for obtaining test MATRICES with 
+MATRICES from canonical forms. the MATRICES generated 
+*********************************************************************
+Document:CACM-3139
+
+new methods TO color the vertices of a GRAPH 
+methods TO color the vertices of a GRAPH which rely 
+upon the comparison of the degrees and structure of a GRAPH. a method 
+np-complete, GRAPH structure, balancing, GRAPH 
+*********************************************************************
+Document:CACM-3018
+
+TO the problem of covering the edges of a GRAPH 
+between this edge-clique-cover problem and the GRAPH coloring 
+problem is established which allows ALGORITHMS 
+ALGORITHMS which always produce solutions 
+*********************************************************************
+Document:CACM-2290
+
+immediate predominators in a directed GRAPH [h] (algorithm a430) 
+predominator, immediate predominator, GRAPH theory, 
+directed GRAPH, shortest path, articulation, 
+*********************************************************************
+Document:CACM-1924
+
+organizing MATRICES and matrix operations for paged memory systems 
+carefully designed matrix ALGORITHMS can lead TO 
+multiplication, and inversion ALGORITHMS shows 
+manipulation ALGORITHMS is also studied as a function 
+*********************************************************************
+Document:CACM-2172
+
+GRAPH plotter [j6] (algorithm 412) 
+plot, GRAPH, line printer plot 
+cacm july, 1971 
+*********************************************************************
+Document:CACM-1504
+
+ALGORITHMS for finding a fundamental set 
+of cycles for an undirected linear GRAPH 
+given the adjacency matrix of the GRAPH, the algorithm 
+*********************************************************************
+Document:CACM-2177
+
+GRAPH. the GRAPH may be represented either (i) as an 
+an algorithm for the blocks and cutnodes of a GRAPH 
+for a GRAPH with n nodes and m edges increases essentially 
+the time required TO analyze a GRAPH 
+*********************************************************************
+Document:CACM-2934
+
+comment on computing the k shortest paths in a GRAPH 
+GRAPH, network, shortest path, algorithm, ranking 
+cacm august, 1977 
+*********************************************************************
+Document:CACM-2805
+
+perturbations of eigenvalues of non-normal MATRICES 
+of nonnormal MATRICES, where these bounds are in terms 
+are derived are shown TO be almost attainable for any set of MATRICES. 
+perturbation of eigenvalues, non-normal MATRICES, 
+*********************************************************************
+Document:CACM-3124
+
+between the definitional systems are given and illustrated through GRAPH 
+construction of data-driven ALGORITHMS. 
+trees, data-driven ALGORITHMS, theory of arrays 
+recursive data structures in apl 
+*********************************************************************
+Document:CACM-2430
+
+the elementary circuits of a GRAPH [h] (algorithm a459) 
+algorithm, GRAPH theory, circuit search 
+cacm october, 1973 
+*********************************************************************
+Document:CACM-1707
+
+test MATRICES, positive MATRICES, similarity 
+generation of positive test MATRICES with known positive spectra 
+sufficient conditions are given for a real 
+*********************************************************************
+Document:CACM-2752
+
+generation of all the cycles of a GRAPH from 
+basic cycle, cycle, GRAPH 
+a set of basic cycles [h] (algorithm 492) 
+*********************************************************************
+Document:CACM-3115
+
+MATRICES applied TO text encryption 
+nonsingular binary MATRICES of order n, i.e., 
+binary MATRICES were produced by mapping the 
+intermediate vectors TO the MATRICES. the mapping 
+*********************************************************************
+Document:CACM-2134
+
+the assignment problem TO rectangular MATRICES 
+MATRICES, is presented first. then the authors develop 
+a solution for rectangular MATRICES. timing results 
+problem, rectangular MATRICES, algorithm 
+*********************************************************************
+Document:CACM-2883
+
+can be solved using well-known GRAPH search ALGORITHMS. 
+as a shortest path problem on a GRAPH and 
+are discussed, showing that the GRAPH search 
+an application of heuristic search methods TO edge and contour detection 
+*********************************************************************
+Document:CACM-2557
+
+and square MATRICES. the minimum time required TO evaluate 
+as well as parallel computers is discussed. ALGORITHMS 
+on the time required for a sequence of matrix products 
+*********************************************************************
+Document:CACM-2335
+
+nonsymmetric MATRICES, general MATRICES 
+eigenvalues and eigenvectors of a real general matrix (algorithm r343) 
+cacm june, 1972 
+*********************************************************************
+Document:CACM-2052
+
+conflicts in scheduling can be treated as defining an undirected linear GRAPH 
+constraints of time and space. each connected component of such a GRAPH, 
+tree, undirected linear GRAPH 
+scheduling TO reduce conflict in meetings 
+*********************************************************************
+Document:CACM-1961
+
+an efficient search algorithm TO find the elementary circuits of a GRAPH 
+circuits of a GRAPH. the algorithm can be easily modified TO find all 
+in the GRAPH TO give a relation between speed and complexity. 
+algorithm, GRAPH theory, circuit search 
+*********************************************************************
+Document:CACM-1876
+
+test MATRICES, positive MATRICES, sign patterns, 
+generation of test MATRICES having certain 
+sign patterns and prescribed positive spectra 
+*********************************************************************
+Document:CACM-2758
+
+symmetric MATRICES, factorization, test MATRICES, 
+a note on the lu factorization of a symmetric matrix 
+cacm may, 1975 
+*********************************************************************
+Document:CACM-2133
+
+(rectangular MATRICES) [h] (algorithm 415) 
+assignment problem, rectangular MATRICES 
+algorithm for the assignment problem 
+*********************************************************************
+Document:CACM-1847
+
+an algorithm for finding a fundamental set of cycles of a GRAPH 
+GRAPH. a spanning tree is grown and the vertices examined 
+edges (v,z) of the GRAPH for which z has not yet 
+for each of the n vertices of the GRAPH. for large 
+*********************************************************************
+Document:CACM-2766
+
+the best previous bounded workspace copying ALGORITHMS 
+section of memory. the method is APPLICABLE 
+copying cyclic list structures in linear time using bounded workspace 
+*********************************************************************
+Document:CACM-3040
+
+backtrack, combinatorial ALGORITHMS, constraint 
+networks, constraint satisfaction, GRAPH coloring, 
+synthesizing constraint expressions 
+*********************************************************************
+Document:CACM-2461
+
+GRAPH plotter (algorithm r412) 
+cacm august, 1973 
+watkins, r. p. 
+*********************************************************************
+Document:CACM-1481
+
+GRAPH plotter (algorithm 278 [j6]) 
+cacm february, 1966 
+lloyd, p. 
+*********************************************************************
+Document:CACM-0955
+
+a class of MATRICES TO test inversion procedures 
+cacm december, 1964 
+cline, r. e. 
+*********************************************************************
+Document:CACM-2619
+
+GRAPH coloring conditions for the existence 
+of a GRAPH. the preconditions correspond TO the unavailability 
+of a coloration of a GRAPH is the required necessary 
+of solutions TO the timetable problem 
+*********************************************************************
+Document:CACM-2059
+
+a language for the representation of GRAPH is described, and the formulation of 
+GRAPH operations such as node and/or link deletion or insertion, union, 
+colored GRAPH, language extended algol, 
+a language for treating graphs 
+*********************************************************************
+Document:CACM-2142
+
+this problem. the ALGORITHMS are APPLICABLE in a large 
+picture. three ALGORITHMS are described (all using 
+reconstruction of pictures from their projections 
+*********************************************************************
+Document:CACM-2015
+
+given a precedence grammar. a GRAPH formulation is used for the problem of 
+inverse-arborescence of that GRAPH. the validity of the technique is 
+merger algorithm, minimum cost inverse-arborescence, GRAPH theory 
+a technique for generating almost optimal 
+*********************************************************************
+Document:CACM-2806
+
+two hadamard numbers for MATRICES 
+MATRICES, eigenvalues, norms, condition numbers, 
+a discussion is given of two functions of the entries 
+*********************************************************************
+Document:CACM-0070
+
+construction of a set of test MATRICES 
+of a set of test MATRICES which are useful 
+this paper develops the equations and properties 
+*********************************************************************
+Document:CACM-0749
+
+note onstochastic MATRICES 
+cacm september, 1963 
+dumey, a. i. 
+*********************************************************************
+Document:CACM-2790
+
+the elementary circuits of a GRAPH (algorithm r459) 
+cacm february, 1975 
+syslo, m. m. 
+*********************************************************************
+Document:CACM-2980
+
+of the region adjacency GRAPH. the scheme 
+is based on definitions of GRAPH properties which are 
+editing is equivalent TO fast GRAPH operations. a number of examples are shown. 
+the editing of picture segmentations using local analysis of graphs 
+*********************************************************************
+Document:CACM-0315
+
+solution of tridiagonal MATRICES 
+cacm july, 1961 
+wenrick, r. c. 
+*********************************************************************
+Document:CACM-2905
+
+distributed sets, this method can give rather SPARSE tables. 
+every kind of set. the two techniques are APPLICABLE 
+perfect hashing functions: a single 
+probe retrieving method for static sets 
+*********************************************************************
+Document:CACM-1501
+
+two smaller MATRICES of order n which can be easily 
+the eigenvectors of the smaller MATRICES. 
+eigenvectors of a 2n x 2n matrix 
+*********************************************************************
+Document:CACM-0349
+
+a set of test MATRICES 
+cacm april, 1961 
+herndon, j. r. 
+*********************************************************************
+Document:CACM-2161
+
+an algorithm for the blocks and cutnodes of a GRAPH (corrigendum) 
+cacm september, 1971 
+paton, k. 
+*********************************************************************
+Document:CACM-1983
+
+GRAPH, tree, spanning tree 
+spanning tree $h) (algorithm 399) 
+cacm october, 1970 
+*********************************************************************
+Document:CACM-0828
+
+the method is APPLICABLE TO computer use. 
+incompressible flow network calculations 
+a general method for the calculation of flows 
+*********************************************************************
+Document:CACM-2554
+
+MATRICES with b positive definite. if n is the 
+order of the matrix and m the bandwidth, the MATRICES 
+schwartz for the reduction of symmetric MATRICES 
+generalized eigenvalues, symmetric band MATRICES 
+*********************************************************************
+Document:CACM-2778
+
+perturbations of eigenvalues of non-normal MATRICES (corrigendum) 
+cacm march, 1975 
+sluis, a. 
+*********************************************************************
+Document:CACM-0956
+
+a family of test MATRICES 
+cacm december, 1964 
+newbery, a. c. r. 
+*********************************************************************
+Document:CACM-0936
+
+a set of test MATRICES (algorithm 52) 
+cacm january, 1963 
+naur, p. 
+*********************************************************************
+Document:CACM-0777
+
+a set of test MATRICES (algorithm 52) 
+cacm august, 1963 
+naur, p. 
+*********************************************************************
+Document:CACM-0635
+
+a note on multiplying boolean MATRICES 
+cacm february, 1962 
+baker, j. j. 
+*********************************************************************
+Document:CACM-1423
+
+of the concept of an inverse which applies TO all MATRICES. 
+ALGORITHMS are fairly complicated and require 
+method for inverting non-singular MATRICES, which gives 
+a simple algorithm for computing the generalized inverse of a matrix 
+*********************************************************************
+Document:CACM-1151
+
+a note on multiplying boolean MATRICES ii 
+cacm january, 1964 
+comstock, d. r. 
+*********************************************************************
+Document:CACM-0896
+
+characteristic values and vectors of defective MATRICES 
+cacm march, 1963 
+thompson, g. t. 
+*********************************************************************
+Document:CACM-0511
+
+a set of test MATRICES (algorithm 52) 
+cacm august, 1962 
+hillmore, j. s. 
+*********************************************************************
+Document:CACM-0301
+
+a set of test MATRICES (algorithm 52) 
+cacm august, 1961 
+gilbert, h. e. 
+*********************************************************************
+Document:CACM-0285
+
+solution of tridiagonal MATRICES 
+cacm september, 1961 
+wenrick, r. c. 
+*********************************************************************
+Document:CACM-0256
+
+a set of test MATRICES (algorithm 52) 
+cacm november, 1961 
+dubay, g. h. 
+*********************************************************************
+Document:CACM-1886
+
+necessarily generated. the factorization ALGORITHMS 
+are also APPLICABLE TO the problem of factoring 
+factorization ALGORITHMS, code optimization, sequencing 
+generation of optimal code for expressions via factorization 
+*********************************************************************
+Document:CACM-2216
+
+using more advanced ALGORITHMS in the family makes 
+therefore is APPLICABLE TO a family of sorting ALGORITHMS 
+on the probability distribution of the values of binary trees 
+*********************************************************************
+Document:CACM-0660
+
+more test MATRICES for determinants and inverses (pracnique) 
+cacm december, 1963 
+englar, t. s. 
+*********************************************************************
+Document:CACM-0496
+
+a set of MATRICES for testing computer programs 
+cacm august, 1962 
+brenner, j. l. 
+*********************************************************************
+Document:CACM-2189
+
+is described. in a nonoriented complete GRAPH with 
+the permutation is determined by {e[k]}. two ALGORITHMS 
+permutation, GRAPH theory, scheduling, combinatorial algebra 
+generation of rosary permutations expressed in hamiltonian circuits 
+*********************************************************************
+Document:CACM-1116
+
+boolean MATRICES, is described. in limited tests the 
+timetable problem TO theorems on MATRICES of zeros 
+tests on a computer method for constructing school timetables* 
+*********************************************************************
+Document:CACM-1822
+
+shortest path, tree, network, directed GRAPH 
+shortest-path forest with topological ordering (algorithm [h]) 
+cacm november, 1969 
+*********************************************************************
+Document:CACM-0751
+
+a note on a set of test MATRICES for inversion 
+cacm september, 1963 
+rodman, r. d. 
+*********************************************************************
+Document:CACM-2178
+
+a language extension for GRAPH processing and its formal semantics 
+graspe consists of a type of directed GRAPH data structure 
+GRAPH processing, programming language, formal semantics, 
+directed GRAPH, lisp, network, data structure, 
+*********************************************************************
+Document:CACM-1683
+
+defined boolean MATRICES. application of the 
+syntactic analysis, boolean MATRICES, relations 
+boolean matrix methods for the detection of simple precedence grammars 
+*********************************************************************
+Document:CACM-2453
+
+time. the method is APPLICABLE TO any limited entry 
+previously published heuristic ALGORITHMS. compared 
+information theory applied TO the conversion 
+of decision tables TO computer programs 
+*********************************************************************
+Document:CACM-3085
+
+MATRICES in the optimal order is presented. an 
+where mi's are MATRICES. the order in which the MATRICES 
+an o(n) algorithm for determining a near-optimal 
+computation order of matrix chain products 
+*********************************************************************
+Document:CACM-2763
+
+GRAPH, basic cycles,fundamental cycle, 
+basic cycle generation [h] (algorithm 491) 
+cacm may, 1975 
+*********************************************************************
+Document:CACM-2824
+
+syntax analysis, precedence functions, boolean MATRICES 
+an improvement TO martin's algorithm for 
+computation of linear precedence functions 
+*********************************************************************
+Document:CACM-2787
+
+reduction of the binary MATRICES which arise in 
+binary MATRICES, matrix reduction, tight set, school 
+matrix reduction-an efficient method 
+*********************************************************************
+Document:CACM-1347
+
+partial derivative MATRICES. this requirement has led TO 
+the required MATRICES from specific system equations supplied 
+general time-varying systems error sensitivities program 
+*********************************************************************
+Document:CACM-2281
+
+the eigen problem of block tridiagonal MATRICES 
+cacm september, 1972 
+khalil, h. m. 
+*********************************************************************
+Document:CACM-1791
+
+triangular factors of modified MATRICES (algorithm 319 [f1]) 
+cacm january, 1968 
+green, d. r. 
+*********************************************************************

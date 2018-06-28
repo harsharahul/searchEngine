@@ -1,0 +1,613 @@
+Query:currently interested in isolation of root of polynomial there is an old more recent material  heindel l
+
+Document:CACM-2660
+
+parallelism, POLYNOMIAL ROOT finding, real zeros 
+addendum to m. L. patrick paper 
+cacm april, 1974 
+*********************************************************************
+Document:CACM-1524
+
+a stopping criterion for POLYNOMIAL ROOT finding 
+when searching for the ROOT OF a POLYNOMIAL, 
+accept a number as AN adequate approximation to the ROOT. 
+which occurs IN evaluating the POLYNOMIAL. this stopping 
+*********************************************************************
+Document:CACM-1615
+
+AN algorithm for generating ROOT locus diagrams 
+draw both ordinary and time-lag ROOT locus diagrams 
+a technique for using a digital computer to 
+*********************************************************************
+Document:CACM-1999
+
+square ROOT for slow or no divide 
+use AN iterative scheme for the square ROOT different from 
+approximants IS considered, and some optimal POLYNOMIAL initial 
+square ROOT, newton-raphson iteration, optimal approximants 
+*********************************************************************
+Document:CACM-1763
+
+ROOT finders, POLYNOMIAL equation roots, quadratic 
+roots OF low-order POLYNOMIAL equations (algorithm 326 [c2]) 
+equation roots, POLYNOMIAL zeros 
+*********************************************************************
+Document:CACM-1949
+
+finiteness assumptions and intellectual ISOLATION OF computer scientists 
+algol vs. fortran, finiteness assumptions, intellectual ISOLATION, 
+cacm december, 1970 
+*********************************************************************
+Document:CACM-0848
+
+a note on range transformations for square ROOT and logarithm 
+usage for the square ROOT and logarithm function 
+THERE was the germ OF AN idea IN two previous 
+*********************************************************************
+Document:CACM-0884
+
+orthogonal POLYNOMIAL least squares surface fit (algorithm 164) 
+phillips, L. p. 
+cacm april, 1963 
+*********************************************************************
+Document:CACM-2345
+
+IN universities, at the master's level. MATERIAL 
+ashenhurst, r. L. 
+curriculum recommendations for graduate 
+professional programs IN information systems 
+*********************************************************************
+Document:CACM-1893
+
+ROOT finders, roots OF POLYNOMIAL equations, POLYNOMIAL 
+roots OF polynomials by a root-squaring 
+and resultant routine (algorithm 340 [c2]) 
+*********************************************************************
+Document:CACM-1667
+
+ROOT finders, roots OF POLYNOMIAL equations, POLYNOMIAL 
+roots OF polynomials by a root-squaring 
+and resultant routine (algorithm 340 [c2]) 
+*********************************************************************
+Document:CACM-0334
+
+division and square ROOT IN the quater-imaginary number system 
+cacm april, 1961 
+nadler, m. 
+*********************************************************************
+Document:CACM-0672
+
+RECENT developments affecting adp IN tax administration 
+cacm december, 1963 
+leibowitz, g. j. 
+*********************************************************************
+Document:CACM-1812
+
+grosenbaugh, L. r. 
+MORE on fortran random number generators 
+cacm november, 1969 
+*********************************************************************
+Document:CACM-1832
+
+logarithmic error, transformed rational approximation, square ROOT 
+minimax logarithmic error 
+cacm october, 1969 
+*********************************************************************
+Document:CACM-0397
+
+fields-reference MATERIAL field (columns 1-67) 
+for the reference MATERIAL IS flexible, while the 
+MATERIAL includes basically AN index, title, source, 
+identification also provides a choice to identify MATERIAL 
+*********************************************************************
+Document:CACM-1153
+
+a fast procedure for generating normal random variables* 
+a technique for generating normally distributed 
+random numbers IS described. it IS faster 
+*********************************************************************
+Document:CACM-1803
+
+complex ROOT finding (algorithm 365 [c5]) 
+cacm december, 1969 
+bach, h. 
+*********************************************************************
+Document:CACM-2657
+
+chang, c. L. 
+AN improved program-synthesizing algorithm and its correctness 
+AN improved program-synthesizing algorithm 
+*********************************************************************
+Document:CACM-1440
+
+starting approximations for square ROOT calculation on ibm system/360 
+ROOT calculation by newton's method are presented 
+ROOT routines. these approximations include 
+*********************************************************************
+Document:CACM-0435
+
+INTERESTED. a method employing a decision matrix 
+a decision matrix as the basis for a simple data input routine 
+CURRENTLY a great deal OF time and effort IS 
+*********************************************************************
+Document:CACM-1121
+
+several points IN a RECENT paper describing some 
+comments on "a continued operation notation"* 
+this note IS intended to clarify and correct 
+*********************************************************************
+Document:CACM-2266
+
+all zeros OF a POLYNOMIAL with only real zeros 
+OF a POLYNOMIAL with only real zeros. the algorithm, which 
+point IN the method IS POLYNOMIAL deflation used. 
+patrick, m. L. 
+*********************************************************************
+Document:CACM-0819
+
+POLYNOMIAL evaluation revised 
+cacm july, 1963 
+eisman, s. h. 
+*********************************************************************
+Document:CACM-0341
+
+chebyschev POLYNOMIAL (algorithm 10) 
+cacm april, 1961 
+herndon, j. 
+*********************************************************************
+Document:CACM-0340
+
+legendre POLYNOMIAL (algorithm 13) 
+cacm april, 1961 
+herndon, j. 
+*********************************************************************
+Document:CACM-0125
+
+POLYNOMIAL transformer (algorithm 29) 
+cacm november, 1960 
+mackinney, j. g. 
+*********************************************************************
+Document:CACM-1080
+
+chebyshev POLYNOMIAL coefficients (algorithm 227) 
+cacm may, 1964 
+cyvin, s. j. 
+*********************************************************************
+Document:CACM-0062
+
+multi-dimensional least-squares POLYNOMIAL curve fitting 
+cacm september, 1959 
+lesh, f. h. 
+*********************************************************************
+Document:CACM-2749
+
+parnas, d. L. 
+significant event simulation 
+this paper compares a new method OF simulation 
+*********************************************************************
+Document:CACM-0765
+
+orthogonal POLYNOMIAL least squares surface fit (algorithm 164) 
+cacm august, 1963 
+bitterli, c. v. 
+*********************************************************************
+Document:CACM-1623
+
+may be INTERESTED IN the problem because it IS stated 
+neidleman, L. d. 
+AN application OF formac 
+*********************************************************************
+Document:CACM-1620
+
+methods OF evaluating POLYNOMIAL approximations 
+approximation polynomials. new POLYNOMIAL evaluation 
+methods have been developed IN RECENT years which 
+IN function evaluation routines 
+*********************************************************************
+Document:CACM-1932
+
+the logarithmic error and newton's method for the square ROOT 
+for the calculation OF the square ROOT using 
+phillips, d. L. 
+square ROOT, newton's method, relative error, logarithmic 
+*********************************************************************
+Document:CACM-2450
+
+has been proposed IN RECENT years as a basis for 
+empirical working set behavior 
+the working set model for program behavior 
+*********************************************************************
+Document:CACM-2693
+
+derivative, POLYNOMIAL, smooth surface fitting 
+bivariate interpolation and smooth surface fitting 
+based on local procedures [e2] (algorithm 
+a474) 
+*********************************************************************
+Document:CACM-0024
+
+sisson, r. L. 
+AN improved decimal redundancy check 
+cacm may, 1958 
+*********************************************************************
+Document:CACM-1386
+
+a multi-variate POLYNOMIAL with integer coefficients 
+factoring OF any POLYNOMIAL may be found IN a finite number 
+single-variable instances OF the given POLYNOMIAL by 
+clapp, L. c. 
+*********************************************************************
+Document:CACM-0116
+
+on a RECENT motor trip through mexico, the writer 
+rogers, j. L. 
+the sumador chino 
+*********************************************************************
+Document:CACM-1867
+
+one IS INTERESTED IN the ratio l(j) OF the 
+on the expected lengths OF sequences generated 
+IN sorting by replacement selecting 
+*********************************************************************
+Document:CACM-1816
+
+three-term recurrence, POLYNOMIAL regression, 
+generalized least squares fit by orthogonal 
+polynomials (algorithm 296 [e2]) 
+*********************************************************************
+Document:CACM-2391
+
+unitary symmetric polynomials, POLYNOMIAL 
+unitary symmetric polynomials [z] (algorithm r391) 
+cacm january, 1972 
+*********************************************************************
+Document:CACM-2324
+
+weil, r. L. 
+management science: a view from nonlinear programming 
+a brief history OF integer and continuous 
+*********************************************************************
+Document:CACM-1573
+
+gallaher, L. j. 
+AN adaptive quadrature procedure with 
+random panel sizes (algorithm [d1]) 
+*********************************************************************
+Document:CACM-0656
+
+wang, t. L. 
+AN information system with the ability to extract intelligence from data 
+cacm january, 1962 
+*********************************************************************
+Document:CACM-2194
+
+richards, d. L. 
+how to keep the addresses short 
+AN algorithm IS presented for minimizing the 
+*********************************************************************
+Document:CACM-0492
+
+basis OF a markov chain model. for the reader not INTERESTED 
+analysis OF a file addressing method 
+this paper presents a new file addressing method 
+*********************************************************************
+Document:CACM-2919
+
+ivie, e. L. 
+the programmer's workbench-a machine for software development 
+on almost all software development projects the 
+*********************************************************************
+Document:CACM-1046
+
+by j. rohl IN their most RECENT paper have presented 
+to the MATERIAL published IN the listed references. 
+a compiler-building system developed by brooker and morris 
+*********************************************************************
+Document:CACM-2407
+
+MATERIAL necessary for such programs IS identified, 
+curriculum recommendations for undergraduate 
+programs IN information systems 
+*********************************************************************
+Document:CACM-2779
+
+discrete least squares POLYNOMIAL fits 
+shampine, L. f. 
+the recurrence relation between orthogonal polynomials 
+*********************************************************************
+Document:CACM-1644
+
+OF a least squares POLYNOMIAL makes the 
+computed POLYNOMIAL only AN approximation to the true least 
+square POLYNOMIAL. a simple method for adjust ing 
+the constant term OF the computed POLYNOMIAL to get 
+*********************************************************************
+Document:CACM-2744
+
+addition IN AN arbitrary base without radix conversion 
+this paper presents a generalization OF AN 
+OLD programming technique; using it,one may add 
+*********************************************************************
+Document:CACM-2423
+
+a parser-generating system for constructing compressed compilers 
+this paper describes a parser-generating system 
+(pgs) CURRENTLY IN use on the cdc-6500 computer 
+*********************************************************************
+Document:CACM-0262
+
+moore, c. L. 
+ruwe, m. L. 
+map 
+*********************************************************************
+Document:CACM-1882
+
+determination OF the square ROOT OF a positive 
+matrix, symmetric matrix, positive definite matrix, matrix square ROOT 
+definite matrix (algorithm 298 [f1]) 
+*********************************************************************
+Document:CACM-1852
+
+a base for a mobile programming system 
+AN algorithm for a macro processor which has 
+been used as the base OF AN implementation, by 
+*********************************************************************
+Document:CACM-0660
+
+MORE test matrices for determinants and inverses (pracnique) 
+cacm december, 1963 
+englar, t. s. 
+*********************************************************************
+Document:CACM-1333
+
+as noted IN a RECENT article by wolfe. a simpler 
+reducing truncation errors using cascading accumulators 
+when accumulating a large number OF quantities 
+*********************************************************************
+Document:CACM-2757
+
+MORE on kth shortest paths 
+cacm may, 1975 
+fox, b. 
+*********************************************************************
+Document:CACM-1869
+
+block structures, indirect addressing, and garbage collection 
+programming languages have included explicit 
+or implicit block structures to provide a naming 
+*********************************************************************
+Document:CACM-2840
+
+ruzzo, w. L. 
+protection IN operating systems 
+a model OF protection mechanisms IN computing 
+*********************************************************************
+Document:CACM-2999
+
+some RECENT work on the development OF general-purpose 
+by a summary OF some RECENT developments IN array processing 
+AN approach to multidimensional data array processing by computer 
+*********************************************************************
+Document:CACM-0332
+
+johnson, L. r. 
+AN indirect chaining method for addressing on secondary keys 
+methods for entering random access files on 
+*********************************************************************
+Document:CACM-1931
+
+two RECENT papers, one by hansen and one by 
+smith, L. b. 
+interval arithmetic determinant evaluation 
+and its use IN testing for a chebyshev system 
+*********************************************************************
+Document:CACM-2615
+
+schumaker, L. L. 
+procedures for computing smoothing and interpolating 
+natural splines [e1] (algorithm a480) 
+*********************************************************************
+Document:CACM-0474
+
+yarbrough, L. 
+input data organization IN fortran 
+cacm october, 1962 
+*********************************************************************
+Document:CACM-3127
+
+melen, L. 
+thoth, a portable real-time operating system 
+thoth isa real-time operating system which IS designed to be portable 
+*********************************************************************
+Document:CACM-3060
+
+fortran 77 
+THERE IS a new standard fortran. the official 
+title IS "american national standard programming 
+*********************************************************************
+Document:CACM-2722
+
+the ROOT, o (n^(k-1)/k); deletion OF a random node, 
+bently, j. L. 
+multidimensional binary search trees used for associative searching 
+*********************************************************************
+Document:CACM-2709
+
+OF if-then-else and while-do IS discussed. several RECENT 
+a genealogy OF control structures 
+the issue OF program control structures has 
+*********************************************************************
+Document:CACM-0529
+
+aroian, L. a. 
+regression and coded patterns IN data editing 
+cacm july, 1962 
+*********************************************************************
+Document:CACM-2449
+
+a simple technique for structured variable lookup 
+a simple technique for the symbol-table lookup 
+OF structured variables based on simple automata 
+*********************************************************************
+Document:CACM-1259
+
+baker, r. L. 
+applications OF binary numbers IN computer routines 
+a binary number can be thought OF as AN alternate 
+*********************************************************************
+Document:CACM-1520
+
+absolute value and square ROOT OF a complex number (algorithm 312 [a2]) 
+cacm october, 1967 
+friedland, p. 
+*********************************************************************
+Document:CACM-1489
+
+fisher, d. L. 
+data, documentation and decision tables 
+IN business data processing systems, it IS 
+*********************************************************************
+Document:CACM-2135
+
+IS made to approximate L (f) with L (q) where q IS a POLYNOMIAL, 
+rapid computation OF general interpolation 
+formulas and mechanical quadrature rules 
+*********************************************************************
+Document:CACM-1311
+
+schmid, L. p. 
+efficient autocorrelation 
+cacm february, 1965 
+*********************************************************************
+Document:CACM-1074
+
+schumaker, L. 
+shanks (algorithm 215) 
+cacm may, 1964 
+*********************************************************************
+Document:CACM-1488
+
+programming decision tables IN fortran, cobol or algol 
+a simple broad-based approach for programming 
+decision tables IN fortran or cobol IS developed 
+*********************************************************************
+Document:CACM-0923
+
+bauer, f. L. 
+gomory (algorithm 153) 
+cacm february, 1963 
+*********************************************************************
+Document:CACM-0898
+
+laughlin, d. L. 
+random (algorithm 133) 
+cacm march, 1963 
+*********************************************************************
+Document:CACM-0255
+
+breed, L. m. 
+augmentation (algorithm 68) 
+cacm november, 1961 
+*********************************************************************
+Document:CACM-2774
+
+frederick, L. w. 
+remark on algorithm 475 
+cacm april, 1975 
+*********************************************************************
+Document:CACM-1513
+
+robinson, c. L. 
+permutation (algorithm 317 [g6]) 
+cacm november, 1967 
+*********************************************************************
+Document:CACM-1377
+
+hansson, L. 
+pseudo-random numbers (algorithm 266 [g5]) 
+cacm september, 1966 
+*********************************************************************
+Document:CACM-0702
+
+vrchovecka, L. 
+assign (algorithm 173) 
+cacm october, 1963 
+*********************************************************************
+Document:CACM-0649
+
+peck, j. e. L. 
+factors (algorithm 75) 
+cacm january, 1962 
+*********************************************************************
+Document:CACM-0520
+
+smith, r. L. 
+complex division (algorithm 116) 
+cacm august, 1962 
+*********************************************************************
+Document:CACM-0484
+
+schaefer, L. j. 
+hankel function (algorithm 124) 
+cacm september, 1962 
+*********************************************************************
+Document:CACM-0469
+
+hellberg, L. 
+critical path scheduling (algorithm 40) 
+cacm october, 1962 
+*********************************************************************
+Document:CACM-0394
+
+ryle, b. L. 
+multiple programming data processing 
+cacm february, 1961 
+*********************************************************************
+Document:CACM-0324
+
+bauer, f. L. 
+romberg integration (algorithm 60) 
+cacm june, 1961 
+*********************************************************************
+Document:CACM-0074
+
+shell, d. L. 
+a high-speed sorting procedure 
+cacm july, 1959 
+*********************************************************************
+Document:CACM-2934
+
+lawler, e. L. 
+comment on computing the k shortest paths IN a graph 
+cacm august, 1977 
+*********************************************************************
+Document:CACM-1633
+
+for all the roots OF the POLYNOMIAL. three variations 
+ehrlich, L. w. 
+a modified newton method for polynomials 
+*********************************************************************
+Document:CACM-2503
+
+wexelblat, r. L. 
+another comment on computer music 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-2397
+
+shell, d. L. 
+optimizing the polyphase sort (corrigendum) 
+cacm january, 1972 
+*********************************************************************
+Document:CACM-0599
+
+donally, w. L. 
+a report writer for cobol 
+cacm may, 1962 
+*********************************************************************
+Document:CACM-0141
+
+yarbrough, L. d. 
+some thoughts on parallel processing 
+cacm october, 1960 
+*********************************************************************

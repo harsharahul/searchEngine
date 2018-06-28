@@ -1,0 +1,667 @@
+Query:addressing schemes for resources in networks resource addressing in network operating systems
+
+Document:CACM-2625
+
+various ADDRESSING SCHEMES making use of segment 
+information sharing, OPERATING SYSTEMS, computer 
+ADDRESSING, capabilities, ADDRESSING hardware, 
+capability-based ADDRESSING 
+*********************************************************************
+Document:CACM-1869
+
+block structures, indirect ADDRESSING, and garbage collection 
+ADDRESSING is used, as IN snobol, naming constraints 
+indirect ADDRESSING within function definitions; 
+block structures, indirect ADDRESSING, 
+*********************************************************************
+Document:CACM-2541
+
+new concept FOR OPERATING SYSTEMS: separation 
+design of the language, OPERATING system, 
+and the system's ADDRESSING structure, and centralized the 
+of the scheduling from the maintenance functions IN RESOURCE 
+*********************************************************************
+Document:CACM-0912
+
+ADDRESSING an array yi IN k-dimensions 
+by fortran FOR analysis of variance 
+cacm march, 1963 
+*********************************************************************
+Document:CACM-2858
+
+addresses IN variable length ADDRESSING 
+to the ADDRESSING constraints. this may be, FOR example, 
+variable length ADDRESSING, assembler, paging 
+a process FOR the determination of 
+*********************************************************************
+Document:CACM-1785
+
+scatter storage, hash ADDRESSING, searching, 
+file searching, file ADDRESSING, storage layout 
+scatter storage techniques 
+*********************************************************************
+Document:CACM-2830
+
+a practitioner's guide to ADDRESSING algorithms (corrigendum) 
+cacm september, 1976 
+severance, d. g. 
+*********************************************************************
+Document:CACM-2194
+
+some computers permit either 8-bit ADDRESSING 
+16-bit ADDRESSING of all of memory. when assembling 
+ADDRESSING, assembler, covering problem, integer 
+programming, variable-length ADDRESSING 
+*********************************************************************
+Document:CACM-3083
+
+half way between open ADDRESSING and chaining. it owes 
+hash code, scatter storage, open ADDRESSING, chaining, 
+pseudochaining IN hash tables 
+*********************************************************************
+Document:CACM-2991
+
+transformation, direct ADDRESSING, direct access, direct 
+ADDRESSING, file organizations, file structures, scatter 
+clustering, information retrieval, open ADDRESSING, open 
+improving the access time FOR random access files 
+*********************************************************************
+Document:CACM-2860
+
+a practitioner's guide to ADDRESSING algorithms 
+design of record ADDRESSING algorithms, and discusses 
+data management, file retrieval, searching, ADDRESSING 
+*********************************************************************
+Document:CACM-0492
+
+analysis of a file ADDRESSING method 
+this paper presents a new file ADDRESSING method 
+based on the calculation of an address from 
+*********************************************************************
+Document:CACM-3032
+
+nodes of a NETWORK. algorithms FOR accomplishing 
+computer NETWORK include (1) transmission 
+ADDRESSING, (3) hot potato forwarding,(4) spanning 
+IN store-and-forward packet switching computer NETWORKS. 
+*********************************************************************
+Document:CACM-2543
+
+address calculation, content ADDRESSING, file searching, 
+hash ADDRESSING, hash code, linear probing, 
+reducing the retrieval time of scatter storage techniques 
+*********************************************************************
+Document:CACM-3053
+
+scatter tables FOR open ADDRESSING benefit 
+ADDRESSING, recursion, scatter table rearrangements 
+packed scatter tables 
+*********************************************************************
+Document:CACM-1677
+
+storage organization IN programming SYSTEMS 
+ADDRESSING mechanisms, paging, segmentation, file 
+or programming SYSTEMS: simplicity of programmed ADDRESSING, 
+*********************************************************************
+Document:CACM-3126
+
+hashing, hashing methods, hash coding, direct ADDRESSING, identifier- 
+comments on perfect hashing functions: a single 
+probe retrieving method FOR static sets 
+*********************************************************************
+Document:CACM-2109
+
+quadratic residue, search method, hash ADDRESSING, address 
+ADDRESSING, hash coding, quadratic search, 
+the use of quadratic residue research 
+*********************************************************************
+Document:CACM-2501
+
+method FOR ADDRESSING text by content is provided. this 
+preparation, data entry, content ADDRESSING 
+wylbur: an interactive text editing and remote job entry system 
+*********************************************************************
+Document:CACM-2951
+
+the five diverse arpa NETWORK SYSTEMS studied IN detail, 
+NETWORK time-sharing SYSTEMS as it depends on some 
+dynamic response time prediction FOR computer NETWORKS 
+if the ultimate aim of a computing NETWORK 
+*********************************************************************
+Document:CACM-0332
+
+an indirect chaining method FOR ADDRESSING on secondary keys 
+methods FOR entering random access files on 
+the basis of one key are briefly surveyed. the 
+*********************************************************************
+Document:CACM-2258
+
+transformation, direct ADDRESSING, direct access method, 
+additional results on key-to-address transform 
+techniques: a fundamental performance study on 
+large existing formatted files 
+*********************************************************************
+Document:CACM-2203
+
+transformation, direct ADDRESSING, direct access method, 
+randomizing, random access,file ADDRESSING, 
+key-to-address transform techniques: a fundamental 
+performance study on large existing formatted 
+*********************************************************************
+Document:CACM-1754
+
+dynamic storage allocation SYSTEMS 
+SYSTEMS is included as an appendix. 
+storage fragmentation, storage hierarchies, ADDRESSING mechanisms 
+*********************************************************************
+Document:CACM-0040
+
+is the way binary ADDRESSING and instruction formats can 
+review of the significance of decimal and binary ADDRESSING 
+fingers or fists? (the choice of decimal or binary representation) 
+*********************************************************************
+Document:CACM-1879
+
+technique FOR segment ADDRESSING which take advantage 
+paging, segmentation, ADDRESSING 
+a note on storage fragmentation and program segmentation 
+*********************************************************************
+Document:CACM-2371
+
+computer NETWORKS, RESOURCE sharing 
+IN a RESOURCE sharing computer NETWORK 
+distributed throughout a computer NETWORK. 
+the hypothetical application of the system to an existing NETWORK is discussed. 
+*********************************************************************
+Document:CACM-2776
+
+experiences of these OPERATING NETWORKS, a number of factors 
+computer NETWORKS IN higher education: socio-economic-political factors 
+survey of computer NETWORKS IN higher education 
+conducted during 1971-73. five major and 18 minor NETWORKS 
+*********************************************************************
+Document:CACM-2358
+
+as experience with use of on-line OPERATING 
+SYSTEMS has grown, the need to share information 
+many contemporary SYSTEMS permit some degree of 
+multics provides direct hardware ADDRESSING by user and 
+*********************************************************************
+Document:CACM-2500
+
+a practical approach to managing RESOURCES and avoiding deadlocks 
+RESOURCE scheduling and allocation can be expensive 
+tasks and RESOURCES with conflicting requirements. 
+OPERATING system, keeps RESOURCES relatively 
+*********************************************************************
+Document:CACM-1685
+
+NETWORK analysis, NETWORK calculation, NETWORK program 
+NETWORK generator, NETWORK assembler, activity 
+gan, a system FOR generating and analyzing activity NETWORKS 
+gan, a system FOR generating activity NETWORKS, 
+*********************************************************************
+Document:CACM-3110
+
+span-dependent instructions, variable-length ADDRESSING, 
+assembling code FOR machines with span-dependent instructions 
+many modern computers contain instructions 
+*********************************************************************
+Document:CACM-0615
+
+ADDRESSING multidimensional arrays 
+a useful method of representing a function of 
+n variables is to consider the function to assume 
+*********************************************************************
+Document:CACM-1877
+
+a well-known problem IN the design of OPERATING 
+situation IN which RESOURCES have been allocated 
+the current allocation of RESOURCES and determine 
+multiprogramming, time-sharing, scheduling, RESOURCE allocation 
+*********************************************************************
+Document:CACM-1611
+
+scheduling project NETWORKS 
+scheduling system ramps (RESOURCE allocation and 
+and NETWORK analysis features of the algorithm 
+*********************************************************************
+Document:CACM-2949
+
+topology, routing problem IN NETWORKS, distributed OPERATING 
+NETWORK 
+NETWORK to communicate, each node must have 
+merit computer NETWORK is presented and explained; this 
+*********************************************************************
+Document:CACM-2499
+
+RESOURCE allocation, RESOURCE accounting 
+efficient multiprogramming RESOURCE allocation and accounting 
+can involve broader questions of RESOURCE allocation, 
+maximal RESOURCE use to be unfair, FOR example 
+*********************************************************************
+Document:CACM-2482
+
+deadlocks, RESOURCE allocation, OPERATING SYSTEMS, 
+of RESOURCE allocation and still operate together to 
+based on the concept of the hierarchical OPERATING 
+occurring RESOURCE allocation problems 
+*********************************************************************
+Document:CACM-2522
+
+OPERATING SYSTEMS, supervisory SYSTEMS 
+SYSTEMS, RESOURCE allocation, software evaluation, 
+the system RESOURCES to the processes competing FOR them. 
+recent research IN time-sharing paging SYSTEMS 
+*********************************************************************
+Document:CACM-2377
+
+a system which uses segmentation as a memory ADDRESSING 
+a hardware architecture FOR implementing protection rings 
+protection of computations and information 
+*********************************************************************
+Document:CACM-0071
+
+a large set of characters, and indirect ADDRESSING. 
+proposal FOR a feasible programming system 
+this paper proposes designing a programming 
+*********************************************************************
+Document:CACM-1928
+
+large SYSTEMS simulation, NETWORK structures, 
+exclusive simulation of activity IN digital NETWORKS 
+and SYSTEMS to be simulated may be combinations of synchronous 
+of NETWORK structures other than digital NETWORKS. 
+*********************************************************************
+Document:CACM-2197
+
+the merit of regional computing NETWORKS 
+computing NETWORKS. one such NETWORK has 
+learned from the operation of the NETWORK over the past 
+two years. a major impact of the NETWORK was 
+*********************************************************************
+Document:CACM-2920
+
+priori information about the processes, RESOURCES, OPERATING 
+as a game between the OPERATING system and the processes 
+OPERATING system, multiprogramming, time-sharing, 
+RESOURCE allocation, deadlock, IN terlock, deadly 
+*********************************************************************
+Document:CACM-2614
+
+critical path, NETWORKS, precedence NETWORKS 
+arrow to precedence NETWORK transformation [h] (algorithm a481) 
+cacm august, 1974 
+*********************************************************************
+Document:CACM-2892
+
+are used to anticipate overhead IN a heavily loaded NETWORK. 
+proposed NETWORK protocol and compared with those FOR the current system. 
+arpanet, computer communication NETWORKS, interprocess 
+performance evaluation and efficiency, RESOURCE sharing 
+*********************************************************************
+Document:CACM-2437
+
+direct ADDRESSING, randomizing, random access, scatter 
+general performance analysis of key-to-address 
+transformation methods using an abstract file 
+concept 
+*********************************************************************
+Document:CACM-2095
+
+distributions of segment sizes measured under routine OPERATING con 
+should be relevant to the design of new computer SYSTEMS, 
+especially with respect to the organization of paging SCHEMES. 
+paging, RESOURCE allocation, memory allocation, core utilization 
+*********************************************************************
+Document:CACM-1723
+
+computer construction of project NETWORKS 
+project NETWORKS are used IN pert and cpm. 
+NETWORKS directly from the project precedence relations. 
+project NETWORKS, pert, cpm, topological 
+*********************************************************************
+Document:CACM-0796
+
+modification IN general and relative ADDRESSING 
+sabrag, a time-sharing low-cost computer 
+the serial sabrac computer designed and built 
+*********************************************************************
+Document:CACM-1680
+
+retrieval OPERATING SYSTEMS, graphics, displays, man-machine 
+display unit under OPERATING system/360. adept 
+is a cataloged program that controls the standard OPERATING 
+automatically, relinquishing computer RESOURCES allocated 
+*********************************************************************
+Document:CACM-1261
+
+modeling and simulation of digital NETWORKS 
+the simulation of digital NETWORKS on a digital 
+digital NETWORK is modeled as a set of time-dependent 
+of a model element comprising the NETWORK mode. the 
+*********************************************************************
+Document:CACM-0828
+
+incompressible flow NETWORK calculations 
+and pressures IN fluid flow NETWORKS is presented. 
+a general method FOR the calculation of flows 
+*********************************************************************
+Document:CACM-2020
+
+the widespread use of complex third generation computing SYSTEMS has led to a 
+much broader concern about the means by which the RESOURCES of these SYSTEMS 
+paper the manner IN which one would like to allocate computing RESOURCES 
+flexibly IN order to make a dynamic allocation of RESOURCES. consideration is 
+*********************************************************************
+Document:CACM-1752
+
+time-sharing, OPERATING SYSTEMS, RESOURCE management, 
+task scheduling and RESOURCE balancing FOR 
+of all the system RESOURCES. simulation results relative 
+RESOURCE management FOR a medium scale time-sharing OPERATING system 
+*********************************************************************
+Document:CACM-2597
+
+monitors, OPERATING SYSTEMS, scheduling, mutual 
+monitors: an OPERATING system structuring concept 
+a monitor as a method of structuring an OPERATING 
+examples include a single RESOURCE scheduler, 
+*********************************************************************
+Document:CACM-2905
+
+hashing, hashing methods, hash coding, direct ADDRESSING, 
+perfect hashing functions: a single 
+probe retrieving method FOR static sets 
+*********************************************************************
+Document:CACM-3040
+
+a constraint NETWORK representation is presented 
+NETWORKS is formulated, which is related to problems 
+NETWORKS, constraint satisfaction, graph coloring, 
+NETWORK consistency, relaxation, scene labeling, search 
+*********************************************************************
+Document:CACM-3158
+
+secure personal computing IN an insecure NETWORK 
+a method FOR implementing secure personal computing IN a NETWORK 
+data to other users on the NETWORK. 
+personal computing, security, privacy, NETWORKS, public-key encryption 
+*********************************************************************
+Document:CACM-3133
+
+logic and semantic NETWORKS 
+an extended form of semantic NETWORK is defined, which can 
+semantic NETWORK is provided with a precise semantics, 
+the other hand, by regarding semantic NETWORKS as an 
+*********************************************************************
+Document:CACM-2320
+
+OPERATING SYSTEMS but also within user programs. 
+OPERATING SYSTEMS, concurrent processes, shared 
+programmer to control scheduling of RESOURCES among 
+structured multiprogramming 
+*********************************************************************
+Document:CACM-1695
+
+simulation, library SYSTEMS, modeling, NETWORK 
+plexus-an on-line system FOR modeling neural NETWORKS 
+a neural NETWORK, to analyze the output data produced 
+NETWORKS are built up from components representing 
+*********************************************************************
+Document:CACM-2060
+
+of variables. (2) assignment and indirect ADDRESSING are formalized 
+gedanken-a simple typeless language based on the 
+principle of completeness and the reference concept 
+*********************************************************************
+Document:CACM-2515
+
+minimal event-node NETWORK of project precedence relations 
+NETWORK to represent a set of precedence 
+and g. l. nemhauser (1968) produces event-node NETWORKS 
+NETWORK, project, event-node NETWORK, activity-node 
+*********************************************************************
+Document:CACM-2969
+
+optimal program and data locations IN computer NETWORKS 
+of program and data files IN a computer NETWORK 
+occur IN real heterogeneous computer NETWORKS. insights 
+computer NETWORKS, databases, distributed 
+*********************************************************************
+Document:CACM-2080
+
+that can be extended with a hierarchy of OPERATING SYSTEMS to suit diverse 
+multiprogramming, OPERATING SYSTEMS, parallel processes, process concept, 
+requirements of program scheduling and RESOURCE allocation. the system 
+the nucleus of a multiprogramming system 
+*********************************************************************
+Document:CACM-3127
+
+portability, real time, OPERATING SYSTEMS, minicomputer 
+thoth, a portable real-time OPERATING system 
+thoth isa real-time OPERATING system which is designed to be portable 
+encourages structuring programs as NETWORKS of communicating processes 
+*********************************************************************
+Document:CACM-2379
+
+OPERATING SYSTEMS, system design, levels of abstraction, 
+the design of the venus OPERATING system 
+the venus OPERATING system is an experimental 
+to define the OPERATING system as simply as possible. 
+*********************************************************************
+Document:CACM-1938
+
+time-sharing SYSTEMS, as defined IN this article, 
+are those multiaccess SYSTEMS which permit 
+a terminal user to utilize essentially the full RESOURCES 
+to utilize the full RESOURCES of the system that 
+*********************************************************************
+Document:CACM-2219
+
+OPERATING system can be characterized 
+by a RESOURCE count sum{w[i]r[ij]} where r[ij] is the 
+i from RESOURCE i and w[i] is the cost per unit of the 
+algorithm which keeps the RESOURCE count of each process 
+*********************************************************************
+Document:CACM-3068
+
+a model FOR verification of data security IN OPERATING SYSTEMS 
+here IN terms of a general model FOR OPERATING SYSTEMS. 
+OPERATING SYSTEMS, security, protection, program verification 
+uncircumventably secure, shared computer SYSTEMS. a 
+*********************************************************************
+Document:CACM-2033
+
+hash coding, hash ADDRESSING, scatter storage, searching, storage 
+space/time trade-offs IN hash coding with allowable errors 
+IN this paper trade-offs among certain computational factors 
+*********************************************************************
+Document:CACM-2712
+
+horner's rule FOR the evaluation of general closed queueing NETWORKS 
+the solution of separable closed queueing NETWORKS 
+grows combinatorially with the size of the NETWORK 
+queueing NETWORKS, queueing theory horner's rule, 
+*********************************************************************
+Document:CACM-0441
+
+topological sorting of large NETWORKS 
+FOR many problems involving analysis of NETWORKS. 
+topological order. it permits treatment of larger NETWORKS 
+is discussed IN terms of the 7090. a pert NETWORK of 
+*********************************************************************
+Document:CACM-2632
+
+hydra: the kernel of a multiprocessor OPERATING system 
+hydra-the kernel of an OPERATING system FOR c.mmp, 
+generalized notion of "RESOURCE", both physical and virtual, 
+of highly secure SYSTEMS. 
+*********************************************************************
+Document:CACM-2297
+
+paging machines, demand paging, OPERATING SYSTEMS 
+FOR main memory RESOURCES IN a multiprogrammed 
+computer system OPERATING under demand paging. IN 
+a model of memory contention IN a paging machine 
+*********************************************************************
+Document:CACM-3092
+
+much of the total RESOURCES of SYSTEMS and programming 
+SYSTEMS and programming RESOURCES consumed range 
+characteristics of application software maintenance 
+*********************************************************************
+Document:CACM-2578
+
+self-stabilizing SYSTEMS IN spite of distributed control 
+multiprocessing, NETWORKS, self-stabilization, synchronization, 
+cacm november, 1974 
+*********************************************************************
+Document:CACM-1735
+
+with monthly time allocation SCHEMES. 
+computer scheduling, auction, time allocation, OPERATING efficiency 
+a futures market IN computer time 
+*********************************************************************
+Document:CACM-3072
+
+feedback coupled RESOURCE allocation policies 
+scheduling SYSTEMS FOR multiprogrammed- multiprocessor 
+computer SYSTEMS are presented. the basic control variables 
+executing on the cpu. the model SYSTEMS feature simulated 
+*********************************************************************
+Document:CACM-2988
+
+of IN teractive computer SYSTEMS which use nonpaged memories. 
+IN queueing NETWORK models of computer SYSTEMS. 
+NETWORK models, IN teractive computer SYSTEMS 
+memory management and response time 
+*********************************************************************
+Document:CACM-2849
+
+ethernet: distributed packet switching FOR local computer NETWORKS 
+used to build SYSTEMS which can be viewed as either local 
+computer NETWORKS or loosely coupled multiprocessors. 
+with an OPERATING ethernet of 100 nodes along a 
+*********************************************************************
+Document:CACM-1591
+
+into an OPERATING system of a large computer 
+OPERATING system to execute functions other than 
+written to run under the OPERATING system (ibsys) FOR 
+full RESOURCES of the OPERATING system (language processors, 
+*********************************************************************
+Document:CACM-1846
+
+on simulating NETWORKS of parallel processes 
+event SYSTEMS, particularly computer SYSTEMS, on 
+SYSTEMS are assumed to be described as a NETWORK 
+IN which simultaneous events may occur 
+*********************************************************************
+Document:CACM-2128
+
+application to more general RESOURCE allocation problems. it is implemented 
+time sharing, RESOURCE allocation, scheduling algorithms, 
+slicing, scheduling, conversational SYSTEMS, 
+interactive SYSTEMS 
+*********************************************************************
+Document:CACM-2111
+
+to compilers and OPERATING SYSTEMS. these include the use of syntax 
+OPERATING SYSTEMS, diagnostics, error detection, 
+spelling correction IN SYSTEMS programs 
+is presented. by using SYSTEMS which perform spelling correction, 
+*********************************************************************
+Document:CACM-1728
+
+OPERATING SYSTEMS, supervisor simulation, machine 
+directed at the measurement of program OPERATING 
+behavior IN those multiprogramming SYSTEMS IN which 
+paging SYSTEMS, paging, dynamic program behavior, program 
+*********************************************************************
+Document:CACM-2900
+
+of finding the optimal set of NETWORK sites at 
+file allocation, computer NETWORKS, distributed data management 
+some theorems to aid IN solving the file allocation problem 
+*********************************************************************
+Document:CACM-1751
+
+multiprogramming, OPERATING SYSTEMS, program 
+of a general treatment of RESOURCE allocation 
+IN modern computer SYSTEMS is an adequate model FOR 
+are defined; and RESOURCE allocation is formulated 
+*********************************************************************
+Document:CACM-2317
+
+languages, OPERATING SYSTEMS, programming 
+programming SYSTEMS and languages 1965-1975 
+IN the OPERATING system area all major computer 
+SYSTEMS, and they all ran into similar 
+*********************************************************************
+Document:CACM-3076
+
+NETWORKS, NETWORK reliability, security, social values 
+SYSTEMS which automate the transfer and recording 
+a large scale. these SYSTEMS promise both financial 
+SYSTEMS FOR electronic funds transfer (eft) are not 
+*********************************************************************
+Document:CACM-2867
+
+modularization and hierarchy IN a family of OPERATING SYSTEMS 
+used IN the construction of a family of OPERATING 
+SYSTEMS. it is shown that the concepts of module and 
+*********************************************************************
+Document:CACM-2840
+
+protection IN OPERATING SYSTEMS 
+SYSTEMS is presented and its appropriateness 
+is argued. the "safety" problem FOR protection SYSTEMS 
+protection, protection system, OPERATING 
+*********************************************************************
+Document:CACM-1505
+
+a system organization FOR RESOURCE allocation 
+this paper introduces a system FOR RESOURCE management 
+to be followed FOR RESOURCE allocation. however, a basic 
+can express solutions to RESOURCE management problems. 
+*********************************************************************
+Document:CACM-2485
+
+managing the computer RESOURCE: a stage hypothesis 
+computer RESOURCE will change IN character over a period 
+is described and related to individual tasks FOR managing the computer RESOURCE. 
+control, computer RESOURCE 
+*********************************************************************
+Document:CACM-2274
+
+generating english discourse from semantic NETWORKS 
+by the system is IN the form of a NETWORK that imposes 
+NETWORK to select appropriate generation paths through 
+*********************************************************************
+Document:CACM-3038
+
+using encryption FOR authentication IN large NETWORKS of computers 
+communication IN computer NETWORKS is discussed. 
+encryption, security, authentication, NETWORKS, protocols, 
+*********************************************************************
+Document:CACM-1461
+
+discussion summary on OPERATING SYSTEMS 
+cacm march, 1966 
+ca660311 jb march 3, 1978 1:26 pm 
+*********************************************************************
+Document:CACM-1247
+
+an OPERATING environment FOR dynamic-recursive 
+computer programming SYSTEMS 
+system which can serve as an OPERATING environment FOR 
+SYSTEMS. the available services include dynamic allocation 
+*********************************************************************
+Document:CACM-1750
+
+multiprogrammed OPERATING SYSTEMS, multiprocessor 
+OPERATING SYSTEMS, control data corporation 6600, OPERATING system with ecs 
+multiple computer SYSTEMS, extended core storage, 
+considerations IN the design of a multiple 
+*********************************************************************

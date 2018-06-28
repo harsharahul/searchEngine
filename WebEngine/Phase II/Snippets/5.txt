@@ -1,0 +1,656 @@
+Query:id like papers on design and implementation of editing interfaces window-managers command interpreters etc  the essential issues are human interface design with views on improvements to user efficiency effectiveness and satisfaction
+
+Document:CACM-2035
+
+layering, linc, man-machine communication, on-line EDITING, on-line EFFICIENCY, 
+facilities for text EDITING, automatic filing AND file maintenance, AND 
+program preparation AND assembly. it focuses ON THE preparation AND EDITING 
+can be positioned anywhere by THE USER AND edited by simply adding 
+*********************************************************************
+Document:CACM-2003
+
+DESIGN: an application TO circuit project 
+an INTERFACE between designer AND computer during various steps OF 
+THE DESIGN process, ARE presented. THE main emphasis is given TO THE 
+description OF THE features OF THE two high level USER oriented 
+*********************************************************************
+Document:CACM-1829
+
+from THE HUMAN USER. it also will respond TO commands 
+THE HUMAN AND program can interact ON a symmetrical 
+OF THE monitor program AND THE HUMAN AND program INTERFACES 
+from a USER program through a similar INTERFACE, 
+*********************************************************************
+Document:CACM-1698
+
+system DESIGN, input-output DESIGN 
+consoles. using THE model we answer questions LIKE: 
+DESIGN. 
+USER, but rather easy TO characterize THE entire USER community. 
+*********************************************************************
+Document:CACM-1742
+
+ON THE DESIGN OF display processors 
+as it was found that successive IMPROVEMENTS TO 
+THE display processor DESIGN lie ON a circular path, by 
+making IMPROVEMENTS one can return TO THE original 
+*********************************************************************
+Document:CACM-2321
+
+ON THE INTERFACE between computers AND data communications systems 
+DESIGN optimization problems that require reconsideration 
+OF THE respective subsystems. several "standard" INTERFACES, 
+be required. when specifying these INTERFACES, 
+*********************************************************************
+Document:CACM-2145
+
+wiring DESIGN OF printed circuit boards. help 
+helps automate a DESIGN stage one step closer TO production 
+one is THE heuristic method, which simulates HUMAN 
+approaches TO wiring DESIGN, AND THE other is THE 
+*********************************************************************
+Document:CACM-1960
+
+THE main DESIGN principles OF THE multiaccess system esope ARE described. 
+emphasis is placed ON basic ideas underlying THE DESIGN rather 
+than ON IMPLEMENTATION details. THE main features OF THE system 
+include THE ability given TO any USER TO schedule his own parallel 
+*********************************************************************
+Document:CACM-2299
+
+DESIGN AND IMPLEMENTATION OF a text editor. a versatile 
+a DESIGN philosophy for developing a sophisticated 
+in terms OF a few basic EDITING function. 
+COMMAND processing, context searching, executive 
+*********************************************************************
+Document:CACM-1435
+
+THE four experimental DESIGN problems ARE: (1) THE 
+DESIGN OF computer simulation experiments for industrial systems 
+THE paper treats four specific experimental DESIGN 
+DESIGN techniques which may be applicable TO THE DESIGN 
+*********************************************************************
+Document:CACM-3147
+
+a model for automating file AND program DESIGN in business application systems 
+this paper discusses a model for finding an efficient IMPLEMENTATION OF a 
+d is simple enough TO be adapted TO many file DESIGN situations. 
+system DESIGN, automatic programming, search 
+*********************************************************************
+Document:CACM-2629
+
+file system AND OF THE USER COMMAND INTERFACE. 
+initiate asynchronous processes; (4) system COMMAND 
+paper discusses THE nature AND IMPLEMENTATION OF THE 
+time-sharing, operating system, file system, COMMAND language, pdp-11 
+*********************************************************************
+Document:CACM-2786
+
+this paper describes THE DESIGN AND IMPLEMENTATION 
+INTERFACES directly WITH text formatting programs, so 
+a system for typesetting mathematics 
+*********************************************************************
+Document:CACM-2357
+
+described, including DESIGN criteria, IMPLEMENTATION, 
+software IMPLEMENTATION, although basically simple, 
+man-year for DESIGN AND checkout, AND $16,000 for parts 
+cost, overhead, AND USER reactions. 
+*********************************************************************
+Document:CACM-2542
+
+DESIGN AND IMPLEMENTATION methodology is that 
+WITH DESIGN AND IMPLEMENTATION is described. 
+a software DESIGN AND evaluation system 
+THE performance OF a proposed DESIGN is not evaluated 
+*********************************************************************
+Document:CACM-2105
+
+computer interpretation OF a flowchart. THE USER draws a description OF a 
+scale computer. THE DESIGN is simulated, AND a graphic representation OF THE 
+processed signal is returned TO THE scope. a successful DESIGN may require 
+numerous modifications OF THE original DESIGN. a graphical interactive system 
+*********************************************************************
+Document:CACM-3137
+
+a methodology for THE DESIGN OF distributed information systems 
+various DESIGN AND operating parameters ON overall cost per transaction. 
+THE technique is illustrated by application TO THE DESIGN 
+distributed processing, system DESIGN, cost minimization, distributed 
+*********************************************************************
+Document:CACM-1188
+
+an algol-like computer DESIGN language 
+THE idea OF constructing a computer DESIGN 
+from using a DESIGN language at a higher level 
+just as a computer USER can benefit from a higher level 
+*********************************************************************
+Document:CACM-1764
+
+DESIGN experiments, AND computer appreciation. its second 
+bohn, who had presented PAPERS in THE first 
+THE panelists. some remarks referred TO PAPERS by van 
+half OF THE session. pertinent PAPERS ARE included in THE references. 
+*********************************************************************
+Document:CACM-3102
+
+THE ISSUES OF how a programming language might 
+sec, ETC.) ARE discussed. a method is given for THE 
+units, language DESIGN, compiler construction, language syntax 
+incorporation OF units into programming languages 
+*********************************************************************
+Document:CACM-1699
+
+in their DESIGN, were conducted at THE moore school information 
+EFFECTIVENESS OF actual retrieval. three experiments 
+COMMAND language, symbolic COMMAND language, 
+interactive systems, USER learning factors, on-line searching 
+*********************************************************************
+Document:CACM-2957
+
+important in database DESIGN. a top-down 
+methodology for database DESIGN is described which separates 
+IMPLEMENTATION detail, should be incorporated 
+aggregation, database DESIGN, data structure, 
+*********************************************************************
+Document:CACM-0251
+
+ballistic cam DESIGN 
+ESSENTIAL TO THE DESIGN OF preproduction cams which 
+this paper presents a digital computer program 
+*********************************************************************
+Document:CACM-2860
+
+DESIGN OF record addressing algorithms, AND discusses 
+OF DESIGN parameters ON overall system costs. a 
+specific DESIGN example is presented AND solved. 
+loading factor, bucket size, heuristic DESIGN, rules OF thumb 
+*********************************************************************
+Document:CACM-1392
+
+various facets OF THE DESIGN AND IMPLEMENTATION 
+experience WITH formac algorithm DESIGN 
+THE formac IMPLEMENTATION ARE presented, an attempt 
+in THE DESIGN OF algorithms for manipulating 
+*********************************************************************
+Document:CACM-1409
+
+THE DESIGN objectives as originally conceived 
+in computer DESIGN; (2) TO be usable as an educational 
+basic research in computer systems DESIGN. an 
+memory allows a simple INTERFACE WITH THE 340 kc 
+*********************************************************************
+Document:CACM-2812
+
+computer-aided analysis AND DESIGN OF information systems 
+analysis for THE DESIGN AND development OF an 
+COMMAND support activity (nmcsa). computer-aided 
+OF applications software DESIGN, computer selection 
+*********************************************************************
+Document:CACM-3050
+
+systems DESIGN education: a gaming approach 
+jobs, ETC.). THE player OF THE game receives 
+system DESIGN, configuration, management game 
+*********************************************************************
+Document:CACM-2738
+
+DESIGN OF hierarchically structured systems 
+this paper deals WITH THE DESIGN OF hierarchically 
+hierarchical systems, bottom up DESIGN, levels 
+use OF THE concept OF transparency in THE 
+*********************************************************************
+Document:CACM-2379
+
+THE DESIGN OF THE venus operating system 
+described, WITH particular emphasis ON THE principles which guided THE DESIGN. 
+operating systems, system DESIGN, levels OF abstraction, 
+*********************************************************************
+Document:CACM-2522
+
+THE DESIGN, IMPLEMENTATION, AND evaluation OF a working set dispatcher 
+announced. this report discusses THE DESIGN AND 
+IMPLEMENTATION OF a dispatcher based ON THE working set 
+*********************************************************************
+Document:CACM-2188
+
+an approach TO THE optimum DESIGN OF computer graphics systems 
+here develops an objective, quantitative DESIGN procedure 
+DESIGN guidelines. 
+DESIGN guidelines, graphic display systems, mathematical 
+*********************************************************************
+Document:CACM-1750
+
+considerations in THE DESIGN OF a multiple 
+is discussed. THE general DESIGN 
+generalization OF such a DESIGN, special emphasis is 
+computer system WITH extended core storage 
+*********************************************************************
+Document:CACM-2138
+
+systems, ETC. prime DESIGN goals OF THE DESIGN ARE THE 
+specific machine (THE pdp-10): compilers, operating 
+programming languages, IMPLEMENTATION language, 
+bliss: a language for systems programming 
+*********************************************************************
+Document:CACM-2067
+
+multilevel logic DESIGN, generalized prime implicants, 
+comment ON lawler's multilevel boolean minimization 
+cacm april, 1970 
+*********************************************************************
+Document:CACM-2469
+
+petri nets AND speed independent DESIGN 
+by THE DESIGN OF a speed independent processor 
+from modules developed in THE investigation OF petri net IMPLEMENTATION. 
+*********************************************************************
+Document:CACM-1159
+
+diminished by current trends in computer DESIGN, AND 
+DESIGN rather than any foreseeable software developments 
+machine independence: its technology AND economics 
+*********************************************************************
+Document:CACM-1200
+
+a computer DESIGN is describe which permits 
+ON reversible subroutines AND computers that run backwards 
+subroutines TO be executed backward as well as 
+*********************************************************************
+Document:CACM-1671
+
+THE DESIGN AND IMPLEMENTATION OF a system TO 
+permits THE USER TO define, on-line, sets OF rules 
+TO THE USER after each COMMAND is executed. 
+a phonological rule tester 
+*********************************************************************
+Document:CACM-2078
+
+DESIGN, engineering DESIGN, architectural DESIGN, robots 
+automated DESIGN, data structures, computer graphics, computer-aided 
+representations for space planning 
+*********************************************************************
+Document:CACM-0799
+
+DESIGN OF a separable transition-diagram compiler* 
+a cobol compiler DESIGN is presented which is 
+compact enough TO permit rapid, one-pass compilation 
+*********************************************************************
+Document:CACM-1937
+
+AND THE general system DESIGN ARE described. 
+COMMAND languages, report program generation, 
+THE COMMAND language OF THE system provides THE USER 
+codas: a data display system 
+*********************************************************************
+Document:CACM-2322
+
+devices AND incidentally for THE DESIGN 
+computer DESIGN, computer organization 
+a view OF computer architecture 
+*********************************************************************
+Document:CACM-2820
+
+THE DESIGN AND IMPLEMENTATION OF a table driven, 
+for IMPLEMENTATION AND TO increase THE flexibility 
+error correction, INTERPRETERS, debugging, computer 
+interactive diagnostic programming system 
+*********************************************************************
+Document:CACM-2753
+
+a heuristic problem solving DESIGN system 
+that THE computer can perform simple DESIGN 
+simple, well defined, AND characteristic OF many DESIGN 
+metric constraints TO be tested AND THE DESIGN TO 
+*********************************************************************
+Document:CACM-1534
+
+THE DESIGN AND IMPLEMENTATION OF THE c. 
+made OF THE validity OF various DESIGN decisions. performance 
+dad, THE c. operating system 
+*********************************************************************
+Document:CACM-2841
+
+DESIGN OF free-form surfaces in three dimensions 
+OF THE system ARE: (1) THE surfaces ARE rendered as isoparametric 
+knowledge OF them by THE USER OF THE system. also 
+real-time graphics, computer-aided DESIGN, 
+*********************************************************************
+Document:CACM-3174
+
+this paper describes THE history OF THE DESIGN OF THE password 
+THE present DESIGN was THE result OF countering observed attempts 
+password security: a case history 
+*********************************************************************
+Document:CACM-2502
+
+sciences curriculum, systems DESIGN 
+a comment ON THE practical aspects OF computer science education 
+cacm may, 1973 
+*********************************************************************
+Document:CACM-1460
+
+OF meta-assemblers ON compiler DESIGN is 
+evolution OF THE meta-assembly program 
+a generalized assembler called a "meta-assembler" 
+*********************************************************************
+Document:CACM-1923
+
+an approach TO system INTERFACES for high 
+facilities such as COMMAND language processors. 
+operating systems, INTERFACES input-output, 
+high level languages, COMMAND language 
+*********************************************************************
+Document:CACM-2873
+
+aspects OF its IMPLEMENTATION. THE language allows 
+OF using this language TO DESIGN other 
+USER oriented languages. lg has been specifically designed 
+computer graphics, INTERPRETERS, analytic 
+*********************************************************************
+Document:CACM-2647
+
+languages, philosophy OF language DESIGN 
+more ON algorithms that reveal properties 
+OF floating point arithmetic units 
+*********************************************************************
+Document:CACM-1978
+
+insight AND visual capabilities OF THE HUMAN problem solver. several 
+area is that THE INTERFACE WITH a USER can be greatly simplified. 
+systems AND DESIGN considerations for interactive routines. furthermore, 
+an IMPLEMENTATION OF an on-line least squares data-fitting 
+*********************************************************************
+Document:CACM-2380
+
+it describes how THE tenex DESIGN AND IMPLEMENTATION 
+system structure. although THE IMPLEMENTATION 
+tenex, a paged time sharing system for THE pdp-10 
+*********************************************************************
+Document:CACM-1395
+
+ON THE IMPLEMENTATION OF ambit, a language for symbol manipulation 
+a brief description is given OF THE IMPLEMENTATION 
+for THE DESIGN OF THE ambit language. 
+*********************************************************************
+Document:CACM-2169
+
+EFFICIENCY. considerable effort has been spent TO ensure 
+IMPLEMENTATION, thus permitting THE system TO be installed 
+run time data structures, AND IMPLEMENTATION 
+polynomial manipulation, INTERPRETERS, translators 
+*********************************************************************
+Document:CACM-2534
+
+DESIGN AND IMPLEMENTATION OF a diagnostic compiler for pl/i 
+DESIGN objective was TO provide a maximum degree 
+AND execution, AND THE DESIGN OF pl/c is dominated by 
+*********************************************************************
+Document:CACM-2572
+
+DESIGN AND desirability OF computerized community information 
+group OF ultimate users in systems DESIGN, 
+favor OF its widespread IMPLEMENTATION. 
+arguments for a moratorium ON THE construction 
+*********************************************************************
+Document:CACM-2314
+
+TO THE DESIGN OF advanced programming systems for 
+entry, testing, debugging, EDITING, optimization, 
+AND packaging. IMPLEMENTATION OF a generalized environment 
+list processing, programming languages, DESIGN OF 
+*********************************************************************
+Document:CACM-2451
+
+DESIGN OF tree structures for efficient querying 
+poses an optimization problem in THE DESIGN OF 
+OF such a model this paper considers THE DESIGN OF 
+same algorithm can be used TO DESIGN either an ideal 
+*********************************************************************
+Document:CACM-3012
+
+data ON USER reactions were gathe red from a questionnaire. 
+OF THE study for THE DESIGN OF similar systems ARE discussed. 
+IMPLEMENTATION, system use, information storage AND retrieval system 
+THE use OF an interactive information storage 
+*********************************************************************
+Document:CACM-2541
+
+an overview OF THE ispl computer system DESIGN 
+DESIGN OF THE language, operating system, 
+DESIGN OF this system (which has not been implemented). 
+concurrent DESIGN, operating-system, scheduling, 
+*********************************************************************
+Document:CACM-2230
+
+architecture DESIGN, urban planning, logical AND block 
+diagram representation. THE DESIGN criteria, 
+architecture DESIGN, urban planning 
+a language for treating geometric patterns in a two-dimensional space 
+*********************************************************************
+Document:CACM-2868
+
+reflections ON an operating system DESIGN 
+features OF THE DESIGN were THE use OF capabilities 
+THE main features OF a general purpose multiaccess 
+*********************************************************************
+Document:CACM-2295
+
+algol, semantics, recursive composition, DESIGN 
+comment ON THE composition OF semantics in algol 68 
+cacm august, 1972 
+*********************************************************************
+Document:CACM-1101
+
+THE place OF logical DESIGN AND switching 
+theory in THE computer curriculum 
+cacm april, 1964 
+*********************************************************************
+Document:CACM-1502
+
+an online, interactive system for test EDITING 
+maximum convenience AND power for THE USER. notable 
+EDITING operations. THE editor 
+an online editor 
+*********************************************************************
+Document:CACM-2718
+
+a preliminary system for THE DESIGN OF dbtg data structures 
+THE functional approach TO database DESIGN is 
+introduced. in this approach THE goal OF DESIGN 
+which utilizers THE functional approach TO DESIGN data 
+*********************************************************************
+Document:CACM-1747
+
+computer DESIGN, computer DESIGN criteria, computer 
+imply that a USER can, if he desires, either 
+systems, computer systems DESIGN, input equipment, 
+input equipment DESIGN, operating systems, operating 
+*********************************************************************
+Document:CACM-1053
+
+DESIGN AND IMPLEMENTATION OF a general-purpose input routine 
+a general-purpose input routine is discussed 
+AND advocated for fortran. THE philosophy OF 
+*********************************************************************
+Document:CACM-2267
+
+languages, philosophy OF language DESIGN 
+algorithms TO reveal properties OF floating-point arithmetic 
+two algorithms ARE presented in THE form OF 
+*********************************************************************
+Document:CACM-1252
+
+AND an approach towards automatic system DESIGN 
+AND time-consuming part OF system DESIGN AND programming 
+is described AND suggestions ARE made for THE IMPLEMENTATION OF THE larger goal. 
+symbolic notations for statistical tables 
+*********************************************************************
+Document:CACM-2771
+
+computational geometry, computer-aided DESIGN, 
+THE synthesis OF solids bounded by many faces 
+a technique is presented which allows a class 
+*********************************************************************
+Document:CACM-2407
+
+AND a problems OF IMPLEMENTATION ARE discussed. 
+system DESIGN, systems analysis 
+curriculum recommendations for undergraduate 
+programs in information systems 
+*********************************************************************
+Document:CACM-2358
+
+privilege. here, THE DESIGN AND IMPLEMENTATION 
+THE multics virtual memory: concepts AND DESIGN 
+multics provides direct hardware addressing by USER AND 
+*********************************************************************
+Document:CACM-2887
+
+DESIGN, AND lack OF research. THE types 
+potential EFFECTIVENESS for software based correction 
+inducing DESIGN. 80 percent OF cobol misspellings were classifiable 
+for THE learning USER OF cobol. 
+*********************************************************************
+Document:CACM-3028
+
+in 30 years OF computer DESIGN at manchester university 
+DESIGN concepts such as address-generation AND store 
+THE manchester mark i AND atlas: a his torical perspective 
+*********************************************************************
+Document:CACM-0173
+
+atlas a new concept in large computer DESIGN 
+cacm june, 1960 
+ca600617 jb march 20, 1978 9:22 pm 
+*********************************************************************
+Document:CACM-2148
+
+its orthogonal DESIGN. 
+algol, semantics, recursive composition, DESIGN 
+THE composition OF semantics in algol 68 
+*********************************************************************
+Document:CACM-1835
+
+ARE included. a discussion OF DESIGN principles 
+systems, language DESIGN, high school programs, 
+THE iitran programming language 
+*********************************************************************
+Document:CACM-3146
+
+students can acquire ESSENTIAL skills OF software engineering, 
+such as team work, software project management, software DESIGN 
+an academic program providing realistic training in software engineering 
+*********************************************************************
+Document:CACM-2277
+
+finally, a description OF THE hardware DESIGN for IMPLEMENTATION 
+a hardware IMPLEMENTATION ON THE maniac ii computer 
+demand paging through utilization OF working sets ON THE maniac ii 
+*********************************************************************
+Document:CACM-1901
+
+program behavior, AND processor EFFICIENCY 
+behavior, multiprogramming, computer system DESIGN, allocation 
+dynamic space-sharing in computer systems 
+*********************************************************************
+Document:CACM-2626
+
+THE DESIGN OF mechanisms TO control THE sharing 
+five DESIGN principles help provide insight into THE 
+OF several known weaknesses in THE current protection mechanism DESIGN. 
+protection AND THE control OF information sharing in multics 
+*********************************************************************
+Document:CACM-2867
+
+this paper describes THE DESIGN philosophy 
+OF THE IMPLEMENTATION OF run-time modules at THE 
+incremental machine DESIGN, module, 
+modularization AND hierarchy in a family OF operating systems 
+*********************************************************************
+Document:CACM-0606
+
+TO signal coincidence in digital DESIGN 
+a method for eliminating ambiguity due 
+cacm april, 1962 
+*********************************************************************
+Document:CACM-2106
+
+DESIGN AND evaluation OF management information systems requires 
+spurious ISSUES as possible; (2) allow, without undue effort, THE 
+outstanding ISSUES OF significance, capable OF exposing all outstanding 
+ISSUES OF significance, within THE chosen machine; (4) be 
+*********************************************************************
+Document:CACM-2288
+
+set. its existence enables THE DESIGN OF an information 
+file organization: THE consecutive retrieval property 
+THE consecutive retrieval property is an important 
+*********************************************************************
+Document:CACM-2849
+
+using packet address recognition. DESIGN principles 
+AND IMPLEMENTATION ARE described, based ON experience 
+ethernet: distributed packet switching for local computer networks 
+*********************************************************************
+Document:CACM-1629
+
+THE major DESIGN criteria OF ease OF use, ease OF modification, 
+stat-pack: a biostatistical programming package 
+a package OF fortran statistical programs for use 
+*********************************************************************
+Document:CACM-3030
+
+an example OF hierarchical DESIGN AND proof 
+program specification, IMPLEMENTATION, AND proof. we 
+program DESIGN AND proof. 
+*********************************************************************
+Document:CACM-2802
+
+methodology for systematic program DESIGN 
+THE new math OF computer programming 
+structured programming has proved TO be an important 
+*********************************************************************
+Document:CACM-2978
+
+analysis OF DESIGN alternatives for virtual memory indexes 
+memory environment is described. DESIGN alternatives 
+costs for possible combinations OF DESIGN alternatives 
+DESIGN alternatives ARE also included. 
+*********************************************************************
+Document:CACM-1484
+
+before THE DESIGN OF a system is started, THE 
+AND automatic DESIGN OF THE system described, in 
+a language for describing THE functions OF synchronous systems* 
+*********************************************************************
+Document:CACM-2652
+
+DESIGN OF programming languages, language contraction, 
+compiler DESIGN, compilation cost, algol 
+reduction OF compilation costs through language contraction 
+*********************************************************************
+Document:CACM-2329
+
+science curriculum, systems DESIGN 
+computer science-a vicious circle 
+cacm june, 1972 
+*********************************************************************
+Document:CACM-1810
+
+mechanism OF simple DESIGN, a demand paging unit 
+INTERFACE WITH a very large speed difference. THE disadvantages 
+is automatic "folding" OF programs efficient enough TO displace manual? 
+*********************************************************************
+Document:CACM-1571
+
+will be possible in THE system DESIGN through 
+determination OF INTERFACE parameters between THE 
+a user-oriented time-shared online system 
+*********************************************************************
+Document:CACM-1238
+
+SATISFACTION OF THE reporting requirement 
+in system DESIGN, particularly THE handling OF 
+a technique for integrated reports from a multi-run system 
+*********************************************************************
